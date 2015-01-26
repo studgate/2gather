@@ -1,0 +1,3444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 9:53:44 AM</TimeResponseSent>
+  <TimeElapsed>0.5772</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>40622</TotalCount>
+  <FirstItemIndex>1</FirstItemIndex>
+  <LastItemIndex>100</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>CARE CONNECT HOMECARE SERVICES</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7MC6CFXB7CZRVDHY</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>HOME CARERS REQUIRED . FULL/PART HOURS avail Bury/Radcliffe area, to care for the elderly in the community, £6.61 - £7.00 ph, full training given,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7MC6CFXB7CZRVDHY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7MC6CFXB7CZRVDHY&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bury</Location>
+      <DisplayCity>Bury</DisplayCity>
+      <City>Bury</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.60326</LocationLatitude>
+      <LocationLongitude>-2.31127</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:42:47 AM</PostedTime>
+      <Pay>£6.61 - £7.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7MC6CFXB7CZRVDHY</SimilarJobsURL>
+      <JobTitle>CARERS</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>NoOnlineApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Complete Care</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3TV6CXM6CQ99T8ZD</DID>
+      <OnetCode>31-9099.00</OnetCode>
+      <ONetFriendlyTitle>Healthcare Support Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Support workers required Complete Care NW, are looking to recruit enthusiastic and reliable staff to join the current team. The right candidates will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F3TV6CXM6CQ99T8ZD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3TV6CXM6CQ99T8ZD&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bury</Location>
+      <DisplayCity>Bury</DisplayCity>
+      <City>Bury</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.59792</LocationLatitude>
+      <LocationLongitude>-2.28856</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:42:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3TV6CXM6CQ99T8ZD</SimilarJobsURL>
+      <JobTitle>Support Workers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cornhill Kindergarten Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7NR6LZNX693LJ0PN</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Qualified Early Years Teacher/EYP or Nursery Nurse to join our warm, friendly 'Outstanding Graded' Private Day Nursery in South Manchester. You will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7NR6LZNX693LJ0PN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7NR6LZNX693LJ0PN&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Urmston</Location>
+      <DisplayCity>Urmston</DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4548</LocationLatitude>
+      <LocationLongitude>-2.36439</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:40:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7NR6LZNX693LJ0PN</SimilarJobsURL>
+      <JobTitle>Qualified Early Years Teacher</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Meridian Business Support</Company>
+      <CompanyDID>cht6ht69crtkhf5vc42</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/cht6ht69crtkhf5vc42/meridian-business-support/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5ZW73BVRY3X0L1KK</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is currently looking for part or fully qualified accountant to assist with the financial management of their growing independent business....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F5ZW73BVRY3X0L1KK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5ZW73BVRY3X0L1KK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Horncastle</Location>
+      <DisplayCity>Horncastle</DisplayCity>
+      <City>Horncastle</City>
+      <State>LINCOLNSHIRE</State>
+      <LocationLatitude>53.20872</LocationLatitude>
+      <LocationLongitude>-0.11471</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:40:04 AM</PostedTime>
+      <Pay>£22k - £29k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5ZW73BVRY3X0L1KK</SimilarJobsURL>
+      <JobTitle>Company Accountant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/z6/m0w36f751k57jzv7mz6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Networx</Company>
+      <CompanyDID>c8h8h165hwfz8zp3l0g</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8h8h165hwfz8zp3l0g/networx/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ7ZW7085V8N0C60YS</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Neighbourhood Officer £29,706.00 Hertfordshire Estate Management, Tenancy Liaison, Social Housing, Public Sector, Anti-Social Behaviour, ASB Our...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHQ7ZW7085V8N0C60YS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ7ZW7085V8N0C60YS&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hertfordshire</Location>
+      <DisplayCity></DisplayCity>
+      <City>County Wide</City>
+      <State>HERTFORDSHIRE</State>
+      <LocationLatitude>0.0</LocationLatitude>
+      <LocationLongitude>0.0</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:39:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ7ZW7085V8N0C60YS</SimilarJobsURL>
+      <JobTitle>Neighbourhood Officer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GJ/MSL35G61T8V6D415CGJ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Metropolitan Borough Of Wirral</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K51H6XYK0888W8L3C</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Greenbank Drive, Pensby, Wirral CH61 5UE Tel: 0151 342 6741 - Email: Required from February 2015 FOUR MIDDAY ASSISTANTS (Band B £2,667), Part Time 7....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-time</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K51H6XYK0888W8L3C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K51H6XYK0888W8L3C&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Birkenhead</Location>
+      <DisplayCity>Birkenhead</DisplayCity>
+      <City>Birkenhead</City>
+      <State>MERSEYSIDE</State>
+      <LocationLatitude>53.39381</LocationLatitude>
+      <LocationLongitude>-3.03371</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:39:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K51H6XYK0888W8L3C</SimilarJobsURL>
+      <JobTitle>MIDDAY ASSISTANTS</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Law</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G43Y6V88QGF4YWG93</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Manager, Bracknell, £28,000 basic, £30,000 OTE REF: M4GB4581BRA Earn up to £30k in your first year alone as a Business...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G43Y6V88QGF4YWG93</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G43Y6V88QGF4YWG93&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bracknell</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bracknell</City>
+      <State>BERKSHIRE</State>
+      <LocationLatitude>51.41804</LocationLatitude>
+      <LocationLongitude>-0.75678</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:39:16 AM</PostedTime>
+      <Pay>£28k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G43Y6V88QGF4YWG93</SimilarJobsURL>
+      <JobTitle>Business Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Lambe Corner and  Co</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1H560JV1F7Q9CXYV</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>LAMBECORNER H E R E F O R D S H I R E ' S S O L I C I T O R S Our busy office requires two new members of staff. 1. Secretary 2. Receptionist We are...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F1H560JV1F7Q9CXYV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1H560JV1F7Q9CXYV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hereford</Location>
+      <DisplayCity>Hereford</DisplayCity>
+      <City>Hereford</City>
+      <State>HEREFORDSHIRE</State>
+      <LocationLatitude>52.0592</LocationLatitude>
+      <LocationLongitude>-2.73176</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:38:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1H560JV1F7Q9CXYV</SimilarJobsURL>
+      <JobTitle>Secretary / Receptionist</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Antrobus Pre School Nursery</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6MJ6GFG6KHZ0VMMT</DID>
+      <OnetCode>45-2092.01</OnetCode>
+      <ONetFriendlyTitle>Nursery Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>ANTROBUS NURSERY We are looking for an experienced and preferably qualified nursery assistant to join our small team in our friendly, rural nursery....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-time</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L6MJ6GFG6KHZ0VMMT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6MJ6GFG6KHZ0VMMT&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Northwich</Location>
+      <DisplayCity>Northwich</DisplayCity>
+      <City>Northwich</City>
+      <State>CHESHIRE</State>
+      <LocationLatitude>53.31212</LocationLatitude>
+      <LocationLongitude>-2.53878</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:38:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6MJ6GFG6KHZ0VMMT</SimilarJobsURL>
+      <JobTitle>Nursery Assistant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Capita</Company>
+      <CompanyDID>chr1595wvx0dc1p7q67</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chr1595wvx0dc1p7q67/capita/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G60P78V8X4BW02L0B</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Capita Managed IT Solutions is a leading IT services company that provides cloud based and infrastructure services to public, private and third sector...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G60P78V8X4BW02L0B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G60P78V8X4BW02L0B&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Swindon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Swindon</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.571</LocationLatitude>
+      <LocationLongitude>-1.7903</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:37:39 AM</PostedTime>
+      <Pay>£18k - £24k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G60P78V8X4BW02L0B</SimilarJobsURL>
+      <JobTitle>Desktop Field Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ww/m0w1d16t7jxnk3d29ww.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>cisco systems</Skill>
+        <Skill>windows xp</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>cisco hardware</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Farefield Estates Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4TH6L33WY4JV21PB</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Office Administrator , Full-time, Must be computer literate and excellent telephone manner. Immediate start - Tel: 01544327219</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K4TH6L33WY4JV21PB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4TH6L33WY4JV21PB&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hereford</Location>
+      <DisplayCity>Hereford</DisplayCity>
+      <City>Hereford</City>
+      <State>HEREFORDSHIRE</State>
+      <LocationLatitude>52.11826</LocationLatitude>
+      <LocationLongitude>-3.06903</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:37:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4TH6L33WY4JV21PB</SimilarJobsURL>
+      <JobTitle>Office Administrator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Wasdell Packaging</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT1X461L0KNG1T17VZ</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Wasdell Packaging expands to Westmead New Job Opportunities Wasdell is one of the largest and most experienced pharmaceutical contract packaging...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHT1X461L0KNG1T17VZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT1X461L0KNG1T17VZ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South West England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Swindon</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.5449</LocationLatitude>
+      <LocationLongitude>-1.8471</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:37:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT1X461L0KNG1T17VZ</SimilarJobsURL>
+      <JobTitle>Office Administrators</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mcl Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5DD6TW0YZJ24WJT6</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>LARGE SOUTH WALES BASED HAULIER WITH DEPOT IN THE KIDDERMINSTER AREA IS LOOKING FOR EXPERANICED HGV CLASS 1 DRIVERS . ROPING AND SHEETING AN ADVANTAGE...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J5DD6TW0YZJ24WJT6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5DD6TW0YZJ24WJT6&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kidderminster</Location>
+      <DisplayCity>Kidderminster</DisplayCity>
+      <City>Kidderminster</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.37278</LocationLatitude>
+      <LocationLongitude>-2.25113</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:37:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5DD6TW0YZJ24WJT6</SimilarJobsURL>
+      <JobTitle>HGV CLASS 1 DRIVERS</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mediplacements</Company>
+      <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2DX5Y24WN1QXLCZS</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Mediplacements are looking for a Speech Therapist, specialising in Community to cover a vacancy for a client of ours based in the West Midlands. This...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F2DX5Y24WN1QXLCZS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2DX5Y24WN1QXLCZS&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>West Midlands</Location>
+      <DisplayCity>West Midlands</DisplayCity>
+      <City>Birmingham</City>
+      <State>WEST MIDLANDS</State>
+      <LocationLatitude>52.47859</LocationLatitude>
+      <LocationLongitude>-1.9086</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:36:56 AM</PostedTime>
+      <Pay>£25.00 - £29.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2DX5Y24WN1QXLCZS</SimilarJobsURL>
+      <JobTitle>Band 6, Community Speech Job West Midlands</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Law</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4YN7081C8L9XRWYG</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Manager, Watford, £28,000 basic, £30,000 OTE REF: M4GB4581WAT Earn up to £30k in your first year alone as a Business Development...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J4YN7081C8L9XRWYG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4YN7081C8L9XRWYG&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Watford</Location>
+      <DisplayCity>Watford</DisplayCity>
+      <City>Watford</City>
+      <State>HERTFORDSHIRE</State>
+      <LocationLatitude>51.6561</LocationLatitude>
+      <LocationLongitude>-0.38875</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:36:19 AM</PostedTime>
+      <Pay>£28k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4YN7081C8L9XRWYG</SimilarJobsURL>
+      <JobTitle>Business Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mediplacements</Company>
+      <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K2JM67FSR720K8XL7</DID>
+      <OnetCode>19-1042.00</OnetCode>
+      <ONetFriendlyTitle>Medical Scientists, Except Epidemiologists</ONetFriendlyTitle>
+      <DescriptionTeaser>We are recruiting a locum BMS for an exciting job opportunity within our client's innovative Blood Transfusion Lab. Pay: £27-32/hour Position: BMS in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K2JM67FSR720K8XL7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2JM67FSR720K8XL7&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cambridge</Location>
+      <DisplayCity>Cambridge</DisplayCity>
+      <City>Cambridge</City>
+      <State>CAMBRIDGESHIRE</State>
+      <LocationLatitude>52.20987</LocationLatitude>
+      <LocationLongitude>0.11156</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:36:18 AM</PostedTime>
+      <Pay>£27.00 - £32.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2JM67FSR720K8XL7</SimilarJobsURL>
+      <JobTitle>Blood Transfusion Biomedical Scientist Cambridge</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fawcetts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM2DT6HSQRBD734CB3</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>IT SupportEngineer Fawcetts IT is a growing IT Services company based inSalisbury. We have an exciting opportunity for a person with 1 – 2 years’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHM2DT6HSQRBD734CB3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM2DT6HSQRBD734CB3&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South West England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Salisbury</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.06555</LocationLatitude>
+      <LocationLongitude>-1.79302</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:35:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM2DT6HSQRBD734CB3</SimilarJobsURL>
+      <JobTitle>IT Support Engineer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Wasdell Packaging</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ1CY73KN8SR4GHXH4</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Wasdell Packaging expands to Westmead New Job Opportunities Wasdell is one of the largest and most experienced pharmaceutical contract packaging...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHQ1CY73KN8SR4GHXH4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ1CY73KN8SR4GHXH4&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South West England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Swindon</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.5449</LocationLatitude>
+      <LocationLongitude>-1.8471</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:35:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ1CY73KN8SR4GHXH4</SimilarJobsURL>
+      <JobTitle>Production Operators</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Law</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5QZ65F17CWFTSNBD</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Manager, Aylesbury, £28,000 basic, £30,000 OTE REF: M4GB4581AYL Earn up to £30k in your first year alone as a Business...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H5QZ65F17CWFTSNBD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5QZ65F17CWFTSNBD&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aylesbury</Location>
+      <DisplayCity>Aylesbury</DisplayCity>
+      <City>Aylesbury</City>
+      <State>BUCKINGHAMSHIRE</State>
+      <LocationLatitude>51.81879</LocationLatitude>
+      <LocationLongitude>-0.8119</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:34:15 AM</PostedTime>
+      <Pay>£28k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5QZ65F17CWFTSNBD</SimilarJobsURL>
+      <JobTitle>Business Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>James Lambe</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3N46FHV4WYS2797P</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organic Farm - Full Time Vacancy Experienced machinery operator and grower for 200 acre farm near Ross on Wye. Job involves general farm work and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F3N46FHV4WYS2797P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3N46FHV4WYS2797P&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ross On Wye</Location>
+      <DisplayCity>Ross On Wye</DisplayCity>
+      <City>Ross-on-Wye</City>
+      <State>HEREFORDSHIRE</State>
+      <LocationLatitude>51.95299</LocationLatitude>
+      <LocationLongitude>-2.50778</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:33:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3N46FHV4WYS2797P</SimilarJobsURL>
+      <JobTitle>Experienced machinery operator and grower</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Advanced Couriers</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5SZ691DNWQZG7Q01</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Sameday Courier Driver Required. Full time position, apply at www.advancecouriers.co.uk/vacancies</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K5SZ691DNWQZG7Q01</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5SZ691DNWQZG7Q01&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Worcester</Location>
+      <DisplayCity>Worcester</DisplayCity>
+      <City>Worcester</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.19035</LocationLatitude>
+      <LocationLongitude>-2.21353</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:33:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5SZ691DNWQZG7Q01</SimilarJobsURL>
+      <JobTitle>Sameday Courier Driver</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>NoOnlineApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mediplacements</Company>
+      <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J0SG5X4HL4LYGJRXK</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Mediplacements are looking for a Speech Therapist, specialising in Acute Adult to cover a vacancy for a client of ours based in the West Midlands....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J0SG5X4HL4LYGJRXK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0SG5X4HL4LYGJRXK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>West Midlands</Location>
+      <DisplayCity>West Midlands</DisplayCity>
+      <City>Birmingham</City>
+      <State>WEST MIDLANDS</State>
+      <LocationLatitude>52.47859</LocationLatitude>
+      <LocationLongitude>-1.9086</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:33:08 AM</PostedTime>
+      <Pay>£25.00 - £29.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0SG5X4HL4LYGJRXK</SimilarJobsURL>
+      <JobTitle>Band 6, Acute Adult Speech Job West Midlands</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>K B Brickwork</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4RG7644WZL84P2HM</DID>
+      <OnetCode>47-2021.00</OnetCode>
+      <ONetFriendlyTitle>Brickmasons and Blockmasons</ONetFriendlyTitle>
+      <DescriptionTeaser>Bricklayers and hodcarriers required for local contract. Top rates paid, CSCS card essential. Tel: 07753 611303</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L4RG7644WZL84P2HM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4RG7644WZL84P2HM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Worcester</Location>
+      <DisplayCity>Worcester</DisplayCity>
+      <City>Worcester</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.19106</LocationLatitude>
+      <LocationLongitude>-2.22227</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:32:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4RG7644WZL84P2HM</SimilarJobsURL>
+      <JobTitle>Bricklayers and hodcarriers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6YG751C1CJ02DT2P</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Graphics Assistant VR/05535 Surrey, commutable from Guildford, Woking, Petersfield, Farnham Salary £16k Our client is an innovative, responsive and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G6YG751C1CJ02DT2P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6YG751C1CJ02DT2P&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Surrey</Location>
+      <DisplayCity>Surrey</DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:31:49 AM</PostedTime>
+      <Pay>£15k - £16k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6YG751C1CJ02DT2P</SimilarJobsURL>
+      <JobTitle>Graphics Assistant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Throckmorton Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4GL6X5D45NBY49C0</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>The Throckmorton, Coughton Now recruiting a quality, experienced HEAD CHEF for this busy, independently owned fresh food Freehouse. Offering a very...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L4GL6X5D45NBY49C0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4GL6X5D45NBY49C0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>alcester</Location>
+      <DisplayCity>alcester</DisplayCity>
+      <City>Alcester</City>
+      <State>WARWICKSHIRE</State>
+      <LocationLatitude>52.24623</LocationLatitude>
+      <LocationLongitude>-1.88718</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:30:54 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4GL6X5D45NBY49C0</SimilarJobsURL>
+      <JobTitle>Experienced HEAD CHEF</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>NoOnlineApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Newcross Farm</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5B960S7R90DTXH5C</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Experienced and skilled tractor driver Required for 500 acre dairy farm near Bromyard Duties to include groundwork, slurry spreading, feeding cows...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H5B960S7R90DTXH5C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5B960S7R90DTXH5C&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>BROMYARD</Location>
+      <DisplayCity>BROMYARD</DisplayCity>
+      <City>Bromyard</City>
+      <State>HEREFORDSHIRE</State>
+      <LocationLatitude>52.219</LocationLatitude>
+      <LocationLongitude>-2.53423</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:30:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5B960S7R90DTXH5C</SimilarJobsURL>
+      <JobTitle>Tractor Driver</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Wasdell Packaging</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL35N5XWYZW8G4VVTT</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Wasdell Packaging expands to Westmead New Job Opportunities Wasdell is one of the largest and most experienced pharmaceutical contract packaging...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHL35N5XWYZW8G4VVTT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL35N5XWYZW8G4VVTT&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South West England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Swindon</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.5449</LocationLatitude>
+      <LocationLongitude>-1.8471</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:29:48 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL35N5XWYZW8G4VVTT</SimilarJobsURL>
+      <JobTitle>Warehouse / Forklift Operators</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Law</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F38W6FR223S6WP2LW</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Manager, Reading, £28,000 basic, £30,000 OTE REF: M4GB4581REA Earn up to £30k in your first year alone as a Business Development...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F38W6FR223S6WP2LW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F38W6FR223S6WP2LW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reading</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reading</City>
+      <State>BERKSHIRE</State>
+      <LocationLatitude>51.45352</LocationLatitude>
+      <LocationLongitude>-0.96301</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:29:38 AM</PostedTime>
+      <Pay>£28k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F38W6FR223S6WP2LW</SimilarJobsURL>
+      <JobTitle>Business Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Net Recruit</Company>
+      <CompanyDID>chs2j462rv5zpygpmqw</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs2j462rv5zpygpmqw/net-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J51W70VDWD14ZMC9C</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Position: Car Sales Executive Location: Stoke and Stafford Salary: Basic salary, bonus structure and quality company car The Company: Randles Motor...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J51W70VDWD14ZMC9C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J51W70VDWD14ZMC9C&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stafford</Location>
+      <DisplayCity>Stafford</DisplayCity>
+      <City>Stafford</City>
+      <State>STAFFORDSHIRE</State>
+      <LocationLatitude>52.80409</LocationLatitude>
+      <LocationLongitude>-2.12198</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:29:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J51W70VDWD14ZMC9C</SimilarJobsURL>
+      <JobTitle>Car Sales Executive</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/l6/m0w2146cswgxjg2f7l6.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Franchising</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Automotive Sales</Skill>
+        <Skill>Car dealership</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L7Q86BLD4XNM9VQCR</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Communications Consultant VR/05574 £20-30k with excellent additional benefits Hampshire, commutable from Petersfield and Alton Our client, a highly...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L7Q86BLD4XNM9VQCR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7Q86BLD4XNM9VQCR&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:28:41 AM</PostedTime>
+      <Pay>£20k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7Q86BLD4XNM9VQCR</SimilarJobsURL>
+      <JobTitle>Communications Consultant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mediplacements</Company>
+      <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5GH5W3DX9QPZHGWR</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Mediplacements are looking for a Speech Therapist, specialising in Acute Adult to cover a vacancy for a client of ours based in Kent. This locum...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G5GH5W3DX9QPZHGWR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5GH5W3DX9QPZHGWR&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kent</Location>
+      <DisplayCity>Kent</DisplayCity>
+      <City>Maidstone</City>
+      <State>KENT</State>
+      <LocationLatitude>51.2738</LocationLatitude>
+      <LocationLongitude>0.52508</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:28:38 AM</PostedTime>
+      <Pay>£22.00 - £35.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5GH5W3DX9QPZHGWR</SimilarJobsURL>
+      <JobTitle>Band 6, Acute Adult Dysphagia Job Kent</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HMGT Services Limited Company</Company>
+      <CompanyDID>chp3x377vvd0n3xp4sh</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chp3x377vvd0n3xp4sh/hmgt-services-limited-company/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K4HK60YD6TQHJLS17</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Our Client is one of the fastest growing Merchant Service Providers in the UK. They offer low cost payment solutions to SMEs and are looking for...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K4HK60YD6TQHJLS17</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4HK60YD6TQHJLS17&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sheffield</Location>
+      <DisplayCity>Sheffield</DisplayCity>
+      <City>Sheffield</City>
+      <State>SOUTH YORKSHIRE</State>
+      <LocationLatitude>53.38311</LocationLatitude>
+      <LocationLongitude>-1.46454</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:28:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4HK60YD6TQHJLS17</SimilarJobsURL>
+      <JobTitle>SALES PEOPLE REQUIRED  Direct Sales / Field Sales</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zx/mvq07b6246m6mb0hjzx.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Telemarketing</Skill>
+        <Skill>Field Sales</Skill>
+        <Skill>Direct selling</Skill>
+        <Skill>Cash register</Skill>
+        <Skill>Electronic commerce</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kingsdown School</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ67Y6Q8J4T78D77Q9</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Exam Invigilator Casual Work Contract Approximately 8 weeks of the year Lead Exam Invigilator £8.93 per hour including holiday allowance Exam...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHQ67Y6Q8J4T78D77Q9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ67Y6Q8J4T78D77Q9&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Swindon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Swindon</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.571</LocationLatitude>
+      <LocationLongitude>-1.7903</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:27:22 AM</PostedTime>
+      <Pay>£8.34 - £8.93/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ67Y6Q8J4T78D77Q9</SimilarJobsURL>
+      <JobTitle>Exam Invigilator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K22S6SLKZRDLFQ0JG</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>PR Account Manager/Senior Account Manager VR/05616 Berkshire, Reading, Newbury, Andover Salary £33K- £35K Our client is a fast paced and growing...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K22S6SLKZRDLFQ0JG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K22S6SLKZRDLFQ0JG&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berkshire</Location>
+      <DisplayCity>Berkshire</DisplayCity>
+      <City>Newbury</City>
+      <State>BERKSHIRE</State>
+      <LocationLatitude>51.40587</LocationLatitude>
+      <LocationLongitude>-1.32587</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:26:46 AM</PostedTime>
+      <Pay>£33k - £35k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K22S6SLKZRDLFQ0JG</SimilarJobsURL>
+      <JobTitle>PR Account Manager/Senior Account Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Wasdell Packaging</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN0JK77ZN9Z39M9XRL</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wasdell Packaging expands to Westmead New Job Opportunities Wasdell is one of the largest and most experienced pharmaceutical contract packaging...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHN0JK77ZN9Z39M9XRL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN0JK77ZN9Z39M9XRL&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South West England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Swindon</City>
+      <State>WILTSHIRE</State>
+      <LocationLatitude>51.5449</LocationLatitude>
+      <LocationLongitude>-1.8471</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:26:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN0JK77ZN9Z39M9XRL</SimilarJobsURL>
+      <JobTitle>Packaging Engineers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Packaging and labeling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mediplacements</Company>
+      <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K3MB6LBQD8B3ZPG22</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Mediplacements are looking for a Speech Therapist, specialising in Learning Disabilities to cover a vacancy for a client of ours based in the North...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K3MB6LBQD8B3ZPG22</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3MB6LBQD8B3ZPG22&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>North East England</Location>
+      <DisplayCity>North East England</DisplayCity>
+      <City>Newcastle upon Tyne</City>
+      <State>TYNE AND WEAR</State>
+      <LocationLatitude>54.97791</LocationLatitude>
+      <LocationLongitude>-1.61237</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:26:28 AM</PostedTime>
+      <Pay>£22.00 - £35.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3MB6LBQD8B3ZPG22</SimilarJobsURL>
+      <JobTitle>Band 7, Adult LD Therapist North East England</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5QZ5Z7JFSJH47S8Y</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Social Media Manager Hampshire - Romsey, Eastleigh, Winchester, Southampton Salary: Circa £30-40k VR/05676 Our client, a leader in their field require...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G5QZ5Z7JFSJH47S8Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5QZ5Z7JFSJH47S8Y&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire - Romsey</Location>
+      <DisplayCity>Hampshire - Romsey</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:24:51 AM</PostedTime>
+      <Pay>£30k - £40k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5QZ5Z7JFSJH47S8Y</SimilarJobsURL>
+      <JobTitle>Social Media Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Care 4 Me</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0S769WY9K7V7F6T1</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Care 4 Me Carers Required To provide care to people in their own homes in Worcester, Malvern, Upton, Ledbury, Colwall £7.00 - £9.00ph Plus: Enhanced...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F0S769WY9K7V7F6T1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0S769WY9K7V7F6T1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>MALVERN</Location>
+      <DisplayCity>MALVERN</DisplayCity>
+      <City>Malvern</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.12628</LocationLatitude>
+      <LocationLongitude>-2.31693</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:23:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0S769WY9K7V7F6T1</SimilarJobsURL>
+      <JobTitle>Carers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cripps Barn</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2L076V4WPKCCGJ5K</DID>
+      <OnetCode>41-2022.00</OnetCode>
+      <ONetFriendlyTitle>Parts Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>CRIPPS Barn is looking for someone to help with viewings at wedding barn in Bibury, Cirencester. Mainly Saturday and or Sunday mornings. Good pay for...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-time</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J2L076V4WPKCCGJ5K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2L076V4WPKCCGJ5K&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cirencester</Location>
+      <DisplayCity>Cirencester</DisplayCity>
+      <City>Cirencester</City>
+      <State>GLOUCESTERSHIRE</State>
+      <LocationLatitude>51.76432</LocationLatitude>
+      <LocationLongitude>-1.87824</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:22:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2L076V4WPKCCGJ5K</SimilarJobsURL>
+      <JobTitle>Sales Rep</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L3N16LMYDQ9F4MZ12</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>EMEA Online &amp; Web Manager Hampshire - Commutable from Southampton, Romsey, Eastleigh, Winchester £40k VR/05692 Our client is looking to recruit an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L3N16LMYDQ9F4MZ12</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3N16LMYDQ9F4MZ12&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire - Commutable from Southampton</Location>
+      <DisplayCity>Hampshire - Commutable from Southampton</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:22:33 AM</PostedTime>
+      <Pay>£40k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3N16LMYDQ9F4MZ12</SimilarJobsURL>
+      <JobTitle>EMEA Online &amp; Web Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web development</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>Social Network</Skill>
+        <Skill>news</Skill>
+        <Skill>User Experience</Skill>
+        <Skill>search engine optimization</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>activity diagram</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Meridian Business Support</Company>
+      <CompanyDID>cht6ht69crtkhf5vc42</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/cht6ht69crtkhf5vc42/meridian-business-support/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J0QC6VNQD2H65LXZ0</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>My client has an exciting opportunity for an experienced office administrator to join their friendly team on a temp-to-perm contract from the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J0QC6VNQD2H65LXZ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0QC6VNQD2H65LXZ0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grimsby</Location>
+      <DisplayCity></DisplayCity>
+      <City>Grimsby</City>
+      <State>SOUTH HUMBERSIDE</State>
+      <LocationLatitude>53.56099</LocationLatitude>
+      <LocationLongitude>-0.09237</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:22:13 AM</PostedTime>
+      <Pay>£7.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0QC6VNQD2H65LXZ0</SimilarJobsURL>
+      <JobTitle>Office Administrator</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/z6/m0w36f751k57jzv7mz6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Horse Trust</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS51Y66G9DSLX4T2XS</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing &amp; Communications Executive The Horse Trust, the world’ s oldest horse charity, needs our very own news hound to help keep supporters and the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHS51Y66G9DSLX4T2XS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS51Y66G9DSLX4T2XS&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South East England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Princes Risborough</City>
+      <State>BUCKINGHAMSHIRE</State>
+      <LocationLatitude>51.68627</LocationLatitude>
+      <LocationLongitude>-0.79498</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:21:46 AM</PostedTime>
+      <Pay>£18k - £22k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS51Y66G9DSLX4T2XS</SimilarJobsURL>
+      <JobTitle>Marketing &amp; Communications Executive</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Trotec Laser Ltd.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2ZF6MC6TXJ00MB61</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Trotec are seeking a Sales Support Specialist to join their team based in Washington . Offering a salary of £20,000 per annum plus bonus . The Company...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F2ZF6MC6TXJ00MB61</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2ZF6MC6TXJ00MB61&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Within England</Location>
+      <DisplayCity>Within England</DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:21:08 AM</PostedTime>
+      <Pay>£20k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2ZF6MC6TXJ00MB61</SimilarJobsURL>
+      <JobTitle>Sales Support Specialist</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Phone Skills</Skill>
+        <Skill>International Sales</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Regional Sales</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Data management</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Horse Trust</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT3LH71MG93GGRF64T</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing &amp; Communications Executive The Horse Trust, the world’ s oldest horse charity, needs our very own news hound to help keep supporters and the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHT3LH71MG93GGRF64T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT3LH71MG93GGRF64T&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Speen, Buckinghamshire</Location>
+      <DisplayCity>Speen, Buckinghamshire</DisplayCity>
+      <City>Oxford</City>
+      <State>OXFORDSHIRE</State>
+      <LocationLatitude>51.7562</LocationLatitude>
+      <LocationLongitude>-1.25949</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:20:28 AM</PostedTime>
+      <Pay>£18k - £22k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT3LH71MG93GGRF64T</SimilarJobsURL>
+      <JobTitle>Marketing &amp; Communications Executive</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>iKas International</Company>
+      <CompanyDID>chr2lr73dr37l48jtj3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chr2lr73dr37l48jtj3/ikas-international/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G40671BMF1VV52HTW</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Analyst - BPM Workflow - FileNet - London My client a Tier One Investment bank based in London, is looking for an experienced Business...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G40671BMF1VV52HTW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G40671BMF1VV52HTW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:19:19 AM</PostedTime>
+      <Pay>£130k - £156k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G40671BMF1VV52HTW</SimilarJobsURL>
+      <JobTitle>Business Analyst - BPM Workflow - FileNet - London</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/5d/m0v2cs753glrj3y3m5d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JLD</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP7SH774NWQ3TY6JC8</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>JLD Driver Training Limited “Getting it Right First Time" JLDDriver Training the regions premier LGV training provider islooking for the following:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHP7SH774NWQ3TY6JC8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP7SH774NWQ3TY6JC8&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South East England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Banbury</City>
+      <State>OXFORDSHIRE</State>
+      <LocationLatitude>52.0799</LocationLatitude>
+      <LocationLongitude>-1.33893</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:17:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP7SH774NWQ3TY6JC8</SimilarJobsURL>
+      <JobTitle>LGV Instructor/Assessor</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Networx</Company>
+      <CompanyDID>c8h8h165hwfz8zp3l0g</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8h8h165hwfz8zp3l0g/networx/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ5HF5ZYTLH1NMNCXY</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Site Services Coordinator / Administration / Call Handling Dudley, West Midlands Commutable from Wolverhampton, West Bromwich and Oldbury Salary £15,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHQ5HF5ZYTLH1NMNCXY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ5HF5ZYTLH1NMNCXY&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dudley</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dudley</City>
+      <State>WEST MIDLANDS</State>
+      <LocationLatitude>52.50952</LocationLatitude>
+      <LocationLongitude>-2.08351</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:17:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ5HF5ZYTLH1NMNCXY</SimilarJobsURL>
+      <JobTitle>Site Services Coordinator / Administration / Call Handling</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GJ/MSL35G61T8V6D415CGJ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mediplacements</Company>
+      <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1246K1YSG3HHK634</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Mediplacements are looking for a Speech Therapist, specialising in Neuro Rehab to cover a vacancy for a client of ours based in Surrey. This locum...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J1246K1YSG3HHK634</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1246K1YSG3HHK634&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Surrey</Location>
+      <DisplayCity>Surrey</DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:16:37 AM</PostedTime>
+      <Pay>£25.00 - £29.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1246K1YSG3HHK634</SimilarJobsURL>
+      <JobTitle>Neuro Rehab Speech Job Surrey</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Horse Trust</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL5026FC22QQXRHBR2</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Development Manager The Horse Trust, the oldest horse charity in the world, was established in 1886 to help the plight of the working horses of London...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHL5026FC22QQXRHBR2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL5026FC22QQXRHBR2&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Speen, Buckinghamshire</Location>
+      <DisplayCity>Speen, Buckinghamshire</DisplayCity>
+      <City>Oxford</City>
+      <State>OXFORDSHIRE</State>
+      <LocationLatitude>51.7562</LocationLatitude>
+      <LocationLongitude>-1.25949</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:16:36 AM</PostedTime>
+      <Pay>£30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL5026FC22QQXRHBR2</SimilarJobsURL>
+      <JobTitle>Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Law</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1HX6CH22W5P3QQ8J</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Manager, High Wycombe, £28,000 basic, £30,000 OTE REF: M4GB4581 Earn up to £30k in your first year alone as a Business...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L1HX6CH22W5P3QQ8J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1HX6CH22W5P3QQ8J&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>High Wycombe</Location>
+      <DisplayCity>High Wycombe</DisplayCity>
+      <City>High Wycombe</City>
+      <State>BUCKINGHAMSHIRE</State>
+      <LocationLatitude>51.62894</LocationLatitude>
+      <LocationLongitude>-0.74779</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:16:35 AM</PostedTime>
+      <Pay>£28k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1HX6CH22W5P3QQ8J</SimilarJobsURL>
+      <JobTitle>Business Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BlueTownOnline.co.uk</Company>
+      <CompanyDID>c8c0dm5vwctd2snxx51</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8c0dm5vwctd2snxx51/bluetownonline-co-uk/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1PD69FV176RZ7GQS</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Job Title: Community Access Worker Location: Milton Keynes Salary: £18,376 - £19,742 pro rata where applicable Type: Full and Part Time roles...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G1PD69FV176RZ7GQS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1PD69FV176RZ7GQS&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Milton Keynes</Location>
+      <DisplayCity>Milton Keynes</DisplayCity>
+      <City>Milton Keynes</City>
+      <State>BUCKINGHAMSHIRE</State>
+      <LocationLatitude>52.00585</LocationLatitude>
+      <LocationLongitude>-0.72775</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:15:23 AM</PostedTime>
+      <Pay>£18,376 - £19,742/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1PD69FV176RZ7GQS</SimilarJobsURL>
+      <JobTitle>Community Access Worker / Support Worker / Care Worker</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/fg/mfh2495wzy2zk966xfg.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+        <Skill>GCSE</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Horse Trust</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR7JS73P02XFG5RF53</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Development Manager The Horse Trust, the oldest horse charity in the world, was established in 1886 to help the plight of the working horses of London...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHR7JS73P02XFG5RF53</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR7JS73P02XFG5RF53&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South East England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Princes Risborough</City>
+      <State>BUCKINGHAMSHIRE</State>
+      <LocationLatitude>51.68627</LocationLatitude>
+      <LocationLongitude>-0.79498</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:13:13 AM</PostedTime>
+      <Pay>£30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR7JS73P02XFG5RF53</SimilarJobsURL>
+      <JobTitle>Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHP3PQ79CRD90Q9R7XN</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Wandsworth to provide care and support to people living in their own homes. Would...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHP3PQ79CRD90Q9R7XN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP3PQ79CRD90Q9R7XN&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:11:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP3PQ79CRD90Q9R7XN</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Wandsworth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2MH6FYKMTQ1D51BX</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sales Managers £50,000 plus uncapped bonus Manchester/London/Midlands/Newcastle/Bristol/South East England VR/05707 These roles are a great...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H2MH6FYKMTQ1D51BX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2MH6FYKMTQ1D51BX&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South East England</Location>
+      <DisplayCity>South East England</DisplayCity>
+      <City>Newbury</City>
+      <State>BERKSHIRE</State>
+      <LocationLatitude>51.40587</LocationLatitude>
+      <LocationLongitude>-1.32587</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:11:04 AM</PostedTime>
+      <Pay>£50k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2MH6FYKMTQ1D51BX</SimilarJobsURL>
+      <JobTitle>Sales Managers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales management</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHM0GZ6P2CL168WVY62</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Merton to provide care and support to people living in their own homes. Would you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHM0GZ6P2CL168WVY62</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM0GZ6P2CL168WVY62&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:10:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM0GZ6P2CL168WVY62</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Merton</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5GG6G39KJSFP5TW4</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Digital Designer/Developer £28-30k plus bonus and free parking Hampshire, commutable from Fleet, Farnborough &amp; Aldershot VR/05734 Due to rapid...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G5GG6G39KJSFP5TW4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5GG6G39KJSFP5TW4&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:10:12 AM</PostedTime>
+      <Pay>£28k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5GG6G39KJSFP5TW4</SimilarJobsURL>
+      <JobTitle>Digital Designer/Developer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>adobe illustrator</Skill>
+        <Skill>adobe indesign</Skill>
+        <Skill>Pivotal</Skill>
+        <Skill>adobe creative suite</Skill>
+        <Skill>news</Skill>
+        <Skill>adobe dreamweaver</Skill>
+        <Skill>adobe photoshop</Skill>
+        <Skill>php</Skill>
+        <Skill>AS2</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHP22X726G3G3YGD6YW</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Lambeth to provide care and support to people living in their own homes. Would...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHP22X726G3G3YGD6YW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP22X726G3G3YGD6YW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:09:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP22X726G3G3YGD6YW</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Lambeth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHM1YW6PZX65F2L5F4Z</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Sutton to provide care and support to people living in their own homes. Would you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHM1YW6PZX65F2L5F4Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM1YW6PZX65F2L5F4Z&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:08:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM1YW6PZX65F2L5F4Z</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Sutton</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHR1XB671YVWX5CQQ9V</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Croydon to provide care and support to people living in their own homes. Would...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHR1XB671YVWX5CQQ9V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR1XB671YVWX5CQQ9V&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:07:48 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR1XB671YVWX5CQQ9V</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Croydon</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G81173XDD8QM8DGGD</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Account Manager £30-35k Hampshire, commutable from Winchester, Basingstoke and Andover VR/05744 We have an exciting opportunity for an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G81173XDD8QM8DGGD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G81173XDD8QM8DGGD&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:07:04 AM</PostedTime>
+      <Pay>£30k - £35k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G81173XDD8QM8DGGD</SimilarJobsURL>
+      <JobTitle>Senior Account Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHS6Z16SFZM42NFHXLN</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Islington to provide care and support to people living in their own homes. Would...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHS6Z16SFZM42NFHXLN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS6Z16SFZM42NFHXLN&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:06:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS6Z16SFZM42NFHXLN</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Islington</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>York College</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ8D2693WQM0KB6H2R</DID>
+      <OnetCode>11-3011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Services Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Administration Manager Ref: 072/0115 £23,884 - £25,488 per annum plus benefits We are seeking a highly organised individual to manage and co-ordinate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHQ8D2693WQM0KB6H2R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ8D2693WQM0KB6H2R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>York</Location>
+      <DisplayCity></DisplayCity>
+      <City>York</City>
+      <State>NORTH YORKSHIRE</State>
+      <LocationLatitude>53.95333</LocationLatitude>
+      <LocationLongitude>-1.08342</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:06:24 AM</PostedTime>
+      <Pay>£23,884 - £25,488/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ8D2693WQM0KB6H2R</SimilarJobsURL>
+      <JobTitle>Administration Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHV3FL6LH7VGW58B85R</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Haringey to provide care and support to people living in their own homes. Would...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHV3FL6LH7VGW58B85R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV3FL6LH7VGW58B85R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:05:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV3FL6LH7VGW58B85R</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Haringey</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/66/msg2nb6m8rwmrxm8j66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruit Zone</Company>
+      <CompanyDID>chv5q974l1gv5bbt568</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv5q974l1gv5bbt568/recruit-zone/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ47565J6KWTGPXGLJ</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>LONDON CARE are currently recruiting for a home care worker based in Hackney to provide care and support to people living in their own homes. Would...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHQ47565J6KWTGPXGLJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ47565J6KWTGPXGLJ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:04:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ47565J6KWTGPXGLJ</SimilarJobsURL>
+      <JobTitle>Home Care Worker - Hackney</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/MSG2NB6M8RWMRXM8J66.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Completely Care Recruitment Consultants Ltd</Company>
+      <CompanyDID>chm1tm6gvkyhvnnf6r7</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chm1tm6gvkyhvnnf6r7/completely-care-recruitment-consultants-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5RJ66XBP40K4SJ37</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently recruiting for a care home in Newport. Split across four units, this friendly and professional home provides nursing and residential...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H5RJ66XBP40K4SJ37</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5RJ66XBP40K4SJ37&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Newport</Location>
+      <DisplayCity></DisplayCity>
+      <City>Newport</City>
+      <State>GWENT</State>
+      <LocationLatitude>51.60173</LocationLatitude>
+      <LocationLongitude>-3.02232</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:03:52 AM</PostedTime>
+      <Pay>£26k - £27k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5RJ66XBP40K4SJ37</SimilarJobsURL>
+      <JobTitle>RGN</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/8j/m0t6206vy042yl49c8j.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>nursing home</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Avox</Company>
+      <CompanyDID>chs1m360czfjzzb7dv7</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs1m360czfjzzb7dv7/avox/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6F86YCFM4QHXSKMP</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Avox, a wholly owned subsidiary of The Depository Trust &amp; Clearing Corporation (DTCC), validates and maintains legal entity reference data on behalf...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J6F86YCFM4QHXSKMP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6F86YCFM4QHXSKMP&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wrexham</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wrexham</City>
+      <State>CLWYD</State>
+      <LocationLatitude>53.04195</LocationLatitude>
+      <LocationLongitude>-2.99713</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 9:02:41 AM</PostedTime>
+      <Pay>£31,160/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6F86YCFM4QHXSKMP</SimilarJobsURL>
+      <JobTitle>Project Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/wt/msg6tp6gkrqlmbbnjwt.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>quality assurance</Skill>
+        <Skill>change management</Skill>
+        <Skill>inform</Skill>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L2S26JC7BJDYMXC2L</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Account Director £50-60k Hampshire, commutable from Winchester, Basingstoke and Andover VR/05745 We have an exciting opportunity for an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L2S26JC7BJDYMXC2L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2S26JC7BJDYMXC2L&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:56:36 AM</PostedTime>
+      <Pay>£50k - £60k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2S26JC7BJDYMXC2L</SimilarJobsURL>
+      <JobTitle>Senior Account Director</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT4P770DGNDKSHMCN1</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, Alzheimer's Society is looking for an exceptional individual to be part of the established Bolton Memory Assessment Team. The Dementia...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHT4P770DGNDKSHMCN1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT4P770DGNDKSHMCN1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bolton</Location>
+      <DisplayCity>Bolton</DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:55:49 AM</PostedTime>
+      <Pay>£19,012/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT4P770DGNDKSHMCN1</SimilarJobsURL>
+      <JobTitle>Dementia Advisor (Bolton) – Alzheimer’s Charity</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/20/MSG3WJ77F2T3SHV4P20.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Completely Care Recruitment Consultants Ltd</Company>
+      <CompanyDID>chm1tm6gvkyhvnnf6r7</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chm1tm6gvkyhvnnf6r7/completely-care-recruitment-consultants-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H13M6T7Z5FQYJW0VH</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently looking to recruit Health Care Assistants for the Newport area. This is to work in a residential home for service users with Dementia...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H13M6T7Z5FQYJW0VH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H13M6T7Z5FQYJW0VH&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Newport</Location>
+      <DisplayCity></DisplayCity>
+      <City>Newport</City>
+      <State>GWENT</State>
+      <LocationLatitude>51.60173</LocationLatitude>
+      <LocationLongitude>-3.02232</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:55:04 AM</PostedTime>
+      <Pay>£7.00 - £8.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H13M6T7Z5FQYJW0VH</SimilarJobsURL>
+      <JobTitle>Health Care Assistant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/8j/m0t6206vy042yl49c8j.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>personal care</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2WR6NKLCF9Z0TRFL</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Media Relations Officer 12 month Fixed Term Contract £30-32k Hampshire, commutable from Basingstoke, Andover and Winchester VR/05773 Our client is a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G2WR6NKLCF9Z0TRFL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2WR6NKLCF9Z0TRFL&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:53:56 AM</PostedTime>
+      <Pay>£30k - £32k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2WR6NKLCF9Z0TRFL</SimilarJobsURL>
+      <JobTitle>Media Relations Officer 12 month Fixed Term Contract</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Anchor</Company>
+      <CompanyDID>c8d2y075cn1xtjk4ntr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8d2y075cn1xtjk4ntr/anchor/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2795YK2NB9QQ640Z</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Location: Millfield Court, Alma Road, Peterborough, Cambridgeshire, PE1 3BZ Contracted hours: 30 per week Contract type: Permanent Reference ID:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G2795YK2NB9QQ640Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2795YK2NB9QQ640Z&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Peterborough</Location>
+      <DisplayCity>Peterborough</DisplayCity>
+      <City>Peterborough</City>
+      <State>CAMBRIDGESHIRE</State>
+      <LocationLatitude>52.58657</LocationLatitude>
+      <LocationLongitude>-0.24347</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:52:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2795YK2NB9QQ640Z</SimilarJobsURL>
+      <JobTitle>Scheme Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mvb8h45zqbh6nqyjzc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Anchor</Company>
+      <CompanyDID>c8d2y075cn1xtjk4ntr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8d2y075cn1xtjk4ntr/anchor/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0GQ773MMJ7THBT8R</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Location: Woodland Grove, Weston Park, Lower Weston, Bath, Somerset, BA1 4AS Contracted Hours: 40 per week Reporting into the Home Manager,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F0GQ773MMJ7THBT8R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0GQ773MMJ7THBT8R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bath</Location>
+      <DisplayCity>Bath</DisplayCity>
+      <City>Bath</City>
+      <State>AVON</State>
+      <LocationLatitude>51.3933</LocationLatitude>
+      <LocationLongitude>-2.38658</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:52:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0GQ773MMJ7THBT8R</SimilarJobsURL>
+      <JobTitle>Chef Manager - Days</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/c7/mvb8h45zqbh6nqyjzc7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L6V85VYZXC147KDS6</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing Executive - 6 month contract VR/05774 Hampshire, Chichester, Portsmouth, Southampton Salary £25K + Our client is looking for a confident...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L6V85VYZXC147KDS6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6V85VYZXC147KDS6&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:52:26 AM</PostedTime>
+      <Pay>£25k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6V85VYZXC147KDS6</SimilarJobsURL>
+      <JobTitle>Marketing Executive - 6 month contract</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F83J6G50KSVKNJ0JH</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Digital Marketing Executive VR/05776 Hampshire Commutable from Southampton, Winchester, Fareham and Portsmouth. Salary £25K- £35K DOE + Excellent...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F83J6G50KSVKNJ0JH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F83J6G50KSVKNJ0JH&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:50:02 AM</PostedTime>
+      <Pay>£25k - £35k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F83J6G50KSVKNJ0JH</SimilarJobsURL>
+      <JobTitle>Digital Marketing Executive</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Completely Care Recruitment Consultants Ltd</Company>
+      <CompanyDID>chm1tm6gvkyhvnnf6r7</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chm1tm6gvkyhvnnf6r7/completely-care-recruitment-consultants-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H4626LTW1D71CSS1R</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Duties include supporting around the house, helping with outings and activities, supporting with medication and mealtimes and encouraging clients to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4626LTW1D71CSS1R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4626LTW1D71CSS1R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Banbury</Location>
+      <DisplayCity>Banbury</DisplayCity>
+      <City>Banbury</City>
+      <State>OXFORDSHIRE</State>
+      <LocationLatitude>52.06111</LocationLatitude>
+      <LocationLongitude>-1.34002</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:49:45 AM</PostedTime>
+      <Pay>£8.00 - £11.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4626LTW1D71CSS1R</SimilarJobsURL>
+      <JobTitle>Support Worker / Learning Disabilities / Banbury</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/8j/m0t6206vy042yl49c8j.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ortolan Group</Company>
+      <CompanyDID>chs3qp76hlhj6r5ywt8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs3qp76hlhj6r5ywt8/ortolan-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1TR6FW8BQCGJ1KZ9</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>ColdFusion Developer Permanent Location: South Croydon Rate: £40,000 - £50,000 per annum The role An exciting position has come up with Collinson...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J1TR6FW8BQCGJ1KZ9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1TR6FW8BQCGJ1KZ9&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Croydon</Location>
+      <DisplayCity>Croydon</DisplayCity>
+      <City>Croydon</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.37234</LocationLatitude>
+      <LocationLongitude>-0.09945</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:49:10 AM</PostedTime>
+      <Pay>£40k - £50k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1TR6FW8BQCGJ1KZ9</SimilarJobsURL>
+      <JobTitle>ColdFusion Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2x/mxm87t6xtk7f6l02f2x.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>coldfusion</Skill>
+        <Skill>mvc</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H4RG68LSSRW9DPXQ1</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Executive £25k with an uncapped OTE and excellent additional benefits Hampshire, commutable from Southampton, Fareham and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4RG68LSSRW9DPXQ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4RG68LSSRW9DPXQ1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:49:00 AM</PostedTime>
+      <Pay>£25k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4RG68LSSRW9DPXQ1</SimilarJobsURL>
+      <JobTitle>Business Development Executive</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bentley Systems</Company>
+      <CompanyDID>c7g4sr5y7ymsjdsfbhc</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c7g4sr5y7ymsjdsfbhc/bentley-systems/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHR2K76F4HH5BWM0T8N</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsibilities: Acts as the principal contact for all professional services related activities within the region Maintains regular and frequent...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHR2K76F4HH5BWM0T8N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2K76F4HH5BWM0T8N&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:47:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2K76F4HH5BWM0T8N</SimilarJobsURL>
+      <JobTitle>Services Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/hx/mwh7zq5ycf8yr7xtzhx.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Law</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3T576CSF985LCSBV</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Graduate Business Development Executive, Southampton, £20,000 basic, £27,000 OTE REF: SWPW4579 Are you ambitious and driven? Join a market leading...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F3T576CSF985LCSBV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3T576CSF985LCSBV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Southampton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Southampton</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>50.90994</LocationLatitude>
+      <LocationLongitude>-1.40732</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:47:20 AM</PostedTime>
+      <Pay>£20k - £27k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3T576CSF985LCSBV</SimilarJobsURL>
+      <JobTitle>Graduate Business Development Executive</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J2JQ67B4DH47ZNY39</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing Manager Dorset commutable from Ringwood, Bournemouth and Poole VR/05786 £25-£30k + Bonus Our client is a dynamic brand with an excellent...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J2JQ67B4DH47ZNY39</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2JQ67B4DH47ZNY39&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dorset commutable from Ringwood</Location>
+      <DisplayCity>Dorset commutable from Ringwood</DisplayCity>
+      <City>Dorchester</City>
+      <State>DORSET</State>
+      <LocationLatitude>50.7138</LocationLatitude>
+      <LocationLongitude>-2.43814</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:46:22 AM</PostedTime>
+      <Pay>£25k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2JQ67B4DH47ZNY39</SimilarJobsURL>
+      <JobTitle>Marketing Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L8HX607XKR1677NHN</DID>
+      <OnetCode>11-2011.00</OnetCode>
+      <ONetFriendlyTitle>Advertising and Promotions Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Digital Advertising Planner VR/05788 Hampshire commutable from Southampton, Winchester, Portsmouth. Salary £35K- £38K DOE + Excellent benefits and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L8HX607XKR1677NHN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8HX607XKR1677NHN&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire commutable from Southampton</Location>
+      <DisplayCity>Hampshire commutable from Southampton</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:45:47 AM</PostedTime>
+      <Pay>£35k - £38k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8HX607XKR1677NHN</SimilarJobsURL>
+      <JobTitle>Digital Advertising Planner (9-12 Month Contract)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Old English Inns</Company>
+      <CompanyDID>chn01k74w35v9zpmm49</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chn01k74w35v9zpmm49/old-english-inns/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHM5ZT6ZJ3SJX7JKV9K</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Accreditation and Validation Manager / After Sales Consultant / Account Manager Corby, Northamptonshire £25,000 pa plus benefits Our client a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHM5ZT6ZJ3SJX7JKV9K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5ZT6ZJ3SJX7JKV9K&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Corby</Location>
+      <DisplayCity></DisplayCity>
+      <City>Corby</City>
+      <State>NORTHAMPTONSHIRE</State>
+      <LocationLatitude>52.48597</LocationLatitude>
+      <LocationLongitude>-0.7026</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:45:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5ZT6ZJ3SJX7JKV9K</SimilarJobsURL>
+      <JobTitle>Accreditation and Validation Manager / After Sales Consultant / Account Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GJ/MSL35G61T8V6D415CGJ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Careerbuilder</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP63P6M1MG0F2W6PR4</DID>
+      <OnetCode>13-1199.00</OnetCode>
+      <ONetFriendlyTitle>Business Operations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>OUR COMPANY CareerBuilder is one of theworld’s largest online job sites, but we're more than just a job board. We area global leader in human capital...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHP63P6M1MG0F2W6PR4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP63P6M1MG0F2W6PR4&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:43:26 AM</PostedTime>
+      <Pay>£35k - £40k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP63P6M1MG0F2W6PR4</SimilarJobsURL>
+      <JobTitle>Sales Operations Executive / Analyst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/97/M0V22L6BVPK5T7TYT97.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Performance management</Skill>
+        <Skill>Sales Operations</Skill>
+        <Skill>Pension</Skill>
+        <Skill>Operations management</Skill>
+        <Skill>Marketing</Skill>
+        <Skill>Customer relationship management</Skill>
+        <Skill>Forecasting</Skill>
+        <Skill>Mergers and acquisitions</Skill>
+        <Skill>Personal pension scheme</Skill>
+        <Skill>Process management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ortolan Group</Company>
+      <CompanyDID>chs3qp76hlhj6r5ywt8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs3qp76hlhj6r5ywt8/ortolan-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7FW64YT0M6F37LRK</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Project Administrator 3-month fixed-term contract Location: London Salary: Up to £30,000 per annum (pro rata) The role A great brand new position has...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7FW64YT0M6F37LRK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7FW64YT0M6F37LRK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:41:48 AM</PostedTime>
+      <Pay>£0 - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7FW64YT0M6F37LRK</SimilarJobsURL>
+      <JobTitle>Project Administrator</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2x/mxm87t6xtk7f6l02f2x.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft project</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft visio</Skill>
+        <Skill>configuration management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AJK Resources</Company>
+      <CompanyDID>chq49q6tsqt8hg8dh6j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq49q6tsqt8hg8dh6j/ajk-resources/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7FH6H43Y0CNYRHY6</DID>
+      <OnetCode>41-9099.00</OnetCode>
+      <ONetFriendlyTitle>Sales and Related Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>We require an experienced Temporary Works Coordinator, for a position in birmingham, You will be required to over see all of the tempory staff on site...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7FH6H43Y0CNYRHY6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7FH6H43Y0CNYRHY6&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Birmingham</Location>
+      <DisplayCity>Birmingham</DisplayCity>
+      <City>Birmingham</City>
+      <State>WEST MIDLANDS</State>
+      <LocationLatitude>52.47859</LocationLatitude>
+      <LocationLongitude>-1.9086</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:39:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7FH6H43Y0CNYRHY6</SimilarJobsURL>
+      <JobTitle>Temporary Works Coordinator</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rk/msg80h5wjsm2dbhb1rk.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HMGT Services Limited Company</Company>
+      <CompanyDID>chp3x377vvd0n3xp4sh</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chp3x377vvd0n3xp4sh/hmgt-services-limited-company/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1DF6Y1XMN88QS2LD</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Our Client is one of the fastest growing Merchant Service Providers in the UK. They offer low cost payment solutions to SMEs and are looking for...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G1DF6Y1XMN88QS2LD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1DF6Y1XMN88QS2LD&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leicester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leicester</City>
+      <State>LEICESTERSHIRE</State>
+      <LocationLatitude>52.63798</LocationLatitude>
+      <LocationLongitude>-1.14043</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:35:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1DF6Y1XMN88QS2LD</SimilarJobsURL>
+      <JobTitle>SALES PEOPLE REQUIRED  Direct Sales / Field Sales</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zx/mvq07b6246m6mb0hjzx.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Telemarketing</Skill>
+        <Skill>Field Sales</Skill>
+        <Skill>Direct selling</Skill>
+        <Skill>Cash register</Skill>
+        <Skill>Electronic commerce</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1NS60M8P7LQ1VZ2D</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing &amp; PR Coordinator VR/05795 Hampshire, Winchester, Eastleigh, Chandlers Ford Salary £20K- £22K DOE + Excellent benefits and generous bonus Our...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G1NS60M8P7LQ1VZ2D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1NS60M8P7LQ1VZ2D&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:33:41 AM</PostedTime>
+      <Pay>£20k - £22k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1NS60M8P7LQ1VZ2D</SimilarJobsURL>
+      <JobTitle>Marketing &amp; PR Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0XM6HGB5Q1J17T5N</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Marketing Consultant Hampshire - Commutable from Winchester, Eastleigh, Southampton, Basingstoke £28k VR/05796 Our client is looking to recruit a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H0XM6HGB5Q1J17T5N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0XM6HGB5Q1J17T5N&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire - Commutable from Winchester</Location>
+      <DisplayCity>Hampshire - Commutable from Winchester</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:30:30 AM</PostedTime>
+      <Pay>£28k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0XM6HGB5Q1J17T5N</SimilarJobsURL>
+      <JobTitle>Marketing Consultant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J5N5645CKNSMZMCQ1</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Digital Marketing Manager £30-38k Hampshire, commutable from Basingstoke, Andover, Newbury, Aldershot and Winchester VR/05802 Our client is an award...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J5N5645CKNSMZMCQ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5N5645CKNSMZMCQ1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:28:23 AM</PostedTime>
+      <Pay>£30k - £38k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5N5645CKNSMZMCQ1</SimilarJobsURL>
+      <JobTitle>Digital Marketing Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AJK Resources</Company>
+      <CompanyDID>chq49q6tsqt8hg8dh6j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq49q6tsqt8hg8dh6j/ajk-resources/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F7866GKGH3D478NXM</DID>
+      <OnetCode>25-9041.00</OnetCode>
+      <ONetFriendlyTitle>Teacher Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>We require a labourer with a 1st aid ticket for an ongoing position, please call 02089521732 or 07411249993 to find out more information,</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F7866GKGH3D478NXM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7866GKGH3D478NXM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Swanscombe</Location>
+      <DisplayCity>Swanscombe</DisplayCity>
+      <City>Swanscombe</City>
+      <State>KENT</State>
+      <LocationLatitude>51.45014</LocationLatitude>
+      <LocationLongitude>0.30854</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:27:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7866GKGH3D478NXM</SimilarJobsURL>
+      <JobTitle>Labourer with 1st aid</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rk/msg80h5wjsm2dbhb1rk.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L73Z72B12HZ5QR39N</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Junior Digital Designer VR/05803 Commutable from Basingstoke, Andover, Newbury, Aldershot and Winchester Salary £18K- £22K DOE + Excellent benefits...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L73Z72B12HZ5QR39N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L73Z72B12HZ5QR39N&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire Commutable from Basingstoke</Location>
+      <DisplayCity>Hampshire Commutable from Basingstoke</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:26:42 AM</PostedTime>
+      <Pay>£18k - £22k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L73Z72B12HZ5QR39N</SimilarJobsURL>
+      <JobTitle>Junior Digital Designer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K16L6J6YRRKPX772R</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Online Community Manager VR/05804 Hampshire, Basingstoke, Winchester, Southampton Salary £18k - £24k DOE Our client is an award winning organisation...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K16L6J6YRRKPX772R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K16L6J6YRRKPX772R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:25:11 AM</PostedTime>
+      <Pay>£18k - £24k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K16L6J6YRRKPX772R</SimilarJobsURL>
+      <JobTitle>Online Community Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pareto Executive</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7YG6DRWVM6N0PFSQ</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Role: Recruitment Manager/Team Leader Location: Hertfordshire Salary: c£40k - £50k basic (Negotiable) + commission + benefits Our client is a very...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J7YG6DRWVM6N0PFSQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7YG6DRWVM6N0PFSQ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hertford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hertford</City>
+      <State>HERTFORDSHIRE</State>
+      <LocationLatitude>51.79634</LocationLatitude>
+      <LocationLongitude>-0.0827</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:24:22 AM</PostedTime>
+      <Pay>£40k - £50k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7YG6DRWVM6N0PFSQ</SimilarJobsURL>
+      <JobTitle>Recruitment Manager/Team Leader</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales management</Skill>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JPR (NI) Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3K86P3RWCPT1K32B</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>We are recruiting! If you would like to join one of the best PR teams in the business, have a look at below. Junior Consultant, JPR We are seeking an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G3K86P3RWCPT1K32B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3K86P3RWCPT1K32B&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Belfast</Location>
+      <DisplayCity></DisplayCity>
+      <City>Belfast</City>
+      <State>ANTRIM</State>
+      <LocationLatitude>54.59529</LocationLatitude>
+      <LocationLongitude>-5.93452</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:22:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3K86P3RWCPT1K32B</SimilarJobsURL>
+      <JobTitle>Junior Consultant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H16C72BM3MKS9GWDJ</DID>
+      <OnetCode>27-3043.04</OnetCode>
+      <ONetFriendlyTitle>Copy Writers</ONetFriendlyTitle>
+      <DescriptionTeaser>Content Writer for Social Media VR/05805 Hampshire, Basingstoke, Winchester, Southampton Salary £18k - £20k Our client is an award winning...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H16C72BM3MKS9GWDJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H16C72BM3MKS9GWDJ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hampshire</Location>
+      <DisplayCity>Hampshire</DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:21:27 AM</PostedTime>
+      <Pay>£18k - £20k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H16C72BM3MKS9GWDJ</SimilarJobsURL>
+      <JobTitle>Content Writer for Social Media</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J24D63DHBJDGMF1JK</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Consumer PR Account Manager Somerset £25-30k VR/05811 Our client, a leading PR agency is looking for a PR Account Manager to join their talented...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J24D63DHBJDGMF1JK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J24D63DHBJDGMF1JK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Somerset</Location>
+      <DisplayCity>Somerset</DisplayCity>
+      <City>Taunton</City>
+      <State>SOMERSET</State>
+      <LocationLatitude>51.01049</LocationLatitude>
+      <LocationLongitude>-3.1107</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:18:47 AM</PostedTime>
+      <Pay>£25k - £30k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J24D63DHBJDGMF1JK</SimilarJobsURL>
+      <JobTitle>Consumer PR Account Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Modern Business Solutions</Company>
+      <CompanyDID>cht6tx753gsqrtvtztw</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/cht6tx753gsqrtvtztw/modern-business-solutions/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L3S26M3VDVVLC5L5Z</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently Recruiting for a Workshop Labourer on a permanent contract to work in our busy workshop. We specialize in the Manufacturing of Wooden...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L3S26M3VDVVLC5L5Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3S26M3VDVVLC5L5Z&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Castleford</Location>
+      <DisplayCity>Castleford</DisplayCity>
+      <City>Castleford</City>
+      <State>WEST YORKSHIRE</State>
+      <LocationLatitude>53.7217</LocationLatitude>
+      <LocationLongitude>-1.3442</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:17:46 AM</PostedTime>
+      <Pay>£7.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3S26M3VDVVLC5L5Z</SimilarJobsURL>
+      <JobTitle>Workshop Labourer (Driving license is Required)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/50/mxf3fn665qtb2qkvd50.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS4SV6G8R8YH5TP5N2</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Customer Service Advisor - Klarna Salary – circa £12,675 – 14,200 per annum DOE Location – Moon Street, Bristol Hours – Full Time and Part-time...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHS4SV6G8R8YH5TP5N2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS4SV6G8R8YH5TP5N2&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South West England</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bristol</City>
+      <State>AVON</State>
+      <LocationLatitude>51.45989</LocationLatitude>
+      <LocationLongitude>-2.59009</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:14:41 AM</PostedTime>
+      <Pay>£12,675 - £14,200/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS4SV6G8R8YH5TP5N2</SimilarJobsURL>
+      <JobTitle>Customer Service Advisor - Klarna</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Networx</Company>
+      <CompanyDID>c8h8h165hwfz8zp3l0g</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8h8h165hwfz8zp3l0g/networx/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL42W5X2YTPD7QGRQ0</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Rent Recovery Officer/ Income Recovery Officer (Social Housing) Abercynon £26,185.00 per annum Permanent, 35 hours per week Our client is seeking a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHL42W5X2YTPD7QGRQ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL42W5X2YTPD7QGRQ0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wales</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mountain Ash</City>
+      <State>MID GLAMORGAN</State>
+      <LocationLatitude>51.64087</LocationLatitude>
+      <LocationLongitude>-3.32945</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:14:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL42W5X2YTPD7QGRQ0</SimilarJobsURL>
+      <JobTitle>Rent Recovery Officer/ Income Recovery Officer (Social Housing)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GJ/MSL35G61T8V6D415CGJ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Solution 4 Recruitment</Company>
+      <CompanyDID>chq7dy79qp607k5994j</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chq7dy79qp607k5994j/solution-4-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6CW6J8R2FJJ6DP28</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Business Development Manager £22-35,000 basic plus car/car allowance OTE upto £70K VR/05815 Head office Manchester but you can be located anywhere in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G6CW6J8R2FJJ6DP28</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6CW6J8R2FJJ6DP28&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 8:13:49 AM</PostedTime>
+      <Pay>£22k - £35k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6CW6J8R2FJJ6DP28</SimilarJobsURL>
+      <JobTitle>Business Development Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>UK</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>
