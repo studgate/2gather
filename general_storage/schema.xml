@@ -1,0 +1,68 @@
+<ResponseJob>
+    <Job>
+        <BeginDate>9/26/2007</BeginDate>
+        <Categories>Accounting, Information Technology</Categories>
+        <Company>Sisters of Mercy Health System</Company>
+        <CompanyDetailsURL>http://www.careerbuilder.com/JobSeeker/Comp...
+        <CompanyDID>C8F3J6644F9PCYF5FDY</CompanyDID>
+        <CompanyJobSearchURL>http://www.careerbuilder.com/JobSeeker/Comp...
+        <CompanyImageURL>http://emj.icbdr.com/ProfileImages/XN/I8B0GB...
+        <ContactInfoEmailURL>http://www.careerbuilder.com/JobSeeker/ApplyOn...
+        <ContactInfoFax>(314) 364-3512</ContactInfoFax>
+        <ContactInfoName>Ken Joyce</ContactInfoName>
+        <ContactInfoPhone />
+        <DegreeRequired>2 Year Degree</DegreeRequired>
+        <DID>J8D04Q619RC00R7W2DK</DID>
+        <DisplayJobID>39210MCC</DisplayJobID>
+        <Division>Human Resources</Division>
+        <EmploymentType>Full-Time Employee</EmploymentType>
+        <EndDate>10/25/2007</EndDate>
+        <ExperienceRequired>At least 2 year(s)</ExperienceRequired>
+        <JobDescription>PURPOSE: Functions as the primary resource for revi...
+        <JobRequirements>QUALIFICATIONS REQUIRED (minimum needed to beg...
+        <JobTitle>Staff Accountant I</JobTitle>
+        <LocationStreet1>14528 S. Outer Forty</LocationStreet1>
+        <LocationStreet2>Suite 100</LocationStreet2>
+        <LocationCity>Chesterfield</LocationCity>
+        <LocationCountry>US</LocationCountry>        
+        <LocationLatitude>38.6630</LocationLatitude>
+        <LocationLongitude>-90.5770</LocationLongitude>
+        <LocationMetroCity>St. Louis</LocationMetroCity>
+        <LocationPostalCode>63017</LocationPostalCode>
+        <LocationState>MO</LocationState>        
+        <ModifiedDate>9/26/2007</ModifiedDate>
+        <PayHigh>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$0.00</FormattedAmount>
+            </Money>
+        </PayHigh>
+        <PayLow>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$0.00</FormattedAmount>
+            </Money>
+        </PayLow>
+        <PayPer>Year</PayPer>
+        <PayHighLowFormatted>N/A</PayHighLowFormatted>
+        <PayCommission>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$0.00</FormattedAmount>
+            </Money>
+        </PayCommission>
+        <PayBonus>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$0.00</FormattedAmount>
+            </Money>
+        </PayBonus>
+        <PayOther />        
+        <RelocationCovered>False</RelocationCovered>
+        <TravelRequired>Not Specified</TravelRequired>
+    </Job>
+</ResponseJob>
