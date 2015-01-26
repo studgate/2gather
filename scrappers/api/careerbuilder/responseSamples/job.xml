@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJob>
+    <Errors />
+    <TimeResponseSent>1/26/2015 5:39:31 AM</TimeResponseSent>
+    <TimeElapsed>0.0312</TimeElapsed>
+    <Job>
+        <ApplyURL>http://api.careerbuilder.com/v1/application/applylink?JobDID=J3G20X6LGHG827SZYR2&amp;TrackingID=2H5QWG6F&amp;HostSite=US</ApplyURL>
+        <ExternalApplication>False</ExternalApplication>
+        <BasicJobBranding />
+        <BeginDate>1/26/2015</BeginDate>
+        <BlankApplicationServiceURL>http://api.careerbuilder.com/v1/application/blank?JobDID=J3G20X6LGHG827SZYR2&amp;HostSite=US&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</BlankApplicationServiceURL>
+        <CustomApplyType>CANONE</CustomApplyType>
+        <Categories>Skilled Labor - Trades,  Engineering,  Other</Categories>
+        <CategoriesCodes>JN013,JN004,JN010</CategoriesCodes>
+        <IndustryCodes>IND034</IndustryCodes>
+        <Company>Bsg Electric Limited</Company>
+        <CompanyDetailsURL />
+        <CompanyDID></CompanyDID>
+        <CompanyJobSearchURL />
+        <CompanyImageURL />
+        <ContactInfoEmailURL>http://www.careerbuilder.com/jobseeker/applyonline/applystart.aspx?Job_DID=J3G20X6LGHG827SZYR2</ContactInfoEmailURL>
+        <ContactInfoFax></ContactInfoFax>
+        <ContactInfoName></ContactInfoName>
+        <ContactInfoPhone>07973728034</ContactInfoPhone>
+        <DegreeRequired>Not Specified</DegreeRequired>
+        <DegreeRequiredCode>DRNS</DegreeRequiredCode>
+        <DID>J3G20X6LGHG827SZYR2</DID>
+        <DisplayJobID>Web Recruitment</DisplayJobID>
+        <Division></Division>
+        <EmploymentType>Full-Time</EmploymentType>
+        <EmploymentTypeCode>JTFT</EmploymentTypeCode>
+        <EndDate>2/25/2015</EndDate>
+        <ExperienceRequired>Not Specified</ExperienceRequired>
+        <ExperienceRequiredCode></ExperienceRequiredCode>
+        <JobDescription>&amp;lt;strong&amp;gt;Electrician&amp;lt;/strong&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;with own van/car &amp;lt;br/&amp;gt;&amp;#163;2000 p/w &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;strong&amp;gt;07973728034&amp;lt;/strong&amp;gt;</JobDescription>
+        <JobRequirements>Please refer to the Job Description to view the requirements for this job</JobRequirements>
+        <JobTitle>Electrician</JobTitle>
+        <LocationStreet1></LocationStreet1>
+        <LocationStreet2></LocationStreet2>
+        <LocationCity>Guildford</LocationCity>
+        <LocationCountry>UK</LocationCountry>
+        <LocationFormatted>UK-Surrey</LocationFormatted>
+        <LocationLatitude>51.2351</LocationLatitude>
+        <LocationLongitude>-0.5719</LocationLongitude>
+        <LocationMetroCity>Surrey</LocationMetroCity>
+        <LocationPostalCode>GU1 3QT</LocationPostalCode>
+        <LocationState>SRY</LocationState>
+        <ManagesOthers>False</ManagesOthers>
+        <ManagesOthersCode>MG002</ManagesOthersCode>
+        <ModifiedDate>1/26/2015</ModifiedDate>
+        <ONetCode />
+        <PayHigh>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>GBP</CurrencyCode>
+                <FormattedAmount>£0.00</FormattedAmount>
+            </Money>
+        </PayHigh>
+        <PayLow>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>GBP</CurrencyCode>
+                <FormattedAmount>£0.00</FormattedAmount>
+            </Money>
+        </PayLow>
+        <PayPer>Year</PayPer>
+        <PayHighLowFormatted>N/A</PayHighLowFormatted>
+        <PayCommission>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>GBP</CurrencyCode>
+                <FormattedAmount>£0.00</FormattedAmount>
+            </Money>
+        </PayCommission>
+        <PayBonus>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>GBP</CurrencyCode>
+                <FormattedAmount>£0.00</FormattedAmount>
+            </Money>
+        </PayBonus>
+        <PayOther>On Application</PayOther>
+        <PrinterFriendlyURL>http://api.careerbuilder.com/v1/joblink?TrackingID=2H5QWG6F&amp;HostSite=US&amp;pf=true&amp;DID=J3G20X6LGHG827SZYR2</PrinterFriendlyURL>
+        <RelocationCovered>False</RelocationCovered>
+        <TravelRequired>Not Specified</TravelRequired>
+        <TravelRequiredCode>RTNS</TravelRequiredCode>
+        <HasQuestionnaire>False</HasQuestionnaire>
+    </Job>
+</ResponseJob>

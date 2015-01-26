@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+    <Errors />
+    <TimeResponseSent>1/26/2015 5:49:52 AM</TimeResponseSent>
+    <TimeElapsed>0.3432044</TimeElapsed>
+    <TotalPages>160</TotalPages>
+    <TotalCount>40140</TotalCount>
+    <FirstItemIndex>1</FirstItemIndex>
+    <LastItemIndex>25</LastItemIndex>
+    <Results>
+        <JobSearchResult>
+            <Company>Beckford Contractors Ltd</Company>
+            <CompanyDID></CompanyDID>
+            <CompanyDetailsURL />
+            <DID>J3L7ZL5WPSLH7RN11FK</DID>
+            <OnetCode>13-1051.00</OnetCode>
+            <ONetFriendlyTitle>Cost Estimators</ONetFriendlyTitle>
+            <DescriptionTeaser>Contract Surveyor / Estimator We are a small refurbishment contractor based in the South East/London region. We are currently undertaking several...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L7ZL5WPSLH7RN11FK</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7ZL5WPSLH7RN11FK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Swanley</Location>
+            <DisplayCity>Swanley</DisplayCity>
+            <City>Swanley</City>
+            <State>KENT</State>
+            <LocationLatitude>51.37999</LocationLatitude>
+            <LocationLongitude>0.17842</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:40:22 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7ZL5WPSLH7RN11FK</SimilarJobsURL>
+            <JobTitle>Contract Surveyor / Estimator</JobTitle>
+            <CompanyImageURL></CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills>
+                <Skill>Estimator</Skill>
+            </Skills>
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB76RN5Y7LC5RL0SHL0</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB76RN5Y7LC5RL0SHL0</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76RN5Y7LC5RL0SHL0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Sheffield</Location>
+            <DisplayCity></DisplayCity>
+            <City>Sheffield</City>
+            <State>SOUTH YORKSHIRE</State>
+            <LocationLatitude>53.38311</LocationLatitude>
+            <LocationLongitude>-1.46454</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:13 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76RN5Y7LC5RL0SHL0</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB75FH657MJLF1SYCLZ</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB75FH657MJLF1SYCLZ</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB75FH657MJLF1SYCLZ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Newcastle upon Tyne</Location>
+            <DisplayCity></DisplayCity>
+            <City>Newcastle upon Tyne</City>
+            <State>TYNE AND WEAR</State>
+            <LocationLatitude>54.97791</LocationLatitude>
+            <LocationLongitude>-1.61237</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:12 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB75FH657MJLF1SYCLZ</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB73366FR8RQ9B2CV9X</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB73366FR8RQ9B2CV9X</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB73366FR8RQ9B2CV9X&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Nottingham</Location>
+            <DisplayCity></DisplayCity>
+            <City>Nottingham</City>
+            <State>NOTTINGHAMSHIRE</State>
+            <LocationLatitude>52.94922</LocationLatitude>
+            <LocationLongitude>-1.14392</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:12 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB73366FR8RQ9B2CV9X</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB73YL6WBP0PSPPP0C4</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB73YL6WBP0PSPPP0C4</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB73YL6WBP0PSPPP0C4&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Manchester</Location>
+            <DisplayCity></DisplayCity>
+            <City>Manchester</City>
+            <State>LANCASHIRE</State>
+            <LocationLatitude>53.4796</LocationLatitude>
+            <LocationLongitude>-2.24881</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:11 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB73YL6WBP0PSPPP0C4</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB74LD6K6K9C2YB2F6Q</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB74LD6K6K9C2YB2F6Q</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74LD6K6K9C2YB2F6Q&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Luton</Location>
+            <DisplayCity></DisplayCity>
+            <City>Luton</City>
+            <State>BEDFORDSHIRE</State>
+            <LocationLatitude>51.89294</LocationLatitude>
+            <LocationLongitude>-0.43106</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:11 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74LD6K6K9C2YB2F6Q</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB73RD5YQ9DPZLVMP03</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB73RD5YQ9DPZLVMP03</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB73RD5YQ9DPZLVMP03&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Glasgow</Location>
+            <DisplayCity></DisplayCity>
+            <City>Glasgow</City>
+            <State>LANARKSHIRE</State>
+            <LocationLatitude>55.8578</LocationLatitude>
+            <LocationLongitude>-4.24251</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:10 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB73RD5YQ9DPZLVMP03</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JB74C16W1LLH2Y42SKC</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JB74C16W1LLH2Y42SKC</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74C16W1LLH2Y42SKC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>London</Location>
+            <DisplayCity></DisplayCity>
+            <City>London</City>
+            <State>LONDON</State>
+            <LocationLatitude>51.50632</LocationLatitude>
+            <LocationLongitude>-0.12714</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:10 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74C16W1LLH2Y42SKC</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Be-a Recruit</Company>
+            <CompanyDID>chl5vr6njvn6ky20zdt</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl5vr6njvn6ky20zdt/be-a-recruit/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JHN5XY5VKB3HCYV5KYZ</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>CeX is the gadget lover's dream franchise that brings unrivalled returns - 207 successful stores -117 franchised stores -21 years' experience -...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHN5XY5VKB3HCYV5KYZ</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN5XY5VKB3HCYV5KYZ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Leeds</Location>
+            <DisplayCity></DisplayCity>
+            <City>Leeds</City>
+            <State>WEST YORKSHIRE</State>
+            <LocationLatitude>53.8011</LocationLatitude>
+            <LocationLongitude>-1.54704</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:05 AM</PostedTime>
+            <Pay>£20k - £80k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN5XY5VKB3HCYV5KYZ</SimilarJobsURL>
+            <JobTitle>CEX IS THE GADGET LOVER'S DREAM BUSINESS THAT BRINGS UNRIVALLED RETURNS</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bk/mvq1mr6jhs5hbr1wjbk.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Just GP</Company>
+            <CompanyDID>chm1jq6v21h2yzw7l9d</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chm1jq6v21h2yzw7l9d/just-gp/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3L3C36XH72KX0GT6WY</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>JustPhysio are recruiting for a HCPC registered Band 6 Physiotherapist specialising in Orthopaedic Outpatient to cover a vacancy for a client of ours...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Contract</EmploymentType>
+            <EducationRequired>Bachelor's Degree</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L3C36XH72KX0GT6WY</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3C36XH72KX0GT6WY&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Devon</Location>
+            <DisplayCity>Devon</DisplayCity>
+            <City>Exeter</City>
+            <State>DEVON</State>
+            <LocationLatitude>50.7199</LocationLatitude>
+            <LocationLongitude>-3.53164</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:36:05 AM</PostedTime>
+            <Pay>£23.00 - £28.00/hour</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3C36XH72KX0GT6WY</SimilarJobsURL>
+            <JobTitle>Band 6 Orthopaedic OutPatients Physiotherpist Job Devon</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/53/m0t2x86hw09z35xhx53.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>2</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Networx</Company>
+            <CompanyDID>c8h8h165hwfz8zp3l0g</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/c8h8h165hwfz8zp3l0g/networx/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JHL70Q6WMXFB35NRTCL</DID>
+            <OnetCode>11-3031.00</OnetCode>
+            <ONetFriendlyTitle>Financial Managers</ONetFriendlyTitle>
+            <DescriptionTeaser>Investment Management Administrator / Executive Support / IFA / Finance Taunton, Somerset Competitive Salary + Discretionary Bonus + Benefits Our...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHL70Q6WMXFB35NRTCL</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL70Q6WMXFB35NRTCL&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Taunton</Location>
+            <DisplayCity></DisplayCity>
+            <City>Taunton</City>
+            <State>SOMERSET</State>
+            <LocationLatitude>51.01049</LocationLatitude>
+            <LocationLongitude>-3.1107</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:35:06 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL70Q6WMXFB35NRTCL</SimilarJobsURL>
+            <JobTitle>Investment Management Administrator / Executive Support / IFA / Finance</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GJ/MSL35G61T8V6D415CGJ.gif</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Mediplacements</Company>
+            <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3G4RR78G2ZZCT37XDB</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>Mediplacements are currently looking for a Cath Lab and ICD Physiologist to fill a locum job which starts 02/03/2015 to 31/05/2015. This position will...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Contract</EmploymentType>
+            <EducationRequired>Bachelor's Degree</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G4RR78G2ZZCT37XDB</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4RR78G2ZZCT37XDB&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Buckinghamshire</Location>
+            <DisplayCity>Buckinghamshire</DisplayCity>
+            <City>Aylesbury</City>
+            <State>BUCKINGHAMSHIRE</State>
+            <LocationLatitude>51.81879</LocationLatitude>
+            <LocationLongitude>-0.8119</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:34:01 AM</PostedTime>
+            <Pay>£36.00 - £40.00/hour</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4RR78G2ZZCT37XDB</SimilarJobsURL>
+            <JobTitle>Cath Lab &amp; ICD Physiologist locum job - Buckinghamshire</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Capita</Company>
+            <CompanyDID>chr1595wvx0dc1p7q67</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chr1595wvx0dc1p7q67/capita/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3K7CT5XYGWJM6YBGJ8</DID>
+            <OnetCode>15-1099.02</OnetCode>
+            <ONetFriendlyTitle>Computer Systems Engineers/Architects</ONetFriendlyTitle>
+            <DescriptionTeaser>Updata maintain large and diverse estates of product portfolio and technical infrastructure. In order to drive the strategic vision within Updata a...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Associate Degree</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7CT5XYGWJM6YBGJ8</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7CT5XYGWJM6YBGJ8&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Reigate</Location>
+            <DisplayCity>Reigate</DisplayCity>
+            <City>Reigate</City>
+            <State>SURREY</State>
+            <LocationLatitude>51.23595</LocationLatitude>
+            <LocationLongitude>-0.20492</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:31:36 AM</PostedTime>
+            <Pay>£70k - £75k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7CT5XYGWJM6YBGJ8</SimilarJobsURL>
+            <JobTitle>Technical Architect - 30443</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ww/m0w1d16t7jxnk3d29ww.gif</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Recruit4Health</Company>
+            <CompanyDID>chs7vl6rt2ghg0082dl</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs7vl6rt2ghg0082dl/recruit4health/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>JHP7XB6WPRCHDCJY6RS</DID>
+            <OnetCode>29-1069.00</OnetCode>
+            <ONetFriendlyTitle>Physicians and Surgeons</ONetFriendlyTitle>
+            <DescriptionTeaser>Locum Consultant Pathology - Suffolk Sector: Doctor - Medicine Start Date: ( Start: ASAP - 27/03/15 ) Contract: Locum Work Hours: Full-Time Salary: Up...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Temporary</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHP7XB6WPRCHDCJY6RS</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP7XB6WPRCHDCJY6RS&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Suffolk</Location>
+            <DisplayCity></DisplayCity>
+            <City>County Wide</City>
+            <State>SUFFOLK</State>
+            <LocationLatitude>0.0</LocationLatitude>
+            <LocationLongitude>0.0</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:27:14 AM</PostedTime>
+            <Pay>£0.00 - £85.45/hour</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP7XB6WPRCHDCJY6RS</SimilarJobsURL>
+            <JobTitle>Locum Consultant Pathology - Suffolk</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ns/mrg7ps71l0rcpn49vns.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Meridian Business Support</Company>
+            <CompanyDID>cht6ht69crtkhf5vc42</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/cht6ht69crtkhf5vc42/meridian-business-support/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3J6J763565SQ9FKPQ1</DID>
+            <OnetCode>47-1011.00</OnetCode>
+            <ONetFriendlyTitle>Supervisors of Construction Trades and Extraction Workers</ONetFriendlyTitle>
+            <DescriptionTeaser>Electricians &amp; Pipefitters required for a major upgrade project at Bacton Gas Terminal. Candidates must be fully qualified / timeserved tradesmen. (...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Contract</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J6J763565SQ9FKPQ1</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6J763565SQ9FKPQ1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Bacton</Location>
+            <DisplayCity>Bacton</DisplayCity>
+            <City>North Walsham</City>
+            <State>NORFOLK</State>
+            <LocationLatitude>52.81831</LocationLatitude>
+            <LocationLongitude>1.38476</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:26:21 AM</PostedTime>
+            <Pay>£19.00 - £33.00/hour</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6J763565SQ9FKPQ1</SimilarJobsURL>
+            <JobTitle>Electricians &amp; Pipefitters - CCNSG</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/z6/m0w36f751k57jzv7mz6.gif</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Rainbow Pre-School</Company>
+            <CompanyDID></CompanyDID>
+            <CompanyDetailsURL />
+            <DID>JHM1C56MZ6S8GZZFC55</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>Staff Vacancy RainbowPre-school are looking to recruit a member of staff to work with ourestablished team in Wallingford. Person specification...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=JHM1C56MZ6S8GZZFC55</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM1C56MZ6S8GZZFC55&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>South East England</Location>
+            <DisplayCity></DisplayCity>
+            <City>Wallingford</City>
+            <State>OXFORDSHIRE</State>
+            <LocationLatitude>51.60019</LocationLatitude>
+            <LocationLongitude>-1.12646</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:24:48 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM1C56MZ6S8GZZFC55</SimilarJobsURL>
+            <JobTitle>Staff Vacancy</JobTitle>
+            <CompanyImageURL></CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>2</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>I J Mcgill Transport</Company>
+            <CompanyDID></CompanyDID>
+            <CompanyDetailsURL />
+            <DID>J3F1BS5ZPPMR23R89B3</DID>
+            <OnetCode>53-3031.00</OnetCode>
+            <ONetFriendlyTitle>Driver/Sales Workers</ONetFriendlyTitle>
+            <DescriptionTeaser>IJ McGill Transport require Class 1 Day Distribution Driver for their High Wycombe depot, Multi drop experience an advantage. Monday to Friday 6am...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F1BS5ZPPMR23R89B3</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1BS5ZPPMR23R89B3&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>High Wycombe</Location>
+            <DisplayCity>High Wycombe</DisplayCity>
+            <City>High Wycombe</City>
+            <State>BUCKINGHAMSHIRE</State>
+            <LocationLatitude>51.62736</LocationLatitude>
+            <LocationLongitude>-0.75031</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:23:57 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1BS5ZPPMR23R89B3</SimilarJobsURL>
+            <JobTitle>Class 2 Day Distribution Driver</JobTitle>
+            <CompanyImageURL></CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>2</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>I J Mcgill Transport</Company>
+            <CompanyDID></CompanyDID>
+            <CompanyDetailsURL />
+            <DID>J3L2KP5XWWG34PL93T8</DID>
+            <OnetCode>53-3031.00</OnetCode>
+            <ONetFriendlyTitle>Driver/Sales Workers</ONetFriendlyTitle>
+            <DescriptionTeaser>IJ McGill Transport require Class 1 Day Distribution Driver for their High Wycombe depot, Multi drop experience an advantage. Monday to Friday 6am...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L2KP5XWWG34PL93T8</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2KP5XWWG34PL93T8&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>High Wycombe</Location>
+            <DisplayCity>High Wycombe</DisplayCity>
+            <City>High Wycombe</City>
+            <State>BUCKINGHAMSHIRE</State>
+            <LocationLatitude>51.62736</LocationLatitude>
+            <LocationLongitude>-0.75031</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:23:17 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2KP5XWWG34PL93T8</SimilarJobsURL>
+            <JobTitle>Class 1 Day Distribution Driver</JobTitle>
+            <CompanyImageURL></CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>2</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Talent Spa</Company>
+            <CompanyDID>chs4rf5xlr80gsdtb3c</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs4rf5xlr80gsdtb3c/talent-spa/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3J8J261MV2CNP54WKJ</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>Land/ Measured Building Surveyor Leamington Spa, Warwickshire - CV31 1TF 40 HOURS PER WEEK, BETWEEN 7:30AM &amp; 6PM MONDAY - FRIDAY PERMANENT SALARY: £...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J8J261MV2CNP54WKJ</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8J261MV2CNP54WKJ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Leamington Spa</Location>
+            <DisplayCity>Leamington Spa</DisplayCity>
+            <City>Leamington Spa</City>
+            <State>WARWICKSHIRE</State>
+            <LocationLatitude>52.27667</LocationLatitude>
+            <LocationLongitude>-1.49577</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:20:15 AM</PostedTime>
+            <Pay>£20k - £30k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8J261MV2CNP54WKJ</SimilarJobsURL>
+            <JobTitle>Land/ Measured Building Surveyor</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/y3/msl287610fb0d8vlry3.gif</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Talent Spa</Company>
+            <CompanyDID>chs4rf5xlr80gsdtb3c</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs4rf5xlr80gsdtb3c/talent-spa/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3K0L86P49Y1YR1LPPW</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>RAIL SURVEY MANAGER Leamington Spa, Warwickshire - CV31 1TF Salary: £25k – £40k (depending on experience) Job Requirements Creative approach to...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K0L86P49Y1YR1LPPW</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0L86P49Y1YR1LPPW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Leamington Spa</Location>
+            <DisplayCity>Leamington Spa</DisplayCity>
+            <City>Leamington Spa</City>
+            <State>WARWICKSHIRE</State>
+            <LocationLatitude>52.27667</LocationLatitude>
+            <LocationLongitude>-1.49577</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:19:47 AM</PostedTime>
+            <Pay>£25k - £40k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0L86P49Y1YR1LPPW</SimilarJobsURL>
+            <JobTitle>RAIL SURVEY MANAGER</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/y3/msl287610fb0d8vlry3.gif</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>4</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Talent Spa</Company>
+            <CompanyDID>chs4rf5xlr80gsdtb3c</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chs4rf5xlr80gsdtb3c/talent-spa/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3F6RV6V81SK2KG6YQ8</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>Charity Fundraiser SAVE THE WORLD, GET PAID With over £400 million raised so far, my clients are a multi-award winning charity fundraising company....</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F6RV6V81SK2KG6YQ8</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6RV6V81SK2KG6YQ8&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Bristol</Location>
+            <DisplayCity></DisplayCity>
+            <City>Bristol</City>
+            <State>AVON</State>
+            <LocationLatitude>51.45373</LocationLatitude>
+            <LocationLongitude>-2.59156</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:19:24 AM</PostedTime>
+            <Pay>£7.00 - £10.00/hour</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6RV6V81SK2KG6YQ8</SimilarJobsURL>
+            <JobTitle>Charity Fundraiser</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/y3/msl287610fb0d8vlry3.gif</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Bsg Electric Limited</Company>
+            <CompanyDID></CompanyDID>
+            <CompanyDetailsURL />
+            <DID>J3G20X6LGHG827SZYR2</DID>
+            <OnetCode>47-2111.00</OnetCode>
+            <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+            <DescriptionTeaser>Electrician with own van/car £2000 p/w 07973728034</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G20X6LGHG827SZYR2</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G20X6LGHG827SZYR2&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Surrey</Location>
+            <DisplayCity>Surrey</DisplayCity>
+            <City>Guildford</City>
+            <State>SURREY</State>
+            <LocationLatitude>51.23507</LocationLatitude>
+            <LocationLongitude>-0.57189</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:18:42 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G20X6LGHG827SZYR2</SimilarJobsURL>
+            <JobTitle>Electrician</JobTitle>
+            <CompanyImageURL></CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>NoOnlineApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Easyweb Recruitment</Company>
+            <CompanyDID>chv42z6n5vrqt7mh33f</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chv42z6n5vrqt7mh33f/easyweb-recruitment/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3F1T66ZZP9QD7LY3QL</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>Area Sales Manager (Education Partnerships) OTE c£51k Our client is a subsidiary of Communications, the number one non-fiction media company on the...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F1T66ZZP9QD7LY3QL</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1T66ZZP9QD7LY3QL&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Hammersmith</Location>
+            <DisplayCity>Hammersmith</DisplayCity>
+            <City>Hammersmith</City>
+            <State>LONDON</State>
+            <LocationLatitude>51.49615</LocationLatitude>
+            <LocationLongitude>-0.22942</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:18:21 AM</PostedTime>
+            <Pay>£35k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1T66ZZP9QD7LY3QL</SimilarJobsURL>
+            <JobTitle>Area Sales Manager (Education Partnerships) OTE c£51k</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/8v/m0t3p16nq5w17n98q8v.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>IsExternal</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>4</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Mediplacements</Company>
+            <CompanyDID>chl2tx6c4qvv0m9yhjk</CompanyDID>
+            <CompanyDetailsURL>http://www.careerbuilder.co.uk/jobs/company-sector/chl2tx6c4qvv0m9yhjk/mediplacements/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+            <DID>J3J7VR6J7WQNZRX8ML6</DID>
+            <OnetCode>31-9093.00</OnetCode>
+            <ONetFriendlyTitle>Medical Equipment Preparers</ONetFriendlyTitle>
+            <DescriptionTeaser>Ideal candidate's will flexible, reliable and available! They will have at least 18 months previous experience within a Sterile Services Department...</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Associate Degree</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J7VR6J7WQNZRX8ML6</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7VR6J7WQNZRX8ML6&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>Birmingham</Location>
+            <DisplayCity>Birmingham</DisplayCity>
+            <City>Birmingham</City>
+            <State>WEST MIDLANDS</State>
+            <LocationLatitude>52.47859</LocationLatitude>
+            <LocationLongitude>-1.9086</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:18:08 AM</PostedTime>
+            <Pay>£10k - £20k/year</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7VR6J7WQNZRX8ML6</SimilarJobsURL>
+            <JobTitle>Sterile Services Technicians Birmingham</JobTitle>
+            <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mc/mrr5y86l56hh04fv2mc.jpg</CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills>
+                <Skill>human decontamination</Skill>
+            </Skills>
+            <JobLevel>3</JobLevel>
+        </JobSearchResult>
+        <JobSearchResult>
+            <Company>Paul Simon Estate Agents</Company>
+            <CompanyDID></CompanyDID>
+            <CompanyDetailsURL />
+            <DID>J3J6N56FQYSXW4RZBR3</DID>
+            <OnetCode>00-0000.00</OnetCode>
+            <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+            <DescriptionTeaser>Admin/ Property manager. Articulate with IT Experience/ car driver. London N13 Lettings office £18- 20k. CVs- 0208 826 4360</DescriptionTeaser>
+            <Distance />
+            <EmploymentType>Permanent</EmploymentType>
+            <EducationRequired>Not Specified</EducationRequired>
+            <ExperienceRequired>Not Specified</ExperienceRequired>
+            <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J6N56FQYSXW4RZBR3</JobDetailsURL>
+            <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6N56FQYSXW4RZBR3&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+            <Location>London</Location>
+            <DisplayCity>London</DisplayCity>
+            <City>London</City>
+            <State>LONDON</State>
+            <LocationLatitude>51.56772</LocationLatitude>
+            <LocationLongitude>-0.23684</LocationLongitude>
+            <PostedDate>1/26/2015</PostedDate>
+            <PostedTime>1/26/2015 5:18:02 AM</PostedTime>
+            <Pay>N/A</Pay>
+            <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6N56FQYSXW4RZBR3</SimilarJobsURL>
+            <JobTitle>Admin/ Property manager</JobTitle>
+            <CompanyImageURL></CompanyImageURL>
+            <JobBrandingIcons></JobBrandingIcons>
+            <ApplyRequirements>
+                <ApplyRequirement>CanBulkApply</ApplyRequirement>
+            </ApplyRequirements>
+            <Skills />
+            <JobLevel>4</JobLevel>
+        </JobSearchResult>
+    </Results>
+    <SearchMetaData>
+        <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+        <SearchLocations>
+            <SearchLocation>
+                <City></City>
+                <StateCode></StateCode>
+                <CountryCode>UK</CountryCode>
+                <PostalCode></PostalCode>
+                <Valid>True</Valid>
+            </SearchLocation>
+        </SearchLocations>
+    </SearchMetaData>
+</ResponseJobSearch>
