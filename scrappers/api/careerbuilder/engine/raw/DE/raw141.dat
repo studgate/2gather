@@ -1,0 +1,3331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 12:00:05 PM</TimeResponseSent>
+  <TimeElapsed>0.4368028</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37650</TotalCount>
+  <FirstItemIndex>14001</FirstItemIndex>
+  <LastItemIndex>14100</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F30X61R30KDHWM622</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Regensburg stellt ab sofort fest ein - zu übertariflichen Stundenlöhnen! Aufgaben: Innen- und Außenanstrich Tapezieren, Böden verlegen (Parkett,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F30X61R30KDHWM622</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F30X61R30KDHWM622&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.5833</LocationLatitude>
+      <LocationLongitude>10.6167</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F30X61R30KDHWM622</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7NF60ZYFTG9TRYFZ</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Aufgaben: Arbeit nach Zeichnung Haustechnik, Heizungs-, Klima- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7NF60ZYFTG9TRYFZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7NF60ZYFTG9TRYFZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ansbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ansbach</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.30068</LocationLatitude>
+      <LocationLongitude>10.57203</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7NF60ZYFTG9TRYFZ</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8CV6C47XWJ7B0B8W</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Rastatt sucht für beste Kundenbetriebe - mit übertariflichen Löhnen! Ihre Aufgaben: - Installation von Wasser- und Abwasserleitungen - Mithilfe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F8CV6C47XWJ7B0B8W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8CV6C47XWJ7B0B8W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neuried</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neuried</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.0929</LocationLatitude>
+      <LocationLongitude>11.46625</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8CV6C47XWJ7B0B8W</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker /in - Sanitär-, Heizungs- und Klimatechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5HV6Y1KV180G1PVD</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena stellt sofort fest ein und zahlt übertarifliche Löhne! Ihre Tätigkeit: - Montage von Passteilen aus Metallprofilen, Feinblechen und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5HV6Y1KV180G1PVD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5HV6Y1KV180G1PVD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saalfeld/Saale</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saalfeld/Saale</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.64968</LocationLatitude>
+      <LocationLongitude>11.35848</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5HV6Y1KV180G1PVD</SimilarJobsURL>
+      <JobTitle>Klempner/in; Spengler/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G65Y632GKZNMP1DQ2</DID>
+      <OnetCode>53-3021.00</OnetCode>
+      <ONetFriendlyTitle>Bus Drivers, Transit and Intercity</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen zur Vermittlung an ein renommiertes Verkehrsunternehmen (keine Zeitarbeit). Anforderungen: - mehrere Jahre Berufserfahrung im Linienverkehr...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G65Y632GKZNMP1DQ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G65Y632GKZNMP1DQ2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zerbst/Anhalt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Zerbst/Anhalt</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>51.96713</LocationLatitude>
+      <LocationLongitude>12.0847</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G65Y632GKZNMP1DQ2</SimilarJobsURL>
+      <JobTitle>Busfahrer/-in für den Linienverkehr</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4VL69Y4ZNDCDG6LZ</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Leipzig sucht für den Einsatz bei einem Kunden mit Sitz in Grimma. Tätigkeit: - Erstellen von SPS-Programmen (Siemens S5/S7, Phoenix und Pilz...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4VL69Y4ZNDCDG6LZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4VL69Y4ZNDCDG6LZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grimma</Location>
+      <DisplayCity></DisplayCity>
+      <City>Grimma</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.23686</LocationLatitude>
+      <LocationLongitude>12.72936</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4VL69Y4ZNDCDG6LZ</SimilarJobsURL>
+      <JobTitle>SPS-Programmierer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6TV6PGTKG97F520T</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Voraussetzungen: Facharbeiter (Zerspanungsmechaniker/in, Metallbauer/in,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6TV6PGTKG97F520T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6TV6PGTKG97F520T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bamberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bamberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.89178</LocationLatitude>
+      <LocationLongitude>10.89334</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6TV6PGTKG97F520T</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4K76SH3TZVS1VQPZ</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festeinstellung bei uns und Beschäftigung in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: - Selbstständige Ausführung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4K76SH3TZVS1VQPZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4K76SH3TZVS1VQPZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Arnstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Arnstadt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.8355</LocationLatitude>
+      <LocationLongitude>10.94853</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4K76SH3TZVS1VQPZ</SimilarJobsURL>
+      <JobTitle>Elektroniker/in - Energie- und Gebäudetechnik, Elektriker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6M56GQLWQR73RC3J</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festeinstellung bei EURA Jena und Beschäftigung Ihrer Region! Voraussetzungen: - Facharbeiterbrief (Maler und Lackierer/in, Bauten- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6M56GQLWQR73RC3J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6M56GQLWQR73RC3J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mannheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mannheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.48651</LocationLatitude>
+      <LocationLongitude>8.46678</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6M56GQLWQR73RC3J</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6T162N4KSLGNPCFM</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung bei EURA Jena und Einsatz in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: Allg. Heizungsinstallationen auf Groß-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6T162N4KSLGNPCFM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6T162N4KSLGNPCFM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erfurt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erfurt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.97768</LocationLatitude>
+      <LocationLongitude>11.02307</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6T162N4KSLGNPCFM</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in, Heizungsmonteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7VY6LNFW95RVJ0KQ</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeiten: ¡ Reparatur und Instandhaltung von Fahrzeugen ¡ Fertigung und Montage von Fahrzeugaufbauten ¡ Karosseriearbeiten ¡ Fahrzeugoberflächen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7VY6LNFW95RVJ0KQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7VY6LNFW95RVJ0KQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bischofswerda</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bischofswerda</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.12759</LocationLatitude>
+      <LocationLongitude>14.18028</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7VY6LNFW95RVJ0KQ</SimilarJobsURL>
+      <JobTitle>Karosseriebauer/in, KFZ Mechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F52X6ZYWWNM1LQ00Q</DID>
+      <OnetCode>47-2152.02</OnetCode>
+      <ONetFriendlyTitle>Plumbers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festanstellung bei unserer Niederlassung Regensburg und übertariflicher Lohn! Ihre Aufgaben: - Sanitärinstallationen - Heizungsbau - Montage...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F52X6ZYWWNM1LQ00Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F52X6ZYWWNM1LQ00Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Amberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.44687</LocationLatitude>
+      <LocationLongitude>11.86272</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F52X6ZYWWNM1LQ00Q</SimilarJobsURL>
+      <JobTitle>Sanitärinstallateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3Y66J67BN0FZ3694</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir stellen Sie sofort fest ein und zahlen übertariflich! - Sie besitzen gültige Schweißerpässe (TÜV) der Werkstoffgruppen 5 und 6. - Sie haben...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3Y66J67BN0FZ3694</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3Y66J67BN0FZ3694&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bielefeld</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bielefeld</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>52.02299</LocationLatitude>
+      <LocationLongitude>8.53326</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3Y66J67BN0FZ3694</SimilarJobsURL>
+      <JobTitle>WIG - Schweißer/in (geprüft)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7W86BDJZGBLQTGMF</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festeinstellung bei uns und Beschäftigung in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: - Selbstständige Ausführung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7W86BDJZGBLQTGMF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7W86BDJZGBLQTGMF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eisenach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eisenach</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.97439</LocationLatitude>
+      <LocationLongitude>10.32542</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7W86BDJZGBLQTGMF</SimilarJobsURL>
+      <JobTitle>Elektroniker/in - Energie- und Gebäudetechnik, Elektriker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8BN74SRWDMCFG48B</DID>
+      <OnetCode>11-9111.00</OnetCode>
+      <ONetFriendlyTitle>Medical and Health Services Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unseren Kunden, ein renommierter ambulanter Pflegedienst im Herzen Münchens, ab sofort eine Pflegedienstleitung in TZ. Ihr Profil: -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H8BN74SRWDMCFG48B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8BN74SRWDMCFG48B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8BN74SRWDMCFG48B</SimilarJobsURL>
+      <JobTitle>Pflegedienstleiter/in in TZ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7WC6H2JK782FPQ3L</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Anlagenmechaniker H S K (m/w) Jede/r Mitarbeiterin/er wird, seinen Kenntnissen entsprechend , bei nachfolgenden Tätigkeiten eingesetzt: ¡ Verrohrung (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7WC6H2JK782FPQ3L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7WC6H2JK782FPQ3L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dachau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dachau</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.25941</LocationLatitude>
+      <LocationLongitude>11.43434</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7WC6H2JK782FPQ3L</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker /in - Sanitär-, Heizungs- und Kl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J34M6WBN2Y6R83X8P</DID>
+      <OnetCode>17-3023.03</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena bietet einen sicheren und übertariflich bezahlten Arbeitsplatz - jetzt in Apolda! Ihre Aufgabe - selbstständige kaufmännische und technische...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J34M6WBN2Y6R83X8P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J34M6WBN2Y6R83X8P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Naumburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Naumburg</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.24971</LocationLatitude>
+      <LocationLongitude>9.16595</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J34M6WBN2Y6R83X8P</SimilarJobsURL>
+      <JobTitle>Elektrotechniker/in; Elektromeister/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2D65YXDCV9YWSFQM</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festanstellung und Einsatz in Bruchsal! Voraussetzungen: • Spaß am Kundenkontakt und Verkauf • Sehr gute Deutschkenntnisse und sprachliches...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2D65YXDCV9YWSFQM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2D65YXDCV9YWSFQM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bruchsal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bruchsal</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.12389</LocationLatitude>
+      <LocationLongitude>8.60103</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2D65YXDCV9YWSFQM</SimilarJobsURL>
+      <JobTitle>Call-Center-Agent/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6XG75P0DKLRD4F82</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unseren Kunden, einem erfolgreichen Unternehmen aus dem Bereich Kosmetikherstellung. Anforderungsprofil: - gültigen Staplerschein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6XG75P0DKLRD4F82</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6XG75P0DKLRD4F82&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rastatt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rastatt</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.8573</LocationLatitude>
+      <LocationLongitude>8.20142</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6XG75P0DKLRD4F82</SimilarJobsURL>
+      <JobTitle>Gabelstaplerfahrer/in, Mitarbeiter/in Lagerlogistik, Fachkraft (m/w) inm Lager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0MM6J18WNN4Z54CY</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Beste Einsatzbetriebe und EURA zahlt übertarifliche Löhne! Ihre Aufgaben: - Sanitärinstallationen (Armaturen, Rohre etc.) - Badausstattung und -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0MM6J18WNN4Z54CY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0MM6J18WNN4Z54CY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bielefeld</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bielefeld</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>52.02299</LocationLatitude>
+      <LocationLongitude>8.53326</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0MM6J18WNN4Z54CY</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1176MN18Q9BQ3PC3</DID>
+      <OnetCode>51-9123.00</OnetCode>
+      <ONetFriendlyTitle>Painting, Coating, and Decorating Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Voraussetzungen: - Facharbeiter (Maler/in, Lackierer/in, Bauten- u....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1176MN18Q9BQ3PC3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1176MN18Q9BQ3PC3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bayreuth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bayreuth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.94518</LocationLatitude>
+      <LocationLongitude>11.57102</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1176MN18Q9BQ3PC3</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0T36XGFPDPXTKLZV</DID>
+      <OnetCode>29-2061.00</OnetCode>
+      <ONetFriendlyTitle>Licensed Practical and Vocational Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festanstellung und Einsatz in Regensburg! Voraussetzungen: - abgeschlossene Berufsausbildung als Gesundheits- und Krankenpfleger/in -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0T36XGFPDPXTKLZV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0T36XGFPDPXTKLZV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0T36XGFPDPXTKLZV</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H68L5VZJGGL0LNJ78</DID>
+      <OnetCode>33-9099.01</OnetCode>
+      <ONetFriendlyTitle>Transportation Security Officers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Voraussetzungen: Facharbeiterbrief, Flexibilität, Freude am Arbeiten -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H68L5VZJGGL0LNJ78</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H68L5VZJGGL0LNJ78&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Treuchtlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Treuchtlingen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.95532</LocationLatitude>
+      <LocationLongitude>10.90853</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H68L5VZJGGL0LNJ78</SimilarJobsURL>
+      <JobTitle>Schreiner/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1D879KFZ5GJFVYK2</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Halle beschäftigt Sie in Ihrer Region und zahlt übertariflich! Aufgaben: - CNC-Drehen und konventionelles Drehen - CNC-Fräsen und konventionelles...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1D879KFZ5GJFVYK2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1D879KFZ5GJFVYK2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hildesheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hildesheim</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.15085</LocationLatitude>
+      <LocationLongitude>9.95154</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1D879KFZ5GJFVYK2</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2ZM6LLX288ZWQV7J</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Beste Einsatzbetriebe und EURA zahlt übertarifliche Löhne! Ihre Aufgaben: - Montage von Fenstern u. Türen - Möbelbau und -montage - Verlegung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2ZM6LLX288ZWQV7J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2ZM6LLX288ZWQV7J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bielefeld</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bielefeld</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>52.02299</LocationLatitude>
+      <LocationLongitude>8.53326</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2ZM6LLX288ZWQV7J</SimilarJobsURL>
+      <JobTitle>Tischler/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1WL6ZBQ8LRZY782Q</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Eura Regensburg stellt fest und übertariflich bezahlt ein! Ihre Aufgaben: - transportieren und stapeln von Waren - Be- und Entladearbeiten - warten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1WL6ZBQ8LRZY782Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1WL6ZBQ8LRZY782Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aicha vorm Wald</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aicha vorm Wald</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.67185</LocationLatitude>
+      <LocationLongitude>13.29176</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1WL6ZBQ8LRZY782Q</SimilarJobsURL>
+      <JobTitle>Gabelstaplerfahrer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1KM67S88GJ38CQHH</DID>
+      <OnetCode>31-1012.00</OnetCode>
+      <ONetFriendlyTitle>Nursing Aides, Orderlies, and Attendants</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festanstellung bei EURA Medical in Regensburg! Voraussetzungen: - abgeschlossene Berufsausbildung als Altenpflegehelfer/in - einschlägige...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1KM67S88GJ38CQHH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1KM67S88GJ38CQHH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1KM67S88GJ38CQHH</SimilarJobsURL>
+      <JobTitle>Altenpflegehelfer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7486ZFSYYP5MTJX8</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Regensburg stellt fest ein und zahlt übertariflich! Ihre Aufgaben: Überwachung und Optimierung von Fertigungsprozessen Schweißen Reparatur und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7486ZFSYYP5MTJX8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7486ZFSYYP5MTJX8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7486ZFSYYP5MTJX8</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker/in; Landmaschinenmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J86Q6S488W8MZG2SD</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA beschäftigt Sie in Ihrer Region – sofort und übertariflich bezahlt! Aufgaben: - Autogen- und Spiegelschweißen, Elektroschweißen (Bleche und Rohre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J86Q6S488W8MZG2SD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J86Q6S488W8MZG2SD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J86Q6S488W8MZG2SD</SimilarJobsURL>
+      <JobTitle>Schweißer/in (geprüft)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G31F6S6MY2NPD0RXS</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir stellen Sie sofort fest ein und zahlen übertariflich! Aufgaben: - Autogen- und Spiegelschweißen - Elektroschweißen (Bleche und Rohre) - MAG / CO2...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G31F6S6MY2NPD0RXS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G31F6S6MY2NPD0RXS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G31F6S6MY2NPD0RXS</SimilarJobsURL>
+      <JobTitle>Schweißer/in (geprüft)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6KD6M0FQCTRLHJ7S</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeiten: - Montage von Baugruppen und Fertigartikeln nach geltenden Zeichnungsunterlagen - Qualitätskontrolle der Geräte - Einhalten der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6KD6M0FQCTRLHJ7S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6KD6M0FQCTRLHJ7S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Jena</Location>
+      <DisplayCity></DisplayCity>
+      <City>Jena</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.92696</LocationLatitude>
+      <LocationLongitude>11.58634</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6KD6M0FQCTRLHJ7S</SimilarJobsURL>
+      <JobTitle>Mitarbeiter (w/m) in der Produktion, Industriemechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J54P6VNL8Y5LSMVC2</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Rastatt sucht für beste Kundenbetriebe - mit übertariflichen Löhnen! Ihre Aufgaben: - Installation von Wasser- und Abwasserleitungen - Mithilfe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J54P6VNL8Y5LSMVC2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J54P6VNL8Y5LSMVC2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Haslach</Location>
+      <DisplayCity>Haslach</DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.99854</LocationLatitude>
+      <LocationLongitude>7.84965</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J54P6VNL8Y5LSMVC2</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker /in - Sanitär-, Heizungs- und Klimatechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F01P61TXTLY5MB5V3</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Aufgaben: Arbeit nach Zeichnung Haustechnik, Heizungs-, Klima- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F01P61TXTLY5MB5V3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F01P61TXTLY5MB5V3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Roth</Location>
+      <DisplayCity>Roth</DisplayCity>
+      <City>Allersberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.25133</LocationLatitude>
+      <LocationLongitude>11.23588</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F01P61TXTLY5MB5V3</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0GJ78SMKRP4K3TJR</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir stellen sofort fest ein und beschäftigen Sie in der Region!!! Tätigkeit: - Fertigung von Drehteilen für den Maschinenbau an CNC- gesteuerten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0GJ78SMKRP4K3TJR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0GJ78SMKRP4K3TJR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity>Karlsruhe</DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0GJ78SMKRP4K3TJR</SimilarJobsURL>
+      <JobTitle>CNC-Dreher/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7X869CXRYCR12JR1</DID>
+      <OnetCode>51-9195.07</OnetCode>
+      <ONetFriendlyTitle>Molding and Casting Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Einsatz bei unseren Top-Kundenunternehmen (Gießerei) – übertariflicher Lohn! Aufgaben: - Herstellung von Formen für den Sandguss - Anfertigung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7X869CXRYCR12JR1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7X869CXRYCR12JR1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stade</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stade</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>53.60197</LocationLatitude>
+      <LocationLongitude>9.4784</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7X869CXRYCR12JR1</SimilarJobsURL>
+      <JobTitle>Gießereimechaniker/in - Handformguss</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6PH6W7D8TTDH16Y5</DID>
+      <OnetCode>47-2221.00</OnetCode>
+      <ONetFriendlyTitle>Structural Iron and Steel Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Rastatt sucht zur Festanstellung ab sofort! Ihre Aufgaben: - Fertigung und Montage von Stahltreppen, Stahltragwerken und ähnlicher Konstruktionen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6PH6W7D8TTDH16Y5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6PH6W7D8TTDH16Y5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rastatt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rastatt</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.8573</LocationLatitude>
+      <LocationLongitude>8.20142</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6PH6W7D8TTDH16Y5</SimilarJobsURL>
+      <JobTitle>Metallbauer/in - Konstruktionstechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3C574W6Y2L30S7CD</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festeinstellung bei EURA Jena und Beschäftigung Ihrer Region! Voraussetzungen: - Facharbeiterbrief (Maler und Lackierer/in, Bauten- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3C574W6Y2L30S7CD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3C574W6Y2L30S7CD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erfurt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erfurt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.97768</LocationLatitude>
+      <LocationLongitude>11.02307</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3C574W6Y2L30S7CD</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1S86R4K4PLCJ0RDZ</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Aufgabengebiet: - Montage, Wartung und Reparatur von Industrietoren - Schlosser- und Elektro-Arbeiten (insb. Antriebs-, Steuerungstechnik)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1S86R4K4PLCJ0RDZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1S86R4K4PLCJ0RDZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity>Karlsruhe</DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1S86R4K4PLCJ0RDZ</SimilarJobsURL>
+      <JobTitle>Schlosser/-in mit Elektrokenntnissen als Monteur/in für Industrierolltore</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6N775JHBHDBVBCQ5</DID>
+      <OnetCode>27-3042.00</OnetCode>
+      <ONetFriendlyTitle>Technical Writers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Leipzig sucht für den Einsatz bei einem Kunden mit Sitz in Grimma. Tätigkeit: - erstellen, ändern und ergänzen von Stromlaufpläne, Aufbaupläne...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6N775JHBHDBVBCQ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6N775JHBHDBVBCQ5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grimma</Location>
+      <DisplayCity></DisplayCity>
+      <City>Grimma</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.23686</LocationLatitude>
+      <LocationLongitude>12.72936</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6N775JHBHDBVBCQ5</SimilarJobsURL>
+      <JobTitle>Technische/r Auftragsbearbeiter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6XC78DL9Y9QNVWJW</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeiten: Durchführung der Grund- und Bedarfspflege aller Pflegestufen Dokumentation Zusammenarbeit mit Angehörigen und Ärzten Einhaltung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6XC78DL9Y9QNVWJW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6XC78DL9Y9QNVWJW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rastatt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rastatt</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.8573</LocationLatitude>
+      <LocationLongitude>8.20142</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6XC78DL9Y9QNVWJW</SimilarJobsURL>
+      <JobTitle>Altenpfleger/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1LC6F7V62XBBYTN1</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeiten, welche bei unserem Kunden ausgeführt werden sollen, sind: - Prüfen und Richten von Bauteilen, Dokumentation - Ausführung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1LC6F7V62XBBYTN1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1LC6F7V62XBBYTN1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Knittlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Knittlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.02539</LocationLatitude>
+      <LocationLongitude>8.75937</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1LC6F7V62XBBYTN1</SimilarJobsURL>
+      <JobTitle>Helfer/in - spanende Metallbearbeitung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G70J67VSTYPFF7YJ4</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Halle beschäftigt Sie in Ihrer Region und zahlt übertariflich! Ihre Aufgaben: -Montage von Heizungs- und Belüftungsanlagen sowie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G70J67VSTYPFF7YJ4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G70J67VSTYPFF7YJ4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Magdeburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Magdeburg</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>52.13186</LocationLatitude>
+      <LocationLongitude>11.62778</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G70J67VSTYPFF7YJ4</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8HB6ZJKL0BHM26NF</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Übertariflicher Stundenlohn und Einsatz bei unseren Kunden im Düsseldorfer Raum! Aufgaben: - Heizungs- und Lüftungsbau auf Groß- und Kleinbaustellen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F8HB6ZJKL0BHM26NF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8HB6ZJKL0BHM26NF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Düsseldorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Düsseldorf</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.21563</LocationLatitude>
+      <LocationLongitude>6.77604</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8HB6ZJKL0BHM26NF</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker /in - Sanitär-, Heizungs- und Klimatechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7FJ68LT1QWHN65S8</DID>
+      <OnetCode>31-1012.00</OnetCode>
+      <ONetFriendlyTitle>Nursing Aides, Orderlies, and Attendants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unsere Kunden in Halle und Umgebung ab sofort. Das bringen Sie mit: - Ausbildung zum/zur Altenpflegehelfer/in, Gesundheits- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7FJ68LT1QWHN65S8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7FJ68LT1QWHN65S8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Halle (Saale)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Halle (Saale)</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>51.48129</LocationLatitude>
+      <LocationLongitude>11.97546</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7FJ68LT1QWHN65S8</SimilarJobsURL>
+      <JobTitle>Altenpflegehelfer (m/w) für den stationären und ambulanten Dienst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2136YKMY6154S4DG</DID>
+      <OnetCode>47-2152.02</OnetCode>
+      <ONetFriendlyTitle>Plumbers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Leipzig zahlt übertariflich und bietet einen sicheren Arbeitsplatz in Ihrer Stadt/Region! Aufgaben: - Sanitärinstallationen (Armaturen, Rohre etc...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2136YKMY6154S4DG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2136YKMY6154S4DG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mainz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mainz</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>50.0006</LocationLatitude>
+      <LocationLongitude>8.2723</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2136YKMY6154S4DG</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1BJ6S4025QF96FZN</DID>
+      <OnetCode>49-2022.00</OnetCode>
+      <ONetFriendlyTitle>Telecommunications Equipment Installers and Repairers, Except Line Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeit: Installation und Montage von datentechnischen Anlagen und Glasfaserkabeln in mobilen Teams Voraussetzungen: Berufsabschluss als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1BJ6S4025QF96FZN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1BJ6S4025QF96FZN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Magdeburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Magdeburg</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>52.13186</LocationLatitude>
+      <LocationLongitude>11.62778</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1BJ6S4025QF96FZN</SimilarJobsURL>
+      <JobTitle>Kommunikationselektroniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3J16N96G1K2SXMCR</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort, übertarifliche Bezahlung und Einsatz in Ihrer Nähe! Voraussetzungen: Facharbeiterbrief, Flexibilität, Freude am Arbeiten -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3J16N96G1K2SXMCR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3J16N96G1K2SXMCR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3J16N96G1K2SXMCR</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5VB79F6D0WZN33B2</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige unbefristete Festanstellung und Einsatz in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: - allg. Heizungsinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5VB79F6D0WZN33B2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5VB79F6D0WZN33B2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dresden</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dresden</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.05363</LocationLatitude>
+      <LocationLongitude>13.74081</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5VB79F6D0WZN33B2</SimilarJobsURL>
+      <JobTitle>Heizungsmonteur/in; Heizungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3X86YYD0HYCLL0VY</DID>
+      <OnetCode>51-9195.07</OnetCode>
+      <ONetFriendlyTitle>Molding and Casting Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Einsatz bei unseren Top-Kundenunternehmen (Gießerei) – übertariflicher Lohn! Aufgaben: - Herstellung von Formen für den Sandguss - Anfertigung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3X86YYD0HYCLL0VY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3X86YYD0HYCLL0VY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lübeck</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lübeck</City>
+      <State>SCHLESWIG-HOLSTEIN</State>
+      <LocationLatitude>53.86627</LocationLatitude>
+      <LocationLongitude>10.68088</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3X86YYD0HYCLL0VY</SimilarJobsURL>
+      <JobTitle>Gießereimechaniker/in - Handformguss</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8D06XWFDMMCNJNFS</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Beste Einsatzbetriebe und EURA zahlt übertarifliche Löhne! Ihre Aufgaben: - Sanitärinstallationen (Armaturen, Rohre etc.) - Badausstattung und -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8D06XWFDMMCNJNFS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8D06XWFDMMCNJNFS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Detmold</Location>
+      <DisplayCity></DisplayCity>
+      <City>Detmold</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.93491</LocationLatitude>
+      <LocationLongitude>8.8793</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8D06XWFDMMCNJNFS</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5DL6VY991WYZYLXR</DID>
+      <OnetCode>51-4031.00</OnetCode>
+      <ONetFriendlyTitle>Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Bruchsal stellt fest und unbefristet ein!! Aufgaben - Rüstung und Betrieb von Bruderer Automaten inkl. Peripherie wie Wickler, Schweiß- automaten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5DL6VY991WYZYLXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5DL6VY991WYZYLXR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pforzheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pforzheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.89013</LocationLatitude>
+      <LocationLongitude>8.70025</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5DL6VY991WYZYLXR</SimilarJobsURL>
+      <JobTitle>Einrichter (m/w) Bruderer Stanzautomaten</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1V86Y0091Q9T2NB8</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Halle beschäftigt Sie in Ihrer Region und zahlt übertariflich! Ihre Aufgaben: - Allg. Heizungsinstallationen auf Groß- und Kleinbaustellen -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1V86Y0091Q9T2NB8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1V86Y0091Q9T2NB8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1V86Y0091Q9T2NB8</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4B66GL3YBDKPTDST</DID>
+      <OnetCode>49-9099.00</OnetCode>
+      <ONetFriendlyTitle>Installation, Maintenance, and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Werden Sie jetzt EURA - Mitarbeiter! Ihre Tätigkeiten kann nachfolgende Aufgaben umfassen: - Arbeiten auf Baustellen und in Werkstätten unserer Kunden...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4B66GL3YBDKPTDST</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4B66GL3YBDKPTDST&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vaihingen an der Enz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vaihingen an der Enz</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.93382</LocationLatitude>
+      <LocationLongitude>8.96041</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4B66GL3YBDKPTDST</SimilarJobsURL>
+      <JobTitle>Tischler/in, Holzmechaniker/in, Schreiner/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2JC71LTM29LTKJDD</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unsere Kunden in Leipzig und Umgebung ab sofort. Das sind Ihre Tätigkeiten: - Durchführung der Grund- und Bedarfspflege aller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2JC71LTM29LTKJDD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2JC71LTM29LTKJDD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2JC71LTM29LTKJDD</SimilarJobsURL>
+      <JobTitle>Altenpfleger (m/w) für die stationäre Pflege</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2TP72JR85FDJCTHY</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Voraussetzungen: Facharbeiter (Zerspanungsmechaniker/in, Metallbauer/in,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2TP72JR85FDJCTHY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2TP72JR85FDJCTHY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fürth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fürth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4832</LocationLatitude>
+      <LocationLongitude>10.973</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2TP72JR85FDJCTHY</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F12J6LRKJS3PPFC20</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Halle beschäftigt Sie in Ihrer Region und zahlt übertariflich! Ihre Aufgaben: -Montage von Heizungs- und Belüftungsanlagen sowie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F12J6LRKJS3PPFC20</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F12J6LRKJS3PPFC20&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bremen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bremen</City>
+      <State>BREMEN</State>
+      <LocationLatitude>53.07516</LocationLatitude>
+      <LocationLongitude>8.80466</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F12J6LRKJS3PPFC20</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G36X6X7VMWTCHZ7BW</DID>
+      <OnetCode>29-2061.00</OnetCode>
+      <ONetFriendlyTitle>Licensed Practical and Vocational Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für verschiedene Pflegezentren und Altenheime im Raum Bruchsal – Sofortige Festanstellung bei EURA Medical ! Ihre Aufgaben: - Grund- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G36X6X7VMWTCHZ7BW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G36X6X7VMWTCHZ7BW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bruchsal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bruchsal</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.12389</LocationLatitude>
+      <LocationLongitude>8.60103</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G36X6X7VMWTCHZ7BW</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger/in, examiniert und nicht examiniert</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0QV6LL4DX3F06SM2</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Operationsdienst – Sofortige Festanstellung! (Instrumentierende OP-Fachpflegekräfte mgl. mit Fachweiterbildung für den Zentral – OP -Bereich in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0QV6LL4DX3F06SM2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0QV6LL4DX3F06SM2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0QV6LL4DX3F06SM2</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger/in - Operationsdienst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6V9790TXBVW4M538</DID>
+      <OnetCode>51-9195.07</OnetCode>
+      <ONetFriendlyTitle>Molding and Casting Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unsere Top-Kunden aus dem Bereich Gießereien! Wir zahlen übertariflich! Ihre Tätigkeit umfasst folgende Aufgaben: - Herstellung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6V9790TXBVW4M538</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6V9790TXBVW4M538&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lübeck</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lübeck</City>
+      <State>SCHLESWIG-HOLSTEIN</State>
+      <LocationLatitude>53.86627</LocationLatitude>
+      <LocationLongitude>10.68088</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6V9790TXBVW4M538</SimilarJobsURL>
+      <JobTitle>Gießereimechaniker/in - Handformguss</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6JG6DMQJV8BS0FLX</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Halle beschäftigt Sie in Ihrer Region und zahlt übertariflich! Aufgaben: - CNC-Drehen und konventionelles Drehen - CNC-Fräsen und konventionelles...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6JG6DMQJV8BS0FLX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6JG6DMQJV8BS0FLX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Salzgitter</Location>
+      <DisplayCity></DisplayCity>
+      <City>Salzgitter</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.15329</LocationLatitude>
+      <LocationLongitude>10.33318</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6JG6DMQJV8BS0FLX</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6H16W0HZF2B3NV29</DID>
+      <OnetCode>17-3023.03</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena bietet einen sicheren und übertariflich bezahlten Arbeitsplatz - jetzt in Eisenach! Ihre Aufgabe - selbstständige kaufmännische und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6H16W0HZF2B3NV29</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6H16W0HZF2B3NV29&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eisenach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eisenach</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.97439</LocationLatitude>
+      <LocationLongitude>10.32542</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6H16W0HZF2B3NV29</SimilarJobsURL>
+      <JobTitle>Elektrotechniker/in; Elektromeister/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2936BD6LC3DTDMLL</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns finden Sie langfristig Arbeit! Für den Einsatz bei renommierten Kundenunternehmen im Großraum München und der näheren Umgebung, suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2936BD6LC3DTDMLL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2936BD6LC3DTDMLL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2936BD6LC3DTDMLL</SimilarJobsURL>
+      <JobTitle>Schreiner/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4L66BMTTG4L3121S</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige unbefristete Festanstellung und Einsatz in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: - allg. Heizungsinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4L66BMTTG4L3121S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4L66BMTTG4L3121S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4L66BMTTG4L3121S</SimilarJobsURL>
+      <JobTitle>Heizungsmonteur/in; Heizungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H43C683MPC3NT71MJ</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Regensburg stellt sofort fest ein und zahlt übertariflich! Ihre Tätigkeit: Möbelbau und -montage hobeln und schleifen montieren von Einbaumöbel,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H43C683MPC3NT71MJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H43C683MPC3NT71MJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tittmoning</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tittmoning</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.06301</LocationLatitude>
+      <LocationLongitude>12.76668</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H43C683MPC3NT71MJ</SimilarJobsURL>
+      <JobTitle>Schreiner/in; Tischler/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6ZL6HF867CHMTF44</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Die EURA Leipzig stellt ab sofort unbefristet und zu besten Konditionen ein. Aufgaben: - Fahrzeuginstandsetzung - Fahrzeugumbauten - Arbeiten an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6ZL6HF867CHMTF44</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6ZL6HF867CHMTF44&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6ZL6HF867CHMTF44</SimilarJobsURL>
+      <JobTitle>KFZ-Mechaniker/in; KFZ-Mechatroniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1915YHH7Z0605TWZ</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns finden Sie langfristig Arbeit! Für den Einsatz bei renommierten Kundenunternehmen im Großraum München und der näheren Umgebung, suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1915YHH7Z0605TWZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1915YHH7Z0605TWZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erding</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erding</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.30871</LocationLatitude>
+      <LocationLongitude>11.90818</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1915YHH7Z0605TWZ</SimilarJobsURL>
+      <JobTitle>Maler/in und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H25J66CK1W27H6BCK</DID>
+      <OnetCode>29-1111.03</OnetCode>
+      <ONetFriendlyTitle>Critical Care Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Voraussetzungen: - abgeschlossene Berufsausbildung als Gesundheits- und Krankenpfleger/in - examiniert - einschlägige Berufserfahrung -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H25J66CK1W27H6BCK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H25J66CK1W27H6BCK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H25J66CK1W27H6BCK</SimilarJobsURL>
+      <JobTitle>Fachkrankenschwester/-pfleger - Intensivpfl./Anäst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3486S59JHNBJM4FJ</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Aufgaben: Arbeit nach Zeichnung Haustechnik, Heizungs-, Klima- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3486S59JHNBJM4FJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3486S59JHNBJM4FJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Schwabach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Schwabach</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.3291</LocationLatitude>
+      <LocationLongitude>11.02269</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3486S59JHNBJM4FJ</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1ZZ79H2JFPZ2KFHC</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Energy sucht ab sofort für den Einsatz bei einem TOP-Kunden in der Nähe von Hagen! Ihre Aufgabe: - Vorbereitung und die Durchführung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1ZZ79H2JFPZ2KFHC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1ZZ79H2JFPZ2KFHC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hagen</Location>
+      <DisplayCity>Hagen</DisplayCity>
+      <City>Herbecke</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.23333</LocationLatitude>
+      <LocationLongitude>7.51667</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1ZZ79H2JFPZ2KFHC</SimilarJobsURL>
+      <JobTitle>Schlosser/Schweißer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7PF79CHDZDTWTHM3</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena stellt sofort fest ein!! Aufgaben: Sanitärinstallationen (Armaturen, Rohre etc.) Badausstattung und -Sanierung Abwasserinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7PF79CHDZDTWTHM3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7PF79CHDZDTWTHM3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7PF79CHDZDTWTHM3</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5D369NBKYQSQJ86B</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Anlagenmechaniker H S K (m/w) Jede/r Mitarbeiterin/er wird, seinen Kenntnissen entsprechend , bei nachfolgenden Tätigkeiten eingesetzt: ¡ Verrohrung (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G5D369NBKYQSQJ86B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5D369NBKYQSQJ86B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ebersberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ebersberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.07842</LocationLatitude>
+      <LocationLongitude>11.96855</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5D369NBKYQSQJ86B</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker /in - Sanitär-, Heizungs- und Kl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1C9697KMKSJXZZ00</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA zahlt übertarifliche Löhne! Aufgaben: - Innen- und Außenanstrich, Sandstrahlen, Vollwärmeschutz, Wärmedämmung - Tapezieren, Böden verlegen (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1C9697KMKSJXZZ00</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1C9697KMKSJXZZ00&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bielefeld</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bielefeld</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>52.02299</LocationLatitude>
+      <LocationLongitude>8.53326</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1C9697KMKSJXZZ00</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1VN67VS8MTDMQ8GF</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sprinkler –und Lüftungsmonteur (m/w) Ihre Aufgaben: § Montage von Lüftungsanlagen, -Kanälen und –Rohren § Montage von Sprinkleranlagen § Hart- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1VN67VS8MTDMQ8GF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1VN67VS8MTDMQ8GF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1VN67VS8MTDMQ8GF</SimilarJobsURL>
+      <JobTitle>Lüftungs-/Sprinkler-Monteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H78Q63SJ93JYHD049</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeit für Neu- und Wiedereinsteiger &amp; für Berufserfahrene - in und um Plauen! Voraussetzungen: - Facharbeiterbrief (Maler und Lackierer/in, Bauten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H78Q63SJ93JYHD049</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H78Q63SJ93JYHD049&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Plauen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Plauen</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>50.494</LocationLatitude>
+      <LocationLongitude>12.1357</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H78Q63SJ93JYHD049</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6XD6ZK7J3CF7SBL8</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Halle beschäftigt Sie in Ihrer Region und zahlt übertariflich! Aufgaben: - CNC-Drehen und konventionelles Drehen - CNC-Fräsen und konventionelles...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6XD6ZK7J3CF7SBL8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6XD6ZK7J3CF7SBL8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6XD6ZK7J3CF7SBL8</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3GX6VHM1758XVXK1</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Aufgabengebiet: - Montage, Wartung und Reparatur von Industrietoren - Schlosser- und Elektro-Arbeiten (insb. Antriebs-, Steuerungstechnik)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3GX6VHM1758XVXK1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3GX6VHM1758XVXK1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3GX6VHM1758XVXK1</SimilarJobsURL>
+      <JobTitle>Schlosser/-in mit Elektrokenntnissen als Monteur/in für Industrierolltore</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5176JN0Z0H92SXHC</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Eura Regensburg stellt fest ein und beschäftigt Sie in Ihrer Region! Aufgaben: - Überwachung und Optimierung von Fertigungsprozessen - Schweißen -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5176JN0Z0H92SXHC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5176JN0Z0H92SXHC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Straubing</Location>
+      <DisplayCity></DisplayCity>
+      <City>Straubing</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.88143</LocationLatitude>
+      <LocationLongitude>12.57372</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5176JN0Z0H92SXHC</SimilarJobsURL>
+      <JobTitle>Industriemechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4JB5XQXR7LWCTFFQ</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung bei EURA Jena und Einsatz in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: Allg. Heizungsinstallationen auf Groß-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4JB5XQXR7LWCTFFQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4JB5XQXR7LWCTFFQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Heilbronn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Heilbronn</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.14314</LocationLatitude>
+      <LocationLongitude>9.21929</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4JB5XQXR7LWCTFFQ</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in, Heizungsmonteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H13W61HSN15GWZY8F</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unseren Kunden in Karlsruhe ab sofort und in Vollzeit. Ihr Profil: - Delphi/C++ für Kaufmännische Anwendungsentwicklung - Gute PL/SQL (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H13W61HSN15GWZY8F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H13W61HSN15GWZY8F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity>Karlsruhe</DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H13W61HSN15GWZY8F</SimilarJobsURL>
+      <JobTitle>Anwendungsprogrammierer (m/w) in Vollzeit</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>postgresql</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>object pascal</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H857644PMPRTVRSRJ</DID>
+      <OnetCode>33-9099.01</OnetCode>
+      <ONetFriendlyTitle>Transportation Security Officers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Voraussetzungen: Facharbeiterbrief, Flexibilität, Freude am Arbeiten -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H857644PMPRTVRSRJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H857644PMPRTVRSRJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Weißenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Weißenburg</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.73333</LocationLatitude>
+      <LocationLongitude>11.45</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H857644PMPRTVRSRJ</SimilarJobsURL>
+      <JobTitle>Schreiner/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7WR5VN93LRFL65NT</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena bietet einen sicheren und übertariflich bezahlten Arbeitsplatz - jetzt! Ihre Tätigkeit: - selbstständige Ausführung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7WR5VN93LRFL65NT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7WR5VN93LRFL65NT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saalfeld/Saale</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saalfeld/Saale</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.64968</LocationLatitude>
+      <LocationLongitude>11.35848</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7WR5VN93LRFL65NT</SimilarJobsURL>
+      <JobTitle>Elektroinstallateur/in; Elektriker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1FD60MJ70XRFSMV7</DID>
+      <OnetCode>51-4072.00</OnetCode>
+      <ONetFriendlyTitle>Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unsere Top-Kunden aus dem Bereich Gießereien! Wir zahlen übertariflich! Ihre Tätigkeit umfasst folgende Aufgaben: - Entgraten und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1FD60MJ70XRFSMV7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1FD60MJ70XRFSMV7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lübeck</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lübeck</City>
+      <State>SCHLESWIG-HOLSTEIN</State>
+      <LocationLatitude>53.86627</LocationLatitude>
+      <LocationLongitude>10.68088</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1FD60MJ70XRFSMV7</SimilarJobsURL>
+      <JobTitle>Helfer/in - spanende Metallbearbeitung, Guss-Putzer/in, Entgrater/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4KF61R9BY2KQN65R</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Einsatz bei renommierten Kundenunternehmen in München und Umgebung suchen wir: Holzmechaniker /in Jeder Mitarbeiter wird von uns, seinen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4KF61R9BY2KQN65R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4KF61R9BY2KQN65R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erding</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erding</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.30871</LocationLatitude>
+      <LocationLongitude>11.90818</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4KF61R9BY2KQN65R</SimilarJobsURL>
+      <JobTitle>Holzmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4CQ6CJGTV96FZQGF</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Rastatt sucht für beste Kundenbetriebe - mit übertariflichen Löhnen! Ihre Aufgaben: - Installation von Wasser- und Abwasserleitungen - Mithilfe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4CQ6CJGTV96FZQGF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4CQ6CJGTV96FZQGF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kippenheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kippenheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.29441</LocationLatitude>
+      <LocationLongitude>7.82466</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4CQ6CJGTV96FZQGF</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker /in - Sanitär-, Heizungs- und Klimatechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4N16BF7ML44LYH0F</DID>
+      <OnetCode>47-4099.01</OnetCode>
+      <ONetFriendlyTitle>Solar Photovoltaic Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Regensburg stellt fest ein und zahlt überdurchschnittlich gut! Ihr Profil: - Berufsausbildung zum/zur Elektroinstallateur/in oder...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4N16BF7ML44LYH0F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4N16BF7ML44LYH0F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4N16BF7ML44LYH0F</SimilarJobsURL>
+      <JobTitle>Servicetechniker/in; Monteur/in Photovoltaik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H78W651SW7V31MFGL</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Leipzig zahlt übertariflich - jetzt für den Einsatz bei besten Kunden im Stuttgarter Raum! Ihre Aufgaben: - Industrie- und Hausinstallationen -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H78W651SW7V31MFGL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H78W651SW7V31MFGL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H78W651SW7V31MFGL</SimilarJobsURL>
+      <JobTitle>Elektroniker/in - Energie- und Gebäudetechnik, Elektriker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0MG6HT5SHLXNQBTP</DID>
+      <OnetCode>43-5071.00</OnetCode>
+      <ONetFriendlyTitle>Shipping, Receiving, and Traffic Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere Logistikkunden in und um Regensburg suchen wir ab sofort ! Tätigkeitsbereiche: Auftragsbearbeitung Erstellung und Abwicklung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0MG6HT5SHLXNQBTP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0MG6HT5SHLXNQBTP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0MG6HT5SHLXNQBTP</SimilarJobsURL>
+      <JobTitle>Speditionskaufmann/-frau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7QP6NBYDKXR37H0X</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige unbefristete Festanstellung und Einsatz in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: - allg. Heizungsinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7QP6NBYDKXR37H0X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7QP6NBYDKXR37H0X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Koblenz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Koblenz</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>50.36079</LocationLatitude>
+      <LocationLongitude>7.59279</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7QP6NBYDKXR37H0X</SimilarJobsURL>
+      <JobTitle>Heizungsmonteur/in; Heizungsbauer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8CQ6HFHVG2MCWCPQ</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festeinstellung bei uns und Beschäftigung in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: - Selbstständige Ausführung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J8CQ6HFHVG2MCWCPQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8CQ6HFHVG2MCWCPQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erfurt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erfurt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.97768</LocationLatitude>
+      <LocationLongitude>11.02307</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8CQ6HFHVG2MCWCPQ</SimilarJobsURL>
+      <JobTitle>Elektroniker/in - Energie- und Gebäudetechnik, Elektriker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4V76S8YNPGJS9JFK</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung bei EURA Jena und Einsatz in Ihrer Region! Ihre Tätigkeit kann nachfolgende Aufgaben umfassen: Allg. Heizungsinstallationen auf Groß-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4V76S8YNPGJS9JFK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4V76S8YNPGJS9JFK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Naumburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Naumburg</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.24971</LocationLatitude>
+      <LocationLongitude>9.16595</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4V76S8YNPGJS9JFK</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer/in, Heizungsmonteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7YS7371KR45V94XQ</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns finden Sie langfristig Arbeit! Für den Einsatz bei renommierten Kundenunternehmen im Großraum München und der näheren Umgebung, suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7YS7371KR45V94XQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7YS7371KR45V94XQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Germering</Location>
+      <DisplayCity></DisplayCity>
+      <City>Germering</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13466</LocationLatitude>
+      <LocationLongitude>11.36318</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7YS7371KR45V94XQ</SimilarJobsURL>
+      <JobTitle>Maler/in und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0QS667CPF8J4GBKN</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena stellt sofort fest ein!! Aufgaben: Sanitärinstallationen (Armaturen, Rohre etc.) Badausstattung und -Sanierung Abwasserinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0QS667CPF8J4GBKN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0QS667CPF8J4GBKN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rudolstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rudolstadt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.71964</LocationLatitude>
+      <LocationLongitude>11.3456</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0QS667CPF8J4GBKN</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1W476LR9QSW63GG0</DID>
+      <OnetCode>29-2061.00</OnetCode>
+      <ONetFriendlyTitle>Licensed Practical and Vocational Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Medical beschäftigt Sie in Ihrer Region! Voraussetzungen: - abgeschlossene Berufsausbildung als Gesundheits- und Krankenpfleger/in - examiniert...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1W476LR9QSW63GG0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1W476LR9QSW63GG0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stralsund</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stralsund</City>
+      <State>MECKLENBURG-VORPOMMERN</State>
+      <LocationLatitude>54.31574</LocationLatitude>
+      <LocationLongitude>13.09085</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1W476LR9QSW63GG0</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0QP6KZCP9PMZMRHS</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Tätigkeit für Neu- und Wiedereinsteiger &amp; für Berufserfahrene - in und um Köln! Voraussetzungen: - Facharbeiterbrief (Maler und Lackierer/in, Bauten-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0QP6KZCP9PMZMRHS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0QP6KZCP9PMZMRHS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0QP6KZCP9PMZMRHS</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3D96DV37RS7HHV8Z</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena stellt sofort fest ein!! Aufgaben: Sanitärinstallationen (Armaturen, Rohre etc.) Badausstattung und -Sanierung Abwasserinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3D96DV37RS7HHV8Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3D96DV37RS7HHV8Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Apolda</Location>
+      <DisplayCity></DisplayCity>
+      <City>Apolda</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>51.02316</LocationLatitude>
+      <LocationLongitude>11.5096</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3D96DV37RS7HHV8Z</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4SY6M4FSH51NKJZ2</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Festanstellung ab sofort bei EURA Nürnberg – bei übertariflicher Bezahlung! Voraussetzungen: - Facharbeiter (Maler/in, Lackierer/in, Bauten- u....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4SY6M4FSH51NKJZ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4SY6M4FSH51NKJZ2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erlangen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erlangen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.59795</LocationLatitude>
+      <LocationLongitude>11.00258</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4SY6M4FSH51NKJZ2</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0WJ735ZBYXLM718F</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>EURA Jena stellt sofort fest ein!! Aufgaben: Sanitärinstallationen (Armaturen, Rohre etc.) Badausstattung und -Sanierung Abwasserinstallationen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0WJ735ZBYXLM718F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0WJ735ZBYXLM718F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Arnstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Arnstadt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.8355</LocationLatitude>
+      <LocationLongitude>10.94853</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0WJ735ZBYXLM718F</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G39X6S7KXWP5DXTJG</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sofortige Festeinstellung bei EURA Jena und Beschäftigung in und um Jena! Sie besitzen: - gültige Schweißerpässe (TÜV) der Werkstoffgruppen 5 und 6 -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G39X6S7KXWP5DXTJG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G39X6S7KXWP5DXTJG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Jena</Location>
+      <DisplayCity></DisplayCity>
+      <City>Jena</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.92696</LocationLatitude>
+      <LocationLongitude>11.58634</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G39X6S7KXWP5DXTJG</SimilarJobsURL>
+      <JobTitle>WIG - Schweißer/in (geprüft)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4VR6G72DL86ZJP0P</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Elektroanlagenmonteur (m/w) Jede/r Mitarbeiterin/er wird, seinen Kenntnissen entsprechend , bei nachfolgenden Tätigkeiten eingesetzt: ¡...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4VR6G72DL86ZJP0P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4VR6G72DL86ZJP0P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dachau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dachau</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.25941</LocationLatitude>
+      <LocationLongitude>11.43434</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4VR6G72DL86ZJP0P</SimilarJobsURL>
+      <JobTitle>Elektroanlagenmonteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J03N73M3G475R1TT3</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns finden Sie langfristig Arbeit! Für den Einsatz bei renommierten Kundenunternehmen im Großraum München und der näheren Umgebung, suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J03N73M3G475R1TT3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J03N73M3G475R1TT3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/15/2015</PostedDate>
+      <PostedTime>1/15/2015 2:21:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J03N73M3G475R1TT3</SimilarJobsURL>
+      <JobTitle>Maler-Gehilfe/-Gehilfin</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

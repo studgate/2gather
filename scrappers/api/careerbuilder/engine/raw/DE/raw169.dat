@@ -1,0 +1,3359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 12:00:36 PM</TimeResponseSent>
+  <TimeElapsed>0.4056</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37866</TotalCount>
+  <FirstItemIndex>16801</FirstItemIndex>
+  <LastItemIndex>16900</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1X26QR2DYGXVBS2B</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>für den Einsatz bei einem renommierten Kundenunternehmen in der Region Halle (Saale) – Leipzig. Jede/r Mitarbeiterin/er wird von uns, seinen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1X26QR2DYGXVBS2B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1X26QR2DYGXVBS2B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Halle (Saale)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Halle (Saale)</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>51.48129</LocationLatitude>
+      <LocationLongitude>11.97546</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1X26QR2DYGXVBS2B</SimilarJobsURL>
+      <JobTitle>Elektro-Installateur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MBP625636SKMT8C2QXH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1T26BQ0P4MR0STRD</DID>
+      <OnetCode>11-3011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Services Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, in Frankfurt am Main, suchen wir ab sofort oder später einen Objektleiter im Bereich Facility...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1T26BQ0P4MR0STRD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1T26BQ0P4MR0STRD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1T26BQ0P4MR0STRD</SimilarJobsURL>
+      <JobTitle>Objektleiter (m/w) Facility Management - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1RM6PY3WYBCM3C3M</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere Kunden in Esslingen suchen wir ab sofort Kinderkrankenpfleger (m/w) oder Gesundheits- und Kinderkrankenpfleger (m/w). Kinderkrankenpfleger...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1RM6PY3WYBCM3C3M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1RM6PY3WYBCM3C3M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Esslingen am Neckar</Location>
+      <DisplayCity></DisplayCity>
+      <City>Esslingen am Neckar</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.74228</LocationLatitude>
+      <LocationLongitude>9.30576</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1RM6PY3WYBCM3C3M</SimilarJobsURL>
+      <JobTitle>Kinderkrankenpfleger (m/w) - Esslingen am Neckar</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1TZ5VJ9X6CJ94PZP</DID>
+      <OnetCode>51-2022.00</OnetCode>
+      <ONetFriendlyTitle>Electrical and Electronic Equipment Assemblers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für langfristige Einsätze mit Option auf Übernahme in ein Festanstellungsverhältnis bei unserem langjährigen Kunden in der Nähe von Herrsching am...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1TZ5VJ9X6CJ94PZP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1TZ5VJ9X6CJ94PZP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Herrsching a. Ammersee</Location>
+      <DisplayCity>Herrsching a. Ammersee</DisplayCity>
+      <City>Herrsching am Ammersee</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.99879</LocationLatitude>
+      <LocationLongitude>11.17619</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1TZ5VJ9X6CJ94PZP</SimilarJobsURL>
+      <JobTitle>SMD Löter/ Leiterbestückung (m/w) - Option auf Übernahme - Herrsching am Ammersee</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1TN6C7GBFXGSVRR1</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem nationalen Unternehmen aus dem Bereich Industriedienstleistungen mit Sitz in Regensburg zu arbeiten? Dann...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1TN6C7GBFXGSVRR1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1TN6C7GBFXGSVRR1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1TN6C7GBFXGSVRR1</SimilarJobsURL>
+      <JobTitle>Mechatroniker (w/m) - Regensburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1SS67MMGCKV7LNGG</DID>
+      <OnetCode>49-3042.00</OnetCode>
+      <ONetFriendlyTitle>Mobile Heavy Equipment Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in Kelheim suchen wir zum nächstmöglichen Zeitpunkt mehrere Konstruktionsmechaniker/innen....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1SS67MMGCKV7LNGG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1SS67MMGCKV7LNGG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.91614</LocationLatitude>
+      <LocationLongitude>11.8705</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1SS67MMGCKV7LNGG</SimilarJobsURL>
+      <JobTitle>Konstruktionsmechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1T77172SPPMPBRRS</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1T77172SPPMPBRRS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1T77172SPPMPBRRS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laupheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laupheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.22944</LocationLatitude>
+      <LocationLongitude>9.88466</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1T77172SPPMPBRRS</SimilarJobsURL>
+      <JobTitle>Betriebselektrotechniker/in - Chemie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1RG5VKMP1QW50X25</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unseren Kunden im Anlagen- und Behälterbau in Freising bei München suchen wir zum nächstmöglichen Zeitpunkt einen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1RG5VKMP1QW50X25</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1RG5VKMP1QW50X25&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freising</Location>
+      <DisplayCity></DisplayCity>
+      <City>Freising</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.40079</LocationLatitude>
+      <LocationLongitude>11.74376</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1RG5VKMP1QW50X25</SimilarJobsURL>
+      <JobTitle>Prüfer Wareneingang (m/w) - Freising</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1QL6B14W2WZ5VW1B</DID>
+      <OnetCode>51-9121.00</OnetCode>
+      <ONetFriendlyTitle>Coating, Painting, and Spraying Machine Setters, Operators, and Tenders</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1QL6B14W2WZ5VW1B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1QL6B14W2WZ5VW1B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Wertheim</Location>
+      <DisplayCity>Raum Wertheim</DisplayCity>
+      <City>Kreuzwertheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.7861</LocationLatitude>
+      <LocationLongitude>9.52961</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1QL6B14W2WZ5VW1B</SimilarJobsURL>
+      <JobTitle>Fahrzeuglackierer (m/w) / Industrielackierer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1PV6QNRDBLX8085K</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1PV6QNRDBLX8085K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1PV6QNRDBLX8085K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laupheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laupheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.22944</LocationLatitude>
+      <LocationLongitude>9.88466</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1PV6QNRDBLX8085K</SimilarJobsURL>
+      <JobTitle>Automatisierungstechniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>SCADA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Help3000</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1M1770CQ21MNLVSD</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden in der Münchner Innenstadt suchen wir ab sofort: eine/n Lohn- und Finanzbuchhalter/in. Ihre Aufgaben: - Buchhalterische Erfassung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1M1770CQ21MNLVSD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1M1770CQ21MNLVSD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1M1770CQ21MNLVSD</SimilarJobsURL>
+      <JobTitle>Lohn- und Finanzbuchhalter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HQ/M0W1V970Q8W5Z8F86HQ.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1N86ZJFCGHQB5JY5</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in Schwaig suchen wir zum nächstmöglichen Zeitpunkt eine/n Elektroniker/in. Elektroniker / SMD...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1N86ZJFCGHQB5JY5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1N86ZJFCGHQB5JY5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberding</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberding</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.32226</LocationLatitude>
+      <LocationLongitude>11.8457</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1N86ZJFCGHQB5JY5</SimilarJobsURL>
+      <JobTitle>Elektroniker / SMD Bestücker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1CK5W0G0K0JQMW6S</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Klink-Kunden suchen wir zum nächstmöglichen Zeitpunkt eine weitere Fachkraft (m/w) für die intensiv-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1CK5W0G0K0JQMW6S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1CK5W0G0K0JQMW6S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1CK5W0G0K0JQMW6S</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (m/w) - Stuttgart</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1GB6KY344BC72R04</DID>
+      <OnetCode>17-2021.00</OnetCode>
+      <ONetFriendlyTitle>Agricultural Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Im Auftrag unseres Kunden suchen wir motivierte und kompetente Mitarbeiter m/w zur festen Übernahme. Servicetechniker für Bau- und Landmaschinen (m/w...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1GB6KY344BC72R04</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1GB6KY344BC72R04&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erlangen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erlangen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.59795</LocationLatitude>
+      <LocationLongitude>11.00258</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1GB6KY344BC72R04</SimilarJobsURL>
+      <JobTitle>Servicetechniker für Bau- und Landmaschinen (m/w) - direkte Übernahme - Erlangen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1JX6V0PQKHQVVLKR</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1JX6V0PQKHQVVLKR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1JX6V0PQKHQVVLKR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Memmingen</Location>
+      <DisplayCity>Raum Memmingen</DisplayCity>
+      <City>Memmingen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.9776</LocationLatitude>
+      <LocationLongitude>10.1671</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1JX6V0PQKHQVVLKR</SimilarJobsURL>
+      <JobTitle>Schreiner/in (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1K75W8C9KK225S96</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1K75W8C9KK225S96</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1K75W8C9KK225S96&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Schwäbisch Hall</Location>
+      <DisplayCity>Schwäbisch Hall</DisplayCity>
+      <City>Schwäbisch Hall</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.11331</LocationLatitude>
+      <LocationLongitude>9.74605</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1K75W8C9KK225S96</SimilarJobsURL>
+      <JobTitle>Servicemonteure (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1K068VPHTCYNW0CG</DID>
+      <OnetCode>13-2072.00</OnetCode>
+      <ONetFriendlyTitle>Loan Officers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1K068VPHTCYNW0CG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1K068VPHTCYNW0CG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Flörsheim am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Flörsheim am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.00969</LocationLatitude>
+      <LocationLongitude>8.42414</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1K068VPHTCYNW0CG</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in - Immobilienfinanzierung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1866KH66MK80VXKZ</DID>
+      <OnetCode>49-9094.00</OnetCode>
+      <ONetFriendlyTitle>Locksmiths and Safe Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in CHam suchen wir zum nächstmöglichen Zeitpunkt einen Betriebsschlosser (m/w) in 3-Schicht....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1866KH66MK80VXKZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1866KH66MK80VXKZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cham</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cham</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.22047</LocationLatitude>
+      <LocationLongitude>12.66289</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1866KH66MK80VXKZ</SimilarJobsURL>
+      <JobTitle>Schlosser (m/w) für Wartungsarbeiten - Cham</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1CD6LT8HQDQF6YH3</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem europaweit tätigem Industrieunternehmen zu arbeiten? Dann bewerben Sie sich doch gleich bei uns. Für den Einsatz...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1CD6LT8HQDQF6YH3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1CD6LT8HQDQF6YH3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wackersdorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wackersdorf</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.31081</LocationLatitude>
+      <LocationLongitude>12.17344</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1CD6LT8HQDQF6YH3</SimilarJobsURL>
+      <JobTitle>Vertriebsassistent (m/w) - Wackersdorf</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1BX7567RPSQ1Y41M</DID>
+      <OnetCode>47-2152.02</OnetCode>
+      <ONetFriendlyTitle>Plumbers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden einem international tätigen Energiedienstleister im Raum Deggendorf suchen wir zum...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1BX7567RPSQ1Y41M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1BX7567RPSQ1Y41M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Deggendorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Deggendorf</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.83132</LocationLatitude>
+      <LocationLongitude>12.9622</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1BX7567RPSQ1Y41M</SimilarJobsURL>
+      <JobTitle>Gas- und Wasserinstallateur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H17S5WLJTM4Q7TBTX</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere Kunden in Ludwigsburg suchen wir ab sofort Kinderkrankenpfleger (m/w) oder Gesundheits- und Kinderkrankenpfleger (m/w)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H17S5WLJTM4Q7TBTX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H17S5WLJTM4Q7TBTX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ludwigsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ludwigsburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.89417</LocationLatitude>
+      <LocationLongitude>9.19187</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H17S5WLJTM4Q7TBTX</SimilarJobsURL>
+      <JobTitle>Kinderkrankenpfleger (m/w) - Ludwigsburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H18F719Z5GRC011BN</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H18F719Z5GRC011BN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H18F719Z5GRC011BN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Heilbronn</Location>
+      <DisplayCity>Heilbronn</DisplayCity>
+      <City>Heilbronn</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.14</LocationLatitude>
+      <LocationLongitude>9.21509</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H18F719Z5GRC011BN</SimilarJobsURL>
+      <JobTitle>Mechatroniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H15W76JPGDLZCP2W4</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Für einen Einsatz bei unseren Kunden in der Automobilindustrie im Bereich Karosseriebau bevorzugt im süddeutschen Raum suchen wir eine/n Elektroniker...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H15W76JPGDLZCP2W4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H15W76JPGDLZCP2W4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H15W76JPGDLZCP2W4</SimilarJobsURL>
+      <JobTitle>Elektroniker/ Mechatroniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H161622NT7NFSGBZ2</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz namhafter Kunden in München und Umgebung suchen wir zum nächstmöglichen Zeitpunkt einen Energieelektroniker (m/w)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H161622NT7NFSGBZ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H161622NT7NFSGBZ2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H161622NT7NFSGBZ2</SimilarJobsURL>
+      <JobTitle>Energieelektroniker (m/w) - München</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H16F60D8F0083F7Y0</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren namhaften Kunden aus Frankfurt am Main suchen wir ab sofort mehrere Gesundheits- und Krankenpfleger (m/w). Gesundheits- und Krankenpfleger...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H16F60D8F0083F7Y0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H16F60D8F0083F7Y0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H16F60D8F0083F7Y0</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (m/w) - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H16G766547XVJ9F6X</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden in Feucht suchen wir zum nächstmöglichen Zeitpunkt mehrere CNC-Dreher (m/w). CNC-Dreher (m/w) - Feucht Feucht -- Ihre Aufgaben: CNC...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H16G766547XVJ9F6X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H16G766547XVJ9F6X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Feucht</Location>
+      <DisplayCity></DisplayCity>
+      <City>Feucht</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.37731</LocationLatitude>
+      <LocationLongitude>11.21596</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H16G766547XVJ9F6X</SimilarJobsURL>
+      <JobTitle>CNC-Dreher (m/w) - Feucht</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H16K6JRQ80L25V5H4</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem namhaften Kunden im Süden von Landsberg am Lech suchen wir zum nächstmöglichen Zeitpunkt einen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H16K6JRQ80L25V5H4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H16K6JRQ80L25V5H4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landsberg am Lech</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landsberg am Lech</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.04954</LocationLatitude>
+      <LocationLongitude>10.87658</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H16K6JRQ80L25V5H4</SimilarJobsURL>
+      <JobTitle>Schaltschrankbauer (m/w) - Landsberg am Lech</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1596LLCM17PQYLVB</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden im Maschinenbau aus dem Raum Reutlingen suchen wir ab sofort einen CNC-Schleiferin (m/w). CNC-Schleifer (m/w) - Reutlingen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1596LLCM17PQYLVB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1596LLCM17PQYLVB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reutlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reutlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.49159</LocationLatitude>
+      <LocationLongitude>9.21487</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1596LLCM17PQYLVB</SimilarJobsURL>
+      <JobTitle>CNC-Schleifer (m/w) - Reutlingen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>econoMARK</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H14Y6Z23RV5CV72ZG</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>econoMARK unterstützt und stärkt Geschäftspartner bei der Sicherung der Produktivität mit Fach- und Führungskräften. Auf der Suche nach diesen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H14Y6Z23RV5CV72ZG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H14Y6Z23RV5CV72ZG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H14Y6Z23RV5CV72ZG</SimilarJobsURL>
+      <JobTitle>Vertriebsmitarbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/B9/MRD1XF5VNRVQF0D44B9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H16J72JT8F7JWPN84</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H16J72JT8F7JWPN84</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H16J72JT8F7JWPN84&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Heidenheim</Location>
+      <DisplayCity>Raum Heidenheim</DisplayCity>
+      <City>Dischingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7178</LocationLatitude>
+      <LocationLongitude>10.4046</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H16J72JT8F7JWPN84</SimilarJobsURL>
+      <JobTitle>Technischer Zeichner (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H16P615KR95LP9Q0M</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H16P615KR95LP9Q0M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H16P615KR95LP9Q0M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hattersheim am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hattersheim am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0685</LocationLatitude>
+      <LocationLongitude>8.48665</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H16P615KR95LP9Q0M</SimilarJobsURL>
+      <JobTitle>CNC-Programmierer/in - Maschinen- und Anlagenbau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H12Z6G6HKWVQVT1SM</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, ein Krankenhaus in Parsberg suchen wir zum nächstmöglichen Zeitpunkt mehrere Gesundheits- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H12Z6G6HKWVQVT1SM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H12Z6G6HKWVQVT1SM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Parsberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Parsberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.16201</LocationLatitude>
+      <LocationLongitude>11.71621</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H12Z6G6HKWVQVT1SM</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H11R6QN8BL6ZTP6TQ</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in Frankfurt am Main, suchen wir ab sofort oder später einen Zentralheizungs- und Lüftungsbauer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H11R6QN8BL6ZTP6TQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H11R6QN8BL6ZTP6TQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H11R6QN8BL6ZTP6TQ</SimilarJobsURL>
+      <JobTitle>Zentralheizungs- und Lüftungsbauer (m/w) - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H12662MWRHXZTXP4W</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere Kunden in Stuttgart suchen wir ab sofort Operationstechnische Assistenten (m/w) oder Gesundheits- und Krankenpfleger (m/w) mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H12662MWRHXZTXP4W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H12662MWRHXZTXP4W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H12662MWRHXZTXP4W</SimilarJobsURL>
+      <JobTitle>OP-Personal (m/w) - Stuttgart</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>econoMARK</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H11869MJ9ZKXPBH3D</DID>
+      <OnetCode>43-4141.00</OnetCode>
+      <ONetFriendlyTitle>New Accounts Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Bereits seit 1969 stehen wir von econoMARK für effiziente Dienstleistung rund ums Personal. Als eines der ältesten Unternehmen der Branche in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H11869MJ9ZKXPBH3D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H11869MJ9ZKXPBH3D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H11869MJ9ZKXPBH3D</SimilarJobsURL>
+      <JobTitle>Bankkaufmann/-frau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/B9/MRD1XF5VNRVQF0D44B9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H11072SZWR0XZ7JW9</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sind Sie auf der Suche nach einer neuen beruflichen Herausforderung? Die Personalexperten von expertum öffnen Ihnen im Rahmen der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H11072SZWR0XZ7JW9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H11072SZWR0XZ7JW9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ganderkesee</Location>
+      <DisplayCity>Ganderkesee</DisplayCity>
+      <City>Ganderkesee</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>53.0463</LocationLatitude>
+      <LocationLongitude>8.53138</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H11072SZWR0XZ7JW9</SimilarJobsURL>
+      <JobTitle>SPS-Programmierer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H14J6HZNPLZ7HK6ZX</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H14J6HZNPLZ7HK6ZX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H14J6HZNPLZ7HK6ZX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Flörsheim am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Flörsheim am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.00969</LocationLatitude>
+      <LocationLongitude>8.42414</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H14J6HZNPLZ7HK6ZX</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in - Logistik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>econoMARK</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1435Z0GMMGCDF3Z8</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Zukunft beginnt heute - Teamarbeit bringt den Erfolg! Als ein führender Personaldienstleister sind wir an zahlreichen Standorten im Bundesgebiet...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1435Z0GMMGCDF3Z8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1435Z0GMMGCDF3Z8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity></DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1435Z0GMMGCDF3Z8</SimilarJobsURL>
+      <JobTitle>Niederlassungsleiter/in NL Berlin</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/B9/MRD1XF5VNRVQF0D44B9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JOB AG</Company>
+      <CompanyDID>c7h6hl71pn88n8ycs9k</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c7h6hl71pn88n8ycs9k/job-ag/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0XV6597BF53R886N</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ENGINEER-ING eine Marke der JOB AG Konrad-Adenauer-Ufer 41-45 50668 Köln Herr OguzDüzgün Tel. 0221 922987 50 E-Mail: http://www.engineer-ing.eu...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0XV6597BF53R886N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0XV6597BF53R886N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aachen</Location>
+      <DisplayCity>Aachen</DisplayCity>
+      <City>Aachen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.77813</LocationLatitude>
+      <LocationLongitude>6.08849</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0XV6597BF53R886N</SimilarJobsURL>
+      <JobTitle>Inbetriebnahmeingenieur</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/0L/MR43ZW6B0V7P4G62P0L.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0Z379N1Q15NDPCHZ</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unseren Kunden im Raum Ludwigsburg suchen wir ab sofort weitere pädagogische Fachkräfte (m/w). Sie sind...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0Z379N1Q15NDPCHZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0Z379N1Q15NDPCHZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ludwigsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ludwigsburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.89417</LocationLatitude>
+      <LocationLongitude>9.19187</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0Z379N1Q15NDPCHZ</SimilarJobsURL>
+      <JobTitle>Kinderkrankenpfleger (m/w) für den pädagogischen Bereich</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0XS743LNTDLNYJL7</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden suchen wir zur festen Übernahme einen Verfahrensmechaniker/ Schichtführer (m/w)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0XS743LNTDLNYJL7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0XS743LNTDLNYJL7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fürth</Location>
+      <DisplayCity>Fürth</DisplayCity>
+      <City>Fürth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4832</LocationLatitude>
+      <LocationLongitude>10.973</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0XS743LNTDLNYJL7</SimilarJobsURL>
+      <JobTitle>Verfahrensmechaniker/ Schichtführer (m/w) - direkte Übernahme</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0Y96NK90HDX364V6</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden suchen wir zum nächstmöglichen Zeitpunkt eine/n Mitarbeiter/in Forderungsmanagement....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0Y96NK90HDX364V6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0Y96NK90HDX364V6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0Y96NK90HDX364V6</SimilarJobsURL>
+      <JobTitle>Mitarbeiter (m/w) Forderungsmanangement - Nürnberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MERGET+PARTNER</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0ZW6HPKGQY3GJDQN</DID>
+      <OnetCode>13-2082.00</OnetCode>
+      <ONetFriendlyTitle>Tax Preparers</ONetFriendlyTitle>
+      <DescriptionTeaser>Zur Zeit suchen wir Auszubildende zur / zum Steuerfachangestellten. Bewerbungen bitte an Herrn StB Thomas Müller Johann-Dahlem-Str. 21 63814...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0ZW6HPKGQY3GJDQN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0ZW6HPKGQY3GJDQN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mainaschaff</Location>
+      <DisplayCity>Mainaschaff</DisplayCity>
+      <City>Mainaschaff</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.97746</LocationLatitude>
+      <LocationLongitude>9.08537</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0ZW6HPKGQY3GJDQN</SimilarJobsURL>
+      <JobTitle>Auszubildende zur /zum Steuerfachangestellten</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/FB/MQ48B86FPMDNSZM0FFB.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0T96PXS63ZBF200D</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden suchen wir zum nächstmöglichen Zeitpunkt eine/n Industriemechaniker/in. Industriemechaniker (m/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0T96PXS63ZBF200D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0T96PXS63ZBF200D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neunburg vorm Wald</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neunburg vorm Wald</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.34626</LocationLatitude>
+      <LocationLongitude>12.38675</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0T96PXS63ZBF200D</SimilarJobsURL>
+      <JobTitle>Industriemechaniker (m/w) - Neunburg vorm Wald</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0SQ63B4GTWP9YMYV</DID>
+      <OnetCode>47-2031.02</OnetCode>
+      <ONetFriendlyTitle>Rough Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem global agierenden Unternehmen aus dem Bereich der Produktion von Industriefahrzeugen mit Sitz in Eching/Weixerau...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0SQ63B4GTWP9YMYV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0SQ63B4GTWP9YMYV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eching</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eching</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.0833</LocationLatitude>
+      <LocationLongitude>11.1167</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0SQ63B4GTWP9YMYV</SimilarJobsURL>
+      <JobTitle>Tischler (m/w) - Eching</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0SP621MQJ2DK3SDL</DID>
+      <OnetCode>31-1012.00</OnetCode>
+      <ONetFriendlyTitle>Nursing Aides, Orderlies, and Attendants</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden Raum Esslingen am Neckar suchen wir zum nächstmöglichen Zeitpunkt 1-jährig examinierte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0SP621MQJ2DK3SDL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0SP621MQJ2DK3SDL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Esslingen am Neckar</Location>
+      <DisplayCity></DisplayCity>
+      <City>Esslingen am Neckar</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.74228</LocationLatitude>
+      <LocationLongitude>9.30576</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0SP621MQJ2DK3SDL</SimilarJobsURL>
+      <JobTitle>Altenpflegehelfer (m/w) für ambulanten Dienst - Esslingen am Neckar</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0X96KBNDQQFQF2V4</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Für einen Einsatz bei unseren Kunden im Raum Kaufbeuren, ein Unternehmen im Apparatebau, suchen wir ab sofort CNC-Fräser (m/w) in Vollzeit. CNC-Fräser...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0X96KBNDQQFQF2V4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0X96KBNDQQFQF2V4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kaufbeuren</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kaufbeuren</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8793</LocationLatitude>
+      <LocationLongitude>10.62392</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0X96KBNDQQFQF2V4</SimilarJobsURL>
+      <JobTitle>CNC-Fräser (m/w) - Kaufbeuren</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0W55ZV9CRZ7G74F6</DID>
+      <OnetCode>51-9022.00</OnetCode>
+      <ONetFriendlyTitle>Grinding and Polishing Workers, Hand</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unserem Kunden in Gauting bei München - ein namhafter Hersteller im Stanzwerkzeugbau und professionelle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0W55ZV9CRZ7G74F6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0W55ZV9CRZ7G74F6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gauting</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gauting</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.06724</LocationLatitude>
+      <LocationLongitude>11.37907</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0W55ZV9CRZ7G74F6</SimilarJobsURL>
+      <JobTitle>Mitarbeiter (m/w) Lager Metalltechnik - Gauting</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0T873V88RXD88CT5</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in Roding suchen wir zum nächstmöglichen Zeitpunkt mehrere Zerspanungsmechaniker/innen....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0T873V88RXD88CT5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0T873V88RXD88CT5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Roding</Location>
+      <DisplayCity></DisplayCity>
+      <City>Roding</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.19558</LocationLatitude>
+      <LocationLongitude>12.51717</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0T873V88RXD88CT5</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Assista</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0VX741NLPW8GZ4DY</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Die ASSISTA Unternehmensberatungs- GmbH ist als spezialisierter Personaldienstleister für IT sowie SAP Fach- und Führungskräfte bereits bei vielen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0VX741NLPW8GZ4DY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0VX741NLPW8GZ4DY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0VX741NLPW8GZ4DY</SimilarJobsURL>
+      <JobTitle>FI/CO Berater im SAP ERP-Umfeld (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/H3/M0V3BM75PZZXJ2PQVH3.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sap erp</Skill>
+        <Skill>SAP</Skill>
+        <Skill>abap</Skill>
+      </Skills>
+      <JobLevel>1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0RZ662RQ2F37NSML</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden im Großraum Stuttgart und Vaihingen an der Enz, suchen wir zum nächstmöglichen Zeitpunkt einen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0RZ662RQ2F37NSML</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0RZ662RQ2F37NSML&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vaihingen an der Enz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vaihingen an der Enz</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.93382</LocationLatitude>
+      <LocationLongitude>8.96041</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0RZ662RQ2F37NSML</SimilarJobsURL>
+      <JobTitle>CNC-Einsteller (m/w) - Vaihingen an der Enz</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0SC6XPVXWD48HW9N</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unserem Kunden in Wackersdorf suchen wir zum nächstmöglichen Zeitpunkt einen Elektroniker (m/w)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0SC6XPVXWD48HW9N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0SC6XPVXWD48HW9N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wackersdorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wackersdorf</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.31081</LocationLatitude>
+      <LocationLongitude>12.17344</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0SC6XPVXWD48HW9N</SimilarJobsURL>
+      <JobTitle>Industrieelektroniker (m/w) - Wackersdorf</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0QS62Z6ZM92G62Q6</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Einsatz bei einem unserer Kunden in Neutraubling suchen wir einen Finanzbuchhalter in der kaufmännischen Sachbearbeitung Kreditoren (m/w)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0QS62Z6ZM92G62Q6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0QS62Z6ZM92G62Q6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neutraubling</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neutraubling</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.9933</LocationLatitude>
+      <LocationLongitude>12.19602</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0QS62Z6ZM92G62Q6</SimilarJobsURL>
+      <JobTitle>Finanzbuchhalter (m/w) im Bereich Kreditorenbuchhaltung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0PM5Y9X3DR9TNKLS</DID>
+      <OnetCode>49-9098.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Installation, Maintenance, and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein nahmhaftes Unternehmen im Sondermaschinenbau im Raum Regensburg, suchen wir zum nächstmöglichen Zeitpunkt einen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0PM5Y9X3DR9TNKLS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0PM5Y9X3DR9TNKLS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0PM5Y9X3DR9TNKLS</SimilarJobsURL>
+      <JobTitle>Montagefachhelfer (m/w) - Regensburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0RM6Z4X2PG42SJMK</DID>
+      <OnetCode>51-2099.00</OnetCode>
+      <ONetFriendlyTitle>Assemblers and Fabricators</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, suchen wir zum nächstmöglichen Zeitpunkt einen Einrichter im Bereich Montage (m/ w) für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0RM6Z4X2PG42SJMK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0RM6Z4X2PG42SJMK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0RM6Z4X2PG42SJMK</SimilarJobsURL>
+      <JobTitle>Einrichter (m/w) Bereich Montage - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0RB6CT4R67RQG2X8</DID>
+      <OnetCode>29-2099.00</OnetCode>
+      <ONetFriendlyTitle>Health Technologists and Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem Krankenhaus der Allgemeinversorgung mit Sitz in Regensburg zu arbeiten? Dann bewerben Sie sich doch gleich bei...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0RB6CT4R67RQG2X8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0RB6CT4R67RQG2X8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0RB6CT4R67RQG2X8</SimilarJobsURL>
+      <JobTitle>Operationstechnischer Assistent (m/w) - Regensburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0Q96SC7CTB2VQG18</DID>
+      <OnetCode>51-9122.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Transportation Equipment</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0Q96SC7CTB2VQG18</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0Q96SC7CTB2VQG18&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Heidenheim</Location>
+      <DisplayCity>Raum Heidenheim</DisplayCity>
+      <City>Asbach</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.65305</LocationLatitude>
+      <LocationLongitude>10.21781</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0Q96SC7CTB2VQG18</SimilarJobsURL>
+      <JobTitle>Fahrzeuglackierer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0SL67C0Y81LKG2V7</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0SL67C0Y81LKG2V7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0SL67C0Y81LKG2V7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Crailsheim</Location>
+      <DisplayCity>Crailsheim</DisplayCity>
+      <City>Auhof</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.15791</LocationLatitude>
+      <LocationLongitude>10.07017</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0SL67C0Y81LKG2V7</SimilarJobsURL>
+      <JobTitle>Qualitätsprüfer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JOB AG</Company>
+      <CompanyDID>c7h6hl71pn88n8ycs9k</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c7h6hl71pn88n8ycs9k/job-ag/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0MG63Z5R2Q957K19</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>JOB AG Personaldienstleistungen AG Bahnhofstraße 28-31 28195 Bremen Frau OlgaSchneidmiller Tel. 0421 1789640 E-Mail: http://www.job-ag.com Die JOB AG...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0MG63Z5R2Q957K19</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0MG63Z5R2Q957K19&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Verden (Aller)</Location>
+      <DisplayCity>Verden (Aller)</DisplayCity>
+      <City>Verden (Aller)</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.92452</LocationLatitude>
+      <LocationLongitude>9.24194</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0MG63Z5R2Q957K19</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Vertriebsinnendienst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/0L/MR43ZW6B0V7P4G62P0L.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0P367NBVLJNG7DYQ</DID>
+      <OnetCode>51-9198.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserem Kunden in Windach im Kreis Landsberg am Lech suchen wir zum nächstmöglichen Zeitpunkt einen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0P367NBVLJNG7DYQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0P367NBVLJNG7DYQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Windach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Windach</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.06704</LocationLatitude>
+      <LocationLongitude>11.03551</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0P367NBVLJNG7DYQ</SimilarJobsURL>
+      <JobTitle>Produktionmitarbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0P56HP7XNGFX3N05</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in Frankfurt am Main suchen wir einen Qualitätsprüfer – Lackabteilung (m/w). Qualitätsprüfer (m...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0P56HP7XNGFX3N05</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0P56HP7XNGFX3N05&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0P56HP7XNGFX3N05</SimilarJobsURL>
+      <JobTitle>Qualitätsprüfer (m/w) Lackiererei - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0MS6W8QCZRP3KN80</DID>
+      <OnetCode>51-4072.00</OnetCode>
+      <ONetFriendlyTitle>Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden ein international tätiges Unternmehmen im Energiebereich in Regensburg / Haslbach suchen wir ab...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0MS6W8QCZRP3KN80</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0MS6W8QCZRP3KN80&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0MS6W8QCZRP3KN80</SimilarJobsURL>
+      <JobTitle>Transporteur - Metall (m/w) - Regensburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0MD75PQWNX5SRMPP</DID>
+      <OnetCode>43-4141.00</OnetCode>
+      <ONetFriendlyTitle>New Accounts Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem deutschlandweit agierenden Unternehmen aus dem Bereich der Finanzdienstleistungen mit Sitz in Freising zu...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0MD75PQWNX5SRMPP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0MD75PQWNX5SRMPP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freising</Location>
+      <DisplayCity></DisplayCity>
+      <City>Freising</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.40079</LocationLatitude>
+      <LocationLongitude>11.74376</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0MD75PQWNX5SRMPP</SimilarJobsURL>
+      <JobTitle>Bankkaufmann (m/w) - Freising</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0MW6FQDF8PKYZLVR</DID>
+      <OnetCode>47-2152.02</OnetCode>
+      <ONetFriendlyTitle>Plumbers</ONetFriendlyTitle>
+      <DescriptionTeaser>Im Auftrag unseres Kunden aus Nürnberg suchen wir Sanitärinstallateure (m/w) für eine Baustelle in Nürnberg. Sanitärinstallateur (m/w) - Nürnberg...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0MW6FQDF8PKYZLVR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0MW6FQDF8PKYZLVR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0MW6FQDF8PKYZLVR</SimilarJobsURL>
+      <JobTitle>Sanitärinstallateur (m/w) - Nürnberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0LM6SQR6CC0WCM1L</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere Kunden im Großraum Stuttgart, suchen wir ab sofort je einen zuverlässigen Maler und Lackierer (m/w). Maler und Lackierer (m/w) - Stuttgart...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0LM6SQR6CC0WCM1L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0LM6SQR6CC0WCM1L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0LM6SQR6CC0WCM1L</SimilarJobsURL>
+      <JobTitle>Maler und Lackierer (m/w) - Stuttgart</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0HP783ZF02BQSDZ3</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für langfristige Einsätze mit Option zur Übernahme in ein Festanstellungsverhältnis bei unseren Kunden im Großraum München suchen wir zum...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0HP783ZF02BQSDZ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HP783ZF02BQSDZ3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0HP783ZF02BQSDZ3</SimilarJobsURL>
+      <JobTitle>Haustechniker (m/w) - München</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0HR6MN827W7W2H6N</DID>
+      <OnetCode>49-3042.00</OnetCode>
+      <ONetFriendlyTitle>Mobile Heavy Equipment Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden im Raum Cham suchen wir zum nächstmöglichen Zeitpunkt einen Konstruktionsmechaniker (m/w) bzw....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0HR6MN827W7W2H6N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HR6MN827W7W2H6N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cham</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cham</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.22047</LocationLatitude>
+      <LocationLongitude>12.66289</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0HR6MN827W7W2H6N</SimilarJobsURL>
+      <JobTitle>Konstruktionsmechaniker (m/w) - Cham</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0L26P3K561BYW4Q2</DID>
+      <OnetCode>51-4072.00</OnetCode>
+      <ONetFriendlyTitle>Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unseren Kunden im Raum Dortmund suchen wir zum nächstmöglichen Zeitpunkt weitere Facharbeiter-Spritzguss (m/w) mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0L26P3K561BYW4Q2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0L26P3K561BYW4Q2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dortmund</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dortmund</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.51661</LocationLatitude>
+      <LocationLongitude>7.45829</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0L26P3K561BYW4Q2</SimilarJobsURL>
+      <JobTitle>Facharbeiter (m/w) Spritzguss - Dortmund</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0JY5YLTVSHWZ17SS</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0JY5YLTVSHWZ17SS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0JY5YLTVSHWZ17SS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth in Bayern</Location>
+      <DisplayCity>Donauwörth in Bayern</DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.7195</LocationLatitude>
+      <LocationLongitude>10.7686</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0JY5YLTVSHWZ17SS</SimilarJobsURL>
+      <JobTitle>Konstrukteur/Designer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0L5643HG0KFKCY22</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, einem Unternehmen aus dem Finanzbereich, in Frankfurt am Main, suchen wir ab sofort oder...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0L5643HG0KFKCY22</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0L5643HG0KFKCY22&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0L5643HG0KFKCY22</SimilarJobsURL>
+      <JobTitle>Teamassistent (m/w) Bereich Marketing - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0G76DXLDD9V0T1GX</DID>
+      <OnetCode>13-1071.02</OnetCode>
+      <ONetFriendlyTitle>Personnel Recruiters</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0G76DXLDD9V0T1GX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0G76DXLDD9V0T1GX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aalen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aalen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.83776</LocationLatitude>
+      <LocationLongitude>10.09203</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0G76DXLDD9V0T1GX</SimilarJobsURL>
+      <JobTitle>Technischer Zeichner (m/w) zur Personalvermittlung in Aalen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0HB72PB8BGWH4DVF</DID>
+      <OnetCode>25-2011.00</OnetCode>
+      <ONetFriendlyTitle>Preschool Teachers, Except Special Education</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unseren Kunden im Raum Waiblingen suchen wir zum nächstmöglichen Zeitpunkt mehrere Erzieher (m/w). Erzieher (m/w)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0HB72PB8BGWH4DVF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HB72PB8BGWH4DVF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Waiblingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Waiblingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.83298</LocationLatitude>
+      <LocationLongitude>9.31359</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0HB72PB8BGWH4DVF</SimilarJobsURL>
+      <JobTitle>Erzieher (m/w) für den Klein- und/ oder Kindergartenbereich - Waiblingen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0GZ5X1RCMDBFF1GM</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, ein Krankenhaus in Kelheim suchen wir zum nächstmöglichen Zeitpunkt mehrere Gesundheits- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0GZ5X1RCMDBFF1GM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0GZ5X1RCMDBFF1GM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.91614</LocationLatitude>
+      <LocationLongitude>11.8705</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0GZ5X1RCMDBFF1GM</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (m/w) - Kelheim</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0HN6DZ7696HN43ZL</DID>
+      <OnetCode>49-9094.00</OnetCode>
+      <ONetFriendlyTitle>Locksmiths and Safe Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden in Erlangen suchen wir kompetente und motivierte Mitarbeiter/-innen. Bauschlosser (m/w) - Erlangen Erlangen -- Ihre Aufgaben:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0HN6DZ7696HN43ZL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HN6DZ7696HN43ZL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erlangen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erlangen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.59795</LocationLatitude>
+      <LocationLongitude>11.00258</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0HN6DZ7696HN43ZL</SimilarJobsURL>
+      <JobTitle>Bauschlosser (m/w) - Erlangen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0F16PLF43QM91BJB</DID>
+      <OnetCode>53-6031.00</OnetCode>
+      <ONetFriendlyTitle>Service Station Attendants</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0F16PLF43QM91BJB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0F16PLF43QM91BJB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ulm</Location>
+      <DisplayCity>Neu-Ulm</DisplayCity>
+      <City>Neu-Ulm</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.3719</LocationLatitude>
+      <LocationLongitude>10.0075</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0F16PLF43QM91BJB</SimilarJobsURL>
+      <JobTitle>Fahrzeugpfleger (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0F765VBCYKF2VD86</DID>
+      <OnetCode>47-2211.00</OnetCode>
+      <ONetFriendlyTitle>Sheet Metal Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0F765VBCYKF2VD86</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0F765VBCYKF2VD86&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Crailsheim</Location>
+      <DisplayCity>Crailsheim</DisplayCity>
+      <City>Auhof</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.15791</LocationLatitude>
+      <LocationLongitude>10.07017</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0F765VBCYKF2VD86</SimilarJobsURL>
+      <JobTitle>Entgrater (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>econoMARK</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0G76Y98MNT8DKTJL</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Für einen unserer Kunden in Frankfurt am Main suchen wir zum nächstmöglichen Zeitpunkt eine/n: Sachbearbeiter im Rechnungswesen / Buchhalter (m/w) -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0G76Y98MNT8DKTJL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0G76Y98MNT8DKTJL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0G76Y98MNT8DKTJL</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter im Rechnungswesen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/B9/MRD1XF5VNRVQF0D44B9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H08Y6GJNR3Q4VMZ50</DID>
+      <OnetCode>31-9091.00</OnetCode>
+      <ONetFriendlyTitle>Dental Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H08Y6GJNR3Q4VMZ50</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H08Y6GJNR3Q4VMZ50&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H08Y6GJNR3Q4VMZ50</SimilarJobsURL>
+      <JobTitle>Zahnmedizinische Fachangestellte (m/w) in Hamburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0CR5W5HPX1948M6Z</DID>
+      <OnetCode>17-2081.00</OnetCode>
+      <ONetFriendlyTitle>Environmental Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem regional agierenden Unternehmen aus dem Bereich der Energieversorgung mit Sitz in Landshut zu arbeiten? Dann...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0CR5W5HPX1948M6Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0CR5W5HPX1948M6Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.53657</LocationLatitude>
+      <LocationLongitude>12.15177</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0CR5W5HPX1948M6Z</SimilarJobsURL>
+      <JobTitle>Dipl.-Ingenieur oder Bachelor Versorgungstechnik (m/w) - Landshut</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0D75WPNMLYM8Y3TQ</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere renommierten Kunden aus Landshut suchen wir zum nächstmöglichen Zeitpunkt langfristig und in unbefristeten Arbeitsverhältnissen Gesundheits...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0D75WPNMLYM8Y3TQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0D75WPNMLYM8Y3TQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.53657</LocationLatitude>
+      <LocationLongitude>12.15177</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0D75WPNMLYM8Y3TQ</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (m/w) - Landshut</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0DP792T9S7NLST5P</DID>
+      <OnetCode>31-1012.00</OnetCode>
+      <ONetFriendlyTitle>Nursing Aides, Orderlies, and Attendants</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unseren Kunden Raum Esslingen am Neckar suchen wir zum nächstmöglichen Zeitpunkt 3-jährig examinierte Altenpfleger (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0DP792T9S7NLST5P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0DP792T9S7NLST5P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Esslingen am Neckar</Location>
+      <DisplayCity></DisplayCity>
+      <City>Esslingen am Neckar</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.74228</LocationLatitude>
+      <LocationLongitude>9.30576</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0DP792T9S7NLST5P</SimilarJobsURL>
+      <JobTitle>Altenpfleger (m/w) für ambulanten Dienst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0BH687RNZCYQ434L</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sind Sie auf der Suche nach einer neuen beruflichen Herausforderung? Die Personalexperten von expertum öffnen Ihnen im Rahmen der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0BH687RNZCYQ434L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0BH687RNZCYQ434L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chemnitz</Location>
+      <DisplayCity>Chemnitz</DisplayCity>
+      <City>Chemnitz</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>50.8357</LocationLatitude>
+      <LocationLongitude>12.9255</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0BH687RNZCYQ434L</SimilarJobsURL>
+      <JobTitle>Festanstellung: Servicetechniker Klima/Kälte</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0BM71D7KQBT848V6</DID>
+      <OnetCode>53-1011.00</OnetCode>
+      <ONetFriendlyTitle>Aircraft Cargo Handling Supervisors</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem global agierenden Unternehmen aus dem Bereich Luftfahrt mit Sitz in Frankfurt am Main zu arbeiten? Dann bewerben...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0BM71D7KQBT848V6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0BM71D7KQBT848V6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main - Flughafen</Location>
+      <DisplayCity>Frankfurt am Main - Flughafen</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0BM71D7KQBT848V6</SimilarJobsURL>
+      <JobTitle>Flugzeugabfertiger (m/w) - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0396PB4VDTGDLYXN</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein namhaftes Unternehmen im Sondermaschinenbau, suchen wir zum nächstmöglichen Zeitpunkt einen Zerspanungsmechaniker (m/w) -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0396PB4VDTGDLYXN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0396PB4VDTGDLYXN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nittenau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nittenau</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.19672</LocationLatitude>
+      <LocationLongitude>12.26951</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0396PB4VDTGDLYXN</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker (m/w) - Fachrichtung Fräsen - Nittenau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H04N75WQVJG1240C9</DID>
+      <OnetCode>43-5081.03</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks- Stockroom, Warehouse, or Storage Yard</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, ein international tätiges Maschinenbauunternehmen suchen wir zum nächstmöglichen Zeitpunkt...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H04N75WQVJG1240C9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H04N75WQVJG1240C9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nittenau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nittenau</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.19672</LocationLatitude>
+      <LocationLongitude>12.26951</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H04N75WQVJG1240C9</SimilarJobsURL>
+      <JobTitle>Lagerfachkraft (m/w) - Nittenau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H06N70TD4D7Z7S21W</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden in Roding, suchen wir zum nächstmöglichen Zeitpunkt eine/n Staplerfahrer (m/w)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H06N70TD4D7Z7S21W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H06N70TD4D7Z7S21W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Roding</Location>
+      <DisplayCity></DisplayCity>
+      <City>Roding</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.19558</LocationLatitude>
+      <LocationLongitude>12.51717</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H06N70TD4D7Z7S21W</SimilarJobsURL>
+      <JobTitle>Gabelstaplerfahrer (m/w) - Roding</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>econoMARK</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0436FK922FS5C31F</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Bereits seit 1969 stehen wir von econoMARK für effiziente Dienstleistung rund ums Personal. Als eines der ältesten Unternehmen der Branche in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0436FK922FS5C31F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0436FK922FS5C31F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0436FK922FS5C31F</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Telefonservice m/w</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/B9/MRD1XF5VNRVQF0D44B9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H04Y6B6NBT0L6D44N</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sind Sie auf der Suche nach einer neuen beruflichen Herausforderung? Die Personalexperten von expertum öffnen Ihnen im Rahmen der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H04Y6B6NBT0L6D44N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H04Y6B6NBT0L6D44N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Heilbronn</Location>
+      <DisplayCity>Heilbronn</DisplayCity>
+      <City>Heilbronn</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.14</LocationLatitude>
+      <LocationLongitude>9.21509</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H04Y6B6NBT0L6D44N</SimilarJobsURL>
+      <JobTitle>Personalreferent (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0856R8S304BJSM85</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0856R8S304BJSM85</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0856R8S304BJSM85&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Flörsheim am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Flörsheim am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.00969</LocationLatitude>
+      <LocationLongitude>8.42414</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0856R8S304BJSM85</SimilarJobsURL>
+      <JobTitle>Assistent/in - Abteilungsleitung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H03277J4GHSRQSPDR</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden, ein Unternehmen im Apparatebau im Raum Kaufbeuren, suchen wir zum nächstmöglichen Zeitpunkt...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H03277J4GHSRQSPDR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H03277J4GHSRQSPDR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kaufbeuren</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kaufbeuren</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8793</LocationLatitude>
+      <LocationLongitude>10.62392</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H03277J4GHSRQSPDR</SimilarJobsURL>
+      <JobTitle>Produktionsmitarbeiter (m/w) mit Metallausbildung - Kaufbeuren</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H01J6D7KK8N25NTJ6</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für einen Kunden aus Nürnberg langfristig Unterstützung im Kundenservice Team. Sie nutzen moderne Kommunikation wie E Mail, Chat und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H01J6D7KK8N25NTJ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H01J6D7KK8N25NTJ6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H01J6D7KK8N25NTJ6</SimilarJobsURL>
+      <JobTitle>Mitarbeiter (m/w) für den Reklamationsservice - Nürnberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H01W69T0NF12FVK80</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei einem unserer Kunden ein führendes Handwerksunternehmen im Rhein-Main Gebiet, suchen wir zum nächstmöglich Zeitpunkt...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H01W69T0NF12FVK80</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H01W69T0NF12FVK80&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H01W69T0NF12FVK80</SimilarJobsURL>
+      <JobTitle>Gas-Wasser-Heizung-Sanitärinstallateur (m/w) - Option auf Übernahme - Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H02Y668V59FG9PYXN</DID>
+      <OnetCode>43-5081.03</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks- Stockroom, Warehouse, or Storage Yard</ONetFriendlyTitle>
+      <DescriptionTeaser>Für langfristigen Einsatz bei unserem Kunden in Penzberg suchen wir zum nächstmöglichen Zeitpunkt einen Lagerarbeiter (m/w). Lagerist (m/w) - Penzberg...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H02Y668V59FG9PYXN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H02Y668V59FG9PYXN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Penzberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Penzberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.75193</LocationLatitude>
+      <LocationLongitude>11.37599</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H02Y668V59FG9PYXN</SimilarJobsURL>
+      <JobTitle>Lagerist (m/w) - Penzberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8HW6HX48PKDH87HG</DID>
+      <OnetCode>29-2055.00</OnetCode>
+      <ONetFriendlyTitle>Surgical Technologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere Kunden in Herrenberg im Gäu suchen wir ab sofort Operationstechnische Assistenten (m/w) oder Gesundheits- und Krankenpfleger (m/w) mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8HW6HX48PKDH87HG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8HW6HX48PKDH87HG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Herrenberg im Gäu</Location>
+      <DisplayCity>Herrenberg im Gäu</DisplayCity>
+      <City>Herrenberg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.59515</LocationLatitude>
+      <LocationLongitude>8.86793</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8HW6HX48PKDH87HG</SimilarJobsURL>
+      <JobTitle>OP-Personal (m/w) - Herrenberg im Gäu</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sterilization</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schneider Electric</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8HJ744MHQ66BJ8YT</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Region Saarland In einem Ihnen fest zugeordneten Vertriebsgebiet im Saarland sind Sie verantwortlich für den Umsatz im Bereich Handel/ Handwerk sowie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8HJ744MHQ66BJ8YT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8HJ744MHQ66BJ8YT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Home Office (Friesenheim)</Location>
+      <DisplayCity>Home Office (Friesenheim)</DisplayCity>
+      <City>Friesenheim</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.83554</LocationLatitude>
+      <LocationLongitude>8.25784</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8HJ744MHQ66BJ8YT</SimilarJobsURL>
+      <JobTitle>Gebietsleiter m/w für Merten   Schneider Electric   Ritto Installationssysteme</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2W/MSG33F72T1ZWSPDVR2W.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JOB AG</Company>
+      <CompanyDID>c7h6hl71pn88n8ycs9k</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c7h6hl71pn88n8ycs9k/job-ag/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8HJ64NMH8RLX8DCH</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Das gewünschte Stellenangebot ist nicht mehr aktiv! Schauen sie auf unserer Homepage http://www.job-ag.com</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8HJ64NMH8RLX8DCH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8HJ64NMH8RLX8DCH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rimpar</Location>
+      <DisplayCity>Rimpar</DisplayCity>
+      <City>Rimpar</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.85679</LocationLatitude>
+      <LocationLongitude>9.95548</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8HJ64NMH8RLX8DCH</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/0L/MR43ZW6B0V7P4G62P0L.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8H164K5N65532JPT</DID>
+      <OnetCode>47-4099.00</OnetCode>
+      <ONetFriendlyTitle>Construction and Related Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8H164K5N65532JPT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8H164K5N65532JPT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ludwigshafen am Rhein</Location>
+      <DisplayCity>Ludwigshafen am Rhein</DisplayCity>
+      <City>Ludwigshafen am Rhein</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.47766</LocationLatitude>
+      <LocationLongitude>8.43196</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8H164K5N65532JPT</SimilarJobsURL>
+      <JobTitle>Auftragskalkulator (m/w) im Rohrleitungsbau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8H26JD70LQGHRQD2</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8H26JD70LQGHRQD2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8H26JD70LQGHRQD2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kempten</Location>
+      <DisplayCity>Kempten</DisplayCity>
+      <City>Kempten (Allgäu)</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.73635</LocationLatitude>
+      <LocationLongitude>10.3326</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8H26JD70LQGHRQD2</SimilarJobsURL>
+      <JobTitle>Speditionskauffrau/-mann</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>expertum GmbH</Company>
+      <CompanyDID>chq2xc7549c9ym0856h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq2xc7549c9ym0856h/expertum-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8H76CR0SBWTXFSHJ</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>expertum ist ein deutschlandweit agierender Personaldienstleister für Facharbeiter, Techniker, Ingenieure und kaufmännisches Personal. Wir stehen für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8H76CR0SBWTXFSHJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8H76CR0SBWTXFSHJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Haldenwang</Location>
+      <DisplayCity>Haldenwang</DisplayCity>
+      <City>Haldenwang</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.7952</LocationLatitude>
+      <LocationLongitude>10.3561</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8H76CR0SBWTXFSHJ</SimilarJobsURL>
+      <JobTitle>Staplerfahrer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5M/MSL3G86FS1TQR3L0S5M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8HB767JBSR8L2C24</DID>
+      <OnetCode>47-5099.00</OnetCode>
+      <ONetFriendlyTitle>Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8HB767JBSR8L2C24</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8HB767JBSR8L2C24&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raunheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Raunheim</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0151</LocationLatitude>
+      <LocationLongitude>8.45266</LocationLongitude>
+      <PostedDate>1/14/2015</PostedDate>
+      <PostedTime>1/14/2015 1:03:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8HB767JBSR8L2C24</SimilarJobsURL>
+      <JobTitle>Chemiearbeiter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

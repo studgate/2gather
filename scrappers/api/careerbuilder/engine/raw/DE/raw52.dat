@@ -1,0 +1,3411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 11:58:19 AM</TimeResponseSent>
+  <TimeElapsed>0.3588023</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37227</TotalCount>
+  <FirstItemIndex>5101</FirstItemIndex>
+  <LastItemIndex>5200</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6NX6522RGSM7F1XP</DID>
+      <OnetCode>43-9199.00</OnetCode>
+      <ONetFriendlyTitle>Office and Administrative Support Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6NX6522RGSM7F1XP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6NX6522RGSM7F1XP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Werne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Werne</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.66376</LocationLatitude>
+      <LocationLongitude>7.63406</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:41:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6NX6522RGSM7F1XP</SimilarJobsURL>
+      <JobTitle>Produktionshelfer/in in Werne</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FORMEL D GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0M66D6H9ZD1646Z8</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Lieferantenentwicklung im Bereich Elektrik/Elektronik Durchführung interner und externer Prozessaudits Durchführung von Funktions- und Produkttests an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR0M66D6H9ZD1646Z8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0M66D6H9ZD1646Z8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel</Location>
+      <DisplayCity>Kassel</DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:41:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0M66D6H9ZD1646Z8</SimilarJobsURL>
+      <JobTitle>Ingenieure Elektrotechnik / Mechatronik (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FORMEL D GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL1SM79RV00WRRT911</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Steuerung von Lagerprozessen und administrativen Tätigkeiten Bedarfsplanung und Pflege von Lieferplänen inkl. Lieferterminverfolgung Eigenständige...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL1SM79RV00WRRT911</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL1SM79RV00WRRT911&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity>Leipzig</DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:37:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL1SM79RV00WRRT911</SimilarJobsURL>
+      <JobTitle>Logistikplaner (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ12X67GB5LHF4L2Y2</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Durchführung von Messungen an Baugruppen aus dem Automotive Bereich Verantwortlich für die Vor- und Nachbereitung der Messungen Ausführung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHQ12X67GB5LHF4L2Y2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ12X67GB5LHF4L2Y2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Böblingen</Location>
+      <DisplayCity>Böblingen</DisplayCity>
+      <City>Böblingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.68699</LocationLatitude>
+      <LocationLongitude>9.00739</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:35:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ12X67GB5LHF4L2Y2</SimilarJobsURL>
+      <JobTitle>Messtechniker / Qualitätsfachmann (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7FH6PLVXX8ZRZJBZ</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7FH6PLVXX8ZRZJBZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7FH6PLVXX8ZRZJBZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freising</Location>
+      <DisplayCity></DisplayCity>
+      <City>Freising</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.40079</LocationLatitude>
+      <LocationLongitude>11.74376</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:34:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7FH6PLVXX8ZRZJBZ</SimilarJobsURL>
+      <JobTitle>Werkstattleiter/in zur Personalvermittlung in Freising</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1456H1JTNPH9W7VR</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1456H1JTNPH9W7VR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1456H1JTNPH9W7VR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freising</Location>
+      <DisplayCity></DisplayCity>
+      <City>Freising</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.40079</LocationLatitude>
+      <LocationLongitude>11.74376</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:34:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1456H1JTNPH9W7VR</SimilarJobsURL>
+      <JobTitle>Werkstattleiter/in zur Personalvermittlung in Freising</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4ZJ627RY82F5PKX5</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4ZJ627RY82F5PKX5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4ZJ627RY82F5PKX5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erding</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erding</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.30871</LocationLatitude>
+      <LocationLongitude>11.90818</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:33:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4ZJ627RY82F5PKX5</SimilarJobsURL>
+      <JobTitle>Kfz-Meister/in zur Personalvermittlung in Erding</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR7CF6FH30S3M61G45</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Durchführung von Messungen an Baugruppen aus dem Automotive Bereich Erstellen von Messberichten nach Kundenanforderungen Überprüfung von Messberichten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR7CF6FH30S3M61G45</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR7CF6FH30S3M61G45&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel</Location>
+      <DisplayCity>Kassel</DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:30:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR7CF6FH30S3M61G45</SimilarJobsURL>
+      <JobTitle>Messtechniker / Qualitätsfachmann Messtechnik (w/m) für Serienmessungen in der Automobilindustrie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL37S73Y78098XJWVM</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Durchführung von Messungen an Baugruppen aus dem Automotive Bereich Erstellen von Messberichten nach Kundenanforderungen Überprüfung von Messberichten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL37S73Y78098XJWVM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL37S73Y78098XJWVM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Böblingen</Location>
+      <DisplayCity>Böblingen</DisplayCity>
+      <City>Böblingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.68699</LocationLatitude>
+      <LocationLongitude>9.00739</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:28:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL37S73Y78098XJWVM</SimilarJobsURL>
+      <JobTitle>Messtechniker / Qualitätsfachmann Messtechnik (w/m) für Serienmessungen in der Automobilindustrie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FERCHAU Engineering</Company>
+      <CompanyDID>chm06478shgv1n9cy70</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chm06478shgv1n9cy70/ferchau-engineering/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4Z36WLZ1R49GKTQC</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Engagiert. Kompetent. Zielgerichtet. Als Marktführer im Engineering steht FERCHAU mit mehr als 6.000 Mitarbeitern an über 60 Standorten seit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4Z36WLZ1R49GKTQC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4Z36WLZ1R49GKTQC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rosenheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rosenheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8529</LocationLatitude>
+      <LocationLongitude>12.1607</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:28:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4Z36WLZ1R49GKTQC</SimilarJobsURL>
+      <JobTitle>Vertriebsassistent (m/w) IT</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HL/MSG0F66K5R4L187MYHL.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>top itservices AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1586K3KPZ826KLNW</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Spannende Projekte, attraktive Einstiegsmöglichkeiten und anspruchsvolle Positionen - dafür steht die toptecs. Als weltweit agierender...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L1586K3KPZ826KLNW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1586K3KPZ826KLNW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Unterhaching bei München</Location>
+      <DisplayCity>Unterhaching bei München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:28:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1586K3KPZ826KLNW</SimilarJobsURL>
+      <JobTitle>Junior Account Manager (m/w) Engineering</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ZW/MSL7C466PN9L3GT3TZW.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>plantIng GmbH</Company>
+      <CompanyDID>chv5l870jxq08svpq0g</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chv5l870jxq08svpq0g/planting-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G55D6Z528W3DX3YK2</DID>
+      <OnetCode>17-2041.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>plantIng ist ein dynamisches Engineering-Unternehmen im Anlagenbau, das Planungsprojekte in den Branchen Öl und Gas, Petrochemie, Chemie, Pharmazie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G55D6Z528W3DX3YK2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G55D6Z528W3DX3YK2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:28:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G55D6Z528W3DX3YK2</SimilarJobsURL>
+      <JobTitle>Projektingenieur (m/w) Verfahrenstechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4P/M0V4MG6HP6LXD32PV4P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>M Plan</Company>
+      <CompanyDID>chs0p0603smhgwlychr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs0p0603smhgwlychr/m-plan/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L4BR5WJ2671YWG8FR</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Als Partner von OEMs, Systemlieferanten und Zulieferern ist M Plan einer der führenden deutschen Spezialisten im mobility engineering. Leidenschaft...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4BR5WJ2671YWG8FR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4BR5WJ2671YWG8FR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Osnabrück</Location>
+      <DisplayCity>Raum Osnabrück</DisplayCity>
+      <City>Osnabrück</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.27253</LocationLatitude>
+      <LocationLongitude>8.04778</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:27:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4BR5WJ2671YWG8FR</SimilarJobsURL>
+      <JobTitle>Konstrukteur (m/w) Licht &amp; Sicht</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/T2/M0V6C276VGPTSCQ96T2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>M Plan</Company>
+      <CompanyDID>chs0p0603smhgwlychr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs0p0603smhgwlychr/m-plan/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0GW632C4M0C4ZT0D</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Als Partner von OEMs, Systemlieferanten und Zulieferern ist M Plan einer der führenden deutschen Spezialisten im mobility engineering. Leidenschaft...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0GW632C4M0C4ZT0D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0GW632C4M0C4ZT0D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:27:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0GW632C4M0C4ZT0D</SimilarJobsURL>
+      <JobTitle>Ingenieur (m/w) Fahrzeugtechnik/ Gesamtfahrzeugentwicklung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/T2/M0V6C276VGPTSCQ96T2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>M Plan</Company>
+      <CompanyDID>chs0p0603smhgwlychr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs0p0603smhgwlychr/m-plan/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1DM79RYDLL9XS2D5</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>M Plan steht für geballte Kompetenz und Erfahrung im mobility engineering. Wir unterstützen OEMs, Systemlieferanten und Zulieferer von der Idee bis...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1DM79RYDLL9XS2D5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1DM79RYDLL9XS2D5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Osnabrück</Location>
+      <DisplayCity></DisplayCity>
+      <City>Osnabrück</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.27253</LocationLatitude>
+      <LocationLongitude>8.04778</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:27:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1DM79RYDLL9XS2D5</SimilarJobsURL>
+      <JobTitle>Qualitätsingenieure (m/w) Automotive</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/T2/M0V6C276VGPTSCQ96T2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Advanced Product Quality Planning</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FERCHAU Engineering</Company>
+      <CompanyDID>chm06478shgv1n9cy70</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chm06478shgv1n9cy70/ferchau-engineering/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H85F63CBD4271SBJQ</DID>
+      <OnetCode>13-1071.01</OnetCode>
+      <ONetFriendlyTitle>Employment Interviewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vielfältige Kundenanforderungen. Hochqualifizierte Mitarbeiter. Und Sie mittendrin. Als Marktführer im Engineering suchen wir die besten Ingenieure...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H85F63CBD4271SBJQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H85F63CBD4271SBJQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:27:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H85F63CBD4271SBJQ</SimilarJobsURL>
+      <JobTitle>Personalreferent (m/w) IT</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HL/MSG0F66K5R4L187MYHL.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FERCHAU Engineering</Company>
+      <CompanyDID>chm06478shgv1n9cy70</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chm06478shgv1n9cy70/ferchau-engineering/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L6PQ76CJ91BS8WZ41</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Technische Projekte, die es in sich haben. Das ist FERCHAU. Als Marktführer im Engineering bieten wir unseren mehr als 6.000 Mitarbeitern an über 60...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L6PQ76CJ91BS8WZ41</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6PQ76CJ91BS8WZ41&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erfurt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erfurt</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.97768</LocationLatitude>
+      <LocationLongitude>11.02307</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:27:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6PQ76CJ91BS8WZ41</SimilarJobsURL>
+      <JobTitle>Spezialist (m/w) Blasformtechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HL/MSG0F66K5R4L187MYHL.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FORMEL D GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ6HK79RDF81BRRN5R</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Entwicklung verschiedener Hardwarekomponenten in der Automobilindustrie, Schwerpunkt Steuergeräte, Schaltungen und Sensoren Durchführung, Analyse und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHQ6HK79RDF81BRRN5R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ6HK79RDF81BRRN5R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity>Nürnberg</DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:27:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ6HK79RDF81BRRN5R</SimilarJobsURL>
+      <JobTitle>Hardwareentwickler / Hardwaretester Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>LabVIEW</Skill>
+        <Skill>Mathematics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FORMEL D GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS0S0718LLLPGQ4TLM</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Entwicklung verschiedener Hardwarekomponenten in der Automobilindustrie, Schwerpunkt Steuergeräte, Schaltungen und Sensoren Durchführung, Analyse und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHS0S0718LLLPGQ4TLM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS0S0718LLLPGQ4TLM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity>Regensburg</DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:25:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS0S0718LLLPGQ4TLM</SimilarJobsURL>
+      <JobTitle>Hardwareentwickler / Hardwaretester Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>LabVIEW</Skill>
+        <Skill>Mathematics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ2NZ70M02T5HVKH1R</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vielseitige, abwechslungsreiche und stets anspruchsvolle Projekte bei nationalen sowie internationalen OEMs und Zulieferern in der Automobilindustrie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHQ2NZ70M02T5HVKH1R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ2NZ70M02T5HVKH1R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity>Karlsruhe</DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:24:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ2NZ70M02T5HVKH1R</SimilarJobsURL>
+      <JobTitle>Projektingenieure Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV73467LNN6X4XPJPD</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vielseitige, abwechslungsreiche und stets anspruchsvolle Projekte bei nationalen sowie internationalen OEMs und Zulieferern in der Automobilindustrie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHV73467LNN6X4XPJPD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV73467LNN6X4XPJPD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity>Stuttgart</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:22:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV73467LNN6X4XPJPD</SimilarJobsURL>
+      <JobTitle>Projektingenieure Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT61K70Q4XLQWCDSSC</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vielseitige, abwechslungsreiche und stets anspruchsvolle Projekte bei nationalen sowie internationalen OEMs und Zulieferern in der Automobilindustrie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHT61K70Q4XLQWCDSSC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT61K70Q4XLQWCDSSC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:21:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT61K70Q4XLQWCDSSC</SimilarJobsURL>
+      <JobTitle>Projektingenieure Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PMB Recruiting GmbH Personalberatung</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN4CD6Q3VLS57JP93L</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Leiter Vertrieb (m/w) Baumaschinen Raum Reutlingen - Tübingen DIE POSITION In dieser verantwortungsvollen Position berichten Sie direkt an die...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Führungsposition</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHN4CD6Q3VLS57JP93L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN4CD6Q3VLS57JP93L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Reutlingen - Tübingen</Location>
+      <DisplayCity>Raum Reutlingen - Tübingen</DisplayCity>
+      <City>Reutlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.49159</LocationLatitude>
+      <LocationLongitude>9.21487</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:17:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN4CD6Q3VLS57JP93L</SimilarJobsURL>
+      <JobTitle>Leiter Vertrieb (m/w) Baumaschinen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/07/M0W6Q76PT5S276M1807.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP09T70BCQN0NBD488</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Lieferantenauswahl und -bewertung Festlegung, Implementierung und Überwachung von Qualitätssicherheitsmaßnahmen bei Lieferanten Einleitung geeigneter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHP09T70BCQN0NBD488</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP09T70BCQN0NBD488&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity>Stuttgart</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:10:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP09T70BCQN0NBD488</SimilarJobsURL>
+      <JobTitle>Qualitätsingenieure Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Advanced Product Quality Planning</Skill>
+        <Skill>Six Sigma</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT5VM72MFXFY0LXD26</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Lieferantenauswahl und -bewertung Festlegung, Implementierung und Überwachung von Qualitätssicherheitsmaßnahmen bei Lieferanten Einleitung geeigneter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHT5VM72MFXFY0LXD26</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5VM72MFXFY0LXD26&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:08:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5VM72MFXFY0LXD26</SimilarJobsURL>
+      <JobTitle>Qualitätsingenieure Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR61Q78PZHBGS33LZ6</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Lieferantenauswahl und -bewertung Festlegung, Implementierung und Überwachung von Qualitätssicherheitsmaßnahmen bei Lieferanten Einleitung geeigneter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR61Q78PZHBGS33LZ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR61Q78PZHBGS33LZ6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity>Karlsruhe</DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:07:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR61Q78PZHBGS33LZ6</SimilarJobsURL>
+      <JobTitle>Qualitätsingenieure Automotive (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vetter Pharma-Fertigung GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4V172ZKTPSM1HJV3</DID>
+      <OnetCode>11-3061.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen ab März 2015 - idealerweise für die Dauer von 6 Monaten - eine/n Praktikanten/in im Bereich Einkauf. Im Rahmen des Praktikums lernen Sie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4V172ZKTPSM1HJV3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4V172ZKTPSM1HJV3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ravensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ravensburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.78201</LocationLatitude>
+      <LocationLongitude>9.61462</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 2:03:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4V172ZKTPSM1HJV3</SimilarJobsURL>
+      <JobTitle>Praktikant (m/w) im Bereich Supply Chain Management/Einkauf</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/M0X5QR6YZ5H7358B2SN.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Supply chain management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Formel D Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL4X36Y5ZRHGC5VL2X</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Als Projektleiter sind Sie für die eigenständige Abwicklung Ihrer Projekte, vor Allem im Bereich Logistik, verantwortlich, dazu zählt...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL4X36Y5ZRHGC5VL2X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL4X36Y5ZRHGC5VL2X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel</Location>
+      <DisplayCity>Kassel</DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:56:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL4X36Y5ZRHGC5VL2X</SimilarJobsURL>
+      <JobTitle>Projektleiter Logistik (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SN/MVC38Y6HQ9QBLV847SN.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H39Q6BZ4Y4GJR5JHB</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H39Q6BZ4Y4GJR5JHB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H39Q6BZ4Y4GJR5JHB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laupheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laupheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.22944</LocationLatitude>
+      <LocationLongitude>9.88466</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H39Q6BZ4Y4GJR5JHB</SimilarJobsURL>
+      <JobTitle>Industriemechaniker/in - Lebensmittelherstellung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L8G26XM76X89B6HXM</DID>
+      <OnetCode>19-4021.00</OnetCode>
+      <ONetFriendlyTitle>Biological Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L8G26XM76X89B6HXM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8G26XM76X89B6HXM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Kreuznach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Kreuznach</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.84314</LocationLatitude>
+      <LocationLongitude>7.86331</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8G26XM76X89B6HXM</SimilarJobsURL>
+      <JobTitle>Biologisch-technische/r Assistent/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4YV65VXZCCPY8YJ6</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K4YV65VXZCCPY8YJ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4YV65VXZCCPY8YJ6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelkheim (Taunus)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelkheim (Taunus)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.14065</LocationLatitude>
+      <LocationLongitude>8.44827</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4YV65VXZCCPY8YJ6</SimilarJobsURL>
+      <JobTitle>Produktionsfachkraft - Chemie (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6XB6BTQ796T0CNGM</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6XB6BTQ796T0CNGM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6XB6BTQ796T0CNGM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Kreuznach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Kreuznach</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.84314</LocationLatitude>
+      <LocationLongitude>7.86331</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6XB6BTQ796T0CNGM</SimilarJobsURL>
+      <JobTitle>Helpdesk - 1st Level Support (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4DQ75R0HNB7CXVSP</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4DQ75R0HNB7CXVSP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4DQ75R0HNB7CXVSP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelsterbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelsterbach</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.06141</LocationLatitude>
+      <LocationLongitude>8.53165</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4DQ75R0HNB7CXVSP</SimilarJobsURL>
+      <JobTitle>Produktionsfachkraft - Chemie (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5ZX71LH4L63CRWWQ</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5ZX71LH4L63CRWWQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5ZX71LH4L63CRWWQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eschborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eschborn</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.14041</LocationLatitude>
+      <LocationLongitude>8.57211</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5ZX71LH4L63CRWWQ</SimilarJobsURL>
+      <JobTitle>Chemikant/in - Anlagenführung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3BN6Z3FNZQXKDMCB</DID>
+      <OnetCode>47-5099.00</OnetCode>
+      <ONetFriendlyTitle>Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3BN6Z3FNZQXKDMCB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3BN6Z3FNZQXKDMCB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Liederbach am Taunus</Location>
+      <DisplayCity></DisplayCity>
+      <City>Liederbach am Taunus</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.1206</LocationLatitude>
+      <LocationLongitude>8.4932</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3BN6Z3FNZQXKDMCB</SimilarJobsURL>
+      <JobTitle>Chemiearbeiter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5RY79FDZG22FF3JF</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5RY79FDZG22FF3JF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5RY79FDZG22FF3JF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raunheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Raunheim</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0151</LocationLatitude>
+      <LocationLongitude>8.45266</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5RY79FDZG22FF3JF</SimilarJobsURL>
+      <JobTitle>Allround Buchhalter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K16S78N7M6CXH0T4R</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K16S78N7M6CXH0T4R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K16S78N7M6CXH0T4R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sulzbach (Taunus)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sulzbach (Taunus)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.13217</LocationLatitude>
+      <LocationLongitude>8.52852</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K16S78N7M6CXH0T4R</SimilarJobsURL>
+      <JobTitle>Buchhalter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L63B5VJHPSNWGN72C</DID>
+      <OnetCode>51-4122.00</OnetCode>
+      <ONetFriendlyTitle>Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L63B5VJHPSNWGN72C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L63B5VJHPSNWGN72C&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laupheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laupheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.22944</LocationLatitude>
+      <LocationLongitude>9.88466</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L63B5VJHPSNWGN72C</SimilarJobsURL>
+      <JobTitle>Betriebsschlosser/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1WJ618C3NX87H0LJ</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K1WJ618C3NX87H0LJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1WJ618C3NX87H0LJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelsterbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelsterbach</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.06141</LocationLatitude>
+      <LocationLongitude>8.53165</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1WJ618C3NX87H0LJ</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in - Logistik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3XD5WCR3HPZ3W3T6</DID>
+      <OnetCode>19-2031.00</OnetCode>
+      <ONetFriendlyTitle>Chemists</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L3XD5WCR3HPZ3W3T6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3XD5WCR3HPZ3W3T6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wiesbaden</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wiesbaden</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.08459</LocationLatitude>
+      <LocationLongitude>8.2423</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3XD5WCR3HPZ3W3T6</SimilarJobsURL>
+      <JobTitle>Chemielaborant/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4KR6Y949RN50HX00</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4KR6Y949RN50HX00</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4KR6Y949RN50HX00&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4KR6Y949RN50HX00</SimilarJobsURL>
+      <JobTitle>Produktionsfachkraft - Chemie (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F11B6R38M1R0642QL</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F11B6R38M1R0642QL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F11B6R38M1R0642QL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mainz</Location>
+      <DisplayCity>Mainz</DisplayCity>
+      <City>Mainz</City>
+      <State>HESSEN</State>
+      <LocationLatitude>47.8333</LocationLatitude>
+      <LocationLongitude>11.9667</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F11B6R38M1R0642QL</SimilarJobsURL>
+      <JobTitle>Anlageberater/in - Finanzdienstleistungen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3LG62F866H3B7BB5</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3LG62F866H3B7BB5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3LG62F866H3B7BB5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mainz</Location>
+      <DisplayCity>Mainz</DisplayCity>
+      <City>Mainz</City>
+      <State>HESSEN</State>
+      <LocationLatitude>47.8333</LocationLatitude>
+      <LocationLongitude>11.9667</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3LG62F866H3B7BB5</SimilarJobsURL>
+      <JobTitle>Human Resources Generalist (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1XM70V6PPJVZGW97</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1XM70V6PPJVZGW97</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1XM70V6PPJVZGW97&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mainz</Location>
+      <DisplayCity>Mainz</DisplayCity>
+      <City>Mainz</City>
+      <State>HESSEN</State>
+      <LocationLatitude>47.8333</LocationLatitude>
+      <LocationLongitude>11.9667</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1XM70V6PPJVZGW97</SimilarJobsURL>
+      <JobTitle>Assistent/in - Geschäftsleitung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0JL6CKTP77K4GZ7B</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L0JL6CKTP77K4GZ7B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0JL6CKTP77K4GZ7B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sulzbach (Taunus)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sulzbach (Taunus)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.13217</LocationLatitude>
+      <LocationLongitude>8.52852</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0JL6CKTP77K4GZ7B</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in - Warenausgang</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3SH6MGL5MDMVQDMV</DID>
+      <OnetCode>53-2021.00</OnetCode>
+      <ONetFriendlyTitle>Air Traffic Controllers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3SH6MGL5MDMVQDMV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3SH6MGL5MDMVQDMV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rüsselsheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rüsselsheim</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.9948</LocationLatitude>
+      <LocationLongitude>8.41048</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3SH6MGL5MDMVQDMV</SimilarJobsURL>
+      <JobTitle>Controller - Marketing (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7796W25CYK83KN78</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K7796W25CYK83KN78</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7796W25CYK83KN78&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Kreuznach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Kreuznach</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.84314</LocationLatitude>
+      <LocationLongitude>7.86331</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:54:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7796W25CYK83KN78</SimilarJobsURL>
+      <JobTitle>Aufzugsmonteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0RB72XMRQDB2MK97</DID>
+      <OnetCode>51-9198.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0RB72XMRQDB2MK97</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0RB72XMRQDB2MK97&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kriftel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kriftel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0849</LocationLatitude>
+      <LocationLongitude>8.47</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:53:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0RB72XMRQDB2MK97</SimilarJobsURL>
+      <JobTitle>Produktionsmitarbeiter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sempart GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0RV5VPL116YM6J3V</DID>
+      <OnetCode>17-3019.00</OnetCode>
+      <ONetFriendlyTitle>Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sicherheit und Flexibilität gehören für uns zusammen. Sempart entwickelt effiziente Lösungen für namhafte Kunden in den Bereichen Banking, Finance,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0RV5VPL116YM6J3V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0RV5VPL116YM6J3V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:53:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0RV5VPL116YM6J3V</SimilarJobsURL>
+      <JobTitle>Konstrukteur/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5J/M0X80063N7HWLVDY75J.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Solid Edge</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1N9684QFSWP6HHSD</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K1N9684QFSWP6HHSD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1N9684QFSWP6HHSD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Braunschweig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Braunschweig</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.26543</LocationLatitude>
+      <LocationLongitude>10.52736</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:45:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1N9684QFSWP6HHSD</SimilarJobsURL>
+      <JobTitle>Softwareentwickler/in (Embeeded Linux Softwareentwickler/in)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>svn</Skill>
+        <Skill>Linux</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6HV68L4DJ5JX5S63</DID>
+      <OnetCode>51-9111.00</OnetCode>
+      <ONetFriendlyTitle>Packaging and Filling Machine Operators and Tenders</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf dem Arbeitsmarkt auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6HV68L4DJ5JX5S63</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6HV68L4DJ5JX5S63&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reutlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reutlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.49159</LocationLatitude>
+      <LocationLongitude>9.21487</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:44:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6HV68L4DJ5JX5S63</SimilarJobsURL>
+      <JobTitle>Helfer/in - Papier, Verpackung (Lagerhelfer/in)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G75M702KRT78L47DS</DID>
+      <OnetCode>51-9198.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G75M702KRT78L47DS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G75M702KRT78L47DS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Konz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Konz</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.70275</LocationLatitude>
+      <LocationLongitude>6.57826</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:44:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G75M702KRT78L47DS</SimilarJobsURL>
+      <JobTitle>Helfer/in - Druck</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6X66BJBFG6FDM65J</DID>
+      <OnetCode>17-2061.00</OnetCode>
+      <ONetFriendlyTitle>Computer Hardware Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L6X66BJBFG6FDM65J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6X66BJBFG6FDM65J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Braunschweig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Braunschweig</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.26543</LocationLatitude>
+      <LocationLongitude>10.52736</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:44:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6X66BJBFG6FDM65J</SimilarJobsURL>
+      <JobTitle>Komponentenentwickler/in (Hardwareentwickler für Fahrzeugdiagnose)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>OrCAD</Skill>
+        <Skill>Open Grid Forum</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TEMPTON Personaldienstleistungen GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3BJ67TTFGKN87HFW</DID>
+      <OnetCode>47-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Construction Trades and Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungZählt für Sie im Beruf Sicherheit oder Abwechslung? Mit TEMPTON verbinden Sie beides. Lassen Sie sich überraschen, was Ihnen unsere...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3BJ67TTFGKN87HFW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3BJ67TTFGKN87HFW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity></DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3BJ67TTFGKN87HFW</SimilarJobsURL>
+      <JobTitle>Fachhelfer/in Ausbau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GY/MXT1W35VPGRK5HJZVGY.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L16961CH2CFRSYG6J</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L16961CH2CFRSYG6J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L16961CH2CFRSYG6J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bempflingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bempflingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.57309</LocationLatitude>
+      <LocationLongitude>9.26556</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L16961CH2CFRSYG6J</SimilarJobsURL>
+      <JobTitle>Fachlagerist/in (Fachkraft Lager (m/w))</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5HJ70G02ZLN83QPT</DID>
+      <OnetCode>49-9069.00</OnetCode>
+      <ONetFriendlyTitle>Precision Instrument and Equipment Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K5HJ70G02ZLN83QPT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5HJ70G02ZLN83QPT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Harsum</Location>
+      <DisplayCity></DisplayCity>
+      <City>Harsum</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.20813</LocationLatitude>
+      <LocationLongitude>9.96462</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5HJ70G02ZLN83QPT</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3015YMTCPN25Q2H3</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K3015YMTCPN25Q2H3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3015YMTCPN25Q2H3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reutlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reutlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.49159</LocationLatitude>
+      <LocationLongitude>9.21487</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3015YMTCPN25Q2H3</SimilarJobsURL>
+      <JobTitle>Schweißer/in (geprüft)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1HF77CDZFM6749R7</DID>
+      <OnetCode>53-7021.00</OnetCode>
+      <ONetFriendlyTitle>Crane and Tower Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K1HF77CDZFM6749R7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1HF77CDZFM6749R7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Castrop-Rauxel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Castrop-Rauxel</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.54764</LocationLatitude>
+      <LocationLongitude>7.30899</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1HF77CDZFM6749R7</SimilarJobsURL>
+      <JobTitle>Kranführer/in (Kranführer (m/w))</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0656QVF7F4V79GJW</DID>
+      <OnetCode>11-3071.00</OnetCode>
+      <ONetFriendlyTitle>Transportation, Storage, and Distribution Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0656QVF7F4V79GJW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0656QVF7F4V79GJW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bayreuth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bayreuth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.94518</LocationLatitude>
+      <LocationLongitude>11.57102</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0656QVF7F4V79GJW</SimilarJobsURL>
+      <JobTitle>Helfer/in - Lagerwirtschaft, Transport (Lagerhelfer (m/w))</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1ZR6FJBRL548WVP1</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K1ZR6FJBRL548WVP1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1ZR6FJBRL548WVP1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wittlich</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wittlich</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.98644</LocationLatitude>
+      <LocationLongitude>6.88977</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:43:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1ZR6FJBRL548WVP1</SimilarJobsURL>
+      <JobTitle>Elektroniker/in - Betriebstechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BERGER Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6G96H2VB5Y4Q3DCL</DID>
+      <OnetCode>13-2082.00</OnetCode>
+      <ONetFriendlyTitle>Tax Preparers</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Firma Berger Personalmanagement ist seit 16 Jahren als Dienstleistungsunternehmen der Zeitarbeitsbranche tätig. Im Zentrum von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6G96H2VB5Y4Q3DCL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6G96H2VB5Y4Q3DCL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:41:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6G96H2VB5Y4Q3DCL</SimilarJobsURL>
+      <JobTitle>Steuerfachangestellte/r</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LZ/MWR5TG6FY48ZKSSC9LZ.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BERGER Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4F0770H4FQ6Y1K89</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Firma Berger Personalmanagement ist seit 16 Jahren als Dienstleistungsunternehmen der Zeitarbeitsbranche tätig. Im Zentrum von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4F0770H4FQ6Y1K89</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4F0770H4FQ6Y1K89&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:41:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4F0770H4FQ6Y1K89</SimilarJobsURL>
+      <JobTitle>Altenpfleger/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LZ/MWR5TG6FY48ZKSSC9LZ.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BERGER Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7MG69KFVKL708MKD</DID>
+      <OnetCode>35-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Food Preparation and Serving Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Firma Berger Personalmanagement ist seit 16 Jahren als Dienstleistungsunternehmen der Zeitarbeitsbranche tätig. Im Zentrum von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7MG69KFVKL708MKD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7MG69KFVKL708MKD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:41:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7MG69KFVKL708MKD</SimilarJobsURL>
+      <JobTitle>Service-Mitarbeiter m/w</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LZ/MWR5TG6FY48ZKSSC9LZ.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BERGER Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6Z06PSFZR9JJSYGV</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Firma Berger Personalmanagement ist seit 16 Jahren als Dienstleistungsunternehmen der Zeitarbeitsbranche tätig. Im Zentrum von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6Z06PSFZR9JJSYGV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6Z06PSFZR9JJSYGV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:41:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6Z06PSFZR9JJSYGV</SimilarJobsURL>
+      <JobTitle>Buchhalter/in (Lohn- und Gehalt)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LZ/MWR5TG6FY48ZKSSC9LZ.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H25V75YHCGYH0Y7W6</DID>
+      <OnetCode>29-2051.00</OnetCode>
+      <ONetFriendlyTitle>Dietetic Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Dienstleistungsgesellschaft Hamburg mbH Hamburg Wir sind Die Asklepios Dienstleistungsgesellschaft Hamburg mbH ist eine 100%ige Tochter der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H25V75YHCGYH0Y7W6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H25V75YHCGYH0Y7W6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H25V75YHCGYH0Y7W6</SimilarJobsURL>
+      <JobTitle>Diätassistenz (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4WB749Q5V9034Z42</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Westklinikum Hamburg Hamburg Wir sind Asklepios ist eine der führenden internationalen Klinikketten und mit rund 12.000 Mitarbeitern der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4WB749Q5V9034Z42</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4WB749Q5V9034Z42&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4WB749Q5V9034Z42</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger Kardiologie (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5M3627SPBMZKHPW3</DID>
+      <OnetCode>25-1071.00</OnetCode>
+      <ONetFriendlyTitle>Health Specialties Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Klinik Triberg Triberg Wir sind eine 140-Betten-Fachklinik für Innere Medizin mit den Schwerpunkten Hämatologie/Onkologie, Gynäkologie,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5M3627SPBMZKHPW3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5M3627SPBMZKHPW3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Triberg im Schwarzwald</Location>
+      <DisplayCity></DisplayCity>
+      <City>Triberg im Schwarzwald</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.13032</LocationLatitude>
+      <LocationLongitude>8.2316</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5M3627SPBMZKHPW3</SimilarJobsURL>
+      <JobTitle>Diplom-Sportlehrer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7726YSVZ0TQHDLMK</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Westklinikum Hamburg Hamburg Wir sind Asklepios ist eine der führenden internationalen Klinikketten und mit rund 12.000 Mitarbeitern der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7726YSVZ0TQHDLMK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7726YSVZ0TQHDLMK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7726YSVZ0TQHDLMK</SimilarJobsURL>
+      <JobTitle>Palliative Care Fachpflegekräfte (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>palliative care</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G60Q6F86SZ1BY3L8V</DID>
+      <OnetCode>31-9092.00</OnetCode>
+      <ONetFriendlyTitle>Medical Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Nordseeklinik Westerland/Sylt Sylt Wir sind Wir sind das Akutkrankenhaus der Insel Sylt (112 Betten) mit Fachabteilungen für Chirurgie,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G60Q6F86SZ1BY3L8V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G60Q6F86SZ1BY3L8V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sylt-Ost</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sylt-Ost</City>
+      <State>SCHLESWIG-HOLSTEIN</State>
+      <LocationLatitude>54.8833</LocationLatitude>
+      <LocationLongitude>8.35</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G60Q6F86SZ1BY3L8V</SimilarJobsURL>
+      <JobTitle>Medizinisch-Technischer Radiologieassistent (w./m.) (MTRA)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7306YY4ZS2VDM4P9</DID>
+      <OnetCode>31-9092.00</OnetCode>
+      <ONetFriendlyTitle>Medical Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Klinikum Bad Abbach Bad Abbach Wir sind eine moderne Kooperationsklinik der Universität Regensburg mit 200 Betten im Fachkrankenhaus für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7306YY4ZS2VDM4P9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7306YY4ZS2VDM4P9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Abbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Abbach</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.93466</LocationLatitude>
+      <LocationLongitude>12.03961</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7306YY4ZS2VDM4P9</SimilarJobsURL>
+      <JobTitle>Medizinische Fachangestellte/r</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H86F744LM06F3CWHR</DID>
+      <OnetCode>19-3031.02</OnetCode>
+      <ONetFriendlyTitle>Clinical Psychologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Klinik Nord Hamburg Wir sind mit über 1.600 Betten an drei Standorten die größte Klinik in Hamburg. Getreu dem Leitsatz 'Gemeinsam für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H86F744LM06F3CWHR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H86F744LM06F3CWHR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H86F744LM06F3CWHR</SimilarJobsURL>
+      <JobTitle>Assistenzarzt (m/w) für Affektive Erkrankungen, WB FA, befr. (KZ 141-17-AH)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0HB6HK9XBZX656NG</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Fachklinikum Tiefenbrunn Tiefenbrunn Wir sind die Asklepios Psychiatrie Niedersachsen GmbH, Trägergesellschaft der Asklepios Fachkliniken...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0HB6HK9XBZX656NG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0HB6HK9XBZX656NG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tiefenbrunn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tiefenbrunn</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>50.33219</LocationLatitude>
+      <LocationLongitude>12.12364</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0HB6HK9XBZX656NG</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3Y16LWFD4V9F1D86</DID>
+      <OnetCode>31-9092.00</OnetCode>
+      <ONetFriendlyTitle>Medical Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Klinik Nord Hamburg Wir sind mit über 1.600 Betten an drei Standorten die größte Klinik in Hamburg. Getreu dem Leitsatz 'Gemeinsam für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3Y16LWFD4V9F1D86</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3Y16LWFD4V9F1D86&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3Y16LWFD4V9F1D86</SimilarJobsURL>
+      <JobTitle>Assistenzarzt / Facharzt (m/w) (WB FA) für Psychiatrie Wandsbek (KZ PSYW-16-AH)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0FW6K6Y4C1DGVV1W</DID>
+      <OnetCode>29-2061.00</OnetCode>
+      <ONetFriendlyTitle>Licensed Practical and Vocational Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Service Reinigung GmbH Kandel Wir sind Die Asklepios Service Reinigung GmbH ist eine 100%ige Tochter der Asklepios Kliniken, welche unter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0FW6K6Y4C1DGVV1W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0FW6K6Y4C1DGVV1W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kandel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kandel</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.08078</LocationLatitude>
+      <LocationLongitude>8.19007</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:37:12 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0FW6K6Y4C1DGVV1W</SimilarJobsURL>
+      <JobTitle>Raumpfleger (m/w) in Teilzeit</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5P4700QJT0YZSKQR</DID>
+      <OnetCode>15-1011.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Scientists, Research</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen weltweit führenden Anbieter für Haushaltsgroß- und Kleingeräte, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H5P4700QJT0YZSKQR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5P4700QJT0YZSKQR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Regensburg</Location>
+      <DisplayCity>Raum Regensburg</DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.0272</LocationLatitude>
+      <LocationLongitude>12.095</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:35:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5P4700QJT0YZSKQR</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Software-Entwicklung Haushaltsgeräte</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4006J5311W3FKDPP</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein renommiertes Unternehmen der Luft- und Raumfahrttechnik, suchen wir zum nächst möglichen Zeitpunkt einen Ingenieur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4006J5311W3FKDPP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4006J5311W3FKDPP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity>Donauwörth</DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.7195</LocationLatitude>
+      <LocationLongitude>10.7686</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:35:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4006J5311W3FKDPP</SimilarJobsURL>
+      <JobTitle>Ingenieur Elektrotechnik (m/w) Konstruktion Elektronik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Numerical control</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2V96YDH321JPLX7P</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein führendes mittelständisches Unternehmen in den IT-Bereichen Netzwerk-, Kommunikation-, Virtualisierung-, Mobility- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2V96YDH321JPLX7P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2V96YDH321JPLX7P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Schweinfurt</Location>
+      <DisplayCity>Raum Schweinfurt</DisplayCity>
+      <City>Reichelshof</City>
+      <State>BAYERN</State>
+      <LocationLatitude>50.04376</LocationLatitude>
+      <LocationLongitude>10.2899</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:35:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2V96YDH321JPLX7P</SimilarJobsURL>
+      <JobTitle>Fachinformatiker Systemintegration (m/w) Datacenter Service und Management</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>change management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6XH741VW6FSCCHM3</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein renommiertes Unternehmen der Luft- und Raumfahrttechnik, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6XH741VW6FSCCHM3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6XH741VW6FSCCHM3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity>Donauwörth</DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.7195</LocationLatitude>
+      <LocationLongitude>10.7686</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:35:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6XH741VW6FSCCHM3</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Projektmanagement / Änderungsmanagement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>xsl</Skill>
+        <Skill>xml</Skill>
+        <Skill>standard generalized markup language</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6HB693CNVZRBKN5Y</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, der maßgeschneiderte Lösungen hauptsächlich im Auftrag von Herstellern und Zulieferern der Automobilindustrie entwickelt, aber...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6HB693CNVZRBKN5Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6HB693CNVZRBKN5Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Stuttgart</Location>
+      <DisplayCity>Raum Stuttgart</DisplayCity>
+      <City>Bietigheim-Bissingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.9551</LocationLatitude>
+      <LocationLongitude>9.11979</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6HB693CNVZRBKN5Y</SimilarJobsURL>
+      <JobTitle>Ingenieur Maschinenbau (m/w) Berechnungsingenieur Karosserie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4336LZY416Z3SVJS</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen weltweit führenden Automobilhersteller, suchen wir zum nächst möglichen Zeitpunkt einen Ingenieur Maschinenbau (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4336LZY416Z3SVJS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4336LZY416Z3SVJS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity>Regensburg</DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.0113</LocationLatitude>
+      <LocationLongitude>12.1493</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4336LZY416Z3SVJS</SimilarJobsURL>
+      <JobTitle>Ingenieur Maschinenbau (m/w) Qualitätssicherung Gesamtfahrzeug</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3BN731TT4D7J1RH1</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Konstruieren von Maschinen entsprechend der gültigenMaschinenrichtlinie Detaillieren von Baugruppen und Einzelteilen Anleitung und Betreuung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3BN731TT4D7J1RH1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3BN731TT4D7J1RH1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3BN731TT4D7J1RH1</SimilarJobsURL>
+      <JobTitle>Konstrukteur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/18/M0T25N66CKN5MB23518.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>CATIA</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0ZH6XTTM9YZP8895</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Entwicklung von Steuerungs-Software für komplexeHandlings-Maschinen und -Anlagen (SPS, HMI, Antriebstechnik usw.) Durchführen von Funktionstests für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0ZH6XTTM9YZP8895</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0ZH6XTTM9YZP8895&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0ZH6XTTM9YZP8895</SimilarJobsURL>
+      <JobTitle>SPS-Programmierer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/18/M0T25N66CKN5MB23518.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6GJ5Z65KBP9CLVQX</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein renommiertes Unternehmen der Luft- und Raumfahrttechnik, suchen wir zum nächst möglichen Zeitpunkt einen Ingenieur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6GJ5Z65KBP9CLVQX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6GJ5Z65KBP9CLVQX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity>Donauwörth</DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.7195</LocationLatitude>
+      <LocationLongitude>10.7686</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6GJ5Z65KBP9CLVQX</SimilarJobsURL>
+      <JobTitle>Ingenieur Luftfahrttechnik oder Wirtschaftsingenieur (m/w) Konfigurationsmanagement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ILS</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J63L6DYVQ1R5Y30NX</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein weltweit führendes Unternehmen aus dem Bereich Anlagenbau, suchen wir zum nächst möglichen Zeitpunkt einen Ingenieur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J63L6DYVQ1R5Y30NX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J63L6DYVQ1R5Y30NX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dresden</Location>
+      <DisplayCity>Dresden</DisplayCity>
+      <City>Dresden</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.0526</LocationLatitude>
+      <LocationLongitude>13.7702</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J63L6DYVQ1R5Y30NX</SimilarJobsURL>
+      <JobTitle>Ingenieur Elektrotechnik (m/w) Planung und Inbetriebnahme von technischen Anlagen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>WinCC</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5QY661LKN0GPJ3B9</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen führenden Telekommunikationsanbieter und Internet-Provider, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H5QY661LKN0GPJ3B9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5QY661LKN0GPJ3B9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Karlsruhe</Location>
+      <DisplayCity>Raum Karlsruhe</DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.98773</LocationLatitude>
+      <LocationLongitude>8.38083</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5QY661LKN0GPJ3B9</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Webentwicklung  HTML, CSS, JS, XML und XSL</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>xsl</Skill>
+        <Skill>internet explorer</Skill>
+        <Skill>html</Skill>
+        <Skill>svn</Skill>
+        <Skill>xml</Skill>
+        <Skill>javascript</Skill>
+        <Skill>xslt</Skill>
+        <Skill>adobe photoshop</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8FY6N96TSSTPFVMG</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Weltmarktführer im Bereich IT-Produkte und IT-Infrastruktur, suchen wir zum nächst möglichen Zeitpunkt einen Produktmanager...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J8FY6N96TSSTPFVMG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8FY6N96TSSTPFVMG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Augsburg</Location>
+      <DisplayCity>Augsburg</DisplayCity>
+      <City>Augsburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.3227</LocationLatitude>
+      <LocationLongitude>10.8359</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8FY6N96TSSTPFVMG</SimilarJobsURL>
+      <JobTitle>Ingenieur Elektrotechnik (m/w) Produktmanager für Zertifizierungen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3DG692TY69480DQX</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Kommen Sie zur IPN Solutions GmbH &amp; Co. KG und entwickeln Sie mit an der Zukunft der IPN Gruppe. Wir bauen einen neuen Geschäftszweig Business Process...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3DG692TY69480DQX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3DG692TY69480DQX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity>Nürnberg</DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4262</LocationLatitude>
+      <LocationLongitude>11.0145</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3DG692TY69480DQX</SimilarJobsURL>
+      <JobTitle>Junior Consultant (m/w) Business Process Management</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>xml</Skill>
+        <Skill>javascript</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>ajax</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6X4786S9KGSP3YNN</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Global Player im Bereich Automobil-Elektronik, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6X4786S9KGSP3YNN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6X4786S9KGSP3YNN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>bundesweit</Location>
+      <DisplayCity>bundesweit</DisplayCity>
+      <City>Ulm</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.4025</LocationLatitude>
+      <LocationLongitude>9.97437</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6X4786S9KGSP3YNN</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Testingenieur</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G33875S5M4C6CYV9L</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Global Player im Bereich Automobil-Elektronik, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G33875S5M4C6CYV9L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G33875S5M4C6CYV9L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>bundesweit</Location>
+      <DisplayCity>bundesweit</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G33875S5M4C6CYV9L</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Testingenieur</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F53Z76P1TJPQ37HCS</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Global Player im Bereich Automobil-Elektronik, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F53Z76P1TJPQ37HCS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F53Z76P1TJPQ37HCS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>bundesweit</Location>
+      <DisplayCity>bundesweit</DisplayCity>
+      <City>Lindau (Bodensee)</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.55606</LocationLatitude>
+      <LocationLongitude>9.70417</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F53Z76P1TJPQ37HCS</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Testingenieur</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5HH6CWDS0WV77TM3</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Global Player im Bereich Automobil-Elektronik, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5HH6CWDS0WV77TM3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5HH6CWDS0WV77TM3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>bundesweit</Location>
+      <DisplayCity>bundesweit</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5HH6CWDS0WV77TM3</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Testingenieur</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4T167Z917QM9B8GB</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Global Player im Bereich Automobil-Elektronik, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4T167Z917QM9B8GB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4T167Z917QM9B8GB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>bundesweit</Location>
+      <DisplayCity>bundesweit</DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4T167Z917QM9B8GB</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Testingenieur</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5025XL8DGW353C6Q</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Für die Vertriebsregion Frankfurt suchen wir zum nächst möglichen Zeitpunkt einen motivierten und erfahrenen Account Manager (m/w) für den Bereich...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5025XL8DGW353C6Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5025XL8DGW353C6Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart oder Frankfurt</Location>
+      <DisplayCity>Stuttgart oder Frankfurt</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7162</LocationLatitude>
+      <LocationLongitude>9.12695</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5025XL8DGW353C6Q</SimilarJobsURL>
+      <JobTitle>Account Manager (m/w) Engineering und IT-Dienstleistungen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L39171P7VZC2WV5SB</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, ein weltweit führendes Unternehmen aus dem Bereich Anlagenbau, suchen wir zum nächst möglichen Zeitpunkt einen Bachelor...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L39171P7VZC2WV5SB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L39171P7VZC2WV5SB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zwickau</Location>
+      <DisplayCity>Zwickau</DisplayCity>
+      <City>Zwickau</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>50.7058</LocationLatitude>
+      <LocationLongitude>12.4784</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:34:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L39171P7VZC2WV5SB</SimilarJobsURL>
+      <JobTitle>Bachelor Betriebswirtschaft (m/w) - administrative Unterstützung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IPN Brainpower GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7J36VHVWCNVJ728X</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Kunden, einen Global Player im Bereich der Energieübertragung, suchen wir zum nächst möglichen Zeitpunkt einen Informatiker (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7J36VHVWCNVJ728X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7J36VHVWCNVJ728X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Raum Fürth</Location>
+      <DisplayCity>Raum Fürth</DisplayCity>
+      <City>Fürth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4832</LocationLatitude>
+      <LocationLongitude>10.973</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:33:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7J36VHVWCNVJ728X</SimilarJobsURL>
+      <JobTitle>Informatiker (m/w) Integrationstester Systemintegration</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DG/MFQ7287305V32R9HLDG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>SCADA</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F1116MX93Q9LT4FVQ</DID>
+      <OnetCode>27-1022.00</OnetCode>
+      <ONetFriendlyTitle>Fashion Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Theater sucht Kostümbildner oder Kostümbildnerin (auch Schneider) für Theater in Linz (Österreich). Mit mehr als 340.000 BesucherInnen und mehr als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1116MX93Q9LT4FVQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1116MX93Q9LT4FVQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:33:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1116MX93Q9LT4FVQ</SimilarJobsURL>
+      <JobTitle>Theater sucht Kostümbildner oder Kostümbildnerin (auch Schneider) für Theater in Linz (Österreich).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4Y16RR6WNHS9VHKQ</DID>
+      <OnetCode>51-9198.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>TV-Produktion sucht Kleindarstellerin im Spielalter 18-24 Jahre für 'Hilf mir! Jung, pleite, verzweifelt...' in Berlin (Deutschland). Für den Dreh...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4Y16RR6WNHS9VHKQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4Y16RR6WNHS9VHKQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:33:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4Y16RR6WNHS9VHKQ</SimilarJobsURL>
+      <JobTitle>TV-Produktion sucht Kleindarstellerin im Spielalter 18-24 Jahre für 'Hilf mir! Jung, pleite, verzweifelt...' in Berlin (Deutschl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J0WZ5WDS8Z5D91M1S</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Theaterproduktion sucht Schauspieler oder Schauspielerin im Spielalter 18-95 Jahre für Gründung einer Improvisationsgruppe in Hattersheim (Deutschland...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0WZ5WDS8Z5D91M1S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0WZ5WDS8Z5D91M1S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hattersheim</Location>
+      <DisplayCity>Hattersheim</DisplayCity>
+      <City>Hattersheim</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0581</LocationLatitude>
+      <LocationLongitude>8.48228</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:33:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0WZ5WDS8Z5D91M1S</SimilarJobsURL>
+      <JobTitle>Theaterproduktion sucht Schauspieler oder Schauspielerin im Spielalter 18-95 Jahre für Gründung einer Improvisationsgruppe in Ha</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4X36QNLBTLFFTBFT</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting Agentur sucht Schauspielerin im Spielalter 55-65 Jahre für TV Krimi 'In Gefahr' in München (Deutschland). Drehtage: 06. &amp; 07.02.2015 Gage: 500...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4X36QNLBTLFFTBFT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4X36QNLBTLFFTBFT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:33:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4X36QNLBTLFFTBFT</SimilarJobsURL>
+      <JobTitle>Casting Agentur sucht Schauspielerin im Spielalter 55-65 Jahre für TV Krimi 'In Gefahr' in München (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4166K5J5S10D4X7K</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting Agentur sucht Schauspieler im Spielalter 33-43 Jahre für TV Krimi 'In Gefahr' in München (Deutschland). Drehtage: 02. - 04.02.2015 Gage: 750€...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4166K5J5S10D4X7K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4166K5J5S10D4X7K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/22/2015</PostedDate>
+      <PostedTime>1/22/2015 1:33:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4166K5J5S10D4X7K</SimilarJobsURL>
+      <JobTitle>Casting Agentur sucht Schauspieler im Spielalter 33-43 Jahre für TV Krimi 'In Gefahr' in München (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

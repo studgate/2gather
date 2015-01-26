@@ -1,0 +1,3579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 12:05:33 PM</TimeResponseSent>
+  <TimeElapsed>0.6396287</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>7315</TotalCount>
+  <FirstItemIndex>1401</FirstItemIndex>
+  <LastItemIndex>1500</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Adecco Staffing Canada</Company>
+      <CompanyDID>chn54c619dh39jfhxkr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn54c619dh39jfhxkr/adecco-staffing-canada/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G05Y75Y7JXJTHPTT5</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA Positions available: Various Knowledge, Skills and Abilities...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G05Y75Y7JXJTHPTT5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G05Y75Y7JXJTHPTT5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sarnia</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sarnia</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>42.97877</LocationLatitude>
+      <LocationLongitude>-82.40336</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 1:06:28 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G05Y75Y7JXJTHPTT5</SimilarJobsURL>
+      <JobTitle>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0d/mw91bc68j5bl678zb0d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ABF Freight System, Inc</Company>
+      <CompanyDID>c8h6206ncf2t5fjqpt2</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8h6206ncf2t5fjqpt2/abf-freight-system-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K4DD6K5VZJ8TG3G07</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>General Job Summary: Ensure all terminal operations work is performed according to approved company procedures, standards, and specification....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K4DD6K5VZJ8TG3G07</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4DD6K5VZJ8TG3G07&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brampton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brampton</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.6843</LocationLatitude>
+      <LocationLongitude>-79.75873</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 1:03:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4DD6K5VZJ8TG3G07</SimilarJobsURL>
+      <JobTitle>Operations Supervisor</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mt/mft7ny7859sxzhvgcmt.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ABF Freight System, Inc</Company>
+      <CompanyDID>c8h6206ncf2t5fjqpt2</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8h6206ncf2t5fjqpt2/abf-freight-system-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3PC5X59FKHHDWPQX</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Company Description Investing in the right people is a driving force behind almost 90 years of success at ABF Freight System, Inc. As a financially...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H3PC5X59FKHHDWPQX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3PC5X59FKHHDWPQX&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dorval</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dorval</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.43891</LocationLatitude>
+      <LocationLongitude>-73.73018</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 1:02:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3PC5X59FKHHDWPQX</SimilarJobsURL>
+      <JobTitle>Account Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mt/mft7ny7859sxzhvgcmt.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Big-box store</Skill>
+        <Skill>Account Development</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Expense account</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ABF Freight System, Inc</Company>
+      <CompanyDID>c8h6206ncf2t5fjqpt2</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8h6206ncf2t5fjqpt2/abf-freight-system-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F314684RN50HYHPWB</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>General Description of Duties: Job responsibilities include but are not limited to: the pickup and delivery of cargo trailers, the pickup and delivery...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F314684RN50HYHPWB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F314684RN50HYHPWB&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Surrey</Location>
+      <DisplayCity></DisplayCity>
+      <City>Surrey</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.10522</LocationLatitude>
+      <LocationLongitude>-122.83137</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 1:02:50 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F314684RN50HYHPWB</SimilarJobsURL>
+      <JobTitle>City Driver Full-Time Combined Dock/P&amp;D</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/mt/mft7ny7859sxzhvgcmt.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Genco</Company>
+      <CompanyDID>c8b1k96ptls5ghj1b9z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8b1k96ptls5ghj1b9z/genco/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5086MTZXKB3B58V5</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Genco est un des premiers fournisseurs de services complets de logistiques depuis plus de 100 ans. Avec presque 11 000 employés à ce jour, nous sommes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L5086MTZXKB3B58V5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5086MTZXKB3B58V5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pointe-Claire</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pointe-Claire</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.44802</LocationLatitude>
+      <LocationLongitude>-73.81731</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 1:01:08 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5086MTZXKB3B58V5</SimilarJobsURL>
+      <JobTitle>Chef Ressources Humaines/ Human resources manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/qc/i8b0345xzqbn2dy4wqc.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrial relations</Skill>
+        <Skill>Pay-as-you-earn tax</Skill>
+        <Skill>Budget</Skill>
+        <Skill>Resource management</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TEKsystems, Inc</Company>
+      <CompanyDID>c7g7jj77nvmshq4fctz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c7g7jj77nvmshq4fctz/teksystems-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H20L654CV51VGW86Z</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>A client of TEKsystems in the Vancouver area is looking for several backend Java Developers to join their team. Both contract and permanent...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H20L654CV51VGW86Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H20L654CV51VGW86Z&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vancouver</Location>
+      <DisplayCity>Vancouver</DisplayCity>
+      <City>Vancouver</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.26044</LocationLatitude>
+      <LocationLongitude>-123.11403</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:52:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H20L654CV51VGW86Z</SimilarJobsURL>
+      <JobTitle>Java Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/d6/mvm6sj6gg8mtly0mxd6.jpg</CompanyImageURL>
+      <JobBrandingIcons>VIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>solaris (operating system)</Skill>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>soap</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>netbeans</Skill>
+        <Skill>bash</Skill>
+        <Skill>oracle weblogic server</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>Linux</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>identity management</Skill>
+        <Skill>shell script</Skill>
+        <Skill>sql</Skill>
+        <Skill>jsp</Skill>
+        <Skill>glassfish</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Knowledge First Financial</Company>
+      <CompanyDID>cht59k75lygfwg9nbd8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/cht59k75lygfwg9nbd8/knowledge-first-financial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT86Q6VPG9F5TVXFH4</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Foundedin 1965, Knowledge First Financial is one of Canada’s leading RegisteredEducation Savings Plans (RESP) providers with $3 billion in assets...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHT86Q6VPG9F5TVXFH4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT86Q6VPG9F5TVXFH4&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regina</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regina</City>
+      <State>SASKATCHEWAN</State>
+      <LocationLatitude>50.44801</LocationLatitude>
+      <LocationLongitude>-104.59518</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:46:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT86Q6VPG9F5TVXFH4</SimilarJobsURL>
+      <JobTitle>Branch Director</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rs/m0z3bd5wz4y3zlgxzrs.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales management</Skill>
+        <Skill>Direct selling</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank International US</Company>
+      <CompanyDID>cht3zn76tflfqgx9s5m</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/cht3zn76tflfqgx9s5m/nigel-frank-international-us/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6GP70FMCLL4BSWRD</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dynamic NAVISION /3PLink - Developer - Vancouver, BC - $90PH A very successful Transportation &amp; Warehousing Company in Vancouver is in need of a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H6GP70FMCLL4BSWRD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6GP70FMCLL4BSWRD&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vancouver</Location>
+      <DisplayCity>Vancouver</DisplayCity>
+      <City>Vancouver</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.26044</LocationLatitude>
+      <LocationLongitude>-123.11403</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:40:15 PM</PostedTime>
+      <Pay>$85.00 - $90.00/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6GP70FMCLL4BSWRD</SimilarJobsURL>
+      <JobTitle>Dynamic NAVISION /3PLink - Developer - Vancouver, BC - $90PH</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/50/m0w39r6nzrbt3zvh850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Engineering Search Firm Inc.</Company>
+      <CompanyDID>c8c5jf6354sygckg7sg</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8c5jf6354sygckg7sg/engineering-search-firm-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3TF65X1R5NK9YKZT</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Rate: $25-$30/hr Our client, a leader in the field of industrial relocation services, is seeking a 310T mechanic to troubleshoot and repair heavy duty...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H3TF65X1R5NK9YKZT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3TF65X1R5NK9YKZT&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vaughan</Location>
+      <DisplayCity>Vaughan</DisplayCity>
+      <City>Concord</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.8176</LocationLatitude>
+      <LocationLongitude>-79.4921</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:38:28 PM</PostedTime>
+      <Pay>25.00 cad - 30.00 cad/hour</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3TF65X1R5NK9YKZT</SimilarJobsURL>
+      <JobTitle>Licensed Truck Mechanic</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0f/mrk30973nqxqr5bbr0f.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2TM61N6M47QR3CXG</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L2TM61N6M47QR3CXG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2TM61N6M47QR3CXG&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Drummondville</Location>
+      <DisplayCity></DisplayCity>
+      <City>Drummondville</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.88082</LocationLatitude>
+      <LocationLongitude>-72.48411</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:19 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2TM61N6M47QR3CXG</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H688697V2QZH4T2G3</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H688697V2QZH4T2G3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H688697V2QZH4T2G3&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Maniwaki</Location>
+      <DisplayCity></DisplayCity>
+      <City>Maniwaki</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.37468</LocationLatitude>
+      <LocationLongitude>-75.9816</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:18 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H688697V2QZH4T2G3</SimilarJobsURL>
+      <JobTitle>L'Oreal Merchandiser - Maniwaki</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6MN6T47SZXHHML65</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>General Summary: We’re growing, and we’re looking for a leader. No ordinary leader, but one that can inspire, coach and develop team members, drive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J6MN6T47SZXHHML65</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6MN6T47SZXHHML65&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Red Deer</Location>
+      <DisplayCity></DisplayCity>
+      <City>Red Deer</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>52.26853</LocationLatitude>
+      <LocationLongitude>-113.80901</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:18 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6MN6T47SZXHHML65</SimilarJobsURL>
+      <JobTitle>District Manager - Alberta Central</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Problem Solving</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Retail loss prevention</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Retail</Skill>
+        <Skill>Strategic planning</Skill>
+        <Skill>Decision making</Skill>
+        <Skill>Succession planning</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F60260GYFLD92346J</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. We have a current opening for a Retail Sales Associate seeking a long-term...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F60260GYFLD92346J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F60260GYFLD92346J&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Calgary</Location>
+      <DisplayCity></DisplayCity>
+      <City>Calgary</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.04522</LocationLatitude>
+      <LocationLongitude>-114.06301</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:18 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F60260GYFLD92346J</SimilarJobsURL>
+      <JobTitle>Nespresso - Retail Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Specialty store</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J70472LZDPP83K48K</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. We have a current opening for a Retail Sales Associate seeking a long-term...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J70472LZDPP83K48K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J70472LZDPP83K48K&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Victoria</Location>
+      <DisplayCity></DisplayCity>
+      <City>Victoria</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>48.42831</LocationLatitude>
+      <LocationLongitude>-123.36451</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:18 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J70472LZDPP83K48K</SimilarJobsURL>
+      <JobTitle>Nespresso - Retail Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Specialty store</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4WM6W884SWY2SKGG</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. We have a current opening for a Retail Sales Associate seeking a long-term...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L4WM6W884SWY2SKGG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4WM6W884SWY2SKGG&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Edmonton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Edmonton</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>53.54622</LocationLatitude>
+      <LocationLongitude>-113.49037</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4WM6W884SWY2SKGG</SimilarJobsURL>
+      <JobTitle>Nespresso - Retail Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Specialty store</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6JJ5XPHM0ZYFTB4M</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Promotional Model Match Marketing Group is developing a legendary “2015 Dream Team” of Promotional Models with our client, an international premium...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F6JJ5XPHM0ZYFTB4M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6JJ5XPHM0ZYFTB4M&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Calgary</Location>
+      <DisplayCity></DisplayCity>
+      <City>Calgary</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.04522</LocationLatitude>
+      <LocationLongitude>-114.06301</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6JJ5XPHM0ZYFTB4M</SimilarJobsURL>
+      <JobTitle>Promotional Model - Calgary</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6XD7372R8K2CD5CS</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L6XD7372R8K2CD5CS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6XD7372R8K2CD5CS&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Charlesbourg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Charlesbourg</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.86146</LocationLatitude>
+      <LocationLongitude>-71.2697</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6XD7372R8K2CD5CS</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2QS6VJ1QPNFKPCW1</DID>
+      <OnetCode>27-1026.00</OnetCode>
+      <ONetFriendlyTitle>Merchandise Displayers and Window Trimmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America’s leading integrated shopper marketing solutions provider. We are gearing up for a busy year filled with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G2QS6VJ1QPNFKPCW1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2QS6VJ1QPNFKPCW1&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Drumheller</Location>
+      <DisplayCity></DisplayCity>
+      <City>Drumheller</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.46103</LocationLatitude>
+      <LocationLongitude>-112.70689</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2QS6VJ1QPNFKPCW1</SimilarJobsURL>
+      <JobTitle>Retail Merchandiser</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7R25VV0YLGQJ6XSM</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L7R25VV0YLGQJ6XSM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7R25VV0YLGQJ6XSM&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Granby</Location>
+      <DisplayCity></DisplayCity>
+      <City>Granby</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.39799</LocationLatitude>
+      <LocationLongitude>-72.72177</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7R25VV0YLGQJ6XSM</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6Z2763WCB9DDFL4V</DID>
+      <OnetCode>27-1026.00</OnetCode>
+      <ONetFriendlyTitle>Merchandise Displayers and Window Trimmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America’s leading integrated shopper marketing solutions provider. We are gearing up for a busy year filled with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H6Z2763WCB9DDFL4V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6Z2763WCB9DDFL4V&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fort McMurray</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fort McMurray</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>56.72718</LocationLatitude>
+      <LocationLongitude>-111.3803</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6Z2763WCB9DDFL4V</SimilarJobsURL>
+      <JobTitle>Retail Merchandiser</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1R76SMP88C2JSM5N</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F1R76SMP88C2JSM5N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1R76SMP88C2JSM5N&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Salaberry-de-Valleyfield</Location>
+      <DisplayCity></DisplayCity>
+      <City>Salaberry-de-Valleyfield</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.25641</LocationLatitude>
+      <LocationLongitude>-74.13246</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1R76SMP88C2JSM5N</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0GC6R4B2WG18H8WQ</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Promotional Model Match Marketing Group is developing a legendary “2015 Dream Team” of Promotional Models for a debut event to represent an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K0GC6R4B2WG18H8WQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0GC6R4B2WG18H8WQ&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Whistler</Location>
+      <DisplayCity></DisplayCity>
+      <City>Whistler</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>50.11957</LocationLatitude>
+      <LocationLongitude>-122.95408</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0GC6R4B2WG18H8WQ</SimilarJobsURL>
+      <JobTitle>Promotional Model - Whistler</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3FN60FJ1Q0F0N111</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. We have a current opening for a Retail Sales Associate seeking a long-term...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K3FN60FJ1Q0F0N111</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3FN60FJ1Q0F0N111&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamilton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamilton</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.26099</LocationLatitude>
+      <LocationLongitude>-79.88845</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3FN60FJ1Q0F0N111</SimilarJobsURL>
+      <JobTitle>Nespresso - Retail Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Specialty store</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F75R5YK11T36KVVG5</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F75R5YK11T36KVVG5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F75R5YK11T36KVVG5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montréal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montréal</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.51229</LocationLatitude>
+      <LocationLongitude>-73.5544</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F75R5YK11T36KVVG5</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4876BBYNBL9VHQ4R</DID>
+      <OnetCode>27-1026.00</OnetCode>
+      <ONetFriendlyTitle>Merchandise Displayers and Window Trimmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America’s leading integrated shopper marketing solutions provider. We are gearing up for a busy year filled with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F4876BBYNBL9VHQ4R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4876BBYNBL9VHQ4R&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fort St. John</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fort St. John</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>56.25246</LocationLatitude>
+      <LocationLongitude>-120.84746</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4876BBYNBL9VHQ4R</SimilarJobsURL>
+      <JobTitle>Retail Merchandiser</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L455783YMSGP4JZ3C</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L455783YMSGP4JZ3C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L455783YMSGP4JZ3C&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montmagny</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montmagny</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.98496</LocationLatitude>
+      <LocationLongitude>-70.55378</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L455783YMSGP4JZ3C</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6N570LM5Z2YPR1R5</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. We have a current opening for a Retail Sales Associate seeking a long-term...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K6N570LM5Z2YPR1R5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6N570LM5Z2YPR1R5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelowna</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelowna</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.88681</LocationLatitude>
+      <LocationLongitude>-119.4966</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6N570LM5Z2YPR1R5</SimilarJobsURL>
+      <JobTitle>Nespresso - Retail Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Specialty store</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0WC71Z8CPHPBDVFP</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group est l’un des chefs de file du marketing expérientiel et des services commerciaux en Amérique du Nord. Nous recrutons...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H0WC71Z8CPHPBDVFP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0WC71Z8CPHPBDVFP&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montréal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montréal</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.51229</LocationLatitude>
+      <LocationLongitude>-73.5544</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0WC71Z8CPHPBDVFP</SimilarJobsURL>
+      <JobTitle>Nespresso - Associé aux ventes</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8HM6208NY5DQL8Z2</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>General Summary: We’re growing, and we’re looking for a leader. No ordinary leader, but one that can inspire, coach and develop team members, drive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J8HM6208NY5DQL8Z2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8HM6208NY5DQL8Z2&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8HM6208NY5DQL8Z2</SimilarJobsURL>
+      <JobTitle>District Manager - GTA</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Problem Solving</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Retail loss prevention</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Retail</Skill>
+        <Skill>Strategic planning</Skill>
+        <Skill>Decision making</Skill>
+        <Skill>Succession planning</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1NM6364LBFWN3XNJ</DID>
+      <OnetCode>27-1026.00</OnetCode>
+      <ONetFriendlyTitle>Merchandise Displayers and Window Trimmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. Our service practices cover the entire path to purchase and truly drive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J1NM6364LBFWN3XNJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1NM6364LBFWN3XNJ&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regina</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regina</City>
+      <State>SASKATCHEWAN</State>
+      <LocationLatitude>50.44801</LocationLatitude>
+      <LocationLongitude>-104.59518</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1NM6364LBFWN3XNJ</SimilarJobsURL>
+      <JobTitle>Retail Merchandiser</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6P46RSPJ52XT69NF</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F6P46RSPJ52XT69NF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6P46RSPJ52XT69NF&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chambly</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chambly</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.45031</LocationLatitude>
+      <LocationLongitude>-73.29071</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6P46RSPJ52XT69NF</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6GT6FSBRL1N20ZY5</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J6GT6FSBRL1N20ZY5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6GT6FSBRL1N20ZY5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gatineau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gatineau</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.42785</LocationLatitude>
+      <LocationLongitude>-75.71048</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6GT6FSBRL1N20ZY5</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J84B6JLBP650X0GTJ</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J84B6JLBP650X0GTJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J84B6JLBP650X0GTJ&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brossard</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brossard</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.45573</LocationLatitude>
+      <LocationLongitude>-73.46691</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J84B6JLBP650X0GTJ</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1PC6S9PXN44QGS2J</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H1PC6S9PXN44QGS2J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1PC6S9PXN44QGS2J&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bromont</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bromont</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.31531</LocationLatitude>
+      <LocationLongitude>-72.66666</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1PC6S9PXN44QGS2J</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0YR68BD0VDHYGR8M</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Position Overview The Regional Field Manager will provide leadership, development, and organizational support to contractors or employees enabling...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H0YR68BD0VDHYGR8M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0YR68BD0VDHYGR8M&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Calgary</Location>
+      <DisplayCity></DisplayCity>
+      <City>Calgary</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.04522</LocationLatitude>
+      <LocationLongitude>-114.06301</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0YR68BD0VDHYGR8M</SimilarJobsURL>
+      <JobTitle>Regional Field Manager - Canada West</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Problem solving</Skill>
+        <Skill>Budget</Skill>
+        <Skill>Marketing</Skill>
+        <Skill>Asset management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6VD758MSTJG5CRKP</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Want to be a part of something BIG? Now is an amazing time to join our growing family. WOW! mobile boutique™ is looking for people who love people and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G6VD758MSTJG5CRKP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6VD758MSTJG5CRKP&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Prince George</Location>
+      <DisplayCity></DisplayCity>
+      <City>Prince George</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>53.917</LocationLatitude>
+      <LocationLongitude>-122.75</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6VD758MSTJG5CRKP</SimilarJobsURL>
+      <JobTitle>Wireless Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F06N6LCFKRKCB74LZ</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>General Summary: We’re growing, and we’re looking for a leader. No ordinary leader, but one that can inspire, coach and develop team members, drive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F06N6LCFKRKCB74LZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F06N6LCFKRKCB74LZ&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Calgary</Location>
+      <DisplayCity></DisplayCity>
+      <City>Calgary</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.04522</LocationLatitude>
+      <LocationLongitude>-114.06301</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F06N6LCFKRKCB74LZ</SimilarJobsURL>
+      <JobTitle>District Manager - Alberta South</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Problem Solving</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Retail loss prevention</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Retail</Skill>
+        <Skill>Strategic planning</Skill>
+        <Skill>Decision making</Skill>
+        <Skill>Succession planning</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1MF6NXS1TP5NZBQ2</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Want to be a part of something BIG? Now is an amazing time to join our growing family. WOW! mobile boutique™ is currently looking for leaders who will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G1MF6NXS1TP5NZBQ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1MF6NXS1TP5NZBQ2&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Scarborough</Location>
+      <DisplayCity></DisplayCity>
+      <City>Scarborough</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.77223</LocationLatitude>
+      <LocationLongitude>-79.25666</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1MF6NXS1TP5NZBQ2</SimilarJobsURL>
+      <JobTitle>Wireless Store Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Strategic planning</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4LH66M3NCGHQPDP4</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F4LH66M3NCGHQPDP4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4LH66M3NCGHQPDP4&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sherbrooke</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sherbrooke</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.40326</LocationLatitude>
+      <LocationLongitude>-71.88893</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4LH66M3NCGHQPDP4</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7B069268HJZWC8QF</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>General Summary: We’re growing, and we’re looking for a leader. No ordinary leader, but one that can inspire, coach and develop team members, drive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J7B069268HJZWC8QF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7B069268HJZWC8QF&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sudbury</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sudbury</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>46.5</LocationLatitude>
+      <LocationLongitude>-81.0</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7B069268HJZWC8QF</SimilarJobsURL>
+      <JobTitle>District Manager - North Ontario</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Problem Solving</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Retail loss prevention</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Retail</Skill>
+        <Skill>Strategic planning</Skill>
+        <Skill>Decision making</Skill>
+        <Skill>Succession planning</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1BP74HC42VQZZKWK</DID>
+      <OnetCode>27-1011.00</OnetCode>
+      <ONetFriendlyTitle>Art Directors</ONetFriendlyTitle>
+      <DescriptionTeaser>This position is responsible for design creation, ensuring that clients’ marketing materials are visually engaging, and communicate a clear selling...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F1BP74HC42VQZZKWK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1BP74HC42VQZZKWK&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mississauga</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mississauga</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.58828</LocationLatitude>
+      <LocationLongitude>-79.64372</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1BP74HC42VQZZKWK</SimilarJobsURL>
+      <JobTitle>Art Director (Print and Digital)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J27C61W9962HLWM5V</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Position Overview This position is responsible for overseeing timely (often time sensitive) updates of content for company websites, social accounts...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J27C61W9962HLWM5V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J27C61W9962HLWM5V&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mississauga</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mississauga</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.58828</LocationLatitude>
+      <LocationLongitude>-79.64372</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J27C61W9962HLWM5V</SimilarJobsURL>
+      <JobTitle>Community Manager &amp; Digital Strategy</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F65172149V65YK83B</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F65172149V65YK83B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F65172149V65YK83B&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pointe-Claire</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pointe-Claire</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.44802</LocationLatitude>
+      <LocationLongitude>-73.81731</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F65172149V65YK83B</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3NF7734VHQXKVFKH</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Promotional Model Match Marketing Group is developing a legendary “2015 Dream Team” of Promotional Models with our client, an international premium...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K3NF7734VHQXKVFKH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3NF7734VHQXKVFKH&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Edmonton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Edmonton</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>53.54622</LocationLatitude>
+      <LocationLongitude>-113.49037</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3NF7734VHQXKVFKH</SimilarJobsURL>
+      <JobTitle>Promotional Model - Edmonton</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6MY6X4W6L9294VQS</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G6MY6X4W6L9294VQS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6MY6X4W6L9294VQS&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Anjou</Location>
+      <DisplayCity></DisplayCity>
+      <City>Anjou</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.60216</LocationLatitude>
+      <LocationLongitude>-73.55962</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6MY6X4W6L9294VQS</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5GQ6NC39JJV586V7</DID>
+      <OnetCode>27-1026.00</OnetCode>
+      <ONetFriendlyTitle>Merchandise Displayers and Window Trimmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America’s leading integrated shopper marketing solutions provider. We are gearing up for a busy year filled with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J5GQ6NC39JJV586V7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5GQ6NC39JJV586V7&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dawson Creek</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dawson Creek</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>55.76172</LocationLatitude>
+      <LocationLongitude>-120.23706</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5GQ6NC39JJV586V7</SimilarJobsURL>
+      <JobTitle>Retail Merchandiser</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5HR6YTNRG4PZ3RT9</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is currently looking for qualified Brand Ambassadors and a Team Lead/Logistics Rep to join our team promoting a large client in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J5HR6YTNRG4PZ3RT9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5HR6YTNRG4PZ3RT9&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Moose Jaw</Location>
+      <DisplayCity></DisplayCity>
+      <City>Moose Jaw</City>
+      <State>SASKATCHEWAN</State>
+      <LocationLatitude>50.39688</LocationLatitude>
+      <LocationLongitude>-105.53608</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5HR6YTNRG4PZ3RT9</SimilarJobsURL>
+      <JobTitle>Brand Ambassadors &amp; Team Lead - Scotties Tournament of Hearts</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Branding</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Automotive knowledge</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7ZB7119XVD5NFR5W</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J7ZB7119XVD5NFR5W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7ZB7119XVD5NFR5W&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Riviere du Loup</Location>
+      <DisplayCity></DisplayCity>
+      <City>Riviere du Loup</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>47.83506</LocationLatitude>
+      <LocationLongitude>-69.53701</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7ZB7119XVD5NFR5W</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6K677V0830CKY80J</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>This position is responsible for the management of projects on specific account mandates. At this level, the Account Manager is expected to have a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H6K677V0830CKY80J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6K677V0830CKY80J&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mississauga</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mississauga</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.58828</LocationLatitude>
+      <LocationLongitude>-79.64372</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6K677V0830CKY80J</SimilarJobsURL>
+      <JobTitle>Account Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+        <Skill>Innovation</Skill>
+        <Skill>Strategic planning</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6BR6RQXT3VQ08JMF</DID>
+      <OnetCode>27-1011.00</OnetCode>
+      <ONetFriendlyTitle>Art Directors</ONetFriendlyTitle>
+      <DescriptionTeaser>This position is responsible for conceptualization and design of solutions from concept to completion. The Associate Creative Director (ACD) will be...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H6BR6RQXT3VQ08JMF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6BR6RQXT3VQ08JMF&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mississauga</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mississauga</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.58828</LocationLatitude>
+      <LocationLongitude>-79.64372</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6BR6RQXT3VQ08JMF</SimilarJobsURL>
+      <JobTitle>Associate Creative Director</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1Z9707K13DJXDVFB</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Position Overview The Regional Field Manager will provide leadership, development, and organizational support to contractors or employees enabling...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L1Z9707K13DJXDVFB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1Z9707K13DJXDVFB&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vancouver</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vancouver</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.26044</LocationLatitude>
+      <LocationLongitude>-123.11403</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1Z9707K13DJXDVFB</SimilarJobsURL>
+      <JobTitle>Regional Field Manager - BC (Contract)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Problem solving</Skill>
+        <Skill>Budget</Skill>
+        <Skill>Marketing</Skill>
+        <Skill>Asset management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3WZ78PC58YGC910S</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F3WZ78PC58YGC910S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3WZ78PC58YGC910S&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Candiac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Candiac</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.39558</LocationLatitude>
+      <LocationLongitude>-73.51908</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3WZ78PC58YGC910S</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H17X6QKPJ0RYTPF9V</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H17X6QKPJ0RYTPF9V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H17X6QKPJ0RYTPF9V&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint Hyacinthe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint Hyacinthe</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.62664</LocationLatitude>
+      <LocationLongitude>-72.94716</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H17X6QKPJ0RYTPF9V</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L08H6Z5V9TZBR4LJN</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group est l’un des chefs de file du marketing expérientiel et des services commerciaux en Amérique du Nord. Nous recrutons...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L08H6Z5V9TZBR4LJN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L08H6Z5V9TZBR4LJN&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sherbrooke</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sherbrooke</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.40326</LocationLatitude>
+      <LocationLongitude>-71.88893</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L08H6Z5V9TZBR4LJN</SimilarJobsURL>
+      <JobTitle>Nespresso - Associé aux ventes</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J83K76HLH9T5N7Y79</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J83K76HLH9T5N7Y79</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J83K76HLH9T5N7Y79&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beauceville</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beauceville</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.2111</LocationLatitude>
+      <LocationLongitude>-70.77459</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J83K76HLH9T5N7Y79</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K11R6HQM5SQJYGXBM</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K11R6HQM5SQJYGXBM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K11R6HQM5SQJYGXBM&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Thetford Mines</Location>
+      <DisplayCity></DisplayCity>
+      <City>Thetford Mines</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.09057</LocationLatitude>
+      <LocationLongitude>-71.29926</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K11R6HQM5SQJYGXBM</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1MX6CW25DXTKWYB2</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Promotional Model Match Marketing Group is developing a legendary “2015 Dream Team” of Promotional Models with our client, an international premium...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J1MX6CW25DXTKWYB2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1MX6CW25DXTKWYB2&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ottawa</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ottawa</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>45.417</LocationLatitude>
+      <LocationLongitude>-75.7</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:09 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1MX6CW25DXTKWYB2</SimilarJobsURL>
+      <JobTitle>Promotional Model - Ottawa</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8636NCS9VTXD8QK6</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G8636NCS9VTXD8QK6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8636NCS9VTXD8QK6&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Québec</Location>
+      <DisplayCity></DisplayCity>
+      <City>Québec</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.817</LocationLatitude>
+      <LocationLongitude>-71.233</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:09 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8636NCS9VTXD8QK6</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8FT71DS4HTM2C7FS</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is North America's leading shopper marketing agency. We have a current opening for a Retail Sales Associate seeking a long-term...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G8FT71DS4HTM2C7FS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8FT71DS4HTM2C7FS&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Burlington</Location>
+      <DisplayCity></DisplayCity>
+      <City>Burlington</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.32618</LocationLatitude>
+      <LocationLongitude>-79.79854</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:09 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8FT71DS4HTM2C7FS</SimilarJobsURL>
+      <JobTitle>Nespresso - Retail Sales Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Specialty store</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Retail sales</Skill>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6KG665QXH7H2HBKW</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Match Marketing Group is currently looking for qualified Brand Ambassadors to join our team promoting a large client in the automotive industry at the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K6KG665QXH7H2HBKW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6KG665QXH7H2HBKW&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Calgary</Location>
+      <DisplayCity></DisplayCity>
+      <City>Calgary</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.04522</LocationLatitude>
+      <LocationLongitude>-114.06301</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:09 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6KG665QXH7H2HBKW</SimilarJobsURL>
+      <JobTitle>Brand Ambassadors - Tim Hortons Brier</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Branding</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Automotive knowledge</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Match Marketing Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0886TBJ4WJ27KK2T</DID>
+      <OnetCode>43-5081.01</OnetCode>
+      <ONetFriendlyTitle>Stock Clerks, Sales Floor</ONetFriendlyTitle>
+      <DescriptionTeaser>Le/la représentant(e) en marchandisage est responsable des activités de marchandisage dans une zone de travail assigné et couvre plusieurs marques et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Part-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H0886TBJ4WJ27KK2T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0886TBJ4WJ27KK2T&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint Hyacinthe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint Hyacinthe</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.62664</LocationLatitude>
+      <LocationLongitude>-72.94716</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:30:09 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0886TBJ4WJ27KK2T</SimilarJobsURL>
+      <JobTitle>Marchandiseur (euse)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JLL</Company>
+      <CompanyDID>c27n86dy8flk3452vx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c27n86dy8flk3452vx/jll/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHN8FQ6DKNTZ95TC1B9</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>POSITION OVERVIEW JLL is currently seeking a dynamic individual for the role of Brokerage Coordinator to provide reliable, timely, efficient support...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHN8FQ6DKNTZ95TC1B9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN8FQ6DKNTZ95TC1B9&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Edmonton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Edmonton</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>53.54622</LocationLatitude>
+      <LocationLongitude>-113.49037</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:19:40 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN8FQ6DKNTZ95TC1B9</SimilarJobsURL>
+      <JobTitle>Brokerage Coordinator</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/gj/mvs3fv6ktchjg5cqygj.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database software</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Robert Half Finance et Comptabilité</Company>
+      <CompanyDID>c7h6yx6jdqdldj3v1tk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c7h6yx6jdqdldj3v1tk/robert-half-finance-et-comptabilité/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHV2WC66149PDLHXH2F</DID>
+      <OnetCode>43-3011.00</OnetCode>
+      <ONetFriendlyTitle>Bill and Account Collectors</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous savez gérer une équipe avec professionnalisme et dynamisme? Vos talents de directeur des comptes recevables et du recouvrement feront toute une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHV2WC66149PDLHXH2F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV2WC66149PDLHXH2F&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Laurent</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Laurent</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.4969</LocationLatitude>
+      <LocationLongitude>-73.7127</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:15:38 PM</PostedTime>
+      <Pay>0 cad - 50k cad/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV2WC66149PDLHXH2F</SimilarJobsURL>
+      <JobTitle>Directeur des comptes recevables - Recouvrement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g9/mwp09y6qhd8h1md9tg9.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Procom</Company>
+      <CompanyDID>c8b4y564c7jkhymv9kn</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8b4y564c7jkhymv9kn/procom/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F04X6R36SJJSKYJ9V</DID>
+      <OnetCode>15-1099.02</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Engineers/Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>Architecte fonctionnel Dans le cadre de ses ententes avec ses différents clients, Procom est actuellement à la recherche d’un Architecte fonctionnel....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F04X6R36SJJSKYJ9V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F04X6R36SJJSKYJ9V&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lévis</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lévis</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.80286</LocationLatitude>
+      <LocationLongitude>-71.17694</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:08:36 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F04X6R36SJJSKYJ9V</SimilarJobsURL>
+      <JobTitle>Architecte fonctionnel</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p1/mrg7p9698xryflbncp1.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>.net framework</Skill>
+        <Skill>Cognos</Skill>
+        <Skill>sql</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>About Staffing</Company>
+      <CompanyDID>c8d8hg6s3jfglp9gmqn</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8d8hg6s3jfglp9gmqn/about-staffing/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHR1GG5ZTLQC3C3G25F</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>About Staffing supplies top quality candidates to our clients and excellent career opportunities to our candidates. Our SW Calgary client is on the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHR1GG5ZTLQC3C3G25F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR1GG5ZTLQC3C3G25F&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Calgary</Location>
+      <DisplayCity></DisplayCity>
+      <City>Calgary</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>51.04522</LocationLatitude>
+      <LocationLongitude>-114.06301</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:08:22 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR1GG5ZTLQC3C3G25F</SimilarJobsURL>
+      <JobTitle>Senior Sales Rep</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/yv/mr336j6txngg1bqgwyv.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales Training</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7QS73CT9SRG2JZK5</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Senior Project Manager, Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games. This position will be responsible to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J7QS73CT9SRG2JZK5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7QS73CT9SRG2JZK5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7QS73CT9SRG2JZK5</SimilarJobsURL>
+      <JobTitle>Administrative Assistant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2J36F140MHKQZGK0</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Maintenance Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games. This position will control the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J2J36F140MHKQZGK0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2J36F140MHKQZGK0&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2J36F140MHKQZGK0</SimilarJobsURL>
+      <JobTitle>Yard Crew  (Pan Am / Parapan Am Games)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1CZ6H2T1K7HFBKN2</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Games Planning Manager, Bus Management Company (BMC), this position will be responsible for overseeing all the daily operation...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G1CZ6H2T1K7HFBKN2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1CZ6H2T1K7HFBKN2&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1CZ6H2T1K7HFBKN2</SimilarJobsURL>
+      <JobTitle>Operations Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5J45W9KG2QHB95MC</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Training Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games, this position will be responsible to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F5J45W9KG2QHB95MC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5J45W9KG2QHB95MC&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5J45W9KG2QHB95MC</SimilarJobsURL>
+      <JobTitle>Bus Driver Training Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3J469JBNZYY4LNZY</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>The TC Bus System Assistant Manager reports to the TC Bus System Manager (Client Systems) of the BMC, at the 2015 Pan Am and Parapan Am Games. Key...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H3J469JBNZYY4LNZY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3J469JBNZYY4LNZY&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3J469JBNZYY4LNZY</SimilarJobsURL>
+      <JobTitle>Arrivals &amp; Departures / Ceremonies Bus System Assistant Manager (“TC Bus System Assistant Manager”)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4TM6C3MC6X0YB211</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>The Assistant Operations Manager reports to the Operations Manager of the BMC, at the 2015 Pan Am and Parapan Am Games. Key responsibilities include...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G4TM6C3MC6X0YB211</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4TM6C3MC6X0YB211&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4TM6C3MC6X0YB211</SimilarJobsURL>
+      <JobTitle>Assistant Operations Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2C76PM8ZBC5YJQC9</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>The TA Bus System Assistant Manager reports to the TA Bus System Manager (Client Systems) of the BMC, at the 2015 Pan Am and Parapan Am Games. Key...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F2C76PM8ZBC5YJQC9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2C76PM8ZBC5YJQC9&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2C76PM8ZBC5YJQC9</SimilarJobsURL>
+      <JobTitle>Athletes / Team Officials Bus System Assistant Manager (“TA Bus System Assistant Manager”)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3556H2QBP1BK3VT2</DID>
+      <OnetCode>99-9999.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Facility Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parpan Am Games, this position will be responsible to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L3556H2QBP1BK3VT2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3556H2QBP1BK3VT2&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3556H2QBP1BK3VT2</SimilarJobsURL>
+      <JobTitle>Gate Staff</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6DH6KPH4C98F1P27</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Senior Project Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parpan Am Games. This position is responsible to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K6DH6KPH4C98F1P27</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6DH6KPH4C98F1P27&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6DH6KPH4C98F1P27</SimilarJobsURL>
+      <JobTitle>Facility Manager (FM Manager)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8CF6HF4ZDXGDN8XQ</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>The Venue Zone Managers report to the Venue Staff Manager of the BMC, at the 2015 Pan Am and Parapan Am Games. Key responsibilities include overseeing...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J8CF6HF4ZDXGDN8XQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8CF6HF4ZDXGDN8XQ&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8CF6HF4ZDXGDN8XQ</SimilarJobsURL>
+      <JobTitle>Venue Zone Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6436YTK58XP7X7XP</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>The Venue Staff Manager reports to the BMC Games Planning Manager, operating at the 2015 Pan Am and Parapan Am Games. Key responsibilities include the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H6436YTK58XP7X7XP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6436YTK58XP7X7XP&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6436YTK58XP7X7XP</SimilarJobsURL>
+      <JobTitle>Venue Staff Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0FL5ZHXY0VWXW3LT</DID>
+      <OnetCode>43-5032.00</OnetCode>
+      <ONetFriendlyTitle>Dispatchers, Except Police, Fire, and Ambulance</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Duty Managers for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games This position will be responsible to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J0FL5ZHXY0VWXW3LT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0FL5ZHXY0VWXW3LT&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0FL5ZHXY0VWXW3LT</SimilarJobsURL>
+      <JobTitle>Dispatcher (Pan Am Games)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0475VV3QHG3NMQZ1</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>The Staging Crew is responsible for the staging of the bus management company vehicles while maintaining flexibility based upon changes in traffic...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G0475VV3QHG3NMQZ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0475VV3QHG3NMQZ1&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0475VV3QHG3NMQZ1</SimilarJobsURL>
+      <JobTitle>Staging Crew</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3N56NP1XVH0GGK9N</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Training Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games, this positions will be responsible...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J3N56NP1XVH0GGK9N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3N56NP1XVH0GGK9N&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3N56NP1XVH0GGK9N</SimilarJobsURL>
+      <JobTitle>Drivers Trainers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Problem solving</Skill>
+        <Skill>Procurement</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4WM6F7725TZQ2NT4</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Training Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games, This position will be responsible...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G4WM6F7725TZQ2NT4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4WM6F7725TZQ2NT4&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4WM6F7725TZQ2NT4</SimilarJobsURL>
+      <JobTitle>Depot Staff Trainers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Problem solving</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6T15VZ0PKZLW1B8K</DID>
+      <OnetCode>11-3071.01</OnetCode>
+      <ONetFriendlyTitle>Transportation Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Operations Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games This position will be responsible...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K6T15VZ0PKZLW1B8K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6T15VZ0PKZLW1B8K&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6T15VZ0PKZLW1B8K</SimilarJobsURL>
+      <JobTitle>Duty Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6GV66B2FMVH1R74P</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>The Bus Systems Coordinators report to the Venue Zone Managers of the BMC, at the 2015 Pan Am and Parapan Am Games. Key responsibilities include...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L6GV66B2FMVH1R74P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6GV66B2FMVH1R74P&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6GV66B2FMVH1R74P</SimilarJobsURL>
+      <JobTitle>Bus Systems Coordinators</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G54S5WN5LL7LSBKH1</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Facility Manager for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games. This position will control the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G54S5WN5LL7LSBKH1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G54S5WN5LL7LSBKH1&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G54S5WN5LL7LSBKH1</SimilarJobsURL>
+      <JobTitle>Maintenance Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1DH6X9GB7HGLHW0H</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>The TM Bus System Assistant Manager reports to the TM Bus System Manager (Client Systems) of the BMC, at the 2015 Pan Am and Parapan Am Games. Key...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K1DH6X9GB7HGLHW0H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1DH6X9GB7HGLHW0H&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1DH6X9GB7HGLHW0H</SimilarJobsURL>
+      <JobTitle>Media Bus System Assistant Manager (“TM Bus System Assistant Manager”)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pacific Western Transportation Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3XQ6V2PB95N3J1SP</DID>
+      <OnetCode>53-3041.00</OnetCode>
+      <ONetFriendlyTitle>Taxi Drivers and Chauffeurs</ONetFriendlyTitle>
+      <DescriptionTeaser>Reporting to the Dispatchers for the Bus Management Company of the Toronto 2015 Pan Am and Parapan Am Games. This position will be responsible for all...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3H3XQ6V2PB95N3J1SP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3XQ6V2PB95N3J1SP&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 12:07:09 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3XQ6V2PB95N3J1SP</SimilarJobsURL>
+      <JobTitle>Driver Relief Shuttle Operator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Mason Group Inc</Company>
+      <CompanyDID>chq37k61d4dq70rdvp0</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chq37k61d4dq70rdvp0/the-mason-group-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ81Z668T5V23L4QP9</DID>
+      <OnetCode>13-2011.02</OnetCode>
+      <ONetFriendlyTitle>Auditors</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a large public company, is looking for a strong internal auditor to join their team for a long term contract. If you are capable of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHQ81Z668T5V23L4QP9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ81Z668T5V23L4QP9&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:59:03 AM</PostedTime>
+      <Pay>75k cad - 85k cad/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ81Z668T5V23L4QP9</SimilarJobsURL>
+      <JobTitle>Auditor</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/gv/mwh8b074n6l5dnvp4gv.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internal control</Skill>
+        <Skill>COSO</Skill>
+        <Skill>Audit</Skill>
+        <Skill>Internal audit</Skill>
+        <Skill>SOX</Skill>
+        <Skill>GAAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Procom</Company>
+      <CompanyDID>c8b4y564c7jkhymv9kn</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8b4y564c7jkhymv9kn/procom/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5X96BMC281DZKV8T</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Role – Project Manager - Business On behalf of our client in the financial industry, we are seeking a Business Project Manager for 10 months...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L5X96BMC281DZKV8T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5X96BMC281DZKV8T&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toronto</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toronto</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.65</LocationLatitude>
+      <LocationLongitude>-79.383</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:56:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5X96BMC281DZKV8T</SimilarJobsURL>
+      <JobTitle>Project Manager (Channel)-  (11794-PS)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p1/mrg7p9698xryflbncp1.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft project</Skill>
+        <Skill>change management</Skill>
+        <Skill>sdlc</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Procom</Company>
+      <CompanyDID>c8b4y564c7jkhymv9kn</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c8b4y564c7jkhymv9kn/procom/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G52W6D4YNMPKVK06V</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Développeur Junior Dans le cadre de ses ententes avec ses différents clients, Procom est actuellement à la recherche d’un Développeur Junior. Situé...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G52W6D4YNMPKVK06V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G52W6D4YNMPKVK06V&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Québec</Location>
+      <DisplayCity></DisplayCity>
+      <City>Québec</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>46.817</LocationLatitude>
+      <LocationLongitude>-71.233</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:56:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G52W6D4YNMPKVK06V</SimilarJobsURL>
+      <JobTitle>Développeur junior</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p1/mrg7p9698xryflbncp1.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JLL</Company>
+      <CompanyDID>c27n86dy8flk3452vx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c27n86dy8flk3452vx/jll/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHM8HV62K1X23WYKQXL</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>POSITION OVERVIEW JLL is currently seeking a dynamic individual for the role of Project Manager to provide reliable, timely, and professional support...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHM8HV62K1X23WYKQXL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM8HV62K1X23WYKQXL&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vancouver</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vancouver</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.26044</LocationLatitude>
+      <LocationLongitude>-123.11403</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:54:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM8HV62K1X23WYKQXL</SimilarJobsURL>
+      <JobTitle>Project Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/gj/mvs3fv6ktchjg5cqygj.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>x window system</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft project</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft powerpoint</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Spirit Staffing &amp; Consulting Inc</Company>
+      <CompanyDID>chn2b75xsxhb9zxhlxk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn2b75xsxhb9zxhlxk/spirit-staffing-consulting-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL7ZX6M94Q1PB2NWJ6</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior QA/QC Manager The Senior QA/QC Manager will be responsible for the implementation, improvement, and maintenance of the Quality Management...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHL7ZX6M94Q1PB2NWJ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL7ZX6M94Q1PB2NWJ6&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Edmonton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Edmonton</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>53.54622</LocationLatitude>
+      <LocationLongitude>-113.49037</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:53:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL7ZX6M94Q1PB2NWJ6</SimilarJobsURL>
+      <JobTitle>Senior QA / QC Inspector</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zs/mr53g06wxf5dkc310zs.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Quality management system</Skill>
+        <Skill>Systems management</Skill>
+        <Skill>Quality management</Skill>
+        <Skill>Application programming interface</Skill>
+        <Skill>Welding</Skill>
+        <Skill>Project management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Adecco Staffing Canada</Company>
+      <CompanyDID>chn54c619dh39jfhxkr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn54c619dh39jfhxkr/adecco-staffing-canada/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5G5651MMWQ6KQSYY</DID>
+      <OnetCode>49-3023.02</OnetCode>
+      <ONetFriendlyTitle>Automotive Specialty Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA Adecco is the leading provider of recruitment solutions and HR...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L5G5651MMWQ6KQSYY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5G5651MMWQ6KQSYY&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Windsor</Location>
+      <DisplayCity></DisplayCity>
+      <City>Windsor</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>42.31782</LocationLatitude>
+      <LocationLongitude>-83.03391</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:50:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5G5651MMWQ6KQSYY</SimilarJobsURL>
+      <JobTitle>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0d/mw91bc68j5bl678zb0d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Accountemps</Company>
+      <CompanyDID>c7h5n96c5njxxnwwr6g</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c7h5n96c5njxxnwwr6g/accountemps/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT6BX6CC3SYHJ0VJ7W</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client œuvrant dans l'industrie pharmaceutique, situé à Laval, nous a sélectionnés pour le recrutement d'un technicien aux comptes payables. Le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=JHT6BX6CC3SYHJ0VJ7W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6BX6CC3SYHJ0VJ7W&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laval</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laval</City>
+      <State>QUEBEC</State>
+      <LocationLatitude>45.55156</LocationLatitude>
+      <LocationLongitude>-73.74463</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:50:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6BX6CC3SYHJ0VJ7W</SimilarJobsURL>
+      <JobTitle>Technicien aux comptes payables</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/08/mr769z73f6l9g59vl08.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Adecco Staffing Canada</Company>
+      <CompanyDID>chn54c619dh39jfhxkr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn54c619dh39jfhxkr/adecco-staffing-canada/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4XR63Y89CSJM15K5</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Project Leader EIMS Adecco is currently recruiting a Project Leader EIMS for a 12 month contract to work in Chalk River. Project leader...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3F4XR63Y89CSJM15K5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4XR63Y89CSJM15K5&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chalk River</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chalk River</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>46.01837</LocationLatitude>
+      <LocationLongitude>-77.44961</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:49:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4XR63Y89CSJM15K5</SimilarJobsURL>
+      <JobTitle>Project Leader EIMS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0d/mw91bc68j5bl678zb0d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TEKsystems, Inc</Company>
+      <CompanyDID>c7g7jj77nvmshq4fctz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c7g7jj77nvmshq4fctz/teksystems-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0ZK62G8ZXQD5D8WP</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>TEKsystems is searching for the below intermediate .NET Developer for a multi-billion dollar client of our in the downtown core of Vancouver. Please...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G0ZK62G8ZXQD5D8WP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0ZK62G8ZXQD5D8WP&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vancouver</Location>
+      <DisplayCity>Vancouver</DisplayCity>
+      <City>Vancouver</City>
+      <State>BRITISH COLUMBIA</State>
+      <LocationLatitude>49.26044</LocationLatitude>
+      <LocationLongitude>-123.11403</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:49:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0ZK62G8ZXQD5D8WP</SimilarJobsURL>
+      <JobTitle>Progammer Analyst (.NET Developer)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/d6/mvm6sj6gg8mtly0mxd6.jpg</CompanyImageURL>
+      <JobBrandingIcons>VIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web development</Skill>
+        <Skill>.net framework</Skill>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>xml</Skill>
+        <Skill>ado.net</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>apache subversion</Skill>
+        <Skill>mvc</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>data modeling</Skill>
+        <Skill>xhtml</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TEKsystems, Inc</Company>
+      <CompanyDID>c7g7jj77nvmshq4fctz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/c7g7jj77nvmshq4fctz/teksystems-inc/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K1JL6KL3JD5G369Y9</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>The primary focus of the QA Analyst Tester is to write and execute test cases: Manual testing 5+ years QA Experience sql scripting Must be able to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K1JL6KL3JD5G369Y9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1JL6KL3JD5G369Y9&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Edmonton</Location>
+      <DisplayCity>Edmonton</DisplayCity>
+      <City>Edmonton</City>
+      <State>ALBERTA</State>
+      <LocationLatitude>53.54622</LocationLatitude>
+      <LocationLongitude>-113.49037</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:48:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1JL6KL3JD5G369Y9</SimilarJobsURL>
+      <JobTitle>QA Tester</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/d6/mvm6sj6gg8mtly0mxd6.jpg</CompanyImageURL>
+      <JobBrandingIcons>VIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>RequireUserInfo</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>qa</Skill>
+        <Skill>quality assurance</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Adecco Staffing Canada</Company>
+      <CompanyDID>chn54c619dh39jfhxkr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn54c619dh39jfhxkr/adecco-staffing-canada/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2W06LGTRJD716NR2</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA Positions available: Various Knowledge, Skills and Abilities...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G2W06LGTRJD716NR2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2W06LGTRJD716NR2&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winnipeg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winnipeg</City>
+      <State>MANITOBA</State>
+      <LocationLatitude>49.89944</LocationLatitude>
+      <LocationLongitude>-97.14079</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:48:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2W06LGTRJD716NR2</SimilarJobsURL>
+      <JobTitle>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0d/mw91bc68j5bl678zb0d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Adecco Staffing Canada</Company>
+      <CompanyDID>chn54c619dh39jfhxkr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn54c619dh39jfhxkr/adecco-staffing-canada/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K3W86R1BK5BTV4WH7</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Automotive Journeyman Tech/Mechanic Job in Stettler, Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA Positions available: Various Knowledge,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3K3W86R1BK5BTV4WH7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3W86R1BK5BTV4WH7&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regina</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regina</City>
+      <State>SASKATCHEWAN</State>
+      <LocationLatitude>50.44801</LocationLatitude>
+      <LocationLongitude>-104.59518</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:45:54 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3W86R1BK5BTV4WH7</SimilarJobsURL>
+      <JobTitle>Automotive Journeyman Tech/Mechanic Job in Stettler,  Alberta; M</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0d/mw91bc68j5bl678zb0d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Magna</Company>
+      <CompanyDID>chq6rw6sl9nk7s1lv14</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chq6rw6sl9nk7s1lv14/magna/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3KK6PN31PH6LBFBK</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Company Introduction This position is for Massiv Die-Form, a division of Cosma International. Cosma International, an operating unit of Magna...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3J3KK6PN31PH6LBFBK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3KK6PN31PH6LBFBK&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brampton</Location>
+      <DisplayCity>Brampton</DisplayCity>
+      <City>Brampton</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.6843</LocationLatitude>
+      <LocationLongitude>-79.75873</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:43:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3KK6PN31PH6LBFBK</SimilarJobsURL>
+      <JobTitle>Hot Form Program Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bb/mrf3gd698twgs4wc3bb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>catia</Skill>
+        <Skill>nx (unigraphics)</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft outlook</Skill>
+        <Skill>microsoft powerpoint</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Magna</Company>
+      <CompanyDID>chq6rw6sl9nk7s1lv14</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chq6rw6sl9nk7s1lv14/magna/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6LR64DQT82RPSJT9</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Company Introduction This position is for Massiv Die-Form, a division of Cosma International. Cosma International, an operating unit of Magna...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contractor</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3G6LR64DQT82RPSJT9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6LR64DQT82RPSJT9&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brampton</Location>
+      <DisplayCity>Brampton</DisplayCity>
+      <City>Brampton</City>
+      <State>ONTARIO</State>
+      <LocationLatitude>43.6843</LocationLatitude>
+      <LocationLongitude>-79.75873</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:41:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6LR64DQT82RPSJT9</SimilarJobsURL>
+      <JobTitle>Outsource Tooling Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bb/mrf3gd698twgs4wc3bb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>NX (Unigraphics)</Skill>
+        <Skill>Life cycle assessment</Skill>
+        <Skill>CATIA</Skill>
+        <Skill>Project planning</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>ISO 14000</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Advanced Product Quality Planning</Skill>
+        <Skill>Continuous improvement process</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Design methods</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Adecco Staffing Canada</Company>
+      <CompanyDID>chn54c619dh39jfhxkr</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.ca/jobs/company-name/chn54c619dh39jfhxkr/adecco-staffing-canada/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5NT6WT59HN1VFG27</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA Positions available: Various Knowledge, Skills and Abilities...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Full-Time Employee</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=CA&amp;DID=J3L5NT6WT59HN1VFG27</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5NT6WT59HN1VFG27&amp;HostSite=CA&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saskatoon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saskatoon</City>
+      <State>SASKATCHEWAN</State>
+      <LocationLatitude>52.1305</LocationLatitude>
+      <LocationLongitude>-106.65931</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 11:41:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ca/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5NT6WT59HN1VFG27</SimilarJobsURL>
+      <JobTitle>Automotive Tech/Mechanic Jobs in Alberta; MUST BE LEGALLY ENTITLED TO WORK IN CANADA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0d/mw91bc68j5bl678zb0d.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>CA</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

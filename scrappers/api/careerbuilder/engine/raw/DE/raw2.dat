@@ -1,0 +1,3509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 11:57:16 AM</TimeResponseSent>
+  <TimeElapsed>0.3588</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37450</TotalCount>
+  <FirstItemIndex>101</FirstItemIndex>
+  <LastItemIndex>200</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3RM6YC0RF1SKSSXR</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3RM6YC0RF1SKSSXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3RM6YC0RF1SKSSXR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberkirch</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberkirch</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.53118</LocationLatitude>
+      <LocationLongitude>8.07819</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:13:19 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3RM6YC0RF1SKSSXR</SimilarJobsURL>
+      <JobTitle>Systemadministrator/in in Oberkirch zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>virtual lan</Skill>
+        <Skill>ipsec</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>fax</Skill>
+        <Skill>virtual private network</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>persona service AG &amp; Co. KG Niederlassung Dortmund</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3N4610SL49GH299B</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>‍ 1967 war persona service einer der ersten Personaldienstleister in Deutschland. Heute sind wir ein markt­führender Anbieter mit bundesweit über 180...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L3N4610SL49GH299B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3N4610SL49GH299B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dortmund</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dortmund</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.51661</LocationLatitude>
+      <LocationLongitude>7.45829</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:10:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3N4610SL49GH299B</SimilarJobsURL>
+      <JobTitle>IT Administrator (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SP/MN92SR6NBZNMRNT70SP.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3FD73QKVBBJ3DHMX</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3FD73QKVBBJ3DHMX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3FD73QKVBBJ3DHMX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberkirch</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberkirch</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.53118</LocationLatitude>
+      <LocationLongitude>8.07819</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:10:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3FD73QKVBBJ3DHMX</SimilarJobsURL>
+      <JobTitle>Mechatroniker/in in Oberkirch</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>persona service AG &amp; Co. KG Niederlassung Dortmund</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F41N5WQC63HVLGKDZ</DID>
+      <OnetCode>15-2031.00</OnetCode>
+      <ONetFriendlyTitle>Operations Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>‍ 1967 war persona service einer der ersten Personaldienstleister in Deutschland. Heute sind wir ein markt­führender Anbieter mit bundesweit über 180...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F41N5WQC63HVLGKDZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F41N5WQC63HVLGKDZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dortmund</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dortmund</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.51661</LocationLatitude>
+      <LocationLongitude>7.45829</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:10:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F41N5WQC63HVLGKDZ</SimilarJobsURL>
+      <JobTitle>ERP Consultant / ERP Berater (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SP/MN92SR6NBZNMRNT70SP.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K6R75YSWK2QNFR859</DID>
+      <OnetCode>17-3023.03</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6R75YSWK2QNFR859</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6R75YSWK2QNFR859&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberkirch</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberkirch</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.53118</LocationLatitude>
+      <LocationLongitude>8.07819</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:08:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6R75YSWK2QNFR859</SimilarJobsURL>
+      <JobTitle>Elektrotechniker/in in Oberkirch zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Brunner Mobil Werbung Verwaltungs GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G27C6PRCXV2DFF50W</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Starkes Team sucht neue Talente Haben Sie schon einmal an eine Karriere im Außendienst ‍ gedacht? Wir suchen bundesweit Mitarbeiter mit Einsatzgebiet...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G27C6PRCXV2DFF50W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G27C6PRCXV2DFF50W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:06:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G27C6PRCXV2DFF50W</SimilarJobsURL>
+      <JobTitle>Außendienstmitarbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/59/M302VH5ZF0ZRWRHDK59.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2MW6NXB71ZRB0CXR</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2MW6NXB71ZRB0CXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2MW6NXB71ZRB0CXR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberwolfach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberwolfach</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.31675</LocationLatitude>
+      <LocationLongitude>8.21709</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:05:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2MW6NXB71ZRB0CXR</SimilarJobsURL>
+      <JobTitle>Teamleiter/in in Oberwolfach zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2R56FV7XHQLW448H</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2R56FV7XHQLW448H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2R56FV7XHQLW448H&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.01076</LocationLatitude>
+      <LocationLongitude>8.40869</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:02:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2R56FV7XHQLW448H</SimilarJobsURL>
+      <JobTitle>Helfer/in - Metallbearbeitung in Karlsruhe</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J8HS634Y833BP14Z6</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J8HS634Y833BP14Z6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8HS634Y833BP14Z6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Augsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Augsburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.37033</LocationLatitude>
+      <LocationLongitude>10.89789</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 5:02:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8HS634Y833BP14Z6</SimilarJobsURL>
+      <JobTitle>Mechanische Prozessinbetriebnehmer (m/w) in Augsburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0CM6SN9JJ75Q6L4D</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0CM6SN9JJ75Q6L4D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0CM6SN9JJ75Q6L4D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ortenberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ortenberg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.45192</LocationLatitude>
+      <LocationLongitude>7.97048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:57:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0CM6SN9JJ75Q6L4D</SimilarJobsURL>
+      <JobTitle>Industriemechaniker/in in Ortenberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Datenzentrale Baden-Württemberg</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2QZ6PCHG34QDN7S1</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Erstellung von Konzepten zur praxistauglichen Programmumsetzung im Ausländerbereich Anforderungsmanagement und -analyse, fachlicher und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2QZ6PCHG34QDN7S1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2QZ6PCHG34QDN7S1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:57:05 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2QZ6PCHG34QDN7S1</SimilarJobsURL>
+      <JobTitle>Anwendungsberater (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XW/M383K96H2DCV0GQKBXW.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6YD6WLCF1G2CVJV4</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6YD6WLCF1G2CVJV4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6YD6WLCF1G2CVJV4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ortenberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ortenberg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.45192</LocationLatitude>
+      <LocationLongitude>7.97048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:55:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6YD6WLCF1G2CVJV4</SimilarJobsURL>
+      <JobTitle>CNC-Schleifer/in in Ortenberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J5FW65K3GLYVQFRQR</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5FW65K3GLYVQFRQR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5FW65K3GLYVQFRQR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ettenheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ettenheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.2563</LocationLatitude>
+      <LocationLongitude>7.81365</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5FW65K3GLYVQFRQR</SimilarJobsURL>
+      <JobTitle>Mechatroniker/in in Ettenheim</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Numerical control</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F68J733MPMGFL5V51</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F68J733MPMGFL5V51</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F68J733MPMGFL5V51&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bayreuth</Location>
+      <DisplayCity>Bayreuth</DisplayCity>
+      <City>Bayreuth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.9414</LocationLatitude>
+      <LocationLongitude>11.5772</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:12 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F68J733MPMGFL5V51</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7H26TTZ2G62JGDM1</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7H26TTZ2G62JGDM1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7H26TTZ2G62JGDM1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity>Landshut</DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.5415</LocationLatitude>
+      <LocationLongitude>12.1699</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7H26TTZ2G62JGDM1</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5QQ6DQY4L36BT58N</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K5QQ6DQY4L36BT58N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5QQ6DQY4L36BT58N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freising</Location>
+      <DisplayCity>Freising</DisplayCity>
+      <City>Freising</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.3891</LocationLatitude>
+      <LocationLongitude>11.7023</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5QQ6DQY4L36BT58N</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0V9789QT33MCKLK8</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0V9789QT33MCKLK8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0V9789QT33MCKLK8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rosenheim</Location>
+      <DisplayCity>Rosenheim</DisplayCity>
+      <City>Rosenheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8523</LocationLatitude>
+      <LocationLongitude>12.1309</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0V9789QT33MCKLK8</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3S66P40SJ5S29G49</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3S66P40SJ5S29G49</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3S66P40SJ5S29G49&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ravensburg</Location>
+      <DisplayCity>Ravensburg</DisplayCity>
+      <City>Ravensburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.7816</LocationLatitude>
+      <LocationLongitude>9.62703</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3S66P40SJ5S29G49</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3DN6R1HHC2KKPHZH</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3DN6R1HHC2KKPHZH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3DN6R1HHC2KKPHZH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3DN6R1HHC2KKPHZH</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3G75VRS119J4SNPW</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K3G75VRS119J4SNPW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3G75VRS119J4SNPW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity>Offenburg</DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.4995</LocationLatitude>
+      <LocationLongitude>7.94112</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3G75VRS119J4SNPW</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L06368GTSZ9J6ZX3R</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L06368GTSZ9J6ZX3R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L06368GTSZ9J6ZX3R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villingen-Schwenningen</Location>
+      <DisplayCity>Villingen-Schwenningen</DisplayCity>
+      <City>Villingen-Schwenningen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.0741</LocationLatitude>
+      <LocationLongitude>8.43967</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L06368GTSZ9J6ZX3R</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G75N60G9C00H9TY2Q</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G75N60G9C00H9TY2Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G75N60G9C00H9TY2Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Friedrichshafen</Location>
+      <DisplayCity>Friedrichshafen</DisplayCity>
+      <City>Friedrichshafen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.6666</LocationLatitude>
+      <LocationLongitude>9.45842</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G75N60G9C00H9TY2Q</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G33H6ZPCDTX77F4GD</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G33H6ZPCDTX77F4GD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G33H6ZPCDTX77F4GD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Konstanz</Location>
+      <DisplayCity>Konstanz</DisplayCity>
+      <City>Konstanz</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.6621</LocationLatitude>
+      <LocationLongitude>9.16744</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G33H6ZPCDTX77F4GD</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2QZ703TQ9BTXRP5Q</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2QZ703TQ9BTXRP5Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2QZ703TQ9BTXRP5Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freiburg im Breisbau</Location>
+      <DisplayCity>Freiburg im Breisbau</DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.9947</LocationLatitude>
+      <LocationLongitude>7.84938</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2QZ703TQ9BTXRP5Q</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TWE Immobilien</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J66P6N329TMRZJZHH</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Lust auf einen neuen Job? Als eines der großen Immobilienmakler-Unternehmen in Baden-Württemberg und Bayern expandieren wir weiter und suchen Sie als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J66P6N329TMRZJZHH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J66P6N329TMRZJZHH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Heidelberg</Location>
+      <DisplayCity>Heidelberg</DisplayCity>
+      <City>Heidelberg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.4032</LocationLatitude>
+      <LocationLongitude>8.67921</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:52:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J66P6N329TMRZJZHH</SimilarJobsURL>
+      <JobTitle>Immobilienmakler/in / Team-Leiter/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Salamander Deutschland Gmbh &amp; Co KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT2PW78J337HN8TYBS</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Instandhaltung aller elektrischen Anlagen und Fahrstühle Kleinere Reparaturarbeiten und Leuchtmittelaustausch PC-Austausch und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHT2PW78J337HN8TYBS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT2PW78J337HN8TYBS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wuppertal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wuppertal</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.27155</LocationLatitude>
+      <LocationLongitude>7.19656</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:51:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT2PW78J337HN8TYBS</SimilarJobsURL>
+      <JobTitle>Filialleitung gesucht</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Salamander Deutschland Gmbh &amp; Co KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT58V6QW49FDBDHK1C</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Instandhaltung aller elektrischen Anlagen und Fahrstühle Kleinere Reparaturarbeiten und Leuchtmittelaustausch PC-Austausch und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHT58V6QW49FDBDHK1C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT58V6QW49FDBDHK1C&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wuppertal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wuppertal</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.27155</LocationLatitude>
+      <LocationLongitude>7.19656</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:49:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT58V6QW49FDBDHK1C</SimilarJobsURL>
+      <JobTitle>Elektroinstallateur / Haustechniker (w/m)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Salamander Deutschland Gmbh &amp; Co KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS0WC79F1RGK9DJ5KF</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Instandhaltung aller elektrischen Anlagen und Fahrstühle Kleinere Reparaturarbeiten und Leuchtmittelaustausch PC-Austausch und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHS0WC79F1RGK9DJ5KF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS0WC79F1RGK9DJ5KF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wuppertal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wuppertal</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.27155</LocationLatitude>
+      <LocationLongitude>7.19656</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:46:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS0WC79F1RGK9DJ5KF</SimilarJobsURL>
+      <JobTitle>Filialleitung gesucht</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3V96D3HB72HDS7YP</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3V96D3HB72HDS7YP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3V96D3HB72HDS7YP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberkirch</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberkirch</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.53118</LocationLatitude>
+      <LocationLongitude>8.07819</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:44:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3V96D3HB72HDS7YP</SimilarJobsURL>
+      <JobTitle>Messtechniker/in in Oberkirch zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kolping-Berufsbildungswerk Hettstedt gGmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV20N6FCX3Q839YSJC</DID>
+      <OnetCode>11-9151.00</OnetCode>
+      <ONetFriendlyTitle>Social and Community Service Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Case Manager/-in (Bachelor oder Master) Ihre Aufgaben umfassen: die Klienten bezogene Planung und Steuerung des gesamten individuellen Reha-Prozesses...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHV20N6FCX3Q839YSJC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV20N6FCX3Q839YSJC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hettstedt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hettstedt</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>51.64482</LocationLatitude>
+      <LocationLongitude>11.51358</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:43:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV20N6FCX3Q839YSJC</SimilarJobsURL>
+      <JobTitle>Case Manager/-in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SH/MVD7PF6ZB2X48XMHSSH.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J15Y6JHM5LGQYBVQ3</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J15Y6JHM5LGQYBVQ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J15Y6JHM5LGQYBVQ3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.47196</LocationLatitude>
+      <LocationLongitude>7.9448</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:41:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J15Y6JHM5LGQYBVQ3</SimilarJobsURL>
+      <JobTitle>Ingenieur/in - Automatisierungstechnik in Offenburg zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G15X73RFYV91BGX5F</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G15X73RFYV91BGX5F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G15X73RFYV91BGX5F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.47196</LocationLatitude>
+      <LocationLongitude>7.9448</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:35:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G15X73RFYV91BGX5F</SimilarJobsURL>
+      <JobTitle>Ingenieur/in - SPS Programmierung in Offenburg zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Azurit GmbH Seniorenzentrum Novalis</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV4F46Q9Z6R361861T</DID>
+      <OnetCode>13-2053.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Underwriters</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir erwarten eine abgeschlossene Ausbildung zum staatlich examinierten Alten- oder Gesundheits- und Krankenpfleger (m/w) idealerweise erste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHV4F46Q9Z6R361861T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV4F46Q9Z6R361861T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Aibling</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Aibling</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.86386</LocationLatitude>
+      <LocationLongitude>12.01039</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:27:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV4F46Q9Z6R361861T</SimilarJobsURL>
+      <JobTitle>Examinierte Pflegefachkraft (m/w) im Früh- und Spätdienst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/56/MBP3CR5X6G8JHS3J956.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Azurit GmbH Seniorenzentrum Novalis</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP3296CXRH8VJW09RR</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir erwarten eine abgeschlossene Ausbildung zum staatlich examinierten Alten- oder Gesundheits- und Krankenpfleger (m/w) idealerweise erste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHP3296CXRH8VJW09RR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP3296CXRH8VJW09RR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Aibling</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Aibling</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.86386</LocationLatitude>
+      <LocationLongitude>12.01039</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:27:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP3296CXRH8VJW09RR</SimilarJobsURL>
+      <JobTitle>Examinierte Pflegefachkraft (m/w) überwiegend im Nachtdienst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/56/MBP3CR5X6G8JHS3J956.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CMS Hasche Sigle Partnerschaft von Rechtsanwälten &amp; Steuerberat</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4NQ667LN0Z9J81N6</DID>
+      <OnetCode>43-6012.00</OnetCode>
+      <ONetFriendlyTitle>Legal Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>An acht großen Wirtschaftsstandorten in Deutschland betreuen unsere mehr als 600 Anwälte, Steuerberater und Notare deutsche und ausländische...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K4NQ667LN0Z9J81N6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4NQ667LN0Z9J81N6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:08:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4NQ667LN0Z9J81N6</SimilarJobsURL>
+      <JobTitle>Rechtsanwaltfachangestellte/-r - Anwaltsekretär/-in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MY/M3642T6R0P29C9540MY.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5RV75QW0PRVNWZNR</DID>
+      <OnetCode>51-4072.00</OnetCode>
+      <ONetFriendlyTitle>Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5RV75QW0PRVNWZNR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5RV75QW0PRVNWZNR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wehingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wehingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.146</LocationLatitude>
+      <LocationLongitude>8.79173</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 4:02:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5RV75QW0PRVNWZNR</SimilarJobsURL>
+      <JobTitle>Maschineneinrichter/in-Kunststoffspritzmaschinen in Wehingen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IVG Institutional Funds GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4VD690Z0Z377L3WR</DID>
+      <OnetCode>13-2051.00</OnetCode>
+      <ONetFriendlyTitle>Financial Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Die IVG Institutional Funds GmbH ist führender Anbieter und Manager von strukturierten Immobilienprodukten für institutionelle Investoren mit einem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4VD690Z0Z377L3WR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4VD690Z0Z377L3WR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:59:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4VD690Z0Z377L3WR</SimilarJobsURL>
+      <JobTitle>Analyst Research (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3K/M367316LFS5B7GDGK3K.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Asset management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CAPERA Consulting</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H68L6PK3T2H8FPLDC</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>IHRE AUFGABEN: Verantworten der termin- und qualitätsgerechten Herstellung aller Produkte bei optimaler Produk­tivität Kapazitätsmanagement und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H68L6PK3T2H8FPLDC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H68L6PK3T2H8FPLDC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Großraum Hamburg</Location>
+      <DisplayCity>Großraum Hamburg</DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:58:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H68L6PK3T2H8FPLDC</SimilarJobsURL>
+      <JobTitle>Leiter Fertigung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/F1/M2X6HT6VSB2CM6LH7F1.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J42D6SPV0MWHVFV5M</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J42D6SPV0MWHVFV5M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J42D6SPV0MWHVFV5M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oberkirch</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oberkirch</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.53118</LocationLatitude>
+      <LocationLongitude>8.07819</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:57:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J42D6SPV0MWHVFV5M</SimilarJobsURL>
+      <JobTitle>Projektleiter/in - Maschinenbau in Oberkirch zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1XS6Y27HFVBC0M03</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1XS6Y27HFVBC0M03</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1XS6Y27HFVBC0M03&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Achern</Location>
+      <DisplayCity></DisplayCity>
+      <City>Achern</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.62871</LocationLatitude>
+      <LocationLongitude>8.06363</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:54:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1XS6Y27HFVBC0M03</SimilarJobsURL>
+      <JobTitle>CAD / CAM - Programmierer/in in Achern zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0TG78JC96N67LH6J</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0TG78JC96N67LH6J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0TG78JC96N67LH6J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lahr</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lahr</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.33698</LocationLatitude>
+      <LocationLongitude>7.86226</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:52:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0TG78JC96N67LH6J</SimilarJobsURL>
+      <JobTitle>Teamleiter/in in Lahr zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6YW6J6MMXPWRJHMV</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6YW6J6MMXPWRJHMV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6YW6J6MMXPWRJHMV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.47196</LocationLatitude>
+      <LocationLongitude>7.9448</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:49:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6YW6J6MMXPWRJHMV</SimilarJobsURL>
+      <JobTitle>Mechatroniker/in in Offenburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0GB6LW71C23N4YCB</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0GB6LW71C23N4YCB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0GB6LW71C23N4YCB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.47196</LocationLatitude>
+      <LocationLongitude>7.9448</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:46:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0GB6LW71C23N4YCB</SimilarJobsURL>
+      <JobTitle>Arbeitsvorbereiter/in in Offenburg zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L3B76LP27TBSKTT7S</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L3B76LP27TBSKTT7S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3B76LP27TBSKTT7S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.47196</LocationLatitude>
+      <LocationLongitude>7.9448</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:44:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3B76LP27TBSKTT7S</SimilarJobsURL>
+      <JobTitle>Bäcker/in in Offenburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K2PY6S4WZ647CM7V1</DID>
+      <OnetCode>43-5071.00</OnetCode>
+      <ONetFriendlyTitle>Shipping, Receiving, and Traffic Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K2PY6S4WZ647CM7V1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2PY6S4WZ647CM7V1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laußnitz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laußnitz</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.24778</LocationLatitude>
+      <LocationLongitude>13.87904</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:42:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2PY6S4WZ647CM7V1</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in Lagerlogistik in Laußnitz</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6GX5X9F3QLF81KVX</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6GX5X9F3QLF81KVX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6GX5X9F3QLF81KVX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offenburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offenburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.47196</LocationLatitude>
+      <LocationLongitude>7.9448</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:40:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6GX5X9F3QLF81KVX</SimilarJobsURL>
+      <JobTitle>Mechatroniker/in in Offenburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K2RK6VYQTQM80NVTH</DID>
+      <OnetCode>11-3051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Production Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K2RK6VYQTQM80NVTH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2RK6VYQTQM80NVTH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lahr</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lahr</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.33698</LocationLatitude>
+      <LocationLongitude>7.86226</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:38:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2RK6VYQTQM80NVTH</SimilarJobsURL>
+      <JobTitle>Anlagenführer/in - Galvanik in Lahr</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6T15Z74N9WWDR6XV</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6T15Z74N9WWDR6XV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6T15Z74N9WWDR6XV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kehl</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kehl</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.57419</LocationLatitude>
+      <LocationLongitude>7.81494</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:35:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6T15Z74N9WWDR6XV</SimilarJobsURL>
+      <JobTitle>Softwareentwickler/in iOS und Android in Kehl zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H67R5XMSRT14YLKRL</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H67R5XMSRT14YLKRL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H67R5XMSRT14YLKRL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bottrop</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bottrop</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.5247</LocationLatitude>
+      <LocationLongitude>6.92519</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:32:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H67R5XMSRT14YLKRL</SimilarJobsURL>
+      <JobTitle>Call-Center-Agent/in Englisch in Bottrop</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PETERMANN GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7Z85YDTRY0PZV49K</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen Sie, im Alleinauftrag unseres Mandanten, als Bauleiter (m/w) mit polnischen Sprachkenntnissen VOLLZEITRaum Frankfurt am MainMit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7Z85YDTRY0PZV49K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7Z85YDTRY0PZV49K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:31:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7Z85YDTRY0PZV49K</SimilarJobsURL>
+      <JobTitle>Bauleiter (m/w) mit polnischen Sprachkenntnissen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GJ/M365B36ZL1KDLDT7NGJ.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1K974GFBC6D4DMF2</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1K974GFBC6D4DMF2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1K974GFBC6D4DMF2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Weilheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Weilheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.65</LocationLatitude>
+      <LocationLongitude>10.5833</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:29:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1K974GFBC6D4DMF2</SimilarJobsURL>
+      <JobTitle>Personalentwickler/in in Weilheim</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Marketing</Skill>
+        <Skill>Onboarding</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5BT6QP0MFVCL5QCT</DID>
+      <OnetCode>51-9199.00</OnetCode>
+      <ONetFriendlyTitle>Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5BT6QP0MFVCL5QCT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5BT6QP0MFVCL5QCT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Überherrn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Überherrn</City>
+      <State>SAARLAND</State>
+      <LocationLatitude>49.24256</LocationLatitude>
+      <LocationLongitude>6.69829</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:25:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5BT6QP0MFVCL5QCT</SimilarJobsURL>
+      <JobTitle>Lagermitarbeiter/in in Überherrn</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F45T6S7CC6S472N0L</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F45T6S7CC6S472N0L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F45T6S7CC6S472N0L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Überherrn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Überherrn</City>
+      <State>SAARLAND</State>
+      <LocationLatitude>49.24256</LocationLatitude>
+      <LocationLongitude>6.69829</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 3:24:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F45T6S7CC6S472N0L</SimilarJobsURL>
+      <JobTitle>Kommissionierer/in in Überherrn</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K2VL72LT5QRJ5MYB8</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K2VL72LT5QRJ5MYB8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2VL72LT5QRJ5MYB8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.71814</LocationLatitude>
+      <LocationLongitude>10.78048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:52:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2VL72LT5QRJ5MYB8</SimilarJobsURL>
+      <JobTitle>Static Stress Engineer (m/w) in Donauwörth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K3JR73KLYC76MRQ3H</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K3JR73KLYC76MRQ3H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3JR73KLYC76MRQ3H&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.71814</LocationLatitude>
+      <LocationLongitude>10.78048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:52:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3JR73KLYC76MRQ3H</SimilarJobsURL>
+      <JobTitle>Projektplaner/in in Donauwörth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J686697MKHH0F85L8</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J686697MKHH0F85L8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J686697MKHH0F85L8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.71814</LocationLatitude>
+      <LocationLongitude>10.78048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:52:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J686697MKHH0F85L8</SimilarJobsURL>
+      <JobTitle>Hubschraubermechaniker/in Tiger in Donauwörth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L7806KBVHMX7G310V</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L7806KBVHMX7G310V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7806KBVHMX7G310V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.71814</LocationLatitude>
+      <LocationLongitude>10.78048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:51:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7806KBVHMX7G310V</SimilarJobsURL>
+      <JobTitle>Fluggerätmechaniker/in Hydraulik-Shop in Donauwörth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4YH66HXR0PRP58F8</DID>
+      <OnetCode>49-2091.00</OnetCode>
+      <ONetFriendlyTitle>Avionics Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4YH66HXR0PRP58F8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4YH66HXR0PRP58F8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.71814</LocationLatitude>
+      <LocationLongitude>10.78048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:49:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4YH66HXR0PRP58F8</SimilarJobsURL>
+      <JobTitle>Fluggeräteelektriker/in in Donauwörth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L11P72NG12284S61T</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L11P72NG12284S61T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L11P72NG12284S61T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Donauwörth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Donauwörth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.71814</LocationLatitude>
+      <LocationLongitude>10.78048</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:47:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L11P72NG12284S61T</SimilarJobsURL>
+      <JobTitle>Fertigungssteuerer/in in Donauwörth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J7GT69DDB9GBJY2J0</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7GT69DDB9GBJY2J0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7GT69DDB9GBJY2J0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amt Wachsenburg</Location>
+      <DisplayCity>Amt Wachsenburg</DisplayCity>
+      <City>Wachsenburggemeinde</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.86211</LocationLatitude>
+      <LocationLongitude>10.89563</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:45:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7GT69DDB9GBJY2J0</SimilarJobsURL>
+      <JobTitle>Qualitätsprüfer (m/w) in der Produktion</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Lebenshilfe Gifhorn gemeinnützige GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN69T76WR64KS08ZMQ</DID>
+      <OnetCode>21-1093.00</OnetCode>
+      <ONetFriendlyTitle>Social and Human Service Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Für das Ambulant betreute Wohnen suchen wir in Vollzeit (39,00 Std./Woche) zum nächstmöglichen Termin einen Diplom-Sozialarbeiter / Diplom-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Anstellung mit Personalverantwortung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHN69T76WR64KS08ZMQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN69T76WR64KS08ZMQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gifhorn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gifhorn</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.4816</LocationLatitude>
+      <LocationLongitude>10.54763</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:41:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN69T76WR64KS08ZMQ</SimilarJobsURL>
+      <JobTitle>Diplom-Sozialarbeiter / Diplom-Sozialpädagogen als Teamleitung (m/w) Ambulant betreutes Wohnen / Erzieherische Hilfen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/H4/MFX5GM63NP4MLSLJNH4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Lebenshilfe Gifhorn gemeinnützige GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN3XG6ZS7N77166S17</DID>
+      <OnetCode>11-9151.00</OnetCode>
+      <ONetFriendlyTitle>Social and Community Service Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unsere neue Wohnanlage in Westerbeck suchen wir in Vollzeit (39,00 Std. / Woche) zum nächstmöglichen Zeitpunkt einen Heimleiter (m/w) als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Führungsposition</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHN3XG6ZS7N77166S17</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN3XG6ZS7N77166S17&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gifhorn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gifhorn</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.4816</LocationLatitude>
+      <LocationLongitude>10.54763</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:41:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN3XG6ZS7N77166S17</SimilarJobsURL>
+      <JobTitle>Heimleiter (m/w) als Hausleitung in der Tätigkeit als Leiter von Erziehungsheimen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/H4/MFX5GM63NP4MLSLJNH4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2ZJ6X9PWTQBB1KHC</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie haben Interesse daran, bei einem internationalen Unternehmen bei Rosenheim, die u.a. auf Bodenbeläge spezialisiert sind zu arbeiten? Dann bewerben...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2ZJ6X9PWTQBB1KHC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2ZJ6X9PWTQBB1KHC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rosenheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rosenheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8529</LocationLatitude>
+      <LocationLongitude>12.1607</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:40:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2ZJ6X9PWTQBB1KHC</SimilarJobsURL>
+      <JobTitle>Energieelektroniker (m/w) - Rosenheim</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zeitconcept Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H69L6BTNNL59J9SQJ</DID>
+      <OnetCode>47-2221.00</OnetCode>
+      <ONetFriendlyTitle>Structural Iron and Steel Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den langfristigen Einsatz bei unserem Kunden suchen wir ab sofort Stahlbauschlosser (m/w). Stahlbauschlosser (m/w) - München München -- Ihre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H69L6BTNNL59J9SQJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H69L6BTNNL59J9SQJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:39:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H69L6BTNNL59J9SQJ</SimilarJobsURL>
+      <JobTitle>Stahlbauschlosser (m/w) - München</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9N/MWR5QP60NTGGJ7Z819N.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2K75VM04JWDX641S</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Microsoft Business Intelligence Entwickler - in-house, Düsseldorf Ein renommierter Kunde ist auf der Suche nach MS Business Intelligence Entwicklern (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2K75VM04JWDX641S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2K75VM04JWDX641S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Düsseldorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Düsseldorf</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.21563</LocationLatitude>
+      <LocationLongitude>6.77604</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:35:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2K75VM04JWDX641S</SimilarJobsURL>
+      <JobTitle>Microsoft Business Intelligence Entwickler, Düsseldorf</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business Intelligence</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>microsoft dynamics ax</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft dynamics</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4G7770XYTJ02TLLR</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Hauptaufgaben als SharePoint Entwickler: - Programmierung von Individuallösungen im Microsoft SharePoint 2013 auf Basis von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4G7770XYTJ02TLLR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4G7770XYTJ02TLLR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:33:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4G7770XYTJ02TLLR</SimilarJobsURL>
+      <JobTitle>SharePoint Developer mit Consulting Know-How, Bayern, 63.000EUR</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>Business Intelligence</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>IIS</Skill>
+        <Skill>microsoft project</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>workflow</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>microsoft office project server</Skill>
+        <Skill>team foundation server</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>microsoft dynamics</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G60F5YC4PK5YKL27F</DID>
+      <OnetCode>51-4194.00</OnetCode>
+      <ONetFriendlyTitle>Tool Grinders, Filers, and Sharpeners</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G60F5YC4PK5YKL27F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G60F5YC4PK5YKL27F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ettlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ettlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.94248</LocationLatitude>
+      <LocationLongitude>8.40237</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:22:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G60F5YC4PK5YKL27F</SimilarJobsURL>
+      <JobTitle>Metallschleifer/in in Ettlingen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2TB66CGH11SC1Q5G</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren Kunden in Stuttgart suchen wir ab sofort nach einem erfahrenen Datenbankexperten (m/w) im Oracleumfeld. Aufgaben: •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2TB66CGH11SC1Q5G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2TB66CGH11SC1Q5G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2TB66CGH11SC1Q5G</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Senior Oracle Datenbankentwickler (m/w) - Plz 7*</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>multitier architecture</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>database design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5HH76NK30JF3B2G4</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Guten Tag, für einen meiner Kunden aus dem Großraum Göppingen (einem der führenden Hersteller im Bereich der Metallumformung und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5HH76NK30JF3B2G4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5HH76NK30JF3B2G4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Göppingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Göppingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7085</LocationLatitude>
+      <LocationLongitude>9.64948</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5HH76NK30JF3B2G4</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Qualitätsleiter</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ISO 9000</Skill>
+        <Skill>Procedural knowledge</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4YJ7443H9MRFR344</DID>
+      <OnetCode>13-1041.00</OnetCode>
+      <ONetFriendlyTitle>Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - entscheiden Sie sich für eine Zusammenarbeit mit unserem Hause, sie hat entscheidende Vorteile für Sie. Für folgende Aufgabe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4YJ7443H9MRFR344</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4YJ7443H9MRFR344&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eschborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eschborn</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.14041</LocationLatitude>
+      <LocationLongitude>8.57211</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4YJ7443H9MRFR344</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Ref.Nr: 214559 Compliance Officer - (Voll-)Jurist (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Regulatory compliance</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J34N68HFF36WD7986</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir suchen dringend einen AB Initio Entwickler für einen unserer internationalen Kunden in Stuttgart. Wir suchen einen AB Initio...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J34N68HFF36WD7986</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J34N68HFF36WD7986&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J34N68HFF36WD7986</SimilarJobsURL>
+      <JobTitle>Für Freelancer - AB Initio Entwickler gesucht</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0RX794KRDYM7MSSQ</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - For one of our clients we are looking for a Software Engineer (Navigation and Maps) Required Skills: • Strong expertise in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0RX794KRDYM7MSSQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0RX794KRDYM7MSSQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0RX794KRDYM7MSSQ</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Software Engineer (Navigation and Maps)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web service</Skill>
+        <Skill>apache hadoop</Skill>
+        <Skill>database</Skill>
+        <Skill>jsf</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>postgresql</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4Y46VSJTSH50BKXR</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren Kunden in Hannover suchen wir ab Januar nach weiterer erfahrener Unterstützung in der Java Entwicklung. Die Aufgaben...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4Y46VSJTSH50BKXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4Y46VSJTSH50BKXR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4Y46VSJTSH50BKXR</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Senior Java Entwickler (m/w) - Plz 3*</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>jsf</Skill>
+        <Skill>Bean Validation</Skill>
+        <Skill>javascript</Skill>
+        <Skill>profiling (computer programming)</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>ibm websphere application server</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>ajax</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5KG6FNQC66Q4Y89V</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Java Entwickler (m/w) - für ein Jahr, Option auf Verlängerung Wir suchen für unseren Kunden einen JEE Entwickler für ein Projekt...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G5KG6FNQC66Q4Y89V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5KG6FNQC66Q4Y89V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5KG6FNQC66Q4Y89V</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Java Entwickler (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>svn</Skill>
+        <Skill>ibm rational clearcase</Skill>
+        <Skill>jsf</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>enterprise javabean</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>glassfish</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F71966L89BL2C7W17</DID>
+      <OnetCode>17-2111.01</OnetCode>
+      <ONetFriendlyTitle>Industrial Safety and Health Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Produktanforderungen bzgl. funktionaler Sicherheit in enger Abstimmung mit Kunden ermitteln und analysieren Erstellung und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F71966L89BL2C7W17</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F71966L89BL2C7W17&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F71966L89BL2C7W17</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Functional Safety Coordinator (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Functional Safety</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F00771ZT037JJKN3H</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - For one of our clients we are looking for a Network Support Required Skills: •+5 years of experience in his area of expertise: •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F00771ZT037JJKN3H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F00771ZT037JJKN3H&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F00771ZT037JJKN3H</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Network Support</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>local area network</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1JR75DRSK9T5SJJV</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Beschreibung: Für unseren Kunden suchen wir einen WebSphere-Administrator für die Unterstützung bei •Deployment •Scripting •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1JR75DRSK9T5SJJV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1JR75DRSK9T5SJJV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1JR75DRSK9T5SJJV</SimilarJobsURL>
+      <JobTitle>Für Freelancer - WebSphere Betriebsunterstützung (w/m)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ibm websphere application server</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3G16YY05QCM8YM06</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für ein freiberufliches Kundenprojekt in Weiterstadt/Malaysia suchen wir zum 02.02.2015 Unterstützung in der Netzwerk Planung im...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3G16YY05QCM8YM06</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3G16YY05QCM8YM06&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Weiterstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Weiterstadt</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.90584</LocationLatitude>
+      <LocationLongitude>8.58274</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3G16YY05QCM8YM06</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Netzwerk Planung im Broadcast Bereich.</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>firewall (computing)</Skill>
+        <Skill>virtual private network</Skill>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0B36VDWL4CFJQH1H</DID>
+      <OnetCode>43-4081.00</OnetCode>
+      <ONetFriendlyTitle>Hotel, Motel, and Resort Desk Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - For one of our clients we are looking for a Service Desk Agent Main task: Candidate will provide expertise regarding Service Desk...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0B36VDWL4CFJQH1H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0B36VDWL4CFJQH1H&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0B36VDWL4CFJQH1H</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Service Desk Agent</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1R86Z0MDMLFDZSZ3</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Entscheiden Sie sich für eine Zusammenarbeit mit unserem Hause, sie hat entscheidende Vorteile für Sie. Für folgende Aufgabe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1R86Z0MDMLFDZSZ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1R86Z0MDMLFDZSZ3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:12 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1R86Z0MDMLFDZSZ3</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Ref.Nr: 214423 Berater PMO (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J28367FHBMZH63QHF</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - For one of our clients we are looking for a Database Expert Required Skills: •High Technical Training or University degree •ITIL...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J28367FHBMZH63QHF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J28367FHBMZH63QHF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J28367FHBMZH63QHF</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Database Expert</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>database administrator</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H14G5YLF3K3XX6NPB</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Moin liebe Freiberufler, für meinen Kunden suche ich momentan einen freiberuflichen Berater für einen langfristigen Einsatz als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H14G5YLF3K3XX6NPB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H14G5YLF3K3XX6NPB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity></DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H14G5YLF3K3XX6NPB</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Cisco Nexus</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>network administrator</Skill>
+        <Skill>cisco systems</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5ZJ618HWC143S67K</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Einsatzort: München Aufgabenbeschreibung: ABAP Entwickler SAP IS-U Datenmodell, Transaktionen, Business Logik ABAP Objects Nice...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H5ZJ618HWC143S67K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5ZJ618HWC143S67K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5ZJ618HWC143S67K</SimilarJobsURL>
+      <JobTitle>Für Freelancer - München: SAP IS- U / ABAP Entwicklung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>workflow</Skill>
+        <Skill>abap</Skill>
+        <Skill>sap is</Skill>
+        <Skill>sap bw</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7S95YZRMG1PX9KVC</DID>
+      <OnetCode>43-4081.00</OnetCode>
+      <ONetFriendlyTitle>Hotel, Motel, and Resort Desk Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - For one of our clients we are looking for a Service Desk Agent Main task: Candidate will provide expertise regarding Service Desk...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7S95YZRMG1PX9KVC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7S95YZRMG1PX9KVC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:15:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7S95YZRMG1PX9KVC</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Service Desk Agent</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4JT6DS5WZ5T5GW38</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir suchen ab Januar 2015 einen erfahrenen Projektleiter Oracle EBS (m/w) für unseren Kunden im Raum München. Kapazität: ca. 50%...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4JT6DS5WZ5T5GW38</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4JT6DS5WZ5T5GW38&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4JT6DS5WZ5T5GW38</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Projektleiter Oracle EBS (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>change management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4L76GNSRQS66ML3Y</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren Kunden in Magdeburg suchen wir einen freiberuflichen Oracle Datenbankadministrator (m/w) Aufgaben: •Vorbereitender...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4L76GNSRQS66ML3Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4L76GNSRQS66ML3Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Magdeburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Magdeburg</City>
+      <State>SACHSEN-ANHALT</State>
+      <LocationLatitude>52.13186</LocationLatitude>
+      <LocationLongitude>11.62778</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4L76GNSRQS66ML3Y</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Oracle Datenbankadministrator (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>Business Intelligence</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G44L6C2DTDFXZVZFJ</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für ein freiberufliches Kundenprojekt in Berlin suchen wir ab Januar / Februar 2015 für mindestens 6 Monate Unterstützung in der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G44L6C2DTDFXZVZFJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G44L6C2DTDFXZVZFJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity></DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G44L6C2DTDFXZVZFJ</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Salesforce Entwicklung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>salesforce.com</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0MT60VT7WXLKPH8L</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Guten Tag, Für unseren Kunden in Köln suchen wir einen erfahrenen VB.NET Entwickler. Aufgaben: • Weiterentwicklung eines...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0MT60VT7WXLKPH8L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0MT60VT7WXLKPH8L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0MT60VT7WXLKPH8L</SimilarJobsURL>
+      <JobTitle>Für Freelancer - VB.NET Developer (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>svn</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>vb</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0TK5Y0H7THF1V94B</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für einen Kunden aus dem Großraum Frankfurt bin ich ab sofort auf der Suche nach zwei: Sharepoint-Entwicklern (m/w), die den...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0TK5Y0H7THF1V94B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0TK5Y0H7THF1V94B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0TK5Y0H7THF1V94B</SimilarJobsURL>
+      <JobTitle>Für Freelancer - 2 Sharepoint Entwickler für FFM gesucht!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2F175G4Y8QMQ6K4J</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Guten Tag, für einen meiner Kunden aus dem Großraum Göppingen (einem der führenden Hersteller im Bereich der Metallumformung und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2F175G4Y8QMQ6K4J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2F175G4Y8QMQ6K4J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Göppingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Göppingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7085</LocationLatitude>
+      <LocationLongitude>9.64948</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2F175G4Y8QMQ6K4J</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Qualitätsplaner</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2TG6SF6XDP8SY6B8</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Einsatzort: D8 München Ab Januar wir benötigen Unterstützung eines EAI / IBM WebSphere Experten w/m. Position: EAI / IBM...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2TG6SF6XDP8SY6B8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2TG6SF6XDP8SY6B8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2TG6SF6XDP8SY6B8</SimilarJobsURL>
+      <JobTitle>Für Freelancer - München: EAI / IBM WebSphere Experte w/m (ehem. JCAPS )</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java caps</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6QC76C4FZ39V5GGR</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Unterstützen Sie das Team bei der Weiterentwicklung des bestehenden Webshops. Sie arbeiten mit zwei Frontend Entwicklern eng...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6QC76C4FZ39V5GGR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6QC76C4FZ39V5GGR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6QC76C4FZ39V5GGR</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Bootstrap Entwickler 2015 für München</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>javascript</Skill>
+        <Skill>sass (stylesheet language)</Skill>
+        <Skill>scrum (development)</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4KT6KQTWQKDNQWG3</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir sind im Bereich Professional Services seit mehr als zwei Jahrzehnten als erfolgreicher IT-Dienstleister im Bankenumfeld tätig...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4KT6KQTWQKDNQWG3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4KT6KQTWQKDNQWG3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BRANDENBURG</State>
+      <LocationLatitude>52.91667</LocationLatitude>
+      <LocationLongitude>12.18333</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4KT6KQTWQKDNQWG3</SimilarJobsURL>
+      <JobTitle>Für Freelancer - ISTQB zertifizierter Spezialist Testautomation (w/m)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1146X40MSS19KB64</DID>
+      <OnetCode>43-4041.01</OnetCode>
+      <ONetFriendlyTitle>Credit Authorizers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Moin Moin, für meinen Kunden in Hamburg suche ich einen freiberuflichen Experten aus dem Bereich der SAP Berechtigungen. Der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1146X40MSS19KB64</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1146X40MSS19KB64&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1146X40MSS19KB64</SimilarJobsURL>
+      <JobTitle>Für Freelancer - SAP Berechtigungsexperte</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3KP64PFKYB7Z5DWL</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren Kunden in Stuttgart suchen wir ab dem 01.03.2015 einen Java Spezialisten (m/w) als Lead Entwickler &amp; Coach für die...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3KP64PFKYB7Z5DWL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3KP64PFKYB7Z5DWL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3KP64PFKYB7Z5DWL</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Senior Java Entwickler/ Lead Entwickler &amp; Coach (m/w) - Plz 7* - ab März</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web service</Skill>
+        <Skill>soap</Skill>
+        <Skill>svn</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>web services description language</Skill>
+        <Skill>junit</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>enterprise javabean</Skill>
+        <Skill>Linux</Skill>
+        <Skill>jboss application server</Skill>
+        <Skill>java (programming language)</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3KQ6SM2Q2RRLW4TT</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir sind ein renommiertes und erfolgreiches Personaldienstleistungsunternehmen für die Bereiche IT und Engineering. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3KQ6SM2Q2RRLW4TT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3KQ6SM2Q2RRLW4TT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3KQ6SM2Q2RRLW4TT</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Softwareentwickler (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>document object model</Skill>
+        <Skill>ajax</Skill>
+        <Skill>json</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G55J64ZG3N3559NB0</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir sind ein renommiertes und erfolgreiches Personaldienstleistungsunternehmen für die Bereiche IT und Engineering. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G55J64ZG3N3559NB0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G55J64ZG3N3559NB0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lampertheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lampertheim</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.59481</LocationLatitude>
+      <LocationLongitude>8.46592</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G55J64ZG3N3559NB0</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Linux-Administrator (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Linux</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>perl</Skill>
+        <Skill>python (programming language)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8GQ6V35S3TVC1T84</DID>
+      <OnetCode>17-2041.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren international aufgestellten Mandanten suchen wir derzeit eine(n) hochqualifizierte(n) Verfahrenstechniker (m/w) mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8GQ6V35S3TVC1T84</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8GQ6V35S3TVC1T84&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leipzig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3452</LocationLatitude>
+      <LocationLongitude>12.38594</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8GQ6V35S3TVC1T84</SimilarJobsURL>
+      <JobTitle>Für Freelancer - LINDE!!!!!!!!!! VT 1.1 PL Chemie</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1P16HT5HZH6604LG</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren Kunden in Köln suchen wir nach einem technischen BI/DWH Consultant (w/m) auf Freelance Basis. Projektdauer Ab Februar...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1P16HT5HZH6604LG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1P16HT5HZH6604LG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1P16HT5HZH6604LG</SimilarJobsURL>
+      <JobTitle>Für Freelancer - BI Consultant, DWH</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2395X6YVL8HDD1SB</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für einen unserer Kunden in Bonn suchen wir einen freiberuflichen Tester (m/w). Projektbeschreibung: •Enge Zusammenarbeit mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2395X6YVL8HDD1SB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2395X6YVL8HDD1SB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bonn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bonn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.7323</LocationLatitude>
+      <LocationLongitude>7.10169</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2395X6YVL8HDD1SB</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Tester (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>php</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

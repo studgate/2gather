@@ -1,0 +1,3411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 11:58:55 AM</TimeResponseSent>
+  <TimeElapsed>0.4524</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37650</TotalCount>
+  <FirstItemIndex>8301</FirstItemIndex>
+  <LastItemIndex>8400</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Fitness First</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5DF6KN757DBF476Z</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Stuttgart m/w &amp; Vollzeit/Teilzeit Vollzeit Einleitungstext Suchen Sie ein innovatives, dynamisches Arbeitsumfeld mit flachen Hierarchien und kurzen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H5DF6KN757DBF476Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5DF6KN757DBF476Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity>Stuttgart</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:07:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5DF6KN757DBF476Z</SimilarJobsURL>
+      <JobTitle>Verkaufsberaterin</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S9/M0X6QP6KWTQ30HMD5S9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fitness First</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F00P654V0CD4NDPYJ</DID>
+      <OnetCode>39-9011.00</OnetCode>
+      <ONetFriendlyTitle>Child Care Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Hamburg, Köln, Saarbrücken, Regensburg Location: Jobscout24.de m/w &amp; Vollzeit/Teilzeit m/w Teilzeit Einleitungstext Suchen Sie ein innovatives,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F00P654V0CD4NDPYJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F00P654V0CD4NDPYJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg, Köln, Saarbrücken, Regensburg</Location>
+      <DisplayCity>Hamburg, Köln, Saarbrücken, Regensburg</DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:07:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F00P654V0CD4NDPYJ</SimilarJobsURL>
+      <JobTitle>Kinderbetreuer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S9/M0X6QP6KWTQ30HMD5S9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fitness First</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2RW6SD0C3NYFDQD6</DID>
+      <OnetCode>39-9011.00</OnetCode>
+      <ONetFriendlyTitle>Child Care Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Hamburg, Köln, Saarbrücken, Regensburg Location: Jobscout24.de m/w &amp; Vollzeit/Teilzeit m/w Teilzeit Einleitungstext Suchen Sie ein innovatives,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2RW6SD0C3NYFDQD6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2RW6SD0C3NYFDQD6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg, Köln, Saarbrücken, Regensburg</Location>
+      <DisplayCity>Hamburg, Köln, Saarbrücken, Regensburg</DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:07:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2RW6SD0C3NYFDQD6</SimilarJobsURL>
+      <JobTitle>Kinderbetreuer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S9/M0X6QP6KWTQ30HMD5S9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fitness First</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H79X6LSK3HLPWJNCK</DID>
+      <OnetCode>39-9031.00</OnetCode>
+      <ONetFriendlyTitle>Fitness Trainers and Aerobics Instructors</ONetFriendlyTitle>
+      <DescriptionTeaser>Frankfurt m/w &amp; Vollzeit/Teilzeit m/w Teilzeit Einleitungstext Suchen Sie ein innovatives, dynamisches Arbeitsumfeld mit flachen Hierarchien und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H79X6LSK3HLPWJNCK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H79X6LSK3HLPWJNCK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt</Location>
+      <DisplayCity>Frankfurt</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:07:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H79X6LSK3HLPWJNCK</SimilarJobsURL>
+      <JobTitle>Group Fitness Koordinator Teilzeit</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S9/M0X6QP6KWTQ30HMD5S9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L17X619CCC8PVC95R</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Klinik Bad Salzungen GmbH Bad Salzungen Wir sind der Gesundheitskonzern Asklepios Kliniken GmbH und zählen zu den führenden privaten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L17X619CCC8PVC95R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L17X619CCC8PVC95R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Salzungen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Salzungen</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.81188</LocationLatitude>
+      <LocationLongitude>10.23195</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:07:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L17X619CCC8PVC95R</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger (w/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ASKLEPIOS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3S66Y8C1FG6FPYG2</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Asklepios Service Technik GmbH Birkenwerder Wir sind Die Asklepios Service Technik GmbH ist eine 100%ige Tochter der Asklepios Kliniken, welche unter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3S66Y8C1FG6FPYG2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3S66Y8C1FG6FPYG2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Birkenwerder</Location>
+      <DisplayCity></DisplayCity>
+      <City>Birkenwerder</City>
+      <State>BRANDENBURG</State>
+      <LocationLatitude>52.68871</LocationLatitude>
+      <LocationLongitude>13.28271</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:07:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3S66Y8C1FG6FPYG2</SimilarJobsURL>
+      <JobTitle>Mitarbeiter für den Fahrdienst (m/w) auf Minijob-Basis</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4G/MXJ1ZL6SJ7C15P4KY4G.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7FQ6WLM3FDL4DG6N</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7FQ6WLM3FDL4DG6N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7FQ6WLM3FDL4DG6N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7FQ6WLM3FDL4DG6N</SimilarJobsURL>
+      <JobTitle>Quality Manager Center of Competences (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6WC66T8R7TF41Z4P</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6WC66T8R7TF41Z4P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6WC66T8R7TF41Z4P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6WC66T8R7TF41Z4P</SimilarJobsURL>
+      <JobTitle>Team Assistenz (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1FK61HFDBYST4MDY</DID>
+      <OnetCode>23-2011.00</OnetCode>
+      <ONetFriendlyTitle>Paralegals and Legal Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden, eine Anwaltskanzlei mit Sitz...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1FK61HFDBYST4MDY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1FK61HFDBYST4MDY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1FK61HFDBYST4MDY</SimilarJobsURL>
+      <JobTitle>Rechtsanwaltsfachangestellten (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2HH6PCNRVKN714GR</DID>
+      <OnetCode>51-2099.00</OnetCode>
+      <ONetFriendlyTitle>Assemblers and Fabricators</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden, einen Automobilzulieferer im...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2HH6PCNRVKN714GR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2HH6PCNRVKN714GR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2HH6PCNRVKN714GR</SimilarJobsURL>
+      <JobTitle>Mitarbeiter in der Montage (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8CZ64LJQZ4GT2GZM</DID>
+      <OnetCode>13-1199.00</OnetCode>
+      <ONetFriendlyTitle>Business Operations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde zählt zu den bundesweit führenden...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F8CZ64LJQZ4GT2GZM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8CZ64LJQZ4GT2GZM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8CZ64LJQZ4GT2GZM</SimilarJobsURL>
+      <JobTitle>Kaufmann/-frau im Gesundheitswesen -  Vertragsmanagement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6P25Y805X0PN9D13</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde gehört zu den Top-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6P25Y805X0PN9D13</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6P25Y805X0PN9D13&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6P25Y805X0PN9D13</SimilarJobsURL>
+      <JobTitle>Referent Preismanagement Privatkunden (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2MF610Q06Y1H4HPD</DID>
+      <OnetCode>13-2081.00</OnetCode>
+      <ONetFriendlyTitle>Tax Examiners, Collectors, and Revenue Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist einer der weltweit führenden...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L2MF610Q06Y1H4HPD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2MF610Q06Y1H4HPD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2MF610Q06Y1H4HPD</SimilarJobsURL>
+      <JobTitle>Referent/in Steuern zur Personalvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Financial services</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4GJ704ZRJW0YY336</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil eines weltweit tätigen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4GJ704ZRJW0YY336</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4GJ704ZRJW0YY336&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4GJ704ZRJW0YY336</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/innen Inside Sales in Direktvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2816BJ4S27Y24S8F</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde bietet Dienstleistungen im IT Umfeld...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L2816BJ4S27Y24S8F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2816BJ4S27Y24S8F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Böblingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Böblingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.68699</LocationLatitude>
+      <LocationLongitude>9.00739</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2816BJ4S27Y24S8F</SimilarJobsURL>
+      <JobTitle>Account Manager / Mitarbeiter Vertriebsinnendienst w/m</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business To Business</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0FH75CTKXRH1HB7C</DID>
+      <OnetCode>43-5061.00</OnetCode>
+      <ONetFriendlyTitle>Production, Planning, and Expediting Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist im Bereich des Fahrzeugbaus tätig...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0FH75CTKXRH1HB7C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0FH75CTKXRH1HB7C&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0FH75CTKXRH1HB7C</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in - Bestandsführung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6FK666VLN6VMNV1X</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Im Rahmen unserer Dienstleistung vermitteln wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6FK666VLN6VMNV1X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6FK666VLN6VMNV1X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6FK666VLN6VMNV1X</SimilarJobsURL>
+      <JobTitle>Bilanzbuchhalter (m/w) HGB und IFRS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International Financial Reporting Standards</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4YD74S9TG3GZMFQG</DID>
+      <OnetCode>51-2099.00</OnetCode>
+      <ONetFriendlyTitle>Assemblers and Fabricators</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Münchener Kunden aus dem Bereich der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4YD74S9TG3GZMFQG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4YD74S9TG3GZMFQG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4YD74S9TG3GZMFQG</SimilarJobsURL>
+      <JobTitle>Mitarbeiter für die feinmechanische Montage (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4BR69V2QTPX9B2C5</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren langjährigen Kunden, ein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4BR69V2QTPX9B2C5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4BR69V2QTPX9B2C5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4BR69V2QTPX9B2C5</SimilarJobsURL>
+      <JobTitle>KreditorenbuchhalterIn Bereich Warenrechnungen (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4H66Y1PK1LC2XRD4</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4H66Y1PK1LC2XRD4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4H66Y1PK1LC2XRD4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4H66Y1PK1LC2XRD4</SimilarJobsURL>
+      <JobTitle>Ingenieur für die Komponentenentwicklung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Open Grid Forum</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7Y7799S1J8S18Z5B</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L7Y7799S1J8S18Z5B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7Y7799S1J8S18Z5B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7Y7799S1J8S18Z5B</SimilarJobsURL>
+      <JobTitle>Mechatroniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1KH6Q6NW574DMTDS</DID>
+      <OnetCode>17-1012.00</OnetCode>
+      <ONetFriendlyTitle>Landscape Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden im Garten- und Landschaftsbau...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1KH6Q6NW574DMTDS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1KH6Q6NW574DMTDS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1KH6Q6NW574DMTDS</SimilarJobsURL>
+      <JobTitle>Garten- und Landschaftsbauer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1SL5WBSBS1XDQRFJ</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde gehört zu den großen, weltweit tätigen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K1SL5WBSBS1XDQRFJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1SL5WBSBS1XDQRFJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1SL5WBSBS1XDQRFJ</SimilarJobsURL>
+      <JobTitle>Consultant Marketing (m/w) in Direktvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5BD6P0TZY688H446</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Auftraggeber ist ein Software- und IT-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5BD6P0TZY688H446</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5BD6P0TZY688H446&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5BD6P0TZY688H446</SimilarJobsURL>
+      <JobTitle>Key-Account-Manager  - Frankreich (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Electronic business</Skill>
+        <Skill>Electronic commerce</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J43K673MG7JKL7M96</DID>
+      <OnetCode>13-1072.00</OnetCode>
+      <ONetFriendlyTitle>Compensation, Benefits, and Job Analysis Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein international agierendes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J43K673MG7JKL7M96</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J43K673MG7JKL7M96&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J43K673MG7JKL7M96</SimilarJobsURL>
+      <JobTitle>Senior Specialist Entgeltabrechnung in Direktvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K48H6H33C3QK5VNGR</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde entwickelt und vertreibt eigene,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K48H6H33C3QK5VNGR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K48H6H33C3QK5VNGR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K48H6H33C3QK5VNGR</SimilarJobsURL>
+      <JobTitle>Vertriebsassistenz (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2BP6HR7HV0F1NN27</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Logistikbranche suchen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K2BP6HR7HV0F1NN27</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2BP6HR7HV0F1NN27&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pfaffenhofen</Location>
+      <DisplayCity>Pfaffenhofen</DisplayCity>
+      <City>Eberstetten</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.52865</LocationLatitude>
+      <LocationLongitude>11.53583</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2BP6HR7HV0F1NN27</SimilarJobsURL>
+      <JobTitle>Gabelstaplerfahrer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1XS77YPTMQNMGRVH</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1XS77YPTMQNMGRVH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1XS77YPTMQNMGRVH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1XS77YPTMQNMGRVH</SimilarJobsURL>
+      <JobTitle>CNC-Dreher - Mazak Mazatrol-Kenntnisse (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4QV6DLVQ1SSMBKDQ</DID>
+      <OnetCode>53-3041.00</OnetCode>
+      <ONetFriendlyTitle>Taxi Drivers and Chauffeurs</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist seit über 20 Jahren erfolgreich in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4QV6DLVQ1SSMBKDQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4QV6DLVQ1SSMBKDQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4QV6DLVQ1SSMBKDQ</SimilarJobsURL>
+      <JobTitle>Lokführer (EIB)/Triebfahrzeugführer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1CN7695JVD92L4GR</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1CN7695JVD92L4GR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1CN7695JVD92L4GR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1CN7695JVD92L4GR</SimilarJobsURL>
+      <JobTitle>Elektroniker für Geräte und Systeme (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Acceptance testing</Skill>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H71K6RP7CK66T7ZHK</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall-und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H71K6RP7CK66T7ZHK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H71K6RP7CK66T7ZHK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H71K6RP7CK66T7ZHK</SimilarJobsURL>
+      <JobTitle>Industriemechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3GR6F2HWH4P48ZZT</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall-und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3GR6F2HWH4P48ZZT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3GR6F2HWH4P48ZZT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3GR6F2HWH4P48ZZT</SimilarJobsURL>
+      <JobTitle>Feinmechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3P75WN09HC2LGCSH</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3P75WN09HC2LGCSH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3P75WN09HC2LGCSH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fürstenfeldbruck</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fürstenfeldbruck</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.17854</LocationLatitude>
+      <LocationLongitude>11.25495</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3P75WN09HC2LGCSH</SimilarJobsURL>
+      <JobTitle>Lackierer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6KB74J67HXPL7BPR</DID>
+      <OnetCode>17-2199.05</OnetCode>
+      <ONetFriendlyTitle>Mechatronics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall-und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L6KB74J67HXPL7BPR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6KB74J67HXPL7BPR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:28 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6KB74J67HXPL7BPR</SimilarJobsURL>
+      <JobTitle>Kfz-Mechaniker - Mechatroniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2GG6T4LLWLTK18XR</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil eines international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2GG6T4LLWLTK18XR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2GG6T4LLWLTK18XR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2GG6T4LLWLTK18XR</SimilarJobsURL>
+      <JobTitle>Pharmakant (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4YZ5WK14RV9S1KNS</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist in der Elektroindustrie tätig und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4YZ5WK14RV9S1KNS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4YZ5WK14RV9S1KNS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4YZ5WK14RV9S1KNS</SimilarJobsURL>
+      <JobTitle>Produktionsplaner (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L118733YZ0L378FJT</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Münchener Kunden aus dem Bereich der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L118733YZ0L378FJT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L118733YZ0L378FJT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L118733YZ0L378FJT</SimilarJobsURL>
+      <JobTitle>Mitarbeiter für den technischen Kundendienst (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H28W639HGM2Z9KPBZ</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H28W639HGM2Z9KPBZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H28W639HGM2Z9KPBZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H28W639HGM2Z9KPBZ</SimilarJobsURL>
+      <JobTitle>Schweißer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0B173J8BXZHYYGHD</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren langjährigen Kunden, ein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0B173J8BXZHYYGHD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0B173J8BXZHYYGHD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0B173J8BXZHYYGHD</SimilarJobsURL>
+      <JobTitle>Kreditorenbuchhalter (m/w) mit SAP Kenntnissen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8185VL69MPXFP8WB</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden, ein international tätiges...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H8185VL69MPXFP8WB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8185VL69MPXFP8WB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8185VL69MPXFP8WB</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Qualitätssicherung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7H971CY64RDCWQSB</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus dem Münchener Süden suchen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7H971CY64RDCWQSB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7H971CY64RDCWQSB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7H971CY64RDCWQSB</SimilarJobsURL>
+      <JobTitle>Mitarbeiter in der Produktion (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1V568ZWJQRFLWC4Y</DID>
+      <OnetCode>47-2211.00</OnetCode>
+      <ONetFriendlyTitle>Sheet Metal Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1V568ZWJQRFLWC4Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1V568ZWJQRFLWC4Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1V568ZWJQRFLWC4Y</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5CM60TJTK1QG485P</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5CM60TJTK1QG485P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5CM60TJTK1QG485P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:19 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5CM60TJTK1QG485P</SimilarJobsURL>
+      <JobTitle>Erfahrenen Executive Assistant (m/w) mit sehr guten Englischkenntnissen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H51S73VGFTLLNLWTG</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein international tätiger...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H51S73VGFTLLNLWTG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H51S73VGFTLLNLWTG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:19 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H51S73VGFTLLNLWTG</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in Reisekostenabrechnung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H12R793MR6531SFC8</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil eines international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H12R793MR6531SFC8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H12R793MR6531SFC8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H12R793MR6531SFC8</SimilarJobsURL>
+      <JobTitle>CTA (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0B977V7CMRDC6B3S</DID>
+      <OnetCode>43-5061.00</OnetCode>
+      <ONetFriendlyTitle>Production, Planning, and Expediting Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein mittelständisches...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L0B977V7CMRDC6B3S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0B977V7CMRDC6B3S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0B977V7CMRDC6B3S</SimilarJobsURL>
+      <JobTitle>Auftragskoordinator (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4QP5XS5L2QM73VXD</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4QP5XS5L2QM73VXD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4QP5XS5L2QM73VXD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:12 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4QP5XS5L2QM73VXD</SimilarJobsURL>
+      <JobTitle>Energie- und Anlagenelektroniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5DP60JSWX485FWZY</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein mittelständisches Unternehmen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H5DP60JSWX485FWZY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5DP60JSWX485FWZY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5DP60JSWX485FWZY</SimilarJobsURL>
+      <JobTitle>Industriemechaniker/ Zerspanungsmechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7D76JLT87D9RYKJK</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L7D76JLT87D9RYKJK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7D76JLT87D9RYKJK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7D76JLT87D9RYKJK</SimilarJobsURL>
+      <JobTitle>Entwicklungsingenieur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7286RPPQ6DYRFXX2</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil einer international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7286RPPQ6DYRFXX2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7286RPPQ6DYRFXX2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7286RPPQ6DYRFXX2</SimilarJobsURL>
+      <JobTitle>Service-Techniker Fahrsimulatoren (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0NX6HMFY744RZ52G</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein weltweit führendes Gase- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L0NX6HMFY744RZ52G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0NX6HMFY744RZ52G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0NX6HMFY744RZ52G</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in im Forderungsmanagement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3586DX7QJPF72R8T</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein international agierendes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3586DX7QJPF72R8T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3586DX7QJPF72R8T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3586DX7QJPF72R8T</SimilarJobsURL>
+      <JobTitle>Junior Project Leader Finance (m/f) - Direktvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Tax law</Skill>
+        <Skill>Audit</Skill>
+        <Skill>Project management</Skill>
+        <Skill>Export</Skill>
+        <Skill>Treasury</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4YF667DPR6N96K2Y</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist im Bereich der Energiewirtschaft...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4YF667DPR6N96K2Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4YF667DPR6N96K2Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4YF667DPR6N96K2Y</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in Zentrale Kundenbetreuung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3MV795W5Z04YYYWR</DID>
+      <OnetCode>47-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Construction Trades and Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K3MV795W5Z04YYYWR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3MV795W5Z04YYYWR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3MV795W5Z04YYYWR</SimilarJobsURL>
+      <JobTitle>Schreiner in der Montage (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3H75WV047KTHFGXM</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein stabiler Full-Service-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3H75WV047KTHFGXM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3H75WV047KTHFGXM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3H75WV047KTHFGXM</SimilarJobsURL>
+      <JobTitle>Account Manager Customer Service (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2YT60MN4CZCKB8FJ</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Logistikbranche suchen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2YT60MN4CZCKB8FJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2YT60MN4CZCKB8FJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pfaffenhofen</Location>
+      <DisplayCity>Pfaffenhofen</DisplayCity>
+      <City>Eberstetten</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.52865</LocationLatitude>
+      <LocationLongitude>11.53583</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2YT60MN4CZCKB8FJ</SimilarJobsURL>
+      <JobTitle>Routenzugfahrer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J46N6DBT374VXL3C3</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren renommierten Kunden, einen weltweit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J46N6DBT374VXL3C3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J46N6DBT374VXL3C3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:05 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J46N6DBT374VXL3C3</SimilarJobsURL>
+      <JobTitle>Ingenieur Development Components (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Open Grid Forum</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H86468FXSS1QGHTP6</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H86468FXSS1QGHTP6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H86468FXSS1QGHTP6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H86468FXSS1QGHTP6</SimilarJobsURL>
+      <JobTitle>CNC-Fräser - Heidenhain iTNC 530 / 5-Achs (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G81F6WZG6Y0NSPZCZ</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G81F6WZG6Y0NSPZCZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G81F6WZG6Y0NSPZCZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G81F6WZG6Y0NSPZCZ</SimilarJobsURL>
+      <JobTitle>CNC-Maschinenbediener - Drehen (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J17F74Z4Q3QFBRSBZ</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J17F74Z4Q3QFBRSBZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J17F74Z4Q3QFBRSBZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J17F74Z4Q3QFBRSBZ</SimilarJobsURL>
+      <JobTitle>CNC-Schleifer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K8CQ6BSW81CQDLJJF</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K8CQ6BSW81CQDLJJF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K8CQ6BSW81CQDLJJF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K8CQ6BSW81CQDLJJF</SimilarJobsURL>
+      <JobTitle>Maschinenbauingenieur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F00Z629YY0K16JYXC</DID>
+      <OnetCode>53-1011.00</OnetCode>
+      <ONetFriendlyTitle>Aircraft Cargo Handling Supervisors</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für den Flughafen München suchen wir ab sofort im...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F00Z629YY0K16JYXC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F00Z629YY0K16JYXC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:06:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F00Z629YY0K16JYXC</SimilarJobsURL>
+      <JobTitle>Flugzeug-/Gepäckabfertiger (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6L25W6SXMPGK7P58</DID>
+      <OnetCode>43-5081.04</OnetCode>
+      <ONetFriendlyTitle>Order Fillers, Wholesale and Retail Sales</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Logistikbranche suchen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6L25W6SXMPGK7P58</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6L25W6SXMPGK7P58&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pfaffenhofen</Location>
+      <DisplayCity>Pfaffenhofen</DisplayCity>
+      <City>Eberstetten</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.52865</LocationLatitude>
+      <LocationLongitude>11.53583</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6L25W6SXMPGK7P58</SimilarJobsURL>
+      <JobTitle>Mitarbeiter für die Warenkommissionierung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0M26NCFKFHXC5V5M</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde zählt zu den bundesweit führenden...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0M26NCFKFHXC5V5M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0M26NCFKFHXC5V5M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0M26NCFKFHXC5V5M</SimilarJobsURL>
+      <JobTitle>Kundenbetreuer (m/w) im IT Support</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3TK6PZMC6LKLZH09</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein erfolgreiches Vertriebs- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3TK6PZMC6LKLZH09</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3TK6PZMC6LKLZH09&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3TK6PZMC6LKLZH09</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Telesales  (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Telemarketing</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7B465N9B76WX9F1L</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil eines international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L7B465N9B76WX9F1L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7B465N9B76WX9F1L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7B465N9B76WX9F1L</SimilarJobsURL>
+      <JobTitle>Chemikant (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3WX69720GXSPXMY1</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein regionaler...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3WX69720GXSPXMY1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3WX69720GXSPXMY1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3WX69720GXSPXMY1</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in in der Kundenbetreuung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6V86NR8TD7MJRR2Z</DID>
+      <OnetCode>23-2011.00</OnetCode>
+      <ONetFriendlyTitle>Paralegals and Legal Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden, eine Anwaltskanzlei mit Sitz...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6V86NR8TD7MJRR2Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6V86NR8TD7MJRR2Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6V86NR8TD7MJRR2Z</SimilarJobsURL>
+      <JobTitle>Notarfachangestellte oder Rechtsanwalts- und Notarfachangestellte w/m</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7TG6XFRLZMCQNPHF</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein national wie international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L7TG6XFRLZMCQNPHF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7TG6XFRLZMCQNPHF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7TG6XFRLZMCQNPHF</SimilarJobsURL>
+      <JobTitle>CNC-Fräser für die Bedienung mit 3-Achs und 5-Achs-Fräsanlagen (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1Y36H9HJLM0631QC</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L1Y36H9HJLM0631QC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1Y36H9HJLM0631QC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1Y36H9HJLM0631QC</SimilarJobsURL>
+      <JobTitle>Elektroniker für den Schaltschrankbau (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2Y360H7H0GFB05XS</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Mit den meisten unserer Kunden arbeiten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2Y360H7H0GFB05XS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2Y360H7H0GFB05XS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2Y360H7H0GFB05XS</SimilarJobsURL>
+      <JobTitle>BILANZBUCHHALTER (m/w) in Direktvermittlung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F81D6KF756WF8GSNK</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F81D6KF756WF8GSNK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F81D6KF756WF8GSNK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F81D6KF756WF8GSNK</SimilarJobsURL>
+      <JobTitle>Bereichsassistenz (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6GQ78PPRY80P3GSN</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist in mehr als 70 Ländern vertreten...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6GQ78PPRY80P3GSN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6GQ78PPRY80P3GSN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6GQ78PPRY80P3GSN</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in Versicherungswesen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0TN6HWTCVD2B5TQV</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L0TN6HWTCVD2B5TQV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0TN6HWTCVD2B5TQV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0TN6HWTCVD2B5TQV</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in in der IT-Projektkoordination</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>SAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L8656BSYDHJ5QX3GH</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil einer international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L8656BSYDHJ5QX3GH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8656BSYDHJ5QX3GH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8656BSYDHJ5QX3GH</SimilarJobsURL>
+      <JobTitle>Service-Monteur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3066L5KFGRTQMR5Z</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde entwickelt und vertreibt innovative IT...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3066L5KFGRTQMR5Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3066L5KFGRTQMR5Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3066L5KFGRTQMR5Z</SimilarJobsURL>
+      <JobTitle>Mitarbeiter/in Kundenbetreuung - Gesundheitswesen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2S967Y87NXKC3FCH</DID>
+      <OnetCode>43-9041.01</OnetCode>
+      <ONetFriendlyTitle>Insurance Claims Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Spezialist für innovative...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2S967Y87NXKC3FCH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2S967Y87NXKC3FCH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2S967Y87NXKC3FCH</SimilarJobsURL>
+      <JobTitle>Kaufmann/frau für Versicherungen und Finanzen bAV</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0VY6MJS9NKN5H3LZ</DID>
+      <OnetCode>41-2021.00</OnetCode>
+      <ONetFriendlyTitle>Counter and Rental Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0VY6MJS9NKN5H3LZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0VY6MJS9NKN5H3LZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0VY6MJS9NKN5H3LZ</SimilarJobsURL>
+      <JobTitle>Controller / kaufmännischer Sachbearbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4BL6TDM8YDTG0TWY</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4BL6TDM8YDTG0TWY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4BL6TDM8YDTG0TWY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4BL6TDM8YDTG0TWY</SimilarJobsURL>
+      <JobTitle>Entwicklungsingenieur Elektrotechnik / Elektronik (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Open Grid Forum</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F13H647YFDRL6G8L6</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde produziert und vertreibt medizinische...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F13H647YFDRL6G8L6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F13H647YFDRL6G8L6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F13H647YFDRL6G8L6</SimilarJobsURL>
+      <JobTitle>Quality Engineer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Risk management</Skill>
+        <Skill>Quality management system</Skill>
+        <Skill>Title 21 of the Code of Federal Regulations</Skill>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Open Grid Forum</Skill>
+        <Skill>Quality management</Skill>
+        <Skill>Autonomy</Skill>
+        <Skill>ISO 13485</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8HV6D320P0ZXKSD2</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J8HV6D320P0ZXKSD2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8HV6D320P0ZXKSD2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8HV6D320P0ZXKSD2</SimilarJobsURL>
+      <JobTitle>Metallhelfer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3HJ6WTD4JFQS7B5D</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für ein namenhaftes Unternehmen im Raum München...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3HJ6WTD4JFQS7B5D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3HJ6WTD4JFQS7B5D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3HJ6WTD4JFQS7B5D</SimilarJobsURL>
+      <JobTitle>Qualitätsprüfer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6BX6NTF1HHLZGC6D</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden, einen Dienstleister für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K6BX6NTF1HHLZGC6D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6BX6NTF1HHLZGC6D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6BX6NTF1HHLZGC6D</SimilarJobsURL>
+      <JobTitle>Kfz-Meister (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G37V6FYRLQN8DQ7GV</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist ein internationaler Großkonzern...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G37V6FYRLQN8DQ7GV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G37V6FYRLQN8DQ7GV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pullach im Isartal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pullach im Isartal</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.05636</LocationLatitude>
+      <LocationLongitude>11.52328</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G37V6FYRLQN8DQ7GV</SimilarJobsURL>
+      <JobTitle>Assistent/in für die obere Managementebene</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3JQ5ZLJ7KJS21861</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil eines international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3JQ5ZLJ7KJS21861</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3JQ5ZLJ7KJS21861&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3JQ5ZLJ7KJS21861</SimilarJobsURL>
+      <JobTitle>BTA (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7336S8NT8KWT0F9G</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7336S8NT8KWT0F9G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7336S8NT8KWT0F9G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7336S8NT8KWT0F9G</SimilarJobsURL>
+      <JobTitle>Entwicklungsingenieur Thermische Berechnung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Procedural knowledge</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K44M6R2QX6M89HM0D</DID>
+      <OnetCode>51-2022.00</OnetCode>
+      <ONetFriendlyTitle>Electrical and Electronic Equipment Assemblers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K44M6R2QX6M89HM0D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K44M6R2QX6M89HM0D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K44M6R2QX6M89HM0D</SimilarJobsURL>
+      <JobTitle>Mitarbeiter für die Rohrtafelmontage (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6466GM69HCR9FWGY</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden, einen Automobilzulieferer im...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6466GM69HCR9FWGY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6466GM69HCR9FWGY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6466GM69HCR9FWGY</SimilarJobsURL>
+      <JobTitle>Produktionsmitarbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J29V65SG3PVQLCMK3</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist Teil einer international...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J29V65SG3PVQLCMK3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J29V65SG3PVQLCMK3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J29V65SG3PVQLCMK3</SimilarJobsURL>
+      <JobTitle>Kfz Mechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7Y273BGNBRHLDM03</DID>
+      <OnetCode>49-2092.00</OnetCode>
+      <ONetFriendlyTitle>Electric Motor, Power Tool, and Related Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7Y273BGNBRHLDM03</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7Y273BGNBRHLDM03&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7Y273BGNBRHLDM03</SimilarJobsURL>
+      <JobTitle>Werkzeugmechaniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2096QSDCP1WCX89Z</DID>
+      <OnetCode>47-2211.00</OnetCode>
+      <ONetFriendlyTitle>Sheet Metal Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2096QSDCP1WCX89Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2096QSDCP1WCX89Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2096QSDCP1WCX89Z</SimilarJobsURL>
+      <JobTitle>Metallbauer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4416Q92FVNCPLLD7</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Für unseren Kunden aus der Metall- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4416Q92FVNCPLLD7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4416Q92FVNCPLLD7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:19 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4416Q92FVNCPLLD7</SimilarJobsURL>
+      <JobTitle>Industriemechaniker - Baugruppenmontage (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2R76GW8WGV2C8G0N</DID>
+      <OnetCode>43-9041.02</OnetCode>
+      <ONetFriendlyTitle>Insurance Policy Processing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist als Versicherungsmakler tätig und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2R76GW8WGV2C8G0N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2R76GW8WGV2C8G0N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2R76GW8WGV2C8G0N</SimilarJobsURL>
+      <JobTitle>Versicherungskaufmann/-frau in Vollzeit</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J22T69Z8T6DY4ZG27</DID>
+      <OnetCode>43-6012.00</OnetCode>
+      <ONetFriendlyTitle>Legal Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde, tätig in der Wirtschaftsprüfung, mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J22T69Z8T6DY4ZG27</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J22T69Z8T6DY4ZG27&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J22T69Z8T6DY4ZG27</SimilarJobsURL>
+      <JobTitle>Teamsekretär/Rechtsanwaltsfachangestellter w/m</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIMECRAFT GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G38H6D59FBTV2T77G</DID>
+      <OnetCode>13-1199.00</OnetCode>
+      <ONetFriendlyTitle>Business Operations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir verbinden Menschen wie Sie und renommierte Unternehmen in langfristige Projekte mit Perspektive Unser Kunde ist weltweit der führende Hersteller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G38H6D59FBTV2T77G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G38H6D59FBTV2T77G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:05:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G38H6D59FBTV2T77G</SimilarJobsURL>
+      <JobTitle>Referent Vertrags- und Claimsmanagement (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KT/MRP28274XHV9R32C1KT.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Mergers and acquisitions</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Carlé + Fatum GmbH &amp; Co.KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL6416KSY81ZCLLTVG</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildungsdetails: Die Ausbildung erfolgt in allen Abteilungen unseres Betriebes. Jeder Ausbilder wird in verständlicher Form und mit viel Geduld dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Ausbildung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL6416KSY81ZCLLTVG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL6416KSY81ZCLLTVG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kriftel-65830</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kriftel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0789</LocationLatitude>
+      <LocationLongitude>8.4672</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:04:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL6416KSY81ZCLLTVG</SimilarJobsURL>
+      <JobTitle>Ausbildungsplatz als Fachkraft für Lagerlogistik.</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>B&amp;B Personaldienste GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J48G6NNDKNHB08H1K</DID>
+      <OnetCode>43-5071.00</OnetCode>
+      <ONetFriendlyTitle>Shipping, Receiving, and Traffic Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Eigenständige Abwicklung der Seefracht-Import-Sendungen (LCL &amp; FCL) Zollabwicklung via ATLAS und Versand via NCTS Einkauf von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J48G6NNDKNHB08H1K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J48G6NNDKNHB08H1K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kelsterbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kelsterbach</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.06141</LocationLatitude>
+      <LocationLongitude>8.53165</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:03:05 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J48G6NNDKNHB08H1K</SimilarJobsURL>
+      <JobTitle>Seefracht Sachbearbeiter Import (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D2/M0W5CP6767WS649MYD2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>B&amp;B Personaldienste GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0S96H0LN7RLW783B</DID>
+      <OnetCode>53-7062.00</OnetCode>
+      <ONetFriendlyTitle>Laborers and Material Movers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre neuen Aufgaben sind: Kommissionieren der Ware Bedienen eines Schnellläufers Ware Versandfertig machen Allgemeine Lagertätigkeiten Ihre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0S96H0LN7RLW783B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0S96H0LN7RLW783B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Groß-Rohrheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Groß-Rohrheim</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.71699</LocationLatitude>
+      <LocationLongitude>8.47297</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:03:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0S96H0LN7RLW783B</SimilarJobsURL>
+      <JobTitle>Lagerarbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D2/M0W5CP6767WS649MYD2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>B&amp;B Personaldienste GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8BG76R7CBG4XRS76</DID>
+      <OnetCode>43-5011.00</OnetCode>
+      <ONetFriendlyTitle>Cargo and Freight Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Kommunikation mit Kunden und Agenten im In- und Ausland per Telefon und Email Organisation des Vorlaufes zum Flughafen / Anlieferung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J8BG76R7CBG4XRS76</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8BG76R7CBG4XRS76&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:03:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8BG76R7CBG4XRS76</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter Luftfracht Export (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D2/M0W5CP6767WS649MYD2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>B&amp;B Personaldienste GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6LY75649FCPBC4Q7</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihr Aufgabenbereich: Herstellung, Instandhaltung und Überwachung von technischen Systemen eingesetzt Herstellen von Bauteilen und Baugruppen / Montage...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6LY75649FCPBC4Q7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6LY75649FCPBC4Q7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pfungstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pfungstadt</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.80364</LocationLatitude>
+      <LocationLongitude>8.59801</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:03:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6LY75649FCPBC4Q7</SimilarJobsURL>
+      <JobTitle>Industriemechaniker/in ( Schwerpunkt Sondermaschinenbau )</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D2/M0W5CP6767WS649MYD2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

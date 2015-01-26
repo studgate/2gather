@@ -1,0 +1,3538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 11:57:17 AM</TimeResponseSent>
+  <TimeElapsed>0.4212</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37650</TotalCount>
+  <FirstItemIndex>201</FirstItemIndex>
+  <LastItemIndex>300</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J53F6DQ6GZ91K50ZR</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren Kunden such wir ab sofort einnen Sharepoint Entwickler (m/w). • Objektorientiertes Design und Entwicklung •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J53F6DQ6GZ91K50ZR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J53F6DQ6GZ91K50ZR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J53F6DQ6GZ91K50ZR</SimilarJobsURL>
+      <JobTitle>Für Freelancer - SHAREPOINT-ENTWICKLER (M/W)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>xml</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>IIS</Skill>
+        <Skill>jquery</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>User Interface</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>team foundation server</Skill>
+        <Skill>sql</Skill>
+        <Skill>ajax</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F83B6C7CX7M0SB7RD</DID>
+      <OnetCode>13-1041.00</OnetCode>
+      <ONetFriendlyTitle>Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Die Compliance Funktion des Kunden arbeitet eng mit den einzelnen Geschäftsbereichen und Gruppen-Kontrollfunktionen zusammen, um...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F83B6C7CX7M0SB7RD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F83B6C7CX7M0SB7RD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eschborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eschborn</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.14041</LocationLatitude>
+      <LocationLongitude>8.57211</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:05 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F83B6C7CX7M0SB7RD</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Compliance Officer - (Voll-)Jurist (m/f)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Regulatory compliance</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6GK781S8N0KTXTS1</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Aufgabe: •Entwicklung von Treibern in SECS/GEM und C++ •Erstellung von Treiberpaketen •Durchführung von Funktionstests •Software...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6GK781S8N0KTXTS1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6GK781S8N0KTXTS1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rosenheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rosenheim</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8529</LocationLatitude>
+      <LocationLongitude>12.1607</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:14:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6GK781S8N0KTXTS1</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Softwareentwickler (m/w) SECS/GEM</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G16Y5ZMC6N09BZP2L</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - POS20845 Zwei Entwickler (w/m) IBM WebSphere Message Broker ODER IBM Process Manager Einsatzort: D7 Stuttgart Wir benötigen zwei...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G16Y5ZMC6N09BZP2L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G16Y5ZMC6N09BZP2L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G16Y5ZMC6N09BZP2L</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Zwei Entwickler (w/m) IBM WebSphere Message Broker ODER IBM Process Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web service</Skill>
+        <Skill>soap</Skill>
+        <Skill>x window system</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>message passing</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>ibm websphere mq</Skill>
+        <Skill>workflow</Skill>
+        <Skill>unit testing</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6B16FMNFMVM87F7Y</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Hallo zusammen, für meinen Exklusivkunden bin ich derzeit auf der Suche nach einem Java-Experten (m/w) für einen Vollzeit-Einsatz...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6B16FMNFMVM87F7Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6B16FMNFMVM87F7Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6B16FMNFMVM87F7Y</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Java-Entwickler Spring</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>spring framework</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>hibernate (java)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7DX6J86MZ4B2LQVQ</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Beginn: Januar 2015 Dauer: 3 Monate++ Wir benötigen für folgendes Kundenprojekt Unterstützung: Aufgaben / Skills: Experte in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7DX6J86MZ4B2LQVQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7DX6J86MZ4B2LQVQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7DX6J86MZ4B2LQVQ</SimilarJobsURL>
+      <JobTitle>Für Freelancer - SAP SCM PDM Berater u. Projektkoordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sap scm</Skill>
+        <Skill>SAP</Skill>
+        <Skill>creo elements/pro</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1VD6M38WQXSZBPM9</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Sehr geehrte Damen und Herren, wir sind aktuell für unseren Kunden auf der Suche nach einem ASP.NET MVC Webentwickler (m/w) in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1VD6M38WQXSZBPM9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1VD6M38WQXSZBPM9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1VD6M38WQXSZBPM9</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Köln - ASP.NET MVC Webentwickler (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>ado.net</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>User Experience</Skill>
+        <Skill>mvc</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7GG6VGV4J2N59HNC</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - München / Frankfurt: Entwickler ABAP Objects Business Server Pages SAP BSP POS20829 Einsatzort: D8 München und/oder D6 Frankfurt...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7GG6VGV4J2N59HNC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7GG6VGV4J2N59HNC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7GG6VGV4J2N59HNC</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Entwickler ABAP Objects Business Server Pages SAP BSP</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>abap</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H23R73H9QX6GK393Y</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren international aufgestellten Mandanten suchen wir derzeit mehrere hochqualifizierte Konstrukteure (m/w) mit Erfahrung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H23R73H9QX6GK393Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H23R73H9QX6GK393Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H23R73H9QX6GK393Y</SimilarJobsURL>
+      <JobTitle>Für Freelancer - PDS Planer für Rotterdam/ München gesucht!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G80X71L7SBT7Y5GWQ</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für einen Kunden aus Karlsruhe suche ich aktuell einen freiberuflichen Systemadministrator für ein Projekt für mind. 3 Monate....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G80X71L7SBT7Y5GWQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G80X71L7SBT7Y5GWQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Karlsruhe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Karlsruhe</City>
+      <State>BRANDENBURG</State>
+      <LocationLatitude>52.91667</LocationLatitude>
+      <LocationLongitude>12.18333</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G80X71L7SBT7Y5GWQ</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Freiberuflicher Systemadministrator(Linux/Windows) für KA</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>SUSE Studio</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>ubuntu</Skill>
+        <Skill>bash</Skill>
+        <Skill>Linux</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>vmware</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>red hat</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1YF6P2VWFY3YNVMF</DID>
+      <OnetCode>43-3021.01</OnetCode>
+      <ONetFriendlyTitle>Statement Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - entscheiden Sie sich für eine Zusammenarbeit mit unserem Hause, sie hat entscheidende Vorteile für Sie. Für folgende Aufgabe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1YF6P2VWFY3YNVMF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1YF6P2VWFY3YNVMF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eschborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eschborn</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.14041</LocationLatitude>
+      <LocationLongitude>8.57211</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1YF6P2VWFY3YNVMF</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Ref.Nr: 214560 Unterstützung im Rahmen des Konzernabschlusses (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6VS767ZVXKG0S848</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - entscheiden Sie sich für eine Zusammenarbeit mit unserem Hause, sie hat entscheidende Vorteile für Sie. Für folgende Aufgabe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6VS767ZVXKG0S848</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6VS767ZVXKG0S848&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6VS767ZVXKG0S848</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Ref.Nr: 214541 Technischer Berater (Microsoft Certified Professional) (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>vbscript</Skill>
+        <Skill>dynamic host configuration protocol</Skill>
+        <Skill>windows server 2003</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>vb</Skill>
+        <Skill>windows 7</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>windows powershell</Skill>
+        <Skill>DNS</Skill>
+        <Skill>computer cluster</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7X677XRSGMQBMVXC</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Einsatzort: München Aufgabenbeschreibung: ABAP Entwickler SAP IS-U Datenmodell, Transaktionen, Business Logik ABAP Objects Nice...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7X677XRSGMQBMVXC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7X677XRSGMQBMVXC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7X677XRSGMQBMVXC</SimilarJobsURL>
+      <JobTitle>Für Freelancer - München: SAP IS- U / ABAP Entwicklung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>workflow</Skill>
+        <Skill>abap</Skill>
+        <Skill>sap is</Skill>
+        <Skill>sap bw</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3QW76JQ4SWKRS2WP</DID>
+      <OnetCode>49-9011.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Door Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für meinen Kunden im Großraum Frankfurt bin ich auf der Suche nach einem DOORS Experten (m/w). Ihre Aufgaben: • Analyse und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3QW76JQ4SWKRS2WP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3QW76JQ4SWKRS2WP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:32 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3QW76JQ4SWKRS2WP</SimilarJobsURL>
+      <JobTitle>Für Freelancer - DOORS Experte</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F33N6NNLTB04YC65W</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - For one of our clients we are looking for a App &amp; Web Support Required Skills: Microsoft Certified Professional (MCP ) for...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F33N6NNLTB04YC65W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F33N6NNLTB04YC65W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F33N6NNLTB04YC65W</SimilarJobsURL>
+      <JobTitle>Für Freelancer - App &amp; Web Support</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>microsoft sharepoint server</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>internet information services</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5BN6CD5VS3JR05PS</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für unseren renommierten Kunden am Standort Kassel suchen wir zum nächstmöglichen Zeitpunkt einen Citrix Support Engineer. Ihre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5BN6CD5VS3JR05PS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5BN6CD5VS3JR05PS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5BN6CD5VS3JR05PS</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Citrix Support (w/m)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>citrix systems</Skill>
+        <Skill>internet explorer</Skill>
+        <Skill>windows server</Skill>
+        <Skill>vmware</Skill>
+        <Skill>xen</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6DC704RVND074R8W</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Es wird ein Berater (Microsoft Certified Professional) für eine Teilzeit Tätigkeit in Stuttgart gesucht: Aufgaben: MS...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6DC704RVND074R8W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6DC704RVND074R8W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6DC704RVND074R8W</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Windows Admin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>vbscript</Skill>
+        <Skill>dynamic host configuration protocol</Skill>
+        <Skill>windows server 2003</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>vb</Skill>
+        <Skill>windows 7</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>windows powershell</Skill>
+        <Skill>DNS</Skill>
+        <Skill>computer cluster</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4SL64MV1MW9THV7V</DID>
+      <OnetCode>43-5061.00</OnetCode>
+      <ONetFriendlyTitle>Production, Planning, and Expediting Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir suchen im Raum Bautzen einen Fabrikplaner: Ihre Aufgaben: • Erstellen von Fabrik-, Produktions- und Maschinenplanungen •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4SL64MV1MW9THV7V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4SL64MV1MW9THV7V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bautzen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bautzen</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.17964</LocationLatitude>
+      <LocationLongitude>14.42426</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4SL64MV1MW9THV7V</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Fabrikplaner (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J387734J6HNLNNTHN</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Wir suchen dringend einen Teradate Data Modeler für einen unserer internationalen Kunden in Stuttgart. Wir suchen einenTeradata...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J387734J6HNLNNTHN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J387734J6HNLNNTHN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J387734J6HNLNNTHN</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Teradata Data Modeler gesucht</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+        <Skill>data modeling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G60T6QMF8LGVP6NMD</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Unterstützen Sie das Team bei der Weiterentwicklung des bestehenden Webshops. Sie arbeiten mit zwei Frontend Entwicklern eng...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G60T6QMF8LGVP6NMD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G60T6QMF8LGVP6NMD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G60T6QMF8LGVP6NMD</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Bootstrap Entwickler 2015 für München</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>javascript</Skill>
+        <Skill>sass (stylesheet language)</Skill>
+        <Skill>scrum (development)</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4XF6SJ6Y89CX7VT7</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für meinen Kunden im Raum Freiburg bin ich auf der Suche nach einem freiberuflichen Softwareentwickler für die Entwicklung eines...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4XF6SJ6Y89CX7VT7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4XF6SJ6Y89CX7VT7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freiburg im Breisgau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.99854</LocationLatitude>
+      <LocationLongitude>7.84965</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:13:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4XF6SJ6Y89CX7VT7</SimilarJobsURL>
+      <JobTitle>Für Freelancer - asp.net Entwickler</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>team foundation server</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TEMPTON M &amp; V GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3126TBNFBS5B5WC9</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungFinden Sie die moderne, flexible Arbeitswelt interessant und aufregend? Arbeiten Sie mit TEMPTON als Unterstützung der operativen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3126TBNFBS5B5WC9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3126TBNFBS5B5WC9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Düsseldorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Düsseldorf</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.21563</LocationLatitude>
+      <LocationLongitude>6.77604</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:53:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3126TBNFBS5B5WC9</SimilarJobsURL>
+      <JobTitle>Assistenz der Geschäftsführung (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EURA Personal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G55L72TBZNTR7LQQB</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben werden sein: - Kfz-Mechaniker/in in der Werkstatt in Vollzeit Ihr Profil: - abgeschlossene Ausbildung zum KFZ - Mechaniker (m/w) - Sie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G55L72TBZNTR7LQQB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G55L72TBZNTR7LQQB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cham in der Oberpfalz</Location>
+      <DisplayCity>Cham in der Oberpfalz</DisplayCity>
+      <City>Cham</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.22047</LocationLatitude>
+      <LocationLongitude>12.66289</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:51:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G55L72TBZNTR7LQQB</SimilarJobsURL>
+      <JobTitle>Kfz-Mechaniker/in, Mechatroniker/in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Interactive Intelligence</Company>
+      <CompanyDID>chm73t6ys1ksvyjy87r</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chm73t6ys1ksvyjy87r/interactive-intelligence/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J89T5ZTJZMGH8KVBJ</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>The System Engineer DACH role is an exciting and rewarding role for recent university graduates and/or professionals looking for a varied, flexible,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J89T5ZTJZMGH8KVBJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J89T5ZTJZMGH8KVBJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:42:08 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J89T5ZTJZMGH8KVBJ</SimilarJobsURL>
+      <JobTitle>System Engineer DACH</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/v7/mrl4x372t006pg8kkv7.jpg</CompanyImageURL>
+      <JobBrandingIcons>VIcon,PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>windows server</Skill>
+        <Skill>voice over ip</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>systems engineering</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Monotype GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H18S6M231TJHMRP7W</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Als weltweit führender Anbieter von Schriften, Technologie und Expertise und deren Umsetzung in print- sowie digitaler Form bietet Monotype Kunden in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H18S6M231TJHMRP7W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H18S6M231TJHMRP7W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Home Office im Ballungsgebiet München</Location>
+      <DisplayCity>Home Office im Ballungsgebiet München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H18S6M231TJHMRP7W</SimilarJobsURL>
+      <JobTitle>Sales Manager (m/w) im kreativen Technologieumfeld</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7W/M39834628JQC4K3D57W.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H79N69P71V0VP0KLC</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie sind für die Objektbearbeitung in der Arbeitsvorbereitung im Bereich Holz-Fenster und Holz-Alu-Fenster verantwortlich von der Auftragsübernahme...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H79N69P71V0VP0KLC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H79N69P71V0VP0KLC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.53657</LocationLatitude>
+      <LocationLongitude>12.15177</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H79N69P71V0VP0KLC</SimilarJobsURL>
+      <JobTitle>Holztechniker m|w für Objektbau/Fensterbau - Raum Landshut</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8836CCFDVX2RKMZJ</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Leitung von Baustellen (Radius 25 km um Dingolfing) Montage, Reparatur und Wartung von Kühl-, Kälte- und Klimaanlagen im privaten und gewerblichen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F8836CCFDVX2RKMZJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8836CCFDVX2RKMZJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dingolfing</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dingolfing</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.62897</LocationLatitude>
+      <LocationLongitude>12.49812</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8836CCFDVX2RKMZJ</SimilarJobsURL>
+      <JobTitle>Mechatroniker für Kältetechnik (m|w) - Dingolfing</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H847794MF4XJ3KLC2</DID>
+      <OnetCode>17-3023.03</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Inbetriebnahme bzw. Softwareerstellung von Steuerungsanlagen für die Getränkeindustrie, basierend auf SPS-Systemen von Siemens oder Allen-Bradley, bzw...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H847794MF4XJ3KLC2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H847794MF4XJ3KLC2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Passau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Passau</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.57317</LocationLatitude>
+      <LocationLongitude>13.45809</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H847794MF4XJ3KLC2</SimilarJobsURL>
+      <JobTitle>Ingenieur Elektrotechnik m|w - zur Inbetriebnahme von Anlagen der Lebensmittelindustrie</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5P8610X4GM65P03M</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Montage, Reparatur und Wartung von Kühl-, Kälte- und Klimaanlagen im privaten und gewerblichen Bereich Klimasplitanlagen VRF-Anlagen Berufsausbildung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5P8610X4GM65P03M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5P8610X4GM65P03M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dingolfing</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dingolfing</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.62897</LocationLatitude>
+      <LocationLongitude>12.49812</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5P8610X4GM65P03M</SimilarJobsURL>
+      <JobTitle>Kundendienstmonteur (m|w) Kälteanlagentechnik  - Dingolfing</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3J76LCJWLCVC5VN8</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie sind für die Objektbearbeitung in der Arbeitsvorbereitung im Bereich Holz-Fenster und Holz-Alu-Fenster verantwortlich von der Auftragsübernahme...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3J76LCJWLCVC5VN8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3J76LCJWLCVC5VN8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.53657</LocationLatitude>
+      <LocationLongitude>12.15177</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3J76LCJWLCVC5VN8</SimilarJobsURL>
+      <JobTitle>Ingenieur m|w Holztechnik für Objektbau/Fensterbau - Raum Landshut</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1G669MVBSDP3K76T</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie sind für die Objektbearbeitung in der Arbeitsvorbereitung im Bereich Holz-Fenster und Holz-Alu-Fenster verantwortlich von der Auftragsübernahme...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1G669MVBSDP3K76T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1G669MVBSDP3K76T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.53657</LocationLatitude>
+      <LocationLongitude>12.15177</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1G669MVBSDP3K76T</SimilarJobsURL>
+      <JobTitle>Schreinermeister m|w für Objektbau/Fensterbau - Raum Landshut</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0HT62D78QCP71S9H</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Montage, Reparatur und Wartung von Kühl-, Kälte- und Klimaanlagen im privaten und gewerblichen Bereich Klimasplitanlagen VRF-Anlagen Berufsausbildung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0HT62D78QCP71S9H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0HT62D78QCP71S9H&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dingolfing</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dingolfing</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.62897</LocationLatitude>
+      <LocationLongitude>12.49812</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0HT62D78QCP71S9H</SimilarJobsURL>
+      <JobTitle>Kälteanlagentechniker m|w - Dingolfing</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0LK6ZRL6X846Q7Y6</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Montage, Reparatur und Wartung von Kühl-, Kälte- und Klimaanlagen im privaten und gewerblichen Bereich Klimasplitanlagen VRF-Anlagen Berufsausbildung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0LK6ZRL6X846Q7Y6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0LK6ZRL6X846Q7Y6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dingolfing</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dingolfing</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.62897</LocationLatitude>
+      <LocationLongitude>12.49812</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:41:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0LK6ZRL6X846Q7Y6</SimilarJobsURL>
+      <JobTitle>Kälteanlagenbauer m|w - Dingolfing</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personalberatung by Experts</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G16K63KBFV0JYC3DJ</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie sind für die Objektbearbeitung in der Arbeitsvorbereitung im Bereich Holz-Fenster und Holz-Alu-Fenster verantwortlich von der Auftragsübernahme...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G16K63KBFV0JYC3DJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G16K63KBFV0JYC3DJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Landshut</Location>
+      <DisplayCity></DisplayCity>
+      <City>Landshut</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.53657</LocationLatitude>
+      <LocationLongitude>12.15177</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:40:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G16K63KBFV0JYC3DJ</SimilarJobsURL>
+      <JobTitle>Projektleitung für Objektbau/Fensterbau - Raum Landshut</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>P+Z Engineering GmbH</Company>
+      <CompanyDID>chs2cv5zmfjm7ds43nj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs2cv5zmfjm7ds43nj/p-z-engineering-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F59G6SNF8KM76BWR9</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>IHRE AUFGABEN Unterstützung bei der Entwicklung der Komponenten des Head-Up-Displays vor, während und nach der Serienentwicklung Terminliche und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F59G6SNF8KM76BWR9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F59G6SNF8KM76BWR9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity>Wolfsburg</DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:39:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F59G6SNF8KM76BWR9</SimilarJobsURL>
+      <JobTitle>Projektleiter Entwicklung/Erprobung Head-Up-Display (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0k/m0w0fn6x7k14nh7zv0k.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Head-up display</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>P+Z Engineering GmbH</Company>
+      <CompanyDID>chs2cv5zmfjm7ds43nj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs2cv5zmfjm7ds43nj/p-z-engineering-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F68Z6W2HGQM11C3Q0</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>IHRE AUFGABEN Planung und Beschaffung von Versuchsträgern sowie Steuerung der Kapazität von Versuchsanlagen Aufbereitung und Durchführung von Crash-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F68Z6W2HGQM11C3Q0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F68Z6W2HGQM11C3Q0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ingolstadt</Location>
+      <DisplayCity>Ingolstadt</DisplayCity>
+      <City>Ingolstadt</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.76236</LocationLatitude>
+      <LocationLongitude>11.42523</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:39:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F68Z6W2HGQM11C3Q0</SimilarJobsURL>
+      <JobTitle>Versuchsingenieur Schwerpunkt Insassenschutz Automotive (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0k/m0w0fn6x7k14nh7zv0k.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>P+Z Engineering GmbH</Company>
+      <CompanyDID>chs2cv5zmfjm7ds43nj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs2cv5zmfjm7ds43nj/p-z-engineering-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F11H6BH5MGT5QB985</DID>
+      <OnetCode>15-1032.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Systems Software</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben Ziel dieser Abschlussarbeit ist es, ein Konzept zu entwickeln, um verschiedene Komponenten auf ein Embedded-System zu laden. Dieses...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F11H6BH5MGT5QB985</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F11H6BH5MGT5QB985&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity>Stuttgart</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:39:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F11H6BH5MGT5QB985</SimilarJobsURL>
+      <JobTitle>Dynamisches Nachladen von Software-Komponenten in Steuergeräten</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0k/m0w0fn6x7k14nh7zv0k.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>application programming interface</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>P+Z Engineering GmbH</Company>
+      <CompanyDID>chs2cv5zmfjm7ds43nj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs2cv5zmfjm7ds43nj/p-z-engineering-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H53F792XYNSW5RMM4</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>IHRE AUFGABEN Betreuung der HMI-Entwicklung für den Bereich Interieur Cockpit Erstellung und Spezifikation der Bedienkonzepte Schnittstellenfunktion...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H53F792XYNSW5RMM4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H53F792XYNSW5RMM4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:39:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H53F792XYNSW5RMM4</SimilarJobsURL>
+      <JobTitle>HMI-Entwicklungsingenieur im Bereich Interieur Cockpit Automotive (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0k/m0w0fn6x7k14nh7zv0k.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>User interface design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>P+Z Engineering GmbH</Company>
+      <CompanyDID>chs2cv5zmfjm7ds43nj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs2cv5zmfjm7ds43nj/p-z-engineering-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F7WB77M32J7T8MTBB</DID>
+      <OnetCode>15-1032.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Systems Software</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben Ziel dieser Arbeit ist es, ein Konzept zu entwickeln, um unberechtigte Zugriffe auf die in embedded Geräten eingesetzte Software zu...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7WB77M32J7T8MTBB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7WB77M32J7T8MTBB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity>Stuttgart</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:39:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7WB77M32J7T8MTBB</SimilarJobsURL>
+      <JobTitle>Kryptographie für den Innovationsschutz im Embeddedbereich</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0k/m0w0fn6x7k14nh7zv0k.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c (programming language)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>P+Z Engineering GmbH</Company>
+      <CompanyDID>chs2cv5zmfjm7ds43nj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs2cv5zmfjm7ds43nj/p-z-engineering-gmbh/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H18M6BC0WVR7GCMSG</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben Als Fahrzeug-Konstrukteur Mittelkonsole(m/w) entwickeln Sie in Eigenverantwortung komplexe Bauteile und Baugruppen aus dem Bereich...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H18M6BC0WVR7GCMSG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H18M6BC0WVR7GCMSG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity>München</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:39:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H18M6BC0WVR7GCMSG</SimilarJobsURL>
+      <JobTitle>Fahrzeug-Konstrukteur Mittelkonsole (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0k/m0w0fn6x7k14nh7zv0k.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schneider Electric</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2NR76QG4CS9L052D</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Im Rahmen Ihrer Arbeit erweitern Sie ein bestehendes Software Test Framework mit der Möglichkeit, automatisiert Cyberangriffe und Netzwerkstörungen zu...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2NR76QG4CS9L052D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2NR76QG4CS9L052D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lahr</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lahr</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.33698</LocationLatitude>
+      <LocationLongitude>7.86226</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:32:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2NR76QG4CS9L052D</SimilarJobsURL>
+      <JobTitle>Praktikum/Abschlussarbeit Erstellung und Umsetzung eines Konzepts für automatische Cyber-Security Tests</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>internet explorer</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>software testing</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>tcl</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>computer security</Skill>
+        <Skill>http secure</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schneider Electric</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6FC6L21CKWHS5HR8</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>In komplexen Projekten ist es sehr wichtig, technische Anforderungen über ein Requirement Engineeringtool zu verfolgen. So kann sichergestellt werden...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6FC6L21CKWHS5HR8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6FC6L21CKWHS5HR8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lahr</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lahr</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.33698</LocationLatitude>
+      <LocationLongitude>7.86226</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:32:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6FC6L21CKWHS5HR8</SimilarJobsURL>
+      <JobTitle>Praktikum/AbschlussarbeitRequirements Engineering</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>mysql</Skill>
+        <Skill>microsoft excel</Skill>
+        <Skill>microsoft access</Skill>
+        <Skill>html</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>php</Skill>
+        <Skill>http secure</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schneider Electric</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6Q96JFJX3X5VBQKQ</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Zum weiteren Ausbau und zur Unterstützung der Metall- und Kunststofffertigung der Elso GmbH, als Teil des Konzerns Schneider Electric GmbH, suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6Q96JFJX3X5VBQKQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6Q96JFJX3X5VBQKQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sondershausen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sondershausen</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>51.36959</LocationLatitude>
+      <LocationLongitude>10.85776</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:32:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6Q96JFJX3X5VBQKQ</SimilarJobsURL>
+      <JobTitle>Werkzeugmechaniker m/w</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schneider Electric</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3ZM6SMR30YCQ21W8</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Zum weiteren Ausbau und zur Unterstützung der Metall- und Kunststofffertigung der Elso GmbH, als Teil des Konzerns Schneider Electric GmbH, suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3ZM6SMR30YCQ21W8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3ZM6SMR30YCQ21W8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sondershausen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sondershausen</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>51.36959</LocationLatitude>
+      <LocationLongitude>10.85776</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:31:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3ZM6SMR30YCQ21W8</SimilarJobsURL>
+      <JobTitle>Verfahrensmechaniker Kunststoff/ Kautschuk m/w</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bau &amp; Projektentwicklung</Company>
+      <CompanyDID>chs62x6bq824dfyg9bw</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs62x6bq824dfyg9bw/bau-projektentwicklung/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3YY6S1K9L7XMNFVV</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Unternehmen Die Firma Stehmeyer &amp; Bischoff ist seit vielen Jahren sehr erfolgreich in den Bereichen Heizung, Sanitär, Lüftung sowie regenerativer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3YY6S1K9L7XMNFVV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3YY6S1K9L7XMNFVV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bremen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bremen</City>
+      <State>BREMEN</State>
+      <LocationLatitude>53.07516</LocationLatitude>
+      <LocationLongitude>8.80466</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:31:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3YY6S1K9L7XMNFVV</SimilarJobsURL>
+      <JobTitle>Anlagenmechaniker (m/w) Sanitär, Heizung und Lüftung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PANALPINA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0MT5X44TL5RY0485</DID>
+      <OnetCode>43-5011.00</OnetCode>
+      <ONetFriendlyTitle>Cargo and Freight Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Job ID: 65659 Fachbereich: Cross-Product Functions Vollzeit / Teilzeit: Vollzeit Vetragsart: Dauerhaft Level: Auszubildende(r) / Student(in) /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0MT5X44TL5RY0485</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0MT5X44TL5RY0485&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main, Germany</Location>
+      <DisplayCity>Frankfurt am Main, Germany</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:29:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0MT5X44TL5RY0485</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) für Spedition und Logistikdienstleistung ab 03.08.2015</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PANALPINA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6TS6T2BM7VN75T32</DID>
+      <OnetCode>43-5011.00</OnetCode>
+      <ONetFriendlyTitle>Cargo and Freight Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Job ID: 65657 Fachbereich: Cross-Product Functions Vollzeit / Teilzeit: Vollzeit Vetragsart: Dauerhaft Level: Auszubildende(r) / Student(in) /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6TS6T2BM7VN75T32</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6TS6T2BM7VN75T32&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kassel, Germany</Location>
+      <DisplayCity>Kassel, Germany</DisplayCity>
+      <City>Kassel</City>
+      <State>HESSEN</State>
+      <LocationLatitude>51.31176</LocationLatitude>
+      <LocationLongitude>9.49119</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:29:05 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6TS6T2BM7VN75T32</SimilarJobsURL>
+      <JobTitle>KSF- Ausbildung zum Kaufmann (m/w) für Spedition und Logistikdienstleistung ab 03.08.2015</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PANALPINA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G19V75GQZHGGGLM7L</DID>
+      <OnetCode>43-5011.01</OnetCode>
+      <ONetFriendlyTitle>Freight Forwarders</ONetFriendlyTitle>
+      <DescriptionTeaser>Job ID: 65656 Fachbereich: Cross-Product Functions Vollzeit / Teilzeit: Vollzeit Vetragsart: Dauerhaft Level: Auszubildende(r) / Student(in) /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G19V75GQZHGGGLM7L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G19V75GQZHGGGLM7L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mannheim, Germany</Location>
+      <DisplayCity>Mannheim, Germany</DisplayCity>
+      <City>Mannheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.48651</LocationLatitude>
+      <LocationLongitude>8.46678</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:29:05 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G19V75GQZHGGGLM7L</SimilarJobsURL>
+      <JobTitle>MHG-Ausbildung zum Kaufmann (m/w) für Spedition und Logistikdienstleistung ab 03.08.2015</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PANALPINA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7GY5ZRP0DGS404RX</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Job ID: 65709 Fachbereich: IT Vollzeit / Teilzeit: Vollzeit Vetragsart: Dauerhaft Level: Spezialist Standort: Nürnberg, Prag oder Eindhoven...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7GY5ZRP0DGS404RX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7GY5ZRP0DGS404RX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nuremberg, Germany</Location>
+      <DisplayCity>Nuremberg, Germany</DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:29:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7GY5ZRP0DGS404RX</SimilarJobsURL>
+      <JobTitle>Regional IT Business Solutions Warehouse Systems Consultant Europe (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PANALPINA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6GT6V92LD4T7PYQG</DID>
+      <OnetCode>43-5011.01</OnetCode>
+      <ONetFriendlyTitle>Freight Forwarders</ONetFriendlyTitle>
+      <DescriptionTeaser>Job ID: 65658 Fachbereich: Cross-Product Functions Vollzeit / Teilzeit: Vollzeit Vetragsart: Dauerhaft Level: Auszubildende(r) / Student(in) /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6GT6V92LD4T7PYQG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6GT6V92LD4T7PYQG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main, Germany</Location>
+      <DisplayCity>Frankfurt am Main, Germany</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:29:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6GT6V92LD4T7PYQG</SimilarJobsURL>
+      <JobTitle>Ausbildung Bachelor of Arts (BA) Fachrichtung Spedition, Transport und Logistik ab 01.07.2015</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PANALPINA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6J378SQWXV1D6L7Q</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Job ID: 65660 Fachbereich: Logistics Vollzeit / Teilzeit: Vollzeit Vetragsart: Dauerhaft Level: Auszubildende(r) / Student(in) / Praktikant(in) /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6J378SQWXV1D6L7Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6J378SQWXV1D6L7Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main, Germany</Location>
+      <DisplayCity>Frankfurt am Main, Germany</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:29:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6J378SQWXV1D6L7Q</SimilarJobsURL>
+      <JobTitle>Ausbildung zur Fachkraft für Lagerlogistik (m/w) ab 03.08.2015</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L1YN5ZH57QYPV8XDS</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L1YN5ZH57QYPV8XDS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1YN5ZH57QYPV8XDS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Freiburg im Breisgau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.99854</LocationLatitude>
+      <LocationLongitude>7.84965</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1YN5ZH57QYPV8XDS</SimilarJobsURL>
+      <JobTitle>Sales Assistant (m/w) Freiburg Teilzeit/Aushilfe</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3B06VM190JYW0BGX</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3B06VM190JYW0BGX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3B06VM190JYW0BGX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erlangen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erlangen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.59795</LocationLatitude>
+      <LocationLongitude>11.00258</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3B06VM190JYW0BGX</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w) Erlangen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2NY6RYXV1TFMSNRP</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2NY6RYXV1TFMSNRP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2NY6RYXV1TFMSNRP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ulm</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neu-Ulm</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.39578</LocationLatitude>
+      <LocationLongitude>10.001</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2NY6RYXV1TFMSNRP</SimilarJobsURL>
+      <JobTitle>Sales Assistant (m/w) Neu-Ulm - Vollzeit/Teilzeit/Aushilfe</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1HM6HPT13KJKYR3J</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1HM6HPT13KJKYR3J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1HM6HPT13KJKYR3J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fürth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fürth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4832</LocationLatitude>
+      <LocationLongitude>10.973</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1HM6HPT13KJKYR3J</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w) Fürth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5YH6WKC93Q6R8Z4M</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G5YH6WKC93Q6R8Z4M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5YH6WKC93Q6R8Z4M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fürth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fürth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4832</LocationLatitude>
+      <LocationLongitude>10.973</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5YH6WKC93Q6R8Z4M</SimilarJobsURL>
+      <JobTitle>Assistant Store Manager (m/w) Fürth</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L7J266ZX2NYBNRQJB</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L7J266ZX2NYBNRQJB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7J266ZX2NYBNRQJB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fürth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fürth</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.4832</LocationLatitude>
+      <LocationLongitude>10.973</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7J266ZX2NYBNRQJB</SimilarJobsURL>
+      <JobTitle>Sales Assistant (m/w) Fürth Voll- und Teilzeit</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F28Z6VB54JRS4JRQT</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F28Z6VB54JRS4JRQT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F28Z6VB54JRS4JRQT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Trier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Trier</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.75725</LocationLatitude>
+      <LocationLongitude>6.63652</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:26:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F28Z6VB54JRS4JRQT</SimilarJobsURL>
+      <JobTitle>Sales Assistant (m/w) Trier Teilzeit/Aushilfe</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4PV6FVDFRT8QP3MP</DID>
+      <OnetCode>41-2022.00</OnetCode>
+      <ONetFriendlyTitle>Parts Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4PV6FVDFRT8QP3MP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4PV6FVDFRT8QP3MP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erlangen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erlangen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.59795</LocationLatitude>
+      <LocationLongitude>11.00258</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:25:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4PV6FVDFRT8QP3MP</SimilarJobsURL>
+      <JobTitle>Sales Assistant (m/w) Erlangen Voll- und Teilzeit</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F6TN62M37VLKF79MM</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6TN62M37VLKF79MM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6TN62M37VLKF79MM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ulm</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neu-Ulm</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.39578</LocationLatitude>
+      <LocationLongitude>10.001</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:25:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6TN62M37VLKF79MM</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w) Neu-Ulm Glacis Galerie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H02R65NYH244NJ5SQ</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H02R65NYH244NJ5SQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H02R65NYH244NJ5SQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Erlangen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Erlangen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.59795</LocationLatitude>
+      <LocationLongitude>11.00258</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:25:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H02R65NYH244NJ5SQ</SimilarJobsURL>
+      <JobTitle>Assistant Store Manager (m/w) Erlangen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Desigual</Company>
+      <CompanyDID>chq4qk61ncgwndwnqm5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chq4qk61ncgwndwnqm5/desigual/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F6BY6B7MQKKFDQJ15</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Du bist anders. Unser Projekt ebenfalls. Unser Geheimnis: Wir glauben an „LA VIDA ES CHULA“. Unser Unternehmen, das vor gut zwanzig Jahren von dem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F6BY6B7MQKKFDQJ15</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6BY6B7MQKKFDQJ15&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:25:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6BY6B7MQKKFDQJ15</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w) München Flughafen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/M0W66R75HLTSS1QJ0YV.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8FG5WWTHKTPCJTPZ</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Sales Advisor (m/w) Type: Teilzeit Location: Nürnberg, Bayern Suchst Du einen neuen Job in dem Mode, Spaß und Action an erster Stelle stehen?...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H8FG5WWTHKTPCJTPZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8FG5WWTHKTPCJTPZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8FG5WWTHKTPCJTPZ</SimilarJobsURL>
+      <JobTitle>Sales Advisor (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5MF60JYVXW51MC94</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Sales Advisor (m/w) auf flexibler Stundenbasis Type: Teilzeit Location: Ludwigsburg, Baden Württemberg Suchst Du einen neuen Job in dem Mode,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G5MF60JYVXW51MC94</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5MF60JYVXW51MC94&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ludwigsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ludwigsburg</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.89417</LocationLatitude>
+      <LocationLongitude>9.19187</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5MF60JYVXW51MC94</SimilarJobsURL>
+      <JobTitle>Sales Advisor (m/w) auf flexibler Stundenbasis</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K25K6HXDLV36FVHFW</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Store Manager (m/w) Weiden Type: Vollzeit Location: Weiden, Bayern Suchst Du einen neuen Job in dem Mode, Spaß und Action an erster Stelle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K25K6HXDLV36FVHFW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K25K6HXDLV36FVHFW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Weiden</Location>
+      <DisplayCity></DisplayCity>
+      <City>Weiden</City>
+      <State>BAYERN</State>
+      <LocationLatitude>50.9333</LocationLatitude>
+      <LocationLongitude>6.83333</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K25K6HXDLV36FVHFW</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w) Weiden</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4WP6GX2WKC8HCWBV</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Sales Advisor (m/w) auf flexibler Stundenbasis Type: Teilzeit Location: Reutlingen, Baden Württemberg Suchst Du einen neuen Job in dem Mode,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4WP6GX2WKC8HCWBV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4WP6GX2WKC8HCWBV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reutlingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reutlingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.49159</LocationLatitude>
+      <LocationLongitude>9.21487</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:03 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4WP6GX2WKC8HCWBV</SimilarJobsURL>
+      <JobTitle>Sales Advisor (m/w) auf flexibler Stundenbasis</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2GT5YG5131Q3753G</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Sales Advisor (m/w) auf flexibler Stundenbasis Type: Teilzeit Location: Konstanz, Baden Württemberg Wir suchen für unsere Filiale in Konstanz...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2GT5YG5131Q3753G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2GT5YG5131Q3753G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Konstanz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Konstanz</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.66385</LocationLatitude>
+      <LocationLongitude>9.17758</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2GT5YG5131Q3753G</SimilarJobsURL>
+      <JobTitle>Sales Advisor (m/w) auf flexibler Stundenbasis</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L09F61XHCF3F9V6NV</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Store Manager (m/w) Type: Vollzeit Location: Schwabach, Bayern Suchst Du einen neuen Job in dem Mode, Spaß und Action an erster Stelle stehen?...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L09F61XHCF3F9V6NV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L09F61XHCF3F9V6NV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Schwabach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Schwabach</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.3291</LocationLatitude>
+      <LocationLongitude>11.02269</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L09F61XHCF3F9V6NV</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>H&amp;M</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F78X6S9SQ8V03J6Z8</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Title: Store Manager (m/w) Type: Vollzeit Location: Neumarkt, Bayern Suchst Du einen neuen Job in dem Mode, Spaß und Action an erster Stelle stehen?...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F78X6S9SQ8V03J6Z8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F78X6S9SQ8V03J6Z8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neumarkt in der Oberpfalz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neumarkt in der Oberpfalz</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.27792</LocationLatitude>
+      <LocationLongitude>11.45997</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:24:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F78X6S9SQ8V03J6Z8</SimilarJobsURL>
+      <JobTitle>Store Manager (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C6/M0V1LF5VT1BG9D5L6C6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H10Y5W91GJ1WLK3Z8</DID>
+      <OnetCode>43-5071.00</OnetCode>
+      <ONetFriendlyTitle>Shipping, Receiving, and Traffic Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Festlegen der Versandart,Verpackungsart und des Versandumfang im Rahmen der vorgegebenenRichtlinien Abwicklung von nationalenTransportaufträgen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H10Y5W91GJ1WLK3Z8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H10Y5W91GJ1WLK3Z8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H10Y5W91GJ1WLK3Z8</SimilarJobsURL>
+      <JobTitle>Versandsachbearbeiter (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F51N6N846TN9033GJ</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Unterstützung des Project Procurement Managements in der Zusammenarbeit mit zur Organisation gehörenden Procurement Centern Anlegen, Weiterleiten und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F51N6N846TN9033GJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F51N6N846TN9033GJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F51N6N846TN9033GJ</SimilarJobsURL>
+      <JobTitle>Project Procurement Team Assistant (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Procurement</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7QF6L27TGPWZFL87</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Erstellungvon Anfragen Auswahlund Beurteilung von Lieferanten Preis-und Konditionsverhandlungen mit Lieferanten Einkaufvon Produktionsmaterialien und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7QF6L27TGPWZFL87</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7QF6L27TGPWZFL87&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7QF6L27TGPWZFL87</SimilarJobsURL>
+      <JobTitle>Technischer Einkäufer (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F589763FFZR3YB3K9</DID>
+      <OnetCode>13-1051.00</OnetCode>
+      <ONetFriendlyTitle>Cost Estimators</ONetFriendlyTitle>
+      <DescriptionTeaser>Abschätzung der Construction – Kosten, als Grundlage dient die Bill of Quantity Vorbereiten und versenden von Angebotsanfragen an Subunternehmer und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F589763FFZR3YB3K9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F589763FFZR3YB3K9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F589763FFZR3YB3K9</SimilarJobsURL>
+      <JobTitle>Cost Estimator (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Estimator</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7J075CBKH54QK03F</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>verantwortliche Prüfung und Buchung von Zu- und Abgängen, sowie Umbuchungen (IFRS und HGB) in SAP FI Anlagenstammdaten anlagen und pflegen (SAP AA)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G7J075CBKH54QK03F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7J075CBKH54QK03F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7J075CBKH54QK03F</SimilarJobsURL>
+      <JobTitle>Anlagenbuchhalter/-in</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Capital expenditure</Skill>
+        <Skill>International Financial Reporting Standards</Skill>
+        <Skill>SAP ERP</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2W66PRFBF5QY6YSW</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Administrativ Fachliche und personelle Führung der Abteilung Einhaltung und Durchsetzung von Gesetzen, Normen und Vorschriften Sicherstellung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2W66PRFBF5QY6YSW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2W66PRFBF5QY6YSW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2W66PRFBF5QY6YSW</SimilarJobsURL>
+      <JobTitle>Leiter Produktsupport für Videomanagement- und Videoanalysesoftware (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2W378GRWDR2DYTGV</DID>
+      <OnetCode>13-1199.03</OnetCode>
+      <ONetFriendlyTitle>Customs Brokers</ONetFriendlyTitle>
+      <DescriptionTeaser>Auftragserfassung und –abwicklung Kundenbetreuung/-beratung Kommunikation mit Zollämtern und Speditionen Dokumentation und Bearbeitung von Versand-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2W378GRWDR2DYTGV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2W378GRWDR2DYTGV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2W378GRWDR2DYTGV</SimilarJobsURL>
+      <JobTitle>Exportsachbearbeiter (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4ZD65P61WFJXFPKF</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Einbau und Montage großer Kälte- und Klimaanlagen beim Kunden vor Ort Fertigung von Bauteilen und ggfs. Vormontage in der Werkstatt Anlagen auf...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4ZD65P61WFJXFPKF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4ZD65P61WFJXFPKF&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>89073</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ulm</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.4022</LocationLatitude>
+      <LocationLongitude>10.0005</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:49 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4ZD65P61WFJXFPKF</SimilarJobsURL>
+      <JobTitle>Mechatroniker - Kälte- und Klimatechnik (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5LY6WG9NWLB2695Z</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ständige Analyse im entsprechenden Feld von erweiterten und innovativen Produkt- und Komponentenkonzepten im Hinblick auf ihre Verwendbarkeit in der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G5LY6WG9NWLB2695Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5LY6WG9NWLB2695Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5LY6WG9NWLB2695Z</SimilarJobsURL>
+      <JobTitle>Engineer Components &amp; Products (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Procedural knowledge</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G42Z65NWR4P0NS2K6</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Analyse, Entwicklung, Einführung und Support von SAP-Anwendungen basierend auf den SAP Modulen SAP WM/MM/LES Definition, Konzeption und Einführung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G42Z65NWR4P0NS2K6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G42Z65NWR4P0NS2K6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:47 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G42Z65NWR4P0NS2K6</SimilarJobsURL>
+      <JobTitle>SAP Consultant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>SAP WM</Skill>
+        <Skill>abap</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3KH74Q7GZ8F060WQ</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Bearbeitung von 2nd / 3rd Level Supportanfragen Beratung von internationalen Partnern bei technischen Fragen Planung, Durchführung und Auswertung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3KH74Q7GZ8F060WQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3KH74Q7GZ8F060WQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3KH74Q7GZ8F060WQ</SimilarJobsURL>
+      <JobTitle>IT-Techniker im Produktsupport von Videomanagementsystemen (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3M1720XDC6G2GVZN</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Erledigung aller Assistenzaufgaben (Postein- und ausgang, Telefon) Koordination von Terminen und Besucherbetreuung Reisekostenabrechnung mit SAP...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3M1720XDC6G2GVZN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3M1720XDC6G2GVZN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3M1720XDC6G2GVZN</SimilarJobsURL>
+      <JobTitle>Teamassistenz (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7QK6T5LPYFPTK7RK</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Selbstständige Führung und Organisa­tion desGeschäftsführungssekretariats Unterstützung der Geschäftsführung in operativen und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7QK6T5LPYFPTK7RK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7QK6T5LPYFPTK7RK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7QK6T5LPYFPTK7RK</SimilarJobsURL>
+      <JobTitle>Assistenz der Geschäftsleitung (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6ZC6452G188CX11N</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Verwaltung des Anlagevermögens nach HGB und US-GAAP Erstellung der Monats-, Quartals- und Jahresabschlüsse Verbuchung von Geschäftsvorfällen (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6ZC6452G188CX11N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6ZC6452G188CX11N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6ZC6452G188CX11N</SimilarJobsURL>
+      <JobTitle>Bilanzbuchhalter (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP R/3</Skill>
+        <Skill>GAAP</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G17Q6ZXD120P9RHB1</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Eigenverantwortliche und vorausschauende Organisation desSekretariats Erledigung der Korrespondenz in deutscher und in englischerSprache...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G17Q6ZXD120P9RHB1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G17Q6ZXD120P9RHB1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G17Q6ZXD120P9RHB1</SimilarJobsURL>
+      <JobTitle>Fremdsprachensekretär (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G85D5Z5HVX20ZW0GL</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Erledigen der Korrespondenz Empfang und Betreuung von Gästen Annahme und Weiterleitung vonTelefonaten Planung und Organisation von Terminen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G85D5Z5HVX20ZW0GL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G85D5Z5HVX20ZW0GL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G85D5Z5HVX20ZW0GL</SimilarJobsURL>
+      <JobTitle>Teamassistent (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6HX6PFC766BDR2VX</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Neukundengewinnung Leadgenerierung für Produkte und Dienstleistungen Betreuung von Bestandskunden Telefonische Beratung und Verkauf Abgeschlossene...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6HX6PFC766BDR2VX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6HX6PFC766BDR2VX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6HX6PFC766BDR2VX</SimilarJobsURL>
+      <JobTitle>TeleMarketing-/TeleSales Profis (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Telemarketing</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3LN6428D02G8PR08</DID>
+      <OnetCode>43-4151.00</OnetCode>
+      <ONetFriendlyTitle>Order Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Auftragsannahme und deren Erfassung von Aufträgen Telefonische Kundenberatung und -betreuung Erstellen und verfolgen von Bestellanforderungen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3LN6428D02G8PR08</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3LN6428D02G8PR08&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3LN6428D02G8PR08</SimilarJobsURL>
+      <JobTitle>Auftragssachbearbeiter (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8135ZDPWWZFPW7MR</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Terminverfolgung von Angeboten Einholen von Auftragsbestätigungen und deren datentechnische Verwaltung im SAP-MM System Mitarbeit bei internen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H8135ZDPWWZFPW7MR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8135ZDPWWZFPW7MR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8135ZDPWWZFPW7MR</SimilarJobsURL>
+      <JobTitle>Einkäufer Bulk Materials (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Procurement</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G74W6JDSM97QPYJ0L</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Bewerten und lesen von Bautagesberichten (Leistungen dievon Monteuren am Tag erbracht worden sind) Bauleistungen und Material selbständig erfassen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G74W6JDSM97QPYJ0L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G74W6JDSM97QPYJ0L&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G74W6JDSM97QPYJ0L</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter Rechnungswesen (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J58G5W041987DJNWY</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie sind verantwortlich für die verkaufs­fördernde Gestaltung am Point ofSale Sie wirken bei der visuellen Steuerung des Verkaufs im Bereich...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J58G5W041987DJNWY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J58G5W041987DJNWY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J58G5W041987DJNWY</SimilarJobsURL>
+      <JobTitle>Supervisor Visual Merchandising Hardgoods (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Visual merchandising</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H61064D9ZDF04VGPQ</DID>
+      <OnetCode>43-9061.00</OnetCode>
+      <ONetFriendlyTitle>Office Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Bearbeiten der Kundenbestellungen Korrespondenz mit Lieferanten Angebotserstellung Überwachung der Bestellungen (Lieferfristen, Lieferverzug,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H61064D9ZDF04VGPQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H61064D9ZDF04VGPQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H61064D9ZDF04VGPQ</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter Einkauf (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4126KRQ47V3LMFFR</DID>
+      <OnetCode>13-1071.02</OnetCode>
+      <ONetFriendlyTitle>Personnel Recruiters</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie übernehmen das proaktive Recruiting von geeigneten und qualifizierten Mitarbeitern durch Nutzung verschiedener Rekrutierungskanäle Sie analysieren...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4126KRQ47V3LMFFR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4126KRQ47V3LMFFR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4126KRQ47V3LMFFR</SimilarJobsURL>
+      <JobTitle>Recruiter-Assistenz für unseren Onsite-Manager (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G21Q5YP3MMJ5P5C7C</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Planung, Steuerung und Optimierung des Einkaufs in definiertenProduktbereichen Ansprechpartner in allen Fragen des Einkaufsmanagements Führen von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G21Q5YP3MMJ5P5C7C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G21Q5YP3MMJ5P5C7C&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G21Q5YP3MMJ5P5C7C</SimilarJobsURL>
+      <JobTitle>Einkäufer (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7Q673V46QWWR9C6V</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Entwicklung,Planung und Realisierung von Steuerungskonzepten für Montage- und Prüfanlagensowie der Inhouse-Vernetzung Prüfungauf optimale...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7Q673V46QWWR9C6V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7Q673V46QWWR9C6V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7Q673V46QWWR9C6V</SimilarJobsURL>
+      <JobTitle>Prozessplaner (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Open Grid Forum</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1H365S83T6Z9V9M6</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>First Level Support im Hardware- und Softwarebereich Annahme und Bearbeitung von Störungsmeldungen per Telefon und Helpdesk System von allen LE-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1H365S83T6Z9V9M6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1H365S83T6Z9V9M6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1H365S83T6Z9V9M6</SimilarJobsURL>
+      <JobTitle>Mitarbeiter im IT Benutzerservice / Hotline (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>lotus notes</Skill>
+        <Skill>windows 7</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>ios</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J82775DKR0SPPR5PQ</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>fachliche Berichterstattung an den Project Logistics Manager Beachtung und Einhaltung der projektbezogenen Abwicklungsrichtlinien Handhaben von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J82775DKR0SPPR5PQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J82775DKR0SPPR5PQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J82775DKR0SPPR5PQ</SimilarJobsURL>
+      <JobTitle>Project Logistics Coordinator (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4TZ68CVL5CSGDQC3</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Erstellen von Arbeitsverträgen, Vertragsänderungen und Zeugnissen Datenpflege in der Zeitwirtschaft Führen und pflegen der Personalakten Erstellung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4TZ68CVL5CSGDQC3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4TZ68CVL5CSGDQC3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4TZ68CVL5CSGDQC3</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter Personal (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H30S6BL3QQNQ2ZW0B</DID>
+      <OnetCode>27-1026.00</OnetCode>
+      <ONetFriendlyTitle>Merchandise Displayers and Window Trimmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sie sind verantwortlich für die verkaufs­fördernde Gestaltung am Point ofSale Sie wirken bei der visuellen Steuerung des Verkaufs im Bereich...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H30S6BL3QQNQ2ZW0B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H30S6BL3QQNQ2ZW0B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:41 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H30S6BL3QQNQ2ZW0B</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Visual Merchandising (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7SN5YJC9TGP8PJ68</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Erfassungder Bankein- und Ausgangszahlungen Überwachung und Verbuchung von Zahlungseingängen Prüfenund Erstellen von Ausgangsrechnungen Mahnwesen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7SN5YJC9TGP8PJ68</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7SN5YJC9TGP8PJ68&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7SN5YJC9TGP8PJ68</SimilarJobsURL>
+      <JobTitle>Debitorenbuchhalter (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>HKW Personal Konzepte</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2VM6H9SFVND7GYJV</DID>
+      <OnetCode>27-3042.00</OnetCode>
+      <ONetFriendlyTitle>Technical Writers</ONetFriendlyTitle>
+      <DescriptionTeaser>Erstellung von technischer Dokumentation (Beschreibung,Bedienung, Instandsetzung) Gestaltung von Texten inklusive Fotos Überprüfung der Dokumentation...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2VM6H9SFVND7GYJV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2VM6H9SFVND7GYJV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München-80331</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2VM6H9SFVND7GYJV</SimilarJobsURL>
+      <JobTitle>Technischer Redakteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

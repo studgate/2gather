@@ -6,12 +6,14 @@ var xmldoc = require('xmldoc');
 var fs = require('fs');
 
 var totalJobsForProvider = -1;
-var currPageNumber = 200;  //Needs to be updated in each execution, the API has limits :(
+var currPageNumber = 1;  //Needs to be updated in each execution, the API has limits :(
 
 var jobCount = 0; //configs.resultsPerPage * currPageNumber;  WHY THERE IS NO VOLATILE VARs IN HERE ?
 
+var hostSite = "US";
+
 function sendRequest(pageIndex, cb){
-  var requestParams = { DeveloperKey:configs.apiKey, HostSite:'UK', PageNumber:  pageIndex, PerPage: configs.resultsPerPage };
+  var requestParams = { DeveloperKey:configs.apiKey, HostSite:hostSite, PageNumber:  pageIndex, PerPage: configs.resultsPerPage };
   request(
   { 
     method: 'GET',
@@ -26,7 +28,7 @@ function sendRequest(pageIndex, cb){
 
     if (totalJobsForProvider == -1)
     {
-      console.log("First request. Updating total jobs available for current provider (%s)", "UK");
+      console.log("First request. Updating total jobs available for current provider (%s)", hostSite);
 
       var results = new xmldoc.XmlDocument(body);
     
@@ -35,7 +37,7 @@ function sendRequest(pageIndex, cb){
       console.log("Total job count updated to %d", totalJobsForProvider);
     }
 
-    fs.writeFile("./raw/raw" + pageIndex + ".dat", body, function(err) {
+    fs.writeFile("./raw/" + hostSite + "/raw" + pageIndex + ".dat", body, function(err) {
     if(err) 
     {
         cb(err,pageIndex);

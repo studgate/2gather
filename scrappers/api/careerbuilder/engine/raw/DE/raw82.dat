@@ -1,0 +1,3428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 11:58:53 AM</TimeResponseSent>
+  <TimeElapsed>0.468003</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37227</TotalCount>
+  <FirstItemIndex>8101</FirstItemIndex>
+  <LastItemIndex>8200</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5LS68G23L83LFL2F</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Stuttgart suchen wir zum nächstmöglichen Zeitpunkt Resident Engineer konstruktive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5LS68G23L83LFL2F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5LS68G23L83LFL2F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5LS68G23L83LFL2F</SimilarJobsURL>
+      <JobTitle>Resident Engineer konstruktive Entwicklung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1NT63SX6V2X9Q875</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Stuttgart suchen wir zum nächstmöglichen Zeitpunkt CAD Konstrukteur Interieur (m/w...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1NT63SX6V2X9Q875</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1NT63SX6V2X9Q875&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1NT63SX6V2X9Q875</SimilarJobsURL>
+      <JobTitle>CAD Konstrukteur Interieur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2XY6961RB1KHV76G</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Benteler Engineering Services sucht am Standort Wolfsburg einen Ingenieur (m/w) Elektrotechnik E-Mobilität Wenn Sie denken, Sie sind anders, sind Sie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2XY6961RB1KHV76G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2XY6961RB1KHV76G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2XY6961RB1KHV76G</SimilarJobsURL>
+      <JobTitle>Ingenieur (m/w) Elektrotechnik Elektromobilität</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5L05ZPYTF7GV0WDC</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Benteler Engineering Services sucht am Standort Wolfsburg einen Testingenieur (m/w) Elektrotechnik / Mechatronik Bodycontroller &amp; Komfortelektronik...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5L05ZPYTF7GV0WDC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5L05ZPYTF7GV0WDC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5L05ZPYTF7GV0WDC</SimilarJobsURL>
+      <JobTitle>Testingenieur (m/w) Elektrotechnik/ Mechatronik Bodycontroller</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internet Explorer</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2V663ZPNTV6TXF8G</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2V663ZPNTV6TXF8G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2V663ZPNTV6TXF8G&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2V663ZPNTV6TXF8G</SimilarJobsURL>
+      <JobTitle>Supply Chain Planner (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6Z46V8WP8GMCGK9Z</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6Z46V8WP8GMCGK9Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6Z46V8WP8GMCGK9Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6Z46V8WP8GMCGK9Z</SimilarJobsURL>
+      <JobTitle>Projektleiter (m/w) für die Customer Line GM</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1XR77Y4C7X4TXFV8</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln/Bonn suchen wir ab sofort Projektingenieure (m/w) Fahrwerkselektronik Lenkung/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1XR77Y4C7X4TXFV8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1XR77Y4C7X4TXFV8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1XR77Y4C7X4TXFV8</SimilarJobsURL>
+      <JobTitle>Projektingenieure (m/w) Fahrwerkselektronik Lenkung/Federung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5P66CM6FY47XWR4W</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5P66CM6FY47XWR4W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5P66CM6FY47XWR4W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5P66CM6FY47XWR4W</SimilarJobsURL>
+      <JobTitle>Bauingenieur/in und Architekt/in (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F40B74KC1TZG9Y6XH</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für die Abteilung Forschung und Entwicklung suchen wir zum nächstmöglichen Zeitpunkt einen Projektingenieur Aluminiumexperte F&amp;E (m/w) mit den...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F40B74KC1TZG9Y6XH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F40B74KC1TZG9Y6XH&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F40B74KC1TZG9Y6XH</SimilarJobsURL>
+      <JobTitle>Projektingenieur Aluminiumexperte F&amp;E (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2H86TZSR4G0T0ZP8</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2H86TZSR4G0T0ZP8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2H86TZSR4G0T0ZP8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2H86TZSR4G0T0ZP8</SimilarJobsURL>
+      <JobTitle>Business Application Expert (m/w) befristet</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>abap</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4SC6LFLMC3N3J610</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Geschäftsbereich Automobiltechnik suchen wir für unseren Standort Saarlouis zum 01.09.2015 einen Auszubildenden zum Industriemechaniker (m...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4SC6LFLMC3N3J610</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4SC6LFLMC3N3J610&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saarlouis</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saarlouis</City>
+      <State>SAARLAND</State>
+      <LocationLatitude>49.3158</LocationLatitude>
+      <LocationLongitude>6.75018</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:19:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4SC6LFLMC3N3J610</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Industriemechaniker 2015 (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1146CSP9V5GL1Z09</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1146CSP9V5GL1Z09</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1146CSP9V5GL1Z09&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1146CSP9V5GL1Z09</SimilarJobsURL>
+      <JobTitle>Leiter Global Corporate Real Estate Management (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H81P5W4F7BND5M5L1</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H81P5W4F7BND5M5L1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H81P5W4F7BND5M5L1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H81P5W4F7BND5M5L1</SimilarJobsURL>
+      <JobTitle>Bereichsleiter (m/w) Entwicklung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3DW6QDN4HXH65BP9</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Stuttgart suchen wir ab sofort Projektingenieure (m/w) Aufgabenbereich: Leitung und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3DW6QDN4HXH65BP9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3DW6QDN4HXH65BP9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3DW6QDN4HXH65BP9</SimilarJobsURL>
+      <JobTitle>Projektingenieur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5H760LPXJDQDZ85K</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen zum nächstmöglichen Zeitpunkt einen Director Global Warranty &amp; Risk Management mit den folgenden Aufgaben: Leitung des Warranty Teams (auch...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J5H760LPXJDQDZ85K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5H760LPXJDQDZ85K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5H760LPXJDQDZ85K</SimilarJobsURL>
+      <JobTitle>Director Global Warranty &amp; Risk Management (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F60B6GDJK5Q2DG7XK</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services im Raum Köln/Bonn suchen wir ab sofort CAD Designer CATIA (m/w) Aufgabenbereich Erstellung und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F60B6GDJK5Q2DG7XK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F60B6GDJK5Q2DG7XK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:36 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F60B6GDJK5Q2DG7XK</SimilarJobsURL>
+      <JobTitle>CAD Designer CATIA (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F88W65L5T3QBG86C3</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln suchen wir ab sofort Ingenieure Fahrzeugentwicklung (m/w) für die Bereiche...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F88W65L5T3QBG86C3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F88W65L5T3QBG86C3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:35 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F88W65L5T3QBG86C3</SimilarJobsURL>
+      <JobTitle>Ingenieur Fahrzeugentwicklung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2HW63MPK247LC3MC</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2HW63MPK247LC3MC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2HW63MPK247LC3MC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2HW63MPK247LC3MC</SimilarJobsURL>
+      <JobTitle>Business Application Expert (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>abap</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6ZD5Y1C440C8X459</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen zum nächstmöglichen Zeitpunkt einen Business Application Expert (m/w) mit folgendem Aufgabengebiet: Beratung des Kunden im Projekt- und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6ZD5Y1C440C8X459</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6ZD5Y1C440C8X459&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6ZD5Y1C440C8X459</SimilarJobsURL>
+      <JobTitle>Business Application Expert (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sap erp</Skill>
+        <Skill>SAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1QG79HCKR4P1L1F5</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Diverse Abteilungsbereiche: Service-und Projektmanagement - Projektleitung/ Unterstützung in IT Projekten - Service Management für IT Services -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1QG79HCKR4P1L1F5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1QG79HCKR4P1L1F5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1QG79HCKR4P1L1F5</SimilarJobsURL>
+      <JobTitle>Praktikant (m/w)für die zentrale IT</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business Intelligence</Skill>
+        <Skill>SAP</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>identity management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6756MXZ9B0Q92YTK</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6756MXZ9B0Q92YTK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6756MXZ9B0Q92YTK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6756MXZ9B0Q92YTK</SimilarJobsURL>
+      <JobTitle>Ingenieur (m/w) Komponenten-Integration Fahrzeugelektronik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6JS73427W1NZTNB3</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen zum nächstmöglichen Zeitpunkt einen Senior Werkscontroller (m/w) mit folgendem Aufgabengebiet: Leitung des Controllings in den Werken...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6JS73427W1NZTNB3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6JS73427W1NZTNB3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dinslaken</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dinslaken</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.5618</LocationLatitude>
+      <LocationLongitude>6.73175</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6JS73427W1NZTNB3</SimilarJobsURL>
+      <JobTitle>Senior Werkscontroller (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0HP610NQJMKPB9X5</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services an den Standorten Bremen/Bremerhaven suchen wir zum nächstmöglichen Zeitpunkt: Konstrukteure (m...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0HP610NQJMKPB9X5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0HP610NQJMKPB9X5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bremen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bremen</City>
+      <State>BREMEN</State>
+      <LocationLatitude>53.07516</LocationLatitude>
+      <LocationLongitude>8.80466</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0HP610NQJMKPB9X5</SimilarJobsURL>
+      <JobTitle>Konstrukteure (m/w) für die Bereiche Maschinen- und Anlagenbau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>CATIA</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3N171HHT755H2G5X</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3N171HHT755H2G5X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3N171HHT755H2G5X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:31 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3N171HHT755H2G5X</SimilarJobsURL>
+      <JobTitle>Praktikant (m/w) Produktmanagement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4T769DFPG28Y42D4</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Eigenverantwortliche Planung und Leitung von Projekten (Strategie, operative Verbesserungsprogramme, Reorganisation) in enger Zusammenarbeit mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4T769DFPG28Y42D4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4T769DFPG28Y42D4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Düsseldorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Düsseldorf</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.21563</LocationLatitude>
+      <LocationLongitude>6.77604</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:30 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4T769DFPG28Y42D4</SimilarJobsURL>
+      <JobTitle>Strategy Specialist (m/w) Unternehmensentwicklung und Projektmgmt.</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>microsoft powerpoint</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3CB6KN3S29P6LBVR</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Benteler Steel/ Tube GmbH ist europaweit einer der bedeutendsten Hersteller für nahtlos gezogene und geschweißte Präzisrohre und ein Teil der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3CB6KN3S29P6LBVR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3CB6KN3S29P6LBVR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:29 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3CB6KN3S29P6LBVR</SimilarJobsURL>
+      <JobTitle>Praktikant/ Student (m/w) Entwicklung geschweißte Präzisrohre</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H03C5YC5WQTQ33CGV</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen einen BOSLE Koordinator Methoden und Training (m/w) zum nächstmöglichen Zeitpunkt mit folgendem Aufgabengebiet: • Unterstützung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H03C5YC5WQTQ33CGV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H03C5YC5WQTQ33CGV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H03C5YC5WQTQ33CGV</SimilarJobsURL>
+      <JobTitle>BOSLE Koordinator Methoden und Training (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrial engineering</Skill>
+        <Skill>Operational Excellence</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1HR6WYNDP92TKRPM</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1HR6WYNDP92TKRPM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1HR6WYNDP92TKRPM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bottrop</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bottrop</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.5247</LocationLatitude>
+      <LocationLongitude>6.92519</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1HR6WYNDP92TKRPM</SimilarJobsURL>
+      <JobTitle>Leiter Schweißerei (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1GG5WW422WSJZD2P</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen zum nächstmöglichen Zeitpunkt zwei Business Application Consultants (m/w) mit folgendem Aufgabengebiet: Erstellung von IT Fachkonzepten zur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1GG5WW422WSJZD2P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1GG5WW422WSJZD2P&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:27 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1GG5WW422WSJZD2P</SimilarJobsURL>
+      <JobTitle>SAP Business Application Consultants (m/w) - Bereich Logistik (MM/SD)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>sap bw</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G82J6ZLB0LK1VSTBQ</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G82J6ZLB0LK1VSTBQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G82J6ZLB0LK1VSTBQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G82J6ZLB0LK1VSTBQ</SimilarJobsURL>
+      <JobTitle>Global Supplier Quality Engineer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Advanced Product Quality Planning</Skill>
+        <Skill>Statistical process control</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7PP6TWPRYMC851F3</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Weiterentwicklung des Produktionssystems in den Produktionswerken Moderation und Leitung von KVP-Workshops Mitarbeitercoaching Organisation,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H7PP6TWPRYMC851F3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7PP6TWPRYMC851F3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lingen (Ems)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lingen (Ems)</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.53214</LocationLatitude>
+      <LocationLongitude>7.32301</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:26 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7PP6TWPRYMC851F3</SimilarJobsURL>
+      <JobTitle>KVP-Trainer (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3BC788W3DVPWLVQ4</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services an den Standorten Bremen und Bremerhaven suchen wir zum nächstmöglichen Zeitpunkt:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H3BC788W3DVPWLVQ4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3BC788W3DVPWLVQ4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bremen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bremen</City>
+      <State>BREMEN</State>
+      <LocationLatitude>53.07516</LocationLatitude>
+      <LocationLongitude>8.80466</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3BC788W3DVPWLVQ4</SimilarJobsURL>
+      <JobTitle>Konstrukteure (m/w) für den Bereich Schiffbau und Anlagenbau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1BS79K8HWDM9GTZ5</DID>
+      <OnetCode>17-2131.00</OnetCode>
+      <ONetFriendlyTitle>Materials Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Fachbereich Forschung und Entwicklung suchern wir zum nächstmöglichen Zeitpunkt einen Projektingenieur Oberfläche (m/w). Sie unterstützen den...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1BS79K8HWDM9GTZ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1BS79K8HWDM9GTZ5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:25 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1BS79K8HWDM9GTZ5</SimilarJobsURL>
+      <JobTitle>Projektingenieur Oberfläche F&amp;E (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J18F6FHLF3KHKMBLX</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Bremen suchen wir zum nächstmöglichen Zeitpunkt: Holztechniker / Tischlermeister (m...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J18F6FHLF3KHKMBLX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J18F6FHLF3KHKMBLX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bremen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bremen</City>
+      <State>BREMEN</State>
+      <LocationLatitude>53.07516</LocationLatitude>
+      <LocationLongitude>8.80466</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J18F6FHLF3KHKMBLX</SimilarJobsURL>
+      <JobTitle>Holztechniker / Tischlermeister (m/w) Bereich Schiffsinnenausbau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J03X6J8T1FVV3Z23J</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Fertigungsbereich am Standort Dinslaken suchen wir erfahrene Ingenieure (m/w) Warmrohrwerk (verschiedene Bereiche) In unserem Warmrohrwerk...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J03X6J8T1FVV3Z23J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J03X6J8T1FVV3Z23J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dinslaken</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dinslaken</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.5618</LocationLatitude>
+      <LocationLongitude>6.73175</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J03X6J8T1FVV3Z23J</SimilarJobsURL>
+      <JobTitle>Ingenieure (m/w) Warmrohrwerk (verschiedene Bereiche)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8B05W52TGGTTH9GB</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Ingolstadt suchen wir ab sofort Konstrukteure (m/w) Strak-Fahrzeuggeometrie mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H8B05W52TGGTTH9GB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8B05W52TGGTTH9GB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ingolstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ingolstadt</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.76236</LocationLatitude>
+      <LocationLongitude>11.42523</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8B05W52TGGTTH9GB</SimilarJobsURL>
+      <JobTitle>Konstrukteure (m/w) Strak-Fahrzeuggeometrie mit Modulverantwortung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1NP77JB9W1Y82Y8M</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Bereich Benteler Engineering Services am Standort Stuttgart suchen wir ab sofort Entwicklungsingenieur Elektrik/Elektronik (m/w)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1NP77JB9W1Y82Y8M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1NP77JB9W1Y82Y8M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1NP77JB9W1Y82Y8M</SimilarJobsURL>
+      <JobTitle>Entwicklungsingenieur Elektrik/Elektronik (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0QV6DCLD6W9GDQ4Q</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J0QV6DCLD6W9GDQ4Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0QV6DCLD6W9GDQ4Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0QV6DCLD6W9GDQ4Q</SimilarJobsURL>
+      <JobTitle>Business Application Expert (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>internet explorer</Skill>
+        <Skill>javascript</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H81C6B9Q4TDX0WW5W</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H81C6B9Q4TDX0WW5W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H81C6B9Q4TDX0WW5W&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H81C6B9Q4TDX0WW5W</SimilarJobsURL>
+      <JobTitle>Assistenz Business Systems &amp; Processes in Teilzeit (m/w), 30 h</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2BV6F4HG5PVS5G5Z</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2BV6F4HG5PVS5G5Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2BV6F4HG5PVS5G5Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2BV6F4HG5PVS5G5Z</SimilarJobsURL>
+      <JobTitle>Studienarbeit im Bereich Manufacturing &amp; Technical Planning (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7CS66N41PPZ7Y5MC</DID>
+      <OnetCode>53-7063.00</OnetCode>
+      <ONetFriendlyTitle>Machine Feeders and Offbearers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Geschäftsbereich Benteler Steel/Tube suchen wir einen Masterand (m/w) für die Entwicklung. Im Rahmen Ihrer Tätigkeit bieten wir Ihnen die...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7CS66N41PPZ7Y5MC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7CS66N41PPZ7Y5MC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7CS66N41PPZ7Y5MC</SimilarJobsURL>
+      <JobTitle>Masterand (m/w) für die Entwicklung - Warmrohrwerk</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3PM70P2FP6YW0YY7</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3PM70P2FP6YW0YY7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3PM70P2FP6YW0YY7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3PM70P2FP6YW0YY7</SimilarJobsURL>
+      <JobTitle>Praktikant (m/w) in der Customer Line der Produktgruppe Chassis/Module</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F22172L056F4TG0LZ</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Stuttgart suchen wir ab sofort Projektingenieure (m/w) Bereich Fahrwerk...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F22172L056F4TG0LZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F22172L056F4TG0LZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F22172L056F4TG0LZ</SimilarJobsURL>
+      <JobTitle>Projektingenieur (m/w) Bereich Fahrwerk</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2P06TYBRT9LQNL17</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2P06TYBRT9LQNL17</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2P06TYBRT9LQNL17&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ingolstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ingolstadt</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.76236</LocationLatitude>
+      <LocationLongitude>11.42523</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2P06TYBRT9LQNL17</SimilarJobsURL>
+      <JobTitle>Konstrukteur (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G44W5ZY6STVGQJNBX</DID>
+      <OnetCode>27-1021.00</OnetCode>
+      <ONetFriendlyTitle>Commercial and Industrial Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Stuhr/Bremen suchen wir zum nächstmöglichen Zeitpunkt: Technische Zeichner oder...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G44W5ZY6STVGQJNBX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G44W5ZY6STVGQJNBX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bremen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bremen</City>
+      <State>BREMEN</State>
+      <LocationLatitude>53.07516</LocationLatitude>
+      <LocationLongitude>8.80466</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:19 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G44W5ZY6STVGQJNBX</SimilarJobsURL>
+      <JobTitle>Technische Zeichner/Produktdesigner (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4Y77580CK8H1ZTNZ</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4Y77580CK8H1ZTNZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4Y77580CK8H1ZTNZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4Y77580CK8H1ZTNZ</SimilarJobsURL>
+      <JobTitle>Commodity Buyer im Bereich IT/Kommunikation (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1B46G8DCFMZKFY96</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Bereich Benteler Steel/Tube GmbH suchen wir ab sofort am Standort Paderborn einen Praktikanten, Bacheloranden oder Masteranden(m/w) für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J1B46G8DCFMZKFY96</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1B46G8DCFMZKFY96&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1B46G8DCFMZKFY96</SimilarJobsURL>
+      <JobTitle>Praktikant / Student (m/w) für die Entwicklung - FEM Simulation</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6WK5WC4QRNJMDVH8</DID>
+      <OnetCode>27-4012.00</OnetCode>
+      <ONetFriendlyTitle>Broadcast Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6WK5WC4QRNJMDVH8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6WK5WC4QRNJMDVH8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6WK5WC4QRNJMDVH8</SimilarJobsURL>
+      <JobTitle>Ingenieur/Techniker (m/w) DMU - geometrische Integration</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6KL72W4KQF4WM1YX</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln suchen wir ab sofort Planungsingenieur (m/w) Technische Gebäudeausstattung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6KL72W4KQF4WM1YX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6KL72W4KQF4WM1YX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6KL72W4KQF4WM1YX</SimilarJobsURL>
+      <JobTitle>Planungsingenieur (m/w) Technische Gebäudeausstattung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>IBM Lotus Notes</Skill>
+        <Skill>Microsoft Excel</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4QP70ZT0C7QV6BLX</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Persönliche Betreuung von Kunden Jährliche Kundenplanung und Neukundengewinnung Monatliche Prüfung der Kundenbudgets und Maßnahmeneinleitung zur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4QP70ZT0C7QV6BLX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4QP70ZT0C7QV6BLX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Falkensee</Location>
+      <DisplayCity></DisplayCity>
+      <City>Falkensee</City>
+      <State>BRANDENBURG</State>
+      <LocationLatitude>52.56051</LocationLatitude>
+      <LocationLongitude>13.0917</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4QP70ZT0C7QV6BLX</SimilarJobsURL>
+      <JobTitle>Kundenverantwortliche/r (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G24Y6F6RHN11XJXTM</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Bereich Benteler Engineering Services am Standort München suchen wir ab sofort Mitarbeiter Qualitätssicherung virtuelles Fahrzeug (m/w)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G24Y6F6RHN11XJXTM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G24Y6F6RHN11XJXTM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G24Y6F6RHN11XJXTM</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Qualitätssicherung virtuelles Fahrzeug (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4MH75CN44CPZKVVC</DID>
+      <OnetCode>51-4023.00</OnetCode>
+      <ONetFriendlyTitle>Rolling Machine Setters, Operators, and Tenders, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Bereich Benteler Steel/Tube GmbH suchen wir ab sofort am Standort Paderborn einen Bacheloranden oder Masteranden(m/w) für die Entwicklung...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G4MH75CN44CPZKVVC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4MH75CN44CPZKVVC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4MH75CN44CPZKVVC</SimilarJobsURL>
+      <JobTitle>Bachelorand/ Masterand (m/w) für die Entwicklung - Warmrohrwerk</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0VJ5X5MJLG91BTXY</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0VJ5X5MJLG91BTXY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0VJ5X5MJLG91BTXY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0VJ5X5MJLG91BTXY</SimilarJobsURL>
+      <JobTitle>Projektingenieur Qualitätswesen (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4J65WMD4WJV9C4YM</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Produktmanagementbereich Konstruktion suchen wir einen Mitarbeiter Sales (m/w) mit folgendem Aufgabengebiet: Bearbeiten von Anfragen,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4J65WMD4WJV9C4YM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4J65WMD4WJV9C4YM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4J65WMD4WJV9C4YM</SimilarJobsURL>
+      <JobTitle>Sales Manager Konstruktion (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4TF62WF7J9XH8TXN</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln/Bonn suchen wir ab sofort Entwicklungsingenieur (m/w) Interieur/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4TF62WF7J9XH8TXN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4TF62WF7J9XH8TXN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4TF62WF7J9XH8TXN</SimilarJobsURL>
+      <JobTitle>Entwicklungsingenieur (m/w) Interieur/Kunststoffbauteile</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1VX6V783KHXCR40Z</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln/Bonn suchen wir ab sofort Component Engineer (m/w) im Bereich Bremssysteme...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H1VX6V783KHXCR40Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1VX6V783KHXCR40Z&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1VX6V783KHXCR40Z</SimilarJobsURL>
+      <JobTitle>Component Engineer (m/w) im Bereich Bremssysteme</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Component engineering</Skill>
+        <Skill>Six Sigma</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0TV6B00G4KVJH2H1</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Als Projektleiter Integrated Part Management (IPM) tragen Sie maßgeblich zur Entwicklung und Umsetzung einer globalen Bereitstellung und Nutzung von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0TV6B00G4KVJH2H1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0TV6B00G4KVJH2H1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0TV6B00G4KVJH2H1</SimilarJobsURL>
+      <JobTitle>Projektleiter Integrated Part Management (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5C1700R89KTL8XQR</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5C1700R89KTL8XQR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5C1700R89KTL8XQR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5C1700R89KTL8XQR</SimilarJobsURL>
+      <JobTitle>Fachkraft Technische Anfragen- und Auftragsklärung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Supply chain management</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6PD64YZL311BQNST</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Agentur sucht Praktikant oder Praktikantin (auch Volontär) für Berliner Castingagentur in Berlin (Deutschland). Wir, eine Berliner Castingagentur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6PD64YZL311BQNST</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6PD64YZL311BQNST&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6PD64YZL311BQNST</SimilarJobsURL>
+      <JobTitle>Agentur sucht Praktikant oder Praktikantin (auch Volontär) für Berliner Castingagentur in Berlin (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J10S77TZ4RBFHKMBJ</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Bereich Benteler Engineering Services am Standort München suchen wir ab sofort mehrere Techniker für Datenmanagement / Freigabe /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J10S77TZ4RBFHKMBJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J10S77TZ4RBFHKMBJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J10S77TZ4RBFHKMBJ</SimilarJobsURL>
+      <JobTitle>Techniker Datenmanagement / Freigabe / QS virt. Fzg. (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F56F6VP7GJMN43MZ5</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F56F6VP7GJMN43MZ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F56F6VP7GJMN43MZ5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Düsseldorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Düsseldorf</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.21563</LocationLatitude>
+      <LocationLongitude>6.77604</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F56F6VP7GJMN43MZ5</SimilarJobsURL>
+      <JobTitle>Controller/ Treasury Manager (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Forecasting</Skill>
+        <Skill>Treasury</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4N46KM2N1DC3NV7M</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln suchen wir ab sofort Ingenieure/Techniker (m/w) für die Entwicklung in der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J4N46KM2N1DC3NV7M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4N46KM2N1DC3NV7M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4N46KM2N1DC3NV7M</SimilarJobsURL>
+      <JobTitle>Ingenieur (m/w) Entwicklung Elektrik/Elektronik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4XG76BY3XH4RM2PX</DID>
+      <OnetCode>27-4012.00</OnetCode>
+      <ONetFriendlyTitle>Broadcast Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Ingolstadt suchen wir ab sofort Ingenieur/Techniker – DMU (m/w) im Bereich...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4XG76BY3XH4RM2PX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4XG76BY3XH4RM2PX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ingolstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ingolstadt</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.76236</LocationLatitude>
+      <LocationLongitude>11.42523</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:14 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4XG76BY3XH4RM2PX</SimilarJobsURL>
+      <JobTitle>Ingenieur/Techniker – DMU (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5KM6JMGMTWM3NVPX</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Benteler Engineering Services sucht am Standort Wolfsburg einen Berufseinsteiger / Ingenieur (m/w) mit berufsbegleitendem Master-Studium...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H5KM6JMGMTWM3NVPX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5KM6JMGMTWM3NVPX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5KM6JMGMTWM3NVPX</SimilarJobsURL>
+      <JobTitle>Berufseinsteiger/ Ingenieur (m/w) mit berufsbegleitendem Masterstudium</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3KB71P9L80LC73CT</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G3KB71P9L80LC73CT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3KB71P9L80LC73CT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3KB71P9L80LC73CT</SimilarJobsURL>
+      <JobTitle>Testingenieur (m/w) Fahrerassistenzsysteme</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4FX66FKGC0XXN503</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Filmproduktion sucht Schauspieler im Spielalter 35-42 Jahre für Kurzfilm - Das Tier entsteht in Berlin (Deutschland). Experimentelle Adaption einer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4FX66FKGC0XXN503</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4FX66FKGC0XXN503&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4FX66FKGC0XXN503</SimilarJobsURL>
+      <JobTitle>Filmproduktion sucht Schauspieler im Spielalter 35-42 Jahre für Kurzfilm - Das Tier entsteht in Berlin (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L0176T7VGPQRW0TKP</DID>
+      <OnetCode>27-2012.04</OnetCode>
+      <ONetFriendlyTitle>Talent Directors</ONetFriendlyTitle>
+      <DescriptionTeaser>StagePool Deutschland sucht Caster oder Casterin (auch Choreograph, Theaterregisseur, Stuntman, und andere) im Spielalter 18-95 Jahre für unser...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L0176T7VGPQRW0TKP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0176T7VGPQRW0TKP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0176T7VGPQRW0TKP</SimilarJobsURL>
+      <JobTitle>StagePool Deutschland sucht Caster oder Casterin (auch Choreograph, Theaterregisseur, Stuntman, und andere) im Spielalter 18-95</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J73S78XJZYSXQKSVD</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen einen Prozessplaner (m/w) zum nächstmöglichen Zeitpunkt mit folgendem Aufgabengebiet: • Planung von komplexen Produktionsprozessen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J73S78XJZYSXQKSVD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J73S78XJZYSXQKSVD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:12 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J73S78XJZYSXQKSVD</SimilarJobsURL>
+      <JobTitle>Prozessplaner (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3T06LH27PLXC9YTW</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J3T06LH27PLXC9YTW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3T06LH27PLXC9YTW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:12 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3T06LH27PLXC9YTW</SimilarJobsURL>
+      <JobTitle>Projektingenieur (m/w) in der Schnittstelle Entwicklung/Produktion</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4995XZSWLGTGQX2C</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L4995XZSWLGTGQX2C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4995XZSWLGTGQX2C&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4995XZSWLGTGQX2C</SimilarJobsURL>
+      <JobTitle>Qualitätsingenieur (m/w) Elektrotechnik / Fahrzeugtechnik Infotainment</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2286QMHLGKCHX9HK</DID>
+      <OnetCode>17-2061.00</OnetCode>
+      <ONetFriendlyTitle>Computer Hardware Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Benteler Engineering Services sucht am Standort Wolfsburg einen Entwicklungsingenieur (m/w) Elektrotechnik / Informatik für Fahrzeug-Elektronik:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2286QMHLGKCHX9HK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2286QMHLGKCHX9HK&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2286QMHLGKCHX9HK</SimilarJobsURL>
+      <JobTitle>Entwicklungsingenieur (m/w) Elektrotechnik/Informatik für Klimatechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G38G72PKZBZ8Z07K2</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G38G72PKZBZ8Z07K2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G38G72PKZBZ8Z07K2&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Siegen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Siegen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.87242</LocationLatitude>
+      <LocationLongitude>8.0229</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G38G72PKZBZ8Z07K2</SimilarJobsURL>
+      <JobTitle>Fertigungsleiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H65M5VXWS8SC8MQX3</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Bereich Benteler Engineering Services am Standort Stuttgart suchen wir ab sofort Technische/r Projektleiter/in (m/w) Elektrotechnik/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H65M5VXWS8SC8MQX3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H65M5VXWS8SC8MQX3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H65M5VXWS8SC8MQX3</SimilarJobsURL>
+      <JobTitle>Technische/r Projektleiter/in (m/w) Elektrotechnik/Mechatronik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F202688CZLYQPRNKM</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für unseren Produktmanagementbereich Energy Tubes suchen wir einen Verkaufsleiter (m/w) für OCTG-Produkte (Oil Country Tubular Goods) mit folgendem...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F202688CZLYQPRNKM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F202688CZLYQPRNKM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F202688CZLYQPRNKM</SimilarJobsURL>
+      <JobTitle>Verkaufsleiter (m/w) Produktmanagement Energy Tubes</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K5K0737ZVV9F4247T</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Statist/Komparse im Spielalter 40-50 Jahre für Scripted Reality Format in Berlin (Deutschland). Für ein Scripted Reality Format...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K5K0737ZVV9F4247T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5K0737ZVV9F4247T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5K0737ZVV9F4247T</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Statist/Komparse im Spielalter 40-50 Jahre für Scripted Reality Format in Berlin (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4GD6YH81HJWDQ4N9</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>• Leitung und Verantwortung des zugewiesenen Vertriebsstandortes • Direkte Führung und Weiterentwicklung der unterstellten Mitarbeiter über...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H4GD6YH81HJWDQ4N9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4GD6YH81HJWDQ4N9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vaihingen an der Enz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vaihingen an der Enz</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.93382</LocationLatitude>
+      <LocationLongitude>8.96041</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4GD6YH81HJWDQ4N9</SimilarJobsURL>
+      <JobTitle>Vertriebsleiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H84V6H6HYCTYLD3Y6</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H84V6H6HYCTYLD3Y6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H84V6H6HYCTYLD3Y6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paderborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paderborn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.71814</LocationLatitude>
+      <LocationLongitude>8.75204</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H84V6H6HYCTYLD3Y6</SimilarJobsURL>
+      <JobTitle>Senior Projektleiter SAP (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1BL66XR06RZKP58T</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Ingolstadt suchen wir ab sofort Konstrukteure (m/w) Strak-Fahrzeuggeometrie mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1BL66XR06RZKP58T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1BL66XR06RZKP58T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ingolstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ingolstadt</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.76236</LocationLatitude>
+      <LocationLongitude>11.42523</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1BL66XR06RZKP58T</SimilarJobsURL>
+      <JobTitle>Konstrukteure (m/w) Strak-Fahrzeuggeometrie mit Projektverantwortung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J02Q6TY4JG3JL0KY5</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für den Geschäftsbereich Benteler Engineering Services am Standort Köln/Bonn suchen wir ab sofort Projektingenieure (m/w) Bereich Fahrwerk...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J02Q6TY4JG3JL0KY5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J02Q6TY4JG3JL0KY5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J02Q6TY4JG3JL0KY5</SimilarJobsURL>
+      <JobTitle>Projektingenieure (m/w) Bereich Fahrwerk</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Benteler International AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F37L6T7PKXZS1B826</DID>
+      <OnetCode>17-2061.00</OnetCode>
+      <ONetFriendlyTitle>Computer Hardware Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Wenn Sie denken, Sie sind anders, sind Sie bei Benteler genau richtig. Als einer der größten Automobilzulieferer und Stahlrohrhersteller bieten wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F37L6T7PKXZS1B826</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F37L6T7PKXZS1B826&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F37L6T7PKXZS1B826</SimilarJobsURL>
+      <JobTitle>Ingenieur (m/w) für Fahrzeug Infotainment Entwicklung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J4/MSG6SS6CG3ZW5DK7KJ4.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7TF6H27T40VMLFJG</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Kleindarstellerin (auch Statistin/Komparsin) im Spielalter 35-45 Jahre für Scripted Reality Format in Berlin (Deutschland). Für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K7TF6H27T40VMLFJG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7TF6H27T40VMLFJG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7TF6H27T40VMLFJG</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Kleindarstellerin (auch Statistin/Komparsin) im Spielalter 35-45 Jahre für Scripted Reality Format in Berl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4Y566CHMNRSX7ZPY</DID>
+      <OnetCode>27-2042.02</OnetCode>
+      <ONetFriendlyTitle>Musicians, Instrumental</ONetFriendlyTitle>
+      <DescriptionTeaser>Irish Folk Show sucht Gitarrist oder Gitarristin (auch Musiker) im Spielalter 18-95 Jahre für bundesweite Konzerte in Rhein Main Gebiet (Deutschland...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4Y566CHMNRSX7ZPY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4Y566CHMNRSX7ZPY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rhein Main Gebiet</Location>
+      <DisplayCity>Rhein Main Gebiet</DisplayCity>
+      <City>Rhein</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.85471</LocationLatitude>
+      <LocationLongitude>7.70708</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4Y566CHMNRSX7ZPY</SimilarJobsURL>
+      <JobTitle>Irish Folk Show sucht Gitarrist oder Gitarristin (auch Musiker) im Spielalter 18-95 Jahre für bundesweite Konzerte in Rhein Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5KV6Y789MTBXJ86R</DID>
+      <OnetCode>27-1014.00</OnetCode>
+      <ONetFriendlyTitle>Multi-Media Artists and Animators</ONetFriendlyTitle>
+      <DescriptionTeaser>MSC Cruises sucht Künstler oder Künstlerin (auch Animateur) im Spielalter 18-40 Jahre für MSC Cruises-Spanien in Stockholm (Schweden). MSC Cruises is...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G5KV6Y789MTBXJ86R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5KV6Y789MTBXJ86R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:07 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5KV6Y789MTBXJ86R</SimilarJobsURL>
+      <JobTitle>MSC Cruises sucht Künstler oder Künstlerin (auch Animateur) im Spielalter 18-40 Jahre für MSC Cruises-Spanien in Stockholm (Schw</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5KQ66RKMNGK63LR0</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Statistin/Komparsin (auch Kleindarstellerin) im Spielalter 28-36 Jahre für Scripted Reality Format in Berlin (Deutschland). Für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5KQ66RKMNGK63LR0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5KQ66RKMNGK63LR0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5KQ66RKMNGK63LR0</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Statistin/Komparsin (auch Kleindarstellerin) im Spielalter 28-36 Jahre für Scripted Reality Format in Berl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H61872C8PZW4TKL6M</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Statist/Komparse im Spielalter 28-36 Jahre für Scripted Reality Format in Berlin (Deutschland). Für ein Scripted Reality Format...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H61872C8PZW4TKL6M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H61872C8PZW4TKL6M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H61872C8PZW4TKL6M</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Statist/Komparse im Spielalter 28-36 Jahre für Scripted Reality Format in Berlin (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F8DM601MFFRX73N4X</DID>
+      <OnetCode>25-3021.00</OnetCode>
+      <ONetFriendlyTitle>Self-Enrichment Education Teachers</ONetFriendlyTitle>
+      <DescriptionTeaser>Tanzschule sucht Tanzlehrer oder Tanzlehrerin (auch Tanzpädagoge) für Tanzschule in Korneuburg und Weinviertel (Deutschland). Gesucht wird ein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F8DM601MFFRX73N4X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8DM601MFFRX73N4X&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Korneuburg, Österreich</Location>
+      <DisplayCity>Korneuburg, Österreich</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:18:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8DM601MFFRX73N4X</SimilarJobsURL>
+      <JobTitle>Tanzschule sucht Tanzlehrer oder Tanzlehrerin (auch Tanzpädagoge) für Tanzschule in Korneuburg und Weinviertel (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7SS6NHK62C3CCMKC</DID>
+      <OnetCode>27-2042.02</OnetCode>
+      <ONetFriendlyTitle>Musicians, Instrumental</ONetFriendlyTitle>
+      <DescriptionTeaser>Agentur sucht Musicaldarsteller (auch Künstler, Musicaldarsteller, Pop-/Rock-/Jazz-Sänger und Moderator) im Spielalter 18-30 Jahre für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K7SS6NHK62C3CCMKC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7SS6NHK62C3CCMKC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dortmund</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dortmund</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.51661</LocationLatitude>
+      <LocationLongitude>7.45829</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7SS6NHK62C3CCMKC</SimilarJobsURL>
+      <JobTitle>Agentur sucht Musicaldarsteller (auch Künstler, Musicaldarsteller, Pop-/Rock-/Jazz-Sänger und Moderator) im Spielalter 18-30 Jah</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2TS696VD83L8Z76Q</DID>
+      <OnetCode>27-2031.00</OnetCode>
+      <ONetFriendlyTitle>Dancers</ONetFriendlyTitle>
+      <DescriptionTeaser>Agentur sucht Musicaltänzer (auch Jazztänzer, Musicaldarsteller, Moderntänzer und Showtänzer) im Spielalter 18-30 Jahre für Showproduktionen 2015 in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G2TS696VD83L8Z76Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2TS696VD83L8Z76Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dortmund</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dortmund</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.51661</LocationLatitude>
+      <LocationLongitude>7.45829</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2TS696VD83L8Z76Q</SimilarJobsURL>
+      <JobTitle>Agentur sucht Musicaltänzer (auch Jazztänzer, Musicaldarsteller, Moderntänzer und Showtänzer) im Spielalter 18-30 Jahre für Show</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K3H764HCBY7CYLT50</DID>
+      <OnetCode>27-1014.00</OnetCode>
+      <ONetFriendlyTitle>Multi-Media Artists and Animators</ONetFriendlyTitle>
+      <DescriptionTeaser>MSC Cruises sucht Animateur oder Animateurin (auch Künstler, Zirkus-/Varietékünstler, Illusionist/Magier, und andere) im Spielalter 18-50 Jahre für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K3H764HCBY7CYLT50</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3H764HCBY7CYLT50&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3H764HCBY7CYLT50</SimilarJobsURL>
+      <JobTitle>MSC Cruises sucht Animateur oder Animateurin (auch Künstler, Zirkus-/Varietékünstler, Illusionist/Magier, und andere) im Spielal</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2G46XJF9J69VQNB1</DID>
+      <OnetCode>27-2042.01</OnetCode>
+      <ONetFriendlyTitle>Singers</ONetFriendlyTitle>
+      <DescriptionTeaser>Entertainment-Company sucht Pop-/Rock-/Jazz-Sängerin (auch Musicaldarstellerin und Singer/Songwriter) im Spielalter 18-30 Jahre für Hotel/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2G46XJF9J69VQNB1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2G46XJF9J69VQNB1&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2G46XJF9J69VQNB1</SimilarJobsURL>
+      <JobTitle>Entertainment-Company sucht Pop-/Rock-/Jazz-Sängerin (auch Musicaldarstellerin und Singer/Songwriter) im Spielalter 18-30 Jahre</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J11S70SNJD17R4MX8</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting Agentur sucht Künstler oder Künstlerin (auch Statist/Komparse, Stand-Up Comedian und Animateur) für Veranstaltungen, (Kinder-)Geburtstage in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J11S70SNJD17R4MX8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J11S70SNJD17R4MX8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity></DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J11S70SNJD17R4MX8</SimilarJobsURL>
+      <JobTitle>Casting Agentur sucht Künstler oder Künstlerin (auch Statist/Komparse, Stand-Up Comedian und Animateur) für Veranstaltungen, (Ki</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1SN68HP2QY0VDKNB</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Statistin/Komparsin im Spielalter 18-60 Jahre für Scripted Reality Format in Berlin (Deutschland). Für ein Scripted Reality...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1SN68HP2QY0VDKNB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1SN68HP2QY0VDKNB&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1SN68HP2QY0VDKNB</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Statistin/Komparsin im Spielalter 18-60 Jahre für Scripted Reality Format in Berlin (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6L66BLQ5NLYRKSZW</DID>
+      <OnetCode>27-1014.00</OnetCode>
+      <ONetFriendlyTitle>Multi-Media Artists and Animators</ONetFriendlyTitle>
+      <DescriptionTeaser>MSC Cruises sucht Animateur oder Animateurin im Spielalter 18-40 Jahre für MSC Cruises-Spanien in Stockholm (Schweden). Mini Club animator/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6L66BLQ5NLYRKSZW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6L66BLQ5NLYRKSZW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6L66BLQ5NLYRKSZW</SimilarJobsURL>
+      <JobTitle>MSC Cruises sucht Animateur oder Animateurin im Spielalter 18-40 Jahre für MSC Cruises-Spanien in Stockholm (Schweden).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2Q966JJ1L2CKKGNR</DID>
+      <OnetCode>25-3021.00</OnetCode>
+      <ONetFriendlyTitle>Self-Enrichment Education Teachers</ONetFriendlyTitle>
+      <DescriptionTeaser>Musicalschule sucht Tanzlehrer oder Tanzlehrerin (auch Tanzpädagoge) für Kurs im März in Grefrath (Deutschland). Für einen Kurs im März suchen wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2Q966JJ1L2CKKGNR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2Q966JJ1L2CKKGNR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grefrath</Location>
+      <DisplayCity>Grefrath</DisplayCity>
+      <City>Grefrath</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.33751</LocationLatitude>
+      <LocationLongitude>6.3442</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:48 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2Q966JJ1L2CKKGNR</SimilarJobsURL>
+      <JobTitle>Musicalschule sucht Tanzlehrer oder Tanzlehrerin (auch Tanzpädagoge) für Kurs im März in Grefrath (Deutschland).</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7JZ77FZDGNDJ0YNW</DID>
+      <OnetCode>27-2042.00</OnetCode>
+      <ONetFriendlyTitle>Musicians and Singers</ONetFriendlyTitle>
+      <DescriptionTeaser>Veranstalter sucht Musiker oder Musikerin (auch Künstler, Pop-/Rock-/Jazz-Sänger, Pianist, und andere) im Spielalter 18-95 Jahre für Hochzeit am 13.5...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K7JZ77FZDGNDJ0YNW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7JZ77FZDGNDJ0YNW&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7JZ77FZDGNDJ0YNW</SimilarJobsURL>
+      <JobTitle>Veranstalter sucht Musiker oder Musikerin (auch Künstler, Pop-/Rock-/Jazz-Sänger, Pianist, und andere) im Spielalter 18-95 Jahre</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G14X67SDDVK7K7T5T</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Kleindarstellerin (auch Statistin/Komparsin) im Spielalter 18-23 Jahre für Scripted Reality Format in Berlin (Deutschland). Für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G14X67SDDVK7K7T5T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G14X67SDDVK7K7T5T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:46 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G14X67SDDVK7K7T5T</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Kleindarstellerin (auch Statistin/Komparsin) im Spielalter 18-23 Jahre für Scripted Reality Format in Berl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H05L75M22QMKVZPS3</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Junge Non-Profit-Organisation sucht Schauspieler oder Schauspielerin (auch Kleindarsteller) im Spielalter 14-19 Jahre für Kleine Improvisationsrolle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H05L75M22QMKVZPS3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H05L75M22QMKVZPS3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H05L75M22QMKVZPS3</SimilarJobsURL>
+      <JobTitle>Junge Non-Profit-Organisation sucht Schauspieler oder Schauspielerin (auch Kleindarsteller) im Spielalter 14-19 Jahre für Kleine</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L8H26LBPKQTS9ML85</DID>
+      <OnetCode>27-2031.00</OnetCode>
+      <ONetFriendlyTitle>Dancers</ONetFriendlyTitle>
+      <DescriptionTeaser>MSC Cruises sucht Jazztänzer oder Jazztänzerin (auch Jazztänzer, Ballett-Tänzer, Musicaltänzer, und andere) im Spielalter 18-40 Jahre für MSC Cruises-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L8H26LBPKQTS9ML85</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8H26LBPKQTS9ML85&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8H26LBPKQTS9ML85</SimilarJobsURL>
+      <JobTitle>MSC Cruises sucht Jazztänzer oder Jazztänzerin (auch Jazztänzer, Ballett-Tänzer, Musicaltänzer, und andere) im Spielalter 18-40</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L5J56LB82P1XFXHCL</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Statistin/Komparsin (auch Kleindarstellerin) im Spielalter 35-45 Jahre für Scripted Reality Format in Berlin (Deutschland). Für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5J56LB82P1XFXHCL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5J56LB82P1XFXHCL&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5J56LB82P1XFXHCL</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Statistin/Komparsin (auch Kleindarstellerin) im Spielalter 35-45 Jahre für Scripted Reality Format in Berl</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Stagepool</Company>
+      <CompanyDID>c8c3jj6272z2n38ym7x</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8c3jj6272z2n38ym7x/stagepool/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K4CH6PF0JY9BWNZXS</DID>
+      <OnetCode>27-2011.00</OnetCode>
+      <ONetFriendlyTitle>Actors</ONetFriendlyTitle>
+      <DescriptionTeaser>Casting-Agentur sucht Kleindarsteller (auch Statist/Komparse) im Spielalter 25-35 Jahre für Scripted Reality Format in Berlin (Deutschland). Für ein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K4CH6PF0JY9BWNZXS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4CH6PF0JY9BWNZXS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Berlin</Location>
+      <DisplayCity>Berlin</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/20/2015</PostedDate>
+      <PostedTime>1/20/2015 1:17:43 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4CH6PF0JY9BWNZXS</SimilarJobsURL>
+      <JobTitle>Casting-Agentur sucht Kleindarsteller (auch Statist/Komparse) im Spielalter 25-35 Jahre für Scripted Reality Format in Berlin (D</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rv/i8b4wf6qtswpskbzjrv.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

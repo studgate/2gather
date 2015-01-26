@@ -1,0 +1,3376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 12:00:59 PM</TimeResponseSent>
+  <TimeElapsed>0.3743976</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>37866</TotalCount>
+  <FirstItemIndex>18801</FirstItemIndex>
+  <LastItemIndex>18900</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3WK6S27V05C8T76C</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3WK6S27V05C8T76C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3WK6S27V05C8T76C&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Schwäbisch Hall</Location>
+      <DisplayCity></DisplayCity>
+      <City>Schwäbisch Hall</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.11331</LocationLatitude>
+      <LocationLongitude>9.74605</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3WK6S27V05C8T76C</SimilarJobsURL>
+      <JobTitle>Elektroniker/in - Betriebstechnik (Schalt- und Steueranl.) in Schwäbisch Hall</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F47T6HLT55S17HX7S</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - entscheiden Sie sich für eine Zusammenarbeit mit unserem Hause, sie hat entscheidende Vorteile für Sie. Für folgende Aufgabe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F47T6HLT55S17HX7S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F47T6HLT55S17HX7S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eschborn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Eschborn</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.14041</LocationLatitude>
+      <LocationLongitude>8.57211</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F47T6HLT55S17HX7S</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Ref.Nr: 214438 Senior Project Manager STEP (f/m)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7S/MFG54866K3Q4R9KQ77S.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4816F5004DW7W7Z7</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Für die Weiterentwicklung unserer Cloud-Plattform suchen wir ab sofort einen erfahrenen Frontend Entwickler. Skills • Fundierte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4816F5004DW7W7Z7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4816F5004DW7W7Z7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gütersloh</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gütersloh</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.9093</LocationLatitude>
+      <LocationLongitude>8.38098</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4816F5004DW7W7Z7</SimilarJobsURL>
+      <JobTitle>Für Freelancer - Frontend-Entwicklung mit JavaScript/angular.js/Java</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7S/MFG54866K3Q4R9KQ77S.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>representational state transfer</Skill>
+        <Skill>html5</Skill>
+        <Skill>web service</Skill>
+        <Skill>svn</Skill>
+        <Skill>javascript</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>scrum (development)</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3YN719TBPSLZXCLC</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Verkäufer (m/w) im Einzelhandel in unserem C+C Schaper Markt in Iserlohn Vertriebslinie: C&amp;C Schaper Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3YN719TBPSLZXCLC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3YN719TBPSLZXCLC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Iserlohn</Location>
+      <DisplayCity></DisplayCity>
+      <City>Iserlohn</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.37608</LocationLatitude>
+      <LocationLongitude>7.69902</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3YN719TBPSLZXCLC</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Verkäufer (m/w) im Einzelhandel in unserem C+C Schaper Markt in Iserlohn</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>conceptAS Gmbh</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3P473B0WXT0GWRKJ</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>Wir suchen für unseren Kunden... in Regensburg einen Altenpfleger/in Stellenbeschreibung... - Altenpflege - Altenarbeit - Grundpflege, Krankenpflege...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3P473B0WXT0GWRKJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3P473B0WXT0GWRKJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>93051 Regensburg</Location>
+      <DisplayCity>93051 Regensburg</DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.0046</LocationLatitude>
+      <LocationLongitude>12.0691</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:02 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3P473B0WXT0GWRKJ</SimilarJobsURL>
+      <JobTitle>Altenpfleger/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/WP/MXH7DR6Y2P7HT02KQWP.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>jobs in time</Company>
+      <CompanyDID>c8f4z8723ds6snbysk1</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8f4z8723ds6snbysk1/jobs-in-time/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3BS627H9MG481C11</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Zeitarbeit ohne Nebenwirkungen: jobs in time medical vermittelt qualifiziertes medizinisches Personal an namhafte Unternehmen und bietet Ihnen neue...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3BS627H9MG481C11</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3BS627H9MG481C11&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stuttgart</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.76767</LocationLatitude>
+      <LocationLongitude>9.17192</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3BS627H9MG481C11</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger/in für Intensiv-Anästhesiepflege in Stuttgart</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ld/mw53y26v8z8ftv2c2ld.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3G963170W8802C70</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Verkäufer (m/w) in unserem Großmarkt München Pasing Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3G963170W8802C70</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3G963170W8802C70&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3G963170W8802C70</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Verkäufer (m/w) in unserem Großmarkt München Pasing</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3CF64P14GZV6Q46M</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt in Hamburg-Rahlstedt Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3CF64P14GZV6Q46M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3CF64P14GZV6Q46M&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3CF64P14GZV6Q46M</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt in Hamburg-Rahlstedt</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NORMA Lebensmittelfilialbetrieb Stiftung &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3C96C5244835LW09</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Verkäufer/Verkäuferin Ausbildungsdauer: 2 Jahre In Deiner abwechslungsreichen und vielseitigen Ausbildungszeit erlernst Du alle wesentlichen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Ausbildung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3C96C5244835LW09</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3C96C5244835LW09&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>deutschlandweit</Location>
+      <DisplayCity>deutschlandweit</DisplayCity>
+      <City>Leipzig</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.3438</LocationLatitude>
+      <LocationLongitude>12.4084</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:01 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3C96C5244835LW09</SimilarJobsURL>
+      <JobTitle>Verkäufer/Verkäuferin</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LZ/MH27VQ741858NBZBCLZ.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personal-Service Westermann GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3B969FXGKZJD5BR9</DID>
+      <OnetCode>25-2041.00</OnetCode>
+      <ONetFriendlyTitle>Special Education Teachers, Preschool, Kindergarten, and Elementary School</ONetFriendlyTitle>
+      <DescriptionTeaser>Suchen zum nächstmöglichen Termin im Bereich Krippe und / oder Elementar mit: staatlicher Anerkennung als Erzieherin oder Erzieher Freude an der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F3B969FXGKZJD5BR9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3B969FXGKZJD5BR9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3B969FXGKZJD5BR9</SimilarJobsURL>
+      <JobTitle>Erzieher (m/w) für Kitas in Hamburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Z1/MX46LV6X6DJ1ZM8XHZ1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Personal-Service Westermann GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F36Q6SQZF8FVM3FQT</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Suchen ab sofort in Vollzeit für die Bereiche Krippe- und Elementar mit: staatlicher Anerkennung als Heilerziehungspfleger / Heilerziehungspflegerin...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F36Q6SQZF8FVM3FQT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F36Q6SQZF8FVM3FQT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.55334</LocationLatitude>
+      <LocationLongitude>9.99245</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F36Q6SQZF8FVM3FQT</SimilarJobsURL>
+      <JobTitle>Heilerziehungspfleger (m/w) für Kita in Hamburg Lurup</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Z1/MX46LV6X6DJ1ZM8XHZ1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>econoMARK</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F39C701TBRGDYLNRC</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>econoMARK ist als spezialisierter Personaldienstleister für kaufmännische Fach- und Führungskräfte bereits bei vielen großen und namhaften Firmen in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F39C701TBRGDYLNRC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F39C701TBRGDYLNRC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:01:00 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F39C701TBRGDYLNRC</SimilarJobsURL>
+      <JobTitle>Finanzbuchhalter/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/B9/MRD1XF5VNRVQF0D44B9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>jobs in time</Company>
+      <CompanyDID>c8f4z8723ds6snbysk1</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8f4z8723ds6snbysk1/jobs-in-time/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F32P76Y2LQFML818V</DID>
+      <OnetCode>29-1111.00</OnetCode>
+      <ONetFriendlyTitle>Registered Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Zeitarbeit ohne Nebenwirkungen: jobs in time medical vermittelt qualifiziertes medizinisches Personal an namhafte Unternehmen und bietet Ihnen neue...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F32P76Y2LQFML818V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F32P76Y2LQFML818V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F32P76Y2LQFML818V</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Krankenpfleger/in für Intensiv-Anästhesiepflege in München</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ld/mw53y26v8z8ftv2c2ld.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F34964GYM628DH2SP</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F34964GYM628DH2SP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F34964GYM628DH2SP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ilshofen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ilshofen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.16975</LocationLatitude>
+      <LocationLongitude>9.92148</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F34964GYM628DH2SP</SimilarJobsURL>
+      <JobTitle>Gabelstaplerfahrer/in in Ilshofen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2TV5XJ4NY7Z4HYK9</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt Braunschweig Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2TV5XJ4NY7Z4HYK9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2TV5XJ4NY7Z4HYK9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Braunschweig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Braunschweig</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.26543</LocationLatitude>
+      <LocationLongitude>10.52736</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2TV5XJ4NY7Z4HYK9</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt Braunschweig</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2WT73KMQL2CG2080</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt Ensdorf Vertriebslinie: C&amp;C Schaper Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2WT73KMQL2CG2080</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2WT73KMQL2CG2080&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ensdorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ensdorf</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.33958</LocationLatitude>
+      <LocationLongitude>11.93696</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:59 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2WT73KMQL2CG2080</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt Ensdorf</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2LK79BMV7VD80FCY</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2LK79BMV7VD80FCY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2LK79BMV7VD80FCY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Schwalbach am Taunus</Location>
+      <DisplayCity></DisplayCity>
+      <City>Schwalbach am Taunus</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.15427</LocationLatitude>
+      <LocationLongitude>8.52697</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2LK79BMV7VD80FCY</SimilarJobsURL>
+      <JobTitle>Mitarbeiter (m/w) in der Customer Service Organisation in Schwalbach am Taunus</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2K56MWHBDDJHW5BS</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Koblenz Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH Einsatzgebiet...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2K56MWHBDDJHW5BS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2K56MWHBDDJHW5BS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Koblenz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Koblenz</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>50.36079</LocationLatitude>
+      <LocationLongitude>7.59279</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2K56MWHBDDJHW5BS</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Koblenz</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2PM683SYB1PZ392S</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Fachmann (m/w) für Systemgastronomie in unsrem Großmarkt Korntal Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH Einsatzgebiet:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2PM683SYB1PZ392S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2PM683SYB1PZ392S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Korntal-Münchingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Korntal-Münchingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.82969</LocationLatitude>
+      <LocationLongitude>9.11993</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2PM683SYB1PZ392S</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Fachmann (m/w) für Systemgastronomie in unsrem Großmarkt Korntal</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LOGISTIC PEOPLE (Deutschland) GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F22V67J9D232MF5FJ</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>in Sie verfügen über eine kaufmännische Ausbildung? Idealerweise kommen Sie aus dem speditionellen Umfeld. Sie sind kommunikativ und selbständiges...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F22V67J9D232MF5FJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F22V67J9D232MF5FJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Köln</Location>
+      <DisplayCity>Köln</DisplayCity>
+      <City>Köln</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.94165</LocationLatitude>
+      <LocationLongitude>6.95505</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:58 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F22V67J9D232MF5FJ</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in speditionelle Abwicklung</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BS/M0V0MP6NYH9MBTRP0BS.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1WG6SLGD3JQKZN9Q</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Neustrelitz Vertriebslinie: C&amp;C Schaper Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1WG6SLGD3JQKZN9Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1WG6SLGD3JQKZN9Q&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neustrelitz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neustrelitz</City>
+      <State>MECKLENBURG-VORPOMMERN</State>
+      <LocationLatitude>53.36389</LocationLatitude>
+      <LocationLongitude>13.06097</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1WG6SLGD3JQKZN9Q</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Neustrelitz</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1QG78MG1P0Z7RSMP</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt in Neu-Ulm Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1QG78MG1P0Z7RSMP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1QG78MG1P0Z7RSMP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ulm</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neu-Ulm</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.39578</LocationLatitude>
+      <LocationLongitude>10.001</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1QG78MG1P0Z7RSMP</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt in Neu-Ulm</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NORMA Lebensmittelfilialbetrieb Stiftung &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1QK6RM47PF3HJ089</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Verkäufer/Verkäuferin Ausbildungsdauer: 2 Jahre In Deiner abwechslungsreichen und vielseitigen Ausbildungszeit erlernst Du alle wesentlichen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Ausbildung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1QK6RM47PF3HJ089</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1QK6RM47PF3HJ089&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>deutschlandweit</Location>
+      <DisplayCity>deutschlandweit</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.8189</LocationLatitude>
+      <LocationLongitude>9.20213</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1QK6RM47PF3HJ089</SimilarJobsURL>
+      <JobTitle>Verkäufer/Verkäuferin</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LZ/MH27VQ741858NBZBCLZ.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1S363TVDDQNNHQ4T</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (w/m) im Einzelhandel in unserem C+C Schaper Markt in Heppenheim Vertriebslinie: C&amp;C Schaper Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1S363TVDDQNNHQ4T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1S363TVDDQNNHQ4T&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Heppenheim (Bergstraße)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Heppenheim (Bergstraße)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.6429</LocationLatitude>
+      <LocationLongitude>8.63901</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1S363TVDDQNNHQ4T</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (w/m) im Einzelhandel in unserem C+C Schaper Markt in Heppenheim</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F21V6S6DKKR41VHBY</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Saarbrücken Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F21V6S6DKKR41VHBY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F21V6S6DKKR41VHBY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saarbrücken</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saarbrücken</City>
+      <State>SAARLAND</State>
+      <LocationLatitude>49.23149</LocationLatitude>
+      <LocationLongitude>6.99833</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F21V6S6DKKR41VHBY</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Saarbrücken</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F16470LV0N0H9XSSS</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F16470LV0N0H9XSSS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F16470LV0N0H9XSSS&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Homburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Homburg</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.22816</LocationLatitude>
+      <LocationLongitude>8.61852</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F16470LV0N0H9XSSS</SimilarJobsURL>
+      <JobTitle>Mitarbeiter (m/w) im telefonischen Direktvertrieb in Bad Homburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Upselling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1PR6Z3T7LL697NJT</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Wächtersbach Vertriebslinie: C&amp;C Schaper Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1PR6Z3T7LL697NJT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1PR6Z3T7LL697NJT&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wächtersbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wächtersbach</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.25506</LocationLatitude>
+      <LocationLongitude>9.28785</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1PR6Z3T7LL697NJT</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Wächtersbach</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F18H677B80XCJ1W62</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Memmingen Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F18H677B80XCJ1W62</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F18H677B80XCJ1W62&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Memmingen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Memmingen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.98634</LocationLatitude>
+      <LocationLongitude>10.1804</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F18H677B80XCJ1W62</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Memmingen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F12Z5Y6PTL19NXSRM</DID>
+      <OnetCode>41-2011.00</OnetCode>
+      <ONetFriendlyTitle>Cashiers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Heppenheim Vertriebslinie: C&amp;C Schaper Einsatzgebiet: Verkauf/Vertrieb...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F12Z5Y6PTL19NXSRM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F12Z5Y6PTL19NXSRM&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Heppenheim (Bergstraße)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Heppenheim (Bergstraße)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.6429</LocationLatitude>
+      <LocationLongitude>8.63901</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F12Z5Y6PTL19NXSRM</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Einzelhandel in unserem C+C Schaper Markt in Heppenheim</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>GOM - Gesellschaft für Optische Messtechnik mbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1296DW3HKFSC10WD</DID>
+      <OnetCode>27-4011.00</OnetCode>
+      <ONetFriendlyTitle>Audio and Video Equipment Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben bei uns: Eigenständige Entwicklung und Umsetzung von Filmprojekten Konzeptionelles Arbeiten im Bereich Postproduktion Animation und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F1296DW3HKFSC10WD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1296DW3HKFSC10WD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Braunschweig</Location>
+      <DisplayCity>Braunschweig</DisplayCity>
+      <City>Braunschweig</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.26543</LocationLatitude>
+      <LocationLongitude>10.52736</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1296DW3HKFSC10WD</SimilarJobsURL>
+      <JobTitle>Mitarbeiter im Bereich Audiovisuelle Medien / Mediengestalter – Bild und Ton (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1J/MJY4816W2C8S2M06S1J.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0PM74JYBLL9RVQVV</DID>
+      <OnetCode>51-7011.00</OnetCode>
+      <ONetFriendlyTitle>Cabinetmakers and Bench Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0PM74JYBLL9RVQVV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0PM74JYBLL9RVQVV&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Öhringen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Öhringen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>49.20179</LocationLatitude>
+      <LocationLongitude>9.50581</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0PM74JYBLL9RVQVV</SimilarJobsURL>
+      <JobTitle>Holzbearbeitungsmechaniker/in in Öhringen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F10B659932QBRQ609</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel, Großmarkt Brunnthal Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH Einsatzgebiet: Verkauf...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F10B659932QBRQ609</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F10B659932QBRQ609&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brunnthal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brunnthal</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.00689</LocationLatitude>
+      <LocationLongitude>11.68468</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:54 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F10B659932QBRQ609</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel, Großmarkt Brunnthal</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0HM6NM505N0YK7FN</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0HM6NM505N0YK7FN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0HM6NM505N0YK7FN&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gelsenkirchen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gelsenkirchen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.51133</LocationLatitude>
+      <LocationLongitude>7.09253</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0HM6NM505N0YK7FN</SimilarJobsURL>
+      <JobTitle>Umschlagsmitarbeiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>jobs in time</Company>
+      <CompanyDID>c8f4z8723ds6snbysk1</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/c8f4z8723ds6snbysk1/jobs-in-time/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0HP6FNPGLD0W8LMY</DID>
+      <OnetCode>29-1111.03</OnetCode>
+      <ONetFriendlyTitle>Critical Care Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Zeitarbeit ohne Nebenwirkungen: jobs in time medical vermittelt qualifiziertes medizinisches Personal an namhafte Unternehmen und bietet Ihnen neue...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0HP6FNPGLD0W8LMY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0HP6FNPGLD0W8LMY&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0HP6FNPGLD0W8LMY</SimilarJobsURL>
+      <JobTitle>Gesundheits- und Kinderkrankenpfleger/in für Intensivpflege in München ab 23€</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ld/mw53y26v8z8ftv2c2ld.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JobImpulse GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0LH69CVPZFW55316</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Bei uns sind Sie richtig, wenn Sie auf der Suche nach neuen, kurzen Wegen zum richtigen Job, einer neuen Karriere oder neuen Möglichkeiten sind. Wir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0LH69CVPZFW55316</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0LH69CVPZFW55316&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hermeskeil</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hermeskeil</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.65368</LocationLatitude>
+      <LocationLongitude>6.9482</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0LH69CVPZFW55316</SimilarJobsURL>
+      <JobTitle>Tischler/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ND/MR84BG6X30YG3BTNNND.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0JM66FX2T5QKVQQQ</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Braunschweig Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0JM66FX2T5QKVQQQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0JM66FX2T5QKVQQQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Braunschweig</Location>
+      <DisplayCity></DisplayCity>
+      <City>Braunschweig</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.26543</LocationLatitude>
+      <LocationLongitude>10.52736</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0JM66FX2T5QKVQQQ</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Braunschweig</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F00G5XL2Y0V9YTWQ8</DID>
+      <OnetCode>49-2091.00</OnetCode>
+      <ONetFriendlyTitle>Avionics Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F00G5XL2Y0V9YTWQ8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F00G5XL2Y0V9YTWQ8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Duisburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Duisburg</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.43144</LocationLatitude>
+      <LocationLongitude>6.76393</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F00G5XL2Y0V9YTWQ8</SimilarJobsURL>
+      <JobTitle>Elektroinstallateur / Elektroniker (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F00S6GYM5TX979PHJ</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F00S6GYM5TX979PHJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F00S6GYM5TX979PHJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Regensburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Regensburg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.01492</LocationLatitude>
+      <LocationLongitude>12.10173</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F00S6GYM5TX979PHJ</SimilarJobsURL>
+      <JobTitle>Maler (m/w) in Regensburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freelancer.Net GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F02G6Z2HBZKT08TSX</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Freelancer Projekt - Beginn: 15.01.2015 oder später / Dauer: 6 MM+ / Ort: Ludwigshafen Wir suchen für unseren Kunden einen: #4361 Berater/Erfahrener...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F02G6Z2HBZKT08TSX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F02G6Z2HBZKT08TSX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ludwigshafen am Rhein</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ludwigshafen am Rhein</City>
+      <State>RHEINLAND-PFALZ</State>
+      <LocationLatitude>49.48099</LocationLatitude>
+      <LocationLongitude>8.44734</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F02G6Z2HBZKT08TSX</SimilarJobsURL>
+      <JobTitle>Für Freelancer - #4361 Berater/Erfahrener Zertifikatsmanager PKI (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7S/MFG54866K3Q4R9KQ77S.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRO Cash &amp; Carry Deutschland GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0056G5N6PVDZGCWR</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Siegen Vertriebslinie: METRO Cash &amp; Carry Deutschland GmbH Einsatzgebiet:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F0056G5N6PVDZGCWR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0056G5N6PVDZGCWR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Siegen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Siegen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.87242</LocationLatitude>
+      <LocationLongitude>8.0229</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:00:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0056G5N6PVDZGCWR</SimilarJobsURL>
+      <JobTitle>Ausbildung zum Kaufmann (m/w) im Groß- und Außenhandel in unserem Großmarkt Siegen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/73/MFG39964J6B089DJJ73.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6X160D7H0Z13KN23</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G6X160D7H0Z13KN23</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6X160D7H0Z13KN23&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Limburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Limburg</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.38734</LocationLatitude>
+      <LocationLongitude>8.0636</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6X160D7H0Z13KN23</SimilarJobsURL>
+      <JobTitle>CNC-Fräser (m/w) für modernes Unternehmen in Limburg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8446QS0C7TV4P8SP</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G8446QS0C7TV4P8SP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8446QS0C7TV4P8SP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mörfelden-Walldorf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mörfelden-Walldorf</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.97426</LocationLatitude>
+      <LocationLongitude>8.56901</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8446QS0C7TV4P8SP</SimilarJobsURL>
+      <JobTitle>Lkw-Mechaniker (m/w) zur Direktvermittlung in Mß¶rfelden-Walldorf</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5TS6N3ZKSMG7DM3R</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L5TS6N3ZKSMG7DM3R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5TS6N3ZKSMG7DM3R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gelnhausen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gelnhausen</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.20296</LocationLatitude>
+      <LocationLongitude>9.19051</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5TS6N3ZKSMG7DM3R</SimilarJobsURL>
+      <JobTitle>CNC-Fräser (m/w)  für den Sondermaschinenbau im Main-Kinzig-Kreis</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2T06KPT4JL3G6HQ0</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H2T06KPT4JL3G6HQ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2T06KPT4JL3G6HQ0&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wächtersbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wächtersbach</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.25506</LocationLatitude>
+      <LocationLongitude>9.28785</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2T06KPT4JL3G6HQ0</SimilarJobsURL>
+      <JobTitle>Zerspanungsmechaniker (m/w) Frästechnik in Wächtersbach</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H14D6Q0M1Z153FCBZ</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H14D6Q0M1Z153FCBZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H14D6Q0M1Z153FCBZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Langen (Hessen)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Langen (Hessen)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.98671</LocationLatitude>
+      <LocationLongitude>8.66668</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H14D6Q0M1Z153FCBZ</SimilarJobsURL>
+      <JobTitle>Bauleiter Netzwerktechnik (m/w) Rhein Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>fax</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7B373JVQ2C1V1009</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7B373JVQ2C1V1009</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7B373JVQ2C1V1009&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hanau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hanau</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.13538</LocationLatitude>
+      <LocationLongitude>8.91657</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7B373JVQ2C1V1009</SimilarJobsURL>
+      <JobTitle>Betriebselektriker (m/w) beim Verpackungshersteller in Hanau</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0W76678L8ZBHV7VR</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H0W76678L8ZBHV7VR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0W76678L8ZBHV7VR&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dreieich</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dreieich</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0017</LocationLatitude>
+      <LocationLongitude>8.71483</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0W76678L8ZBHV7VR</SimilarJobsURL>
+      <JobTitle>Hausmeister (m/w) in Maschinenbauunternehmen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7H0629F86RWQZL56</DID>
+      <OnetCode>19-4031.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7H0629F86RWQZL56</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7H0629F86RWQZL56&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:19 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7H0629F86RWQZL56</SimilarJobsURL>
+      <JobTitle>Chemiefacharbeiter (m/w)  für Fein- und Spezialchemie im Industriepark Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1NM6QR9G850N2YRX</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G1NM6QR9G850N2YRX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1NM6QR9G850N2YRX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1NM6QR9G850N2YRX</SimilarJobsURL>
+      <JobTitle>Chemiebetriebsjungwerker (m/w)  für Fein- und Spezialchemie im Industriepark Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H23G5YDX9KHWQXMFX</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H23G5YDX9KHWQXMFX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H23G5YDX9KHWQXMFX&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dreieich</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dreieich</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.0017</LocationLatitude>
+      <LocationLongitude>8.71483</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:17 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H23G5YDX9KHWQXMFX</SimilarJobsURL>
+      <JobTitle>SPS Programmierer im Maschinenbau (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F20M6TXG3DBDCBV7F</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F20M6TXG3DBDCBV7F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F20M6TXG3DBDCBV7F&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:16 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F20M6TXG3DBDCBV7F</SimilarJobsURL>
+      <JobTitle>Chemikant (m/w)  im Bereich der Fein- und Spezialchemie in Frankfurt am Main</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7D96MBB0JLG8JYP6</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7D96MBB0JLG8JYP6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7D96MBB0JLG8JYP6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity></DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:15 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7D96MBB0JLG8JYP6</SimilarJobsURL>
+      <JobTitle>Zugführer (m/w) im Bauzug- und Arbeitszugdienst für Projekte bundesweit - Direktvermittlung -</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5SR5WJK8MHSF6525</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F5SR5WJK8MHSF6525</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5SR5WJK8MHSF6525&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Friedberg (Hessen)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Friedberg (Hessen)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.33672</LocationLatitude>
+      <LocationLongitude>8.75369</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:13 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5SR5WJK8MHSF6525</SimilarJobsURL>
+      <JobTitle>Elektroniker (m/w) beim führenden Anbieter industrieller 3D-Drucktechnik in Friedberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6FP660FBF575VB4S</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J6FP660FBF575VB4S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6FP660FBF575VB4S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Darmstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Darmstadt</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.87269</LocationLatitude>
+      <LocationLongitude>8.65016</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:11 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6FP660FBF575VB4S</SimilarJobsURL>
+      <JobTitle>Produktionsmitarbeiter (m/w) im Chemiebereich für den Standort in Darmstadt</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Open Grid Forum</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6KP6K717HQ2DNSR6</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L6KP6K717HQ2DNSR6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6KP6K717HQ2DNSR6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dietzenbach</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dietzenbach</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.00929</LocationLatitude>
+      <LocationLongitude>8.77697</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6KP6K717HQ2DNSR6</SimilarJobsURL>
+      <JobTitle>CNC-Fräser / Zerspanungsmechaniker (m/w) für Standort in Dietzenbach</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F45V6XVFNJG4M4P81</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F45V6XVFNJG4M4P81</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F45V6XVFNJG4M4P81&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wiesbaden</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wiesbaden</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.08459</LocationLatitude>
+      <LocationLongitude>8.2423</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F45V6XVFNJG4M4P81</SimilarJobsURL>
+      <JobTitle>Elektromeister (m/w) für Inbetriebnahmen von Bildverarbeitungssystemen International</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4G7616XXX6WS71ZJ</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F4G7616XXX6WS71ZJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4G7616XXX6WS71ZJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wiesbaden</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wiesbaden</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.08459</LocationLatitude>
+      <LocationLongitude>8.2423</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4G7616XXX6WS71ZJ</SimilarJobsURL>
+      <JobTitle>POS Manager/in Sales Promotion</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales Promotion</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2KC63PWQTZVJ4JT7</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L2KC63PWQTZVJ4JT7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2KC63PWQTZVJ4JT7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Langen (Hessen)</Location>
+      <DisplayCity></DisplayCity>
+      <City>Langen (Hessen)</City>
+      <State>HESSEN</State>
+      <LocationLatitude>49.98671</LocationLatitude>
+      <LocationLongitude>8.66668</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2KC63PWQTZVJ4JT7</SimilarJobsURL>
+      <JobTitle>Kommunikationselektroniker (m/w) in der Kabeldatentechnik</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>fax</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>phersu consult GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G00M6G64Q8RXPGBZZ</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>phersu consult ist der regionale Spezialist in der Vermittlung qualifizierter Fachkräfte in Festanstellung und Projektarbeit. Hervorragende Kontakte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G00M6G64Q8RXPGBZZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G00M6G64Q8RXPGBZZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nidderau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nidderau</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.23796</LocationLatitude>
+      <LocationLongitude>8.86504</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 12:03:09 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G00M6G64Q8RXPGBZZ</SimilarJobsURL>
+      <JobTitle>Werkzeugmacher (m/w) beim Familienunternehmen im Main-Kinzig-Kreis</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P1/MX15HP6QG7S1209VJP1.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6CQ6KZ8T4C9R5N00</DID>
+      <OnetCode>11-9199.01</OnetCode>
+      <ONetFriendlyTitle>Regulatory Affairs Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Recruiting for a CMC manager with a young pharmaceutical company with modern offices in Germany, focused primarily on Research and Development of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H6CQ6KZ8T4C9R5N00</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6CQ6KZ8T4C9R5N00&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity>Frankfurt am Main</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:06:50 PM</PostedTime>
+      <Pay>70.000 € - 90.000 €/Jahr</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6CQ6KZ8T4C9R5N00</SimilarJobsURL>
+      <JobTitle>Regulatory Affairs Manager - CMC - Frankfurt</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>New product development</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Z Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7XW6B9SC90613DZD</DID>
+      <OnetCode>13-1073.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Z Personalmanagement GmbH zählt seit 1995 zu den etabalierten Personaldienstleistern der Stadt München. Als Spezialist für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F7XW6B9SC90613DZD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7XW6B9SC90613DZD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Holzkirchen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Holzkirchen</City>
+      <State>BAYERN</State>
+      <LocationLatitude>47.8894</LocationLatitude>
+      <LocationLongitude>11.7</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 12:32:07 PM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7XW6B9SC90613DZD</SimilarJobsURL>
+      <JobTitle>Arbeitsvorbereiter (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BK/MSG17K6DVKLM1H491BK.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Z Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H78F6YQWNJ6MRYHRC</DID>
+      <OnetCode>35-2021.00</OnetCode>
+      <ONetFriendlyTitle>Food Preparation Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Z Personalmanagement GmbH zählt seit 1995 zu den etabalierten Personaldienstleistern der Stadt München. Als Spezialist für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H78F6YQWNJ6MRYHRC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H78F6YQWNJ6MRYHRC&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 12:32:07 PM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H78F6YQWNJ6MRYHRC</SimilarJobsURL>
+      <JobTitle>Koch m/w</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BK/MSG17K6DVKLM1H491BK.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Z Personalmanagement GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7496DNHWDXT2DRS8</DID>
+      <OnetCode>43-5032.00</OnetCode>
+      <ONetFriendlyTitle>Dispatchers, Except Police, Fire, and Ambulance</ONetFriendlyTitle>
+      <DescriptionTeaser>StellenbeschreibungDie Z Personalmanagement GmbH zählt seit 1995 zu den etabalierten Personaldienstleistern der Stadt München. Als Spezialist für...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7496DNHWDXT2DRS8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7496DNHWDXT2DRS8&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>München</Location>
+      <DisplayCity></DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.13641</LocationLatitude>
+      <LocationLongitude>11.57753</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 12:32:07 PM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7496DNHWDXT2DRS8</SimilarJobsURL>
+      <JobTitle>Disponent/in</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BK/MSG17K6DVKLM1H491BK.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0WX6SH2L2HFWSDZ3</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Technischer Assistent - innovative Produkte - Frankfurt Mein Kunde, ein international agierendes Pharmaunternehmen mit Sitz in Frankfurt, sucht einen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G0WX6SH2L2HFWSDZ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0WX6SH2L2HFWSDZ3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Frankfurt am Main</Location>
+      <DisplayCity>Frankfurt am Main</DisplayCity>
+      <City>Frankfurt am Main</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.11208</LocationLatitude>
+      <LocationLongitude>8.68341</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 12:27:02 PM</PostedTime>
+      <Pay>30.000 € - 40.000 €/Jahr</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0WX6SH2L2HFWSDZ3</SimilarJobsURL>
+      <JobTitle>Technischer Assistent - innovative Produkte - Frankfurt</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ISO 9000</Skill>
+        <Skill>ISO 13485</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>fairKauf eG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2LB66JK4SC2Z7QP6</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihr Aufgabengebiet: Sie sind eines von zwei hauptamtlichen Mitgliedern eines Gesamtvorstandes (derzeit 5 Mitglieder) und führen die Genossenschaft...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR2LB66JK4SC2Z7QP6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2LB66JK4SC2Z7QP6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 11:18:38 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2LB66JK4SC2Z7QP6</SimilarJobsURL>
+      <JobTitle>hauptamtlicher Vorstand (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XR/MSL7066C5GKM1D24FXR.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G79S5VYDQS62J6LL4</DID>
+      <OnetCode>19-1042.00</OnetCode>
+      <ONetFriendlyTitle>Medical Scientists, Except Epidemiologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Scientist- Nucleic Acid Production- Innovative Biopharma NonStop Recruitment are currently searching for a Scientist to join an exciting...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3G79S5VYDQS62J6LL4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G79S5VYDQS62J6LL4&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Germany</Location>
+      <DisplayCity>Germany</DisplayCity>
+      <City>Tübingen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.52036</LocationLatitude>
+      <LocationLongitude>9.04911</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 11:15:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G79S5VYDQS62J6LL4</SimilarJobsURL>
+      <JobTitle>Scientist - Nucleic Acid Production- Innovative Biopharma</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>avitea GmbH work &amp; more</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2NN6JMZF18DDRW4D</DID>
+      <OnetCode>19-4031.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Als Tochterunternehmen eines international tätigen Automobilzulieferers mit langjähriger Erfahrung und Know-how, bieten wir professionelle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3F2NN6JMZF18DDRW4D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2NN6JMZF18DDRW4D&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Göttingen</Location>
+      <DisplayCity>Göttingen</DisplayCity>
+      <City>Göttingen</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>51.53264</LocationLatitude>
+      <LocationLongitude>9.92816</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 11:07:06 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2NN6JMZF18DDRW4D</SimilarJobsURL>
+      <JobTitle>Chemisch-technischer Assistent (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/61/MJW3RP6N43B8Z4CY961.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>avitea GmbH work &amp; more</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0NS6PWJ88GYPH6T6</DID>
+      <OnetCode>51-9111.00</OnetCode>
+      <ONetFriendlyTitle>Packaging and Filling Machine Operators and Tenders</ONetFriendlyTitle>
+      <DescriptionTeaser>avitea – erfolgreiche Human Resource Lösungen für höchste Ansprüche. Als 100%-Tochter der Hella KGaA Hueck &amp; Co. entwickeln wir professionelle und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3K0NS6PWJ88GYPH6T6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0NS6PWJ88GYPH6T6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Siegen</Location>
+      <DisplayCity>Siegen</DisplayCity>
+      <City>Siegen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>50.8798</LocationLatitude>
+      <LocationLongitude>7.99228</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 11:07:04 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0NS6PWJ88GYPH6T6</SimilarJobsURL>
+      <JobTitle>Maschinenbediener (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9W/MQ35XQ5XDLSGL9Y8V9W.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL1SD606Z83JSPZNKP</DID>
+      <OnetCode>29-2099.03</OnetCode>
+      <ONetFriendlyTitle>Ophthalmic Medical Technologists and Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: •	Sie sind kompetenter Ansprechpartner für Kunden und Mitarbeiter in allen Fragen. •	Sie führen Ihre Niederlassung ergebnisorientiert...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL1SD606Z83JSPZNKP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL1SD606Z83JSPZNKP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hannover</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hannover</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.37227</LocationLatitude>
+      <LocationLongitude>9.73815</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:50:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL1SD606Z83JSPZNKP</SimilarJobsURL>
+      <JobTitle>Niederlassungsleitung (m/w) Ref. 1150-002731</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LN/MTH10T699K2VWCZQSLN.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L3L56XZ488HRBCZBP</DID>
+      <OnetCode>29-9011.00</OnetCode>
+      <ONetFriendlyTitle>Occupational Health and Safety Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3L3L56XZ488HRBCZBP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3L56XZ488HRBCZBP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Großwallstadt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Großwallstadt</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.87647</LocationLatitude>
+      <LocationLongitude>9.15855</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:47:37 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3L56XZ488HRBCZBP</SimilarJobsURL>
+      <JobTitle>Fachlagerist/in in Großwallstadt</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H40S6YYX8YNNHN2Q7</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H40S6YYX8YNNHN2Q7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H40S6YYX8YNNHN2Q7&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dunningen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dunningen</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.21278</LocationLatitude>
+      <LocationLongitude>8.50488</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:44:10 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H40S6YYX8YNNHN2Q7</SimilarJobsURL>
+      <JobTitle>Kraftfahrzeugführer/in mit Seitenlader RECHTS in Dunningen</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Betting Connections Recruitment Solutions</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5J16Q0T97JRDXH5K</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsibilities: Working night and evening shifts to handle customer queries via email and live chat. Being a representative towards customers....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHM5J16Q0T97JRDXH5K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5J16Q0T97JRDXH5K&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Malta</Location>
+      <DisplayCity>Malta</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.51607</LocationLatitude>
+      <LocationLongitude>13.37698</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:28:24 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5J16Q0T97JRDXH5K</SimilarJobsURL>
+      <JobTitle>Turkish speaking Customer Support Agents needed in sunny Malta!</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C7/M0V0YW683MZL1RW2QC7.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>univativ GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR4L16NJJGN5Z0QNHQ</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Karrierelevel : Student - Teilzeit, ca. 16-20h/Woche Start und Laufzeit : ab sofort, langfristig Arbeitsort : Essen Projekt-ID : 20141870 (bitte bei...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Werkstudenten-/Diplomandenstelle</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR4L16NJJGN5Z0QNHQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR4L16NJJGN5Z0QNHQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Essen-45131</Location>
+      <DisplayCity></DisplayCity>
+      <City>Essen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.4295</LocationLatitude>
+      <LocationLongitude>6.99763</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:19:22 AM</PostedTime>
+      <Pay>12,00 € - 14,00 €/Stunde</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR4L16NJJGN5Z0QNHQ</SimilarJobsURL>
+      <JobTitle>Anwendungsentwickler (m/w) MS Access im Energieumfeld</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft access</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sitech Sitztechnik GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2J76ZNQ2S3QXTW7J</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Für diese herausfordernde Position suchen wir Sie mit dem folgenden Profil: Abgeschlossenes Studium des Maschinenbaus oder Techniker/Meister mit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR2J76ZNQ2S3QXTW7J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2J76ZNQ2S3QXTW7J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:14:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2J76ZNQ2S3QXTW7J</SimilarJobsURL>
+      <JobTitle>Projektleiter Industrialisierung Werkzeugverfolgung (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/K3/MVQ6KW6FSWGJ50NC4K3.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sitech Sitztechnik GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP89Y5XCG2NJ1CD79V</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Projektkoordination vom Auftragseingang bis 3 Monate nach Serienanlauf Führen des interdisziplinären Projektteams und Koordination der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHP89Y5XCG2NJ1CD79V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP89Y5XCG2NJ1CD79V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wolfsburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wolfsburg</City>
+      <State>NIEDERSACHSEN</State>
+      <LocationLatitude>52.42127</LocationLatitude>
+      <LocationLongitude>10.78741</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:14:56 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP89Y5XCG2NJ1CD79V</SimilarJobsURL>
+      <JobTitle>Projektleiter Vertrieb (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/K3/MVQ6KW6FSWGJ50NC4K3.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>univativ GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS4JF6HBYSGLC0MF05</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Karrierelevel: Student –Teilzeit (20 Std./ Woche) Beginn und Dauer: Ab sofort,für mindestens 3Monate Arbeitsort: Hanau Projekt-ID: 20150027 (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Werkstudenten-/Diplomandenstelle</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHS4JF6HBYSGLC0MF05</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS4JF6HBYSGLC0MF05&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hanau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hanau</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.13538</LocationLatitude>
+      <LocationLongitude>8.91657</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:12:42 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS4JF6HBYSGLC0MF05</SimilarJobsURL>
+      <JobTitle>Werkstudent (m/w) im Marketing</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>univativ GmbH &amp; Co. KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL5SJ6KP7KCQ3B927S</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Karrierelevel: Student –Teilzeit (16-20 Std./ Woche) Beginn und Dauer: Ab sofort,für 3 Monate, mitVerlängerungsoption Arbeitsort: Bad Homburg Projekt-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Werkstudenten-/Diplomandenstelle</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL5SJ6KP7KCQ3B927S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL5SJ6KP7KCQ3B927S&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bad Homburg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bad Homburg</City>
+      <State>HESSEN</State>
+      <LocationLatitude>50.22816</LocationLatitude>
+      <LocationLongitude>8.61852</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:10:55 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL5SJ6KP7KCQ3B927S</SimilarJobsURL>
+      <JobTitle>Werkstudent (m/w) Java-Entwicklung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J7F264N3HLZV0D1B3</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J7F264N3HLZV0D1B3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7F264N3HLZV0D1B3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Weida</Location>
+      <DisplayCity></DisplayCity>
+      <City>Weida</City>
+      <State>THÜRINGEN</State>
+      <LocationLatitude>50.77368</LocationLatitude>
+      <LocationLongitude>12.06156</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:09:40 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7F264N3HLZV0D1B3</SimilarJobsURL>
+      <JobTitle>Blechbiegerin/in bei Weida</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB781B71J6JLSD1DY00</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Profil: Sie haben eine Ausbildung als Näherin/Schneiderin Sie kennen sich mit Industrienähmaschinen und Overlock Naehmaschine aus Sie sprechen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB781B71J6JLSD1DY00</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB781B71J6JLSD1DY00&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aargau/Solothurn</Location>
+      <DisplayCity>Aargau/Solothurn</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.5319</LocationLatitude>
+      <LocationLongitude>13.3834</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:08:23 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB781B71J6JLSD1DY00</SimilarJobsURL>
+      <JobTitle>Näherin/Schneiderin temporär oder Festanstellung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77326VWZTL2QZ6W5V</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Profil: Sie haben eine Ausbildung als Näherin/Schneiderin Sie kennen sich mit Industrienähmaschinen und Overlock Naehmaschine aus Sie sprechen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB77326VWZTL2QZ6W5V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77326VWZTL2QZ6W5V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aargau/Solothurn</Location>
+      <DisplayCity>Aargau/Solothurn</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7815</LocationLatitude>
+      <LocationLongitude>9.18305</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:08:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77326VWZTL2QZ6W5V</SimilarJobsURL>
+      <JobTitle>Näherin/Schneiderin temporär oder Festanstellung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB756H6XXJDV800TV3Y</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Profil: Sie haben eine Ausbildung als Näherin/Schneiderin Sie kennen sich mit Industrienähmaschinen und Overlock Naehmaschine aus Sie sprechen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB756H6XXJDV800TV3Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB756H6XXJDV800TV3Y&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aargau/Solothurn</Location>
+      <DisplayCity>Aargau/Solothurn</DisplayCity>
+      <City>Leverkusen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.01484</LocationLatitude>
+      <LocationLongitude>6.98622</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:08:22 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB756H6XXJDV800TV3Y</SimilarJobsURL>
+      <JobTitle>Näherin/Schneiderin temporär oder Festanstellung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70FT6WD5HQK6J62W6</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Profil: Sie haben eine Ausbildung als Näherin/Schneiderin Sie kennen sich mit Industrienähmaschinen und Overlock Naehmaschine aus Sie sprechen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB70FT6WD5HQK6J62W6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70FT6WD5HQK6J62W6&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aargau/Solothurn</Location>
+      <DisplayCity>Aargau/Solothurn</DisplayCity>
+      <City>Dresden</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.06</LocationLatitude>
+      <LocationLongitude>13.7178</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:08:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70FT6WD5HQK6J62W6</SimilarJobsURL>
+      <JobTitle>Näherin/Schneiderin temporär oder Festanstellung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77MP6P9XK8X9YCZ4B</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Profil: Sie haben eine Ausbildung als Näherin/Schneiderin Sie kennen sich mit Industrienähmaschinen und Overlock Naehmaschine aus Sie sprechen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB77MP6P9XK8X9YCZ4B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77MP6P9XK8X9YCZ4B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aargau/Solothurn</Location>
+      <DisplayCity>Aargau/Solothurn</DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.9947</LocationLatitude>
+      <LocationLongitude>7.84938</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:08:21 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77MP6P9XK8X9YCZ4B</SimilarJobsURL>
+      <JobTitle>Näherin/Schneiderin temporär oder Festanstellung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP6D578P5RR11HR7DP</DID>
+      <OnetCode>51-6052.00</OnetCode>
+      <ONetFriendlyTitle>Tailors, Dressmakers, and Custom Sewers</ONetFriendlyTitle>
+      <DescriptionTeaser>Profil: Sie haben eine Ausbildung als Näherin/Schneiderin Sie kennen sich mit Industrienähmaschinen und Overlock Naehmaschine aus Sie sprechen...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHP6D578P5RR11HR7DP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP6D578P5RR11HR7DP&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aargau/Solothurn</Location>
+      <DisplayCity>Aargau/Solothurn</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 10:08:20 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP6D578P5RR11HR7DP</SimilarJobsURL>
+      <JobTitle>Näherin/Schneiderin temporär oder Festanstellung</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB78J55YXX3DMJS9M0J</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Ihre Hauptaufgaben umfassen Inbetriebnahmen von Maschinen, Parametrierungen, Verdrahtungen, Störungsbehebungen sowie Serviceeinsätze...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB78J55YXX3DMJS9M0J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB78J55YXX3DMJS9M0J&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland</Location>
+      <DisplayCity>Baselland</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.5319</LocationLatitude>
+      <LocationLongitude>13.3834</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:53 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB78J55YXX3DMJS9M0J</SimilarJobsURL>
+      <JobTitle>Elektromonteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB75Y46BRJ5FRL80CJQ</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Ihre Hauptaufgaben umfassen Inbetriebnahmen von Maschinen, Parametrierungen, Verdrahtungen, Störungsbehebungen sowie Serviceeinsätze...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB75Y46BRJ5FRL80CJQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB75Y46BRJ5FRL80CJQ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland</Location>
+      <DisplayCity>Baselland</DisplayCity>
+      <City>Leverkusen</City>
+      <State>NORDRHEIN-WESTFALEN</State>
+      <LocationLatitude>51.01484</LocationLatitude>
+      <LocationLongitude>6.98622</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB75Y46BRJ5FRL80CJQ</SimilarJobsURL>
+      <JobTitle>Elektromonteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB740V774WZ3F27SJGD</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Ihre Hauptaufgaben umfassen Inbetriebnahmen von Maschinen, Parametrierungen, Verdrahtungen, Störungsbehebungen sowie Serviceeinsätze...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB740V774WZ3F27SJGD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB740V774WZ3F27SJGD&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland</Location>
+      <DisplayCity>Baselland</DisplayCity>
+      <City>Dresden</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.06</LocationLatitude>
+      <LocationLongitude>13.7178</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB740V774WZ3F27SJGD</SimilarJobsURL>
+      <JobTitle>Elektromonteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB71QH5XK07C632S6L3</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Ihre Hauptaufgaben umfassen Inbetriebnahmen von Maschinen, Parametrierungen, Verdrahtungen, Störungsbehebungen sowie Serviceeinsätze...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB71QH5XK07C632S6L3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71QH5XK07C632S6L3&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland</Location>
+      <DisplayCity>Baselland</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7815</LocationLatitude>
+      <LocationLongitude>9.18305</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:52 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71QH5XK07C632S6L3</SimilarJobsURL>
+      <JobTitle>Elektromonteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70FY5Z755VQDDWW7R</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Ihre Hauptaufgaben umfassen Inbetriebnahmen von Maschinen, Parametrierungen, Verdrahtungen, Störungsbehebungen sowie Serviceeinsätze...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB70FY5Z755VQDDWW7R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70FY5Z755VQDDWW7R&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland</Location>
+      <DisplayCity>Baselland</DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.9947</LocationLatitude>
+      <LocationLongitude>7.84938</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:51 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70FY5Z755VQDDWW7R</SimilarJobsURL>
+      <JobTitle>Elektromonteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR65N6J703QP762V84</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Ihre Hauptaufgaben umfassen Inbetriebnahmen von Maschinen, Parametrierungen, Verdrahtungen, Störungsbehebungen sowie Serviceeinsätze...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Voll-/Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR65N6J703QP762V84</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR65N6J703QP762V84&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland</Location>
+      <DisplayCity>Baselland</DisplayCity>
+      <City>München</City>
+      <State>BAYERN</State>
+      <LocationLatitude>48.1362</LocationLatitude>
+      <LocationLongitude>11.5736</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:50 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR65N6J703QP762V84</SimilarJobsURL>
+      <JobTitle>Elektromonteur (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orizon</Company>
+      <CompanyDID>chr4h467rmlwc0frj24</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.de/jobs/unternehmen/chr4h467rmlwc0frj24/orizon/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H48K669PT144NPYL9</DID>
+      <OnetCode>41-4011.07</OnetCode>
+      <ONetFriendlyTitle>Solar Sales Representatives and Assessors</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Orizon GmbH ist Ihr kompetenter Partner, wenn es darum geht, am Arbeitsmarkt Profil zu zeigen. Unsere individuelle Beratung stellt sicher, dass...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3H48K669PT144NPYL9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H48K669PT144NPYL9&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nürnberg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nürnberg</City>
+      <State>BAYERN</State>
+      <LocationLatitude>49.45429</LocationLatitude>
+      <LocationLongitude>11.07396</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:57:39 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H48K669PT144NPYL9</SimilarJobsURL>
+      <JobTitle>Sachbearbeiter/in Energiebranche in Nürnberg</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/91/m0t5p46323z0gydzk91.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Commodity Risk Management Company</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL7KP79CGSB3BCYP4N</DID>
+      <OnetCode>41-3031.03</OnetCode>
+      <ONetFriendlyTitle>Securities and Commodities Traders</ONetFriendlyTitle>
+      <DescriptionTeaser>ARBEITSAUFGABEN: Der Job istauf richtigem sozialen Kontakt und Kontaktpflege aufgebaut. Denn nur guterUmgang mit Kunden wird mit "Geschäft" belohnt....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL7KP79CGSB3BCYP4N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL7KP79CGSB3BCYP4N&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hamburg-22393</Location>
+      <DisplayCity></DisplayCity>
+      <City>Hamburg</City>
+      <State>HAMBURG</State>
+      <LocationLatitude>53.6455</LocationLatitude>
+      <LocationLongitude>10.1171</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:55:05 AM</PostedTime>
+      <Pay>18.000 € - 20.000 €/Jahr</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL7KP79CGSB3BCYP4N</SimilarJobsURL>
+      <JobTitle>Rohstoff-Händler (spezialisierung Türkei)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2F/MSQ1BW73L17Y45VN32F.JPG</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Salamander Deutschland Gmbh &amp; Co KG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR67063ZQZ277F7C7V</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Die Schuhhandelsgruppe Salamander Deutschland und Schuhhaus Klauser gehört zu den Top-Five der großen Schuheinzelhandels-Unternehmen in Deutschland....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Teilzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHR67063ZQZ277F7C7V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR67063ZQZ277F7C7V&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pforzheim</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pforzheim</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.89013</LocationLatitude>
+      <LocationLongitude>8.70025</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:52:34 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR67063ZQZ277F7C7V</SimilarJobsURL>
+      <JobTitle>Verkäufer/in gesucht</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/P3/M0W8GG6W9MS8K8843P3.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB706469WSGNS42X5CG</DID>
+      <OnetCode>53-3041.00</OnetCode>
+      <ONetFriendlyTitle>Taxi Drivers and Chauffeurs</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Bedienung Saugbagger Mitarbeit auf der Baustelle Ihr Profil: Sie verfügen über Erfahrung im Bauhauptgewerbe als Maschinist und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB706469WSGNS42X5CG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB706469WSGNS42X5CG&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland/Basel-Stadt</Location>
+      <DisplayCity>Baselland/Basel-Stadt</DisplayCity>
+      <City>Stuttgart</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>48.7815</LocationLatitude>
+      <LocationLongitude>9.18305</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:50:57 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB706469WSGNS42X5CG</SimilarJobsURL>
+      <JobTitle>Kraftfahrer Saugbagger (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB739H781N0GKQNPV81</DID>
+      <OnetCode>53-3041.00</OnetCode>
+      <ONetFriendlyTitle>Taxi Drivers and Chauffeurs</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Bedienung Saugbagger Mitarbeit auf der Baustelle Ihr Profil: Sie verfügen über Erfahrung im Bauhauptgewerbe als Maschinist und...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB739H781N0GKQNPV81</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB739H781N0GKQNPV81&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baselland/Basel-Stadt</Location>
+      <DisplayCity>Baselland/Basel-Stadt</DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.9947</LocationLatitude>
+      <LocationLongitude>7.84938</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:50:45 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB739H781N0GKQNPV81</SimilarJobsURL>
+      <JobTitle>Kraftfahrer Saugbagger (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70FG6NRTLSJNXVC6B</DID>
+      <OnetCode>53-7021.00</OnetCode>
+      <ONetFriendlyTitle>Crane and Tower Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Arbeit als Kranführer in den Bereichen Hochbau und Kundenbetriebe Ihr Profil: Kranführerschein Kat. B Einige Jahre Berufserfahrung als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB70FG6NRTLSJNXVC6B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70FG6NRTLSJNXVC6B&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Basel/Solothurn</Location>
+      <DisplayCity>Basel/Solothurn</DisplayCity>
+      <City>Dresden</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.06</LocationLatitude>
+      <LocationLongitude>13.7178</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:50:33 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70FG6NRTLSJNXVC6B</SimilarJobsURL>
+      <JobTitle>Kranführer (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DENTSPLY DETREY GmbH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2JQ7031DNVMGM4J5</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Aufgaben: In- und Outbound-Aktivitäten/Telefonverkauf Qualifizierte Datenbankbearbeitung und -pflege Versendung von Angeboten Entgegennahme von...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=J3J2JQ7031DNVMGM4J5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2JQ7031DNVMGM4J5&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Konstanz</Location>
+      <DisplayCity>Konstanz</DisplayCity>
+      <City>Konstanz</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.66385</LocationLatitude>
+      <LocationLongitude>9.17758</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:50:18 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2JQ7031DNVMGM4J5</SimilarJobsURL>
+      <JobTitle>Mitarbeiter Service Center (m/w)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SR/MH356C664JTW3KP20SR.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70HZ5XBJD3RV8Y708</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Aufgaben: Service- und Reparaturarbeiten an PW, LKW und Auflieger Störungen diagnostizieren und beheben Pneu Wechsel Sommer/Winter Überprüfung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB70HZ5XBJD3RV8Y708</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70HZ5XBJD3RV8Y708&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Basel</Location>
+      <DisplayCity>Basel</DisplayCity>
+      <City>Berlin</City>
+      <State>BERLIN</State>
+      <LocationLatitude>52.5319</LocationLatitude>
+      <LocationLongitude>13.3834</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:49:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70HZ5XBJD3RV8Y708</SimilarJobsURL>
+      <JobTitle>Lastwagenmechaniker (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL44Q6NZXSTW74VSYZ</DID>
+      <OnetCode>53-7021.00</OnetCode>
+      <ONetFriendlyTitle>Crane and Tower Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Ihre Aufgaben: Arbeit als Kranführer in den Bereichen Hochbau und Kundenbetriebe Ihr Profil: Kranführerschein Kat. B Einige Jahre Berufserfahrung als...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JHL44Q6NZXSTW74VSYZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL44Q6NZXSTW74VSYZ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Basel/Solothurn</Location>
+      <DisplayCity>Basel/Solothurn</DisplayCity>
+      <City>Freiburg im Breisgau</City>
+      <State>BADEN-WÜRTTEMBERG</State>
+      <LocationLatitude>47.9947</LocationLatitude>
+      <LocationLongitude>7.84938</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:49:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL44Q6NZXSTW74VSYZ</SimilarJobsURL>
+      <JobTitle>Kranführer (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Der Leader Personalservice AG</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB720K75M9D9HZ8MTKJ</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Aufgaben: Service- und Reparaturarbeiten an PW, LKW und Auflieger Störungen diagnostizieren und beheben Pneu Wechsel Sommer/Winter Überprüfung der...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Vollzeitbeschäftigung</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=DE&amp;DID=JB720K75M9D9HZ8MTKJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB720K75M9D9HZ8MTKJ&amp;HostSite=DE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Basel</Location>
+      <DisplayCity>Basel</DisplayCity>
+      <City>Dresden</City>
+      <State>SACHSEN</State>
+      <LocationLatitude>51.06</LocationLatitude>
+      <LocationLongitude>13.7178</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:49:44 AM</PostedTime>
+      <Pay>Keine Angaben</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.de/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB720K75M9D9HZ8MTKJ</SimilarJobsURL>
+      <JobTitle>Lastwagenmechaniker (m/w)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/26/2015 12:00:12 PM</TimeResponseSent>
+  <TimeElapsed>0.0624004</TimeElapsed>
+  <TotalPages>0</TotalPages>
+  <TotalCount>0</TotalCount>
+  <FirstItemIndex>0</FirstItemIndex>
+  <LastItemIndex>0</LastItemIndex>
+  <Results />
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>DE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>
