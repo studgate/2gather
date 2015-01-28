@@ -1,0 +1,26 @@
+{
+  "ResponseJobSearch": {
+    "TimeResponseSent": "1/26/2015 9:53:44 AM",
+    "TimeElapsed": "0.5772",
+    "TotalPages": "40",
+    "TotalCount": "40622",
+    "FirstItemIndex": "1",
+    "LastItemIndex": "100",
+    "Results": {
+      "JobSearchResult": [
+        {
+          "Company": "CARE CONNECT HOMECARE SERVICES"
+        }
+      ]
+    },
+    "SearchMetaData": {
+      "ResultsAlteredByUsersSearchPreferences": "false",
+      "SearchLocations": {
+        "SearchLocation": {
+          "CountryCode": "UK",
+          "Valid": "True"
+        }
+      }
+    }
+  }
+}

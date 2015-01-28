@@ -1,0 +1,48 @@
+{
+  "ResponseJobSearch": {
+    "TimeResponseSent": "1/26/2015 9:53:44 AM",
+    "TimeElapsed": "0.5772",
+    "TotalPages": "40",
+    "TotalCount": "40622",
+    "FirstItemIndex": "1",
+    "LastItemIndex": "100",
+    "Results": {
+      "JobSearchResult": [
+        {
+          "Company": "CARE CONNECT HOMECARE SERVICES",
+          "DID": "J3K7MC6CFXB7CZRVDHY",
+          "OnetCode": "00-0000.00",
+          "ONetFriendlyTitle": "Unclassified",
+          "DescriptionTeaser": "HOME CARERS REQUIRED . FULL/PART HOURS avail Bury/Radcliffe area, to care for the elderly in the community, £6.61 - £7.00 ph, full training given,...",
+          "EmploymentType": "Permanent",
+          "EducationRequired": "Not Specified",
+          "ExperienceRequired": "Not Specified",
+          "JobDetailsURL": "http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&HostSite=UK&DID=J3K7MC6CFXB7CZRVDHY",
+          "JobServiceURL": "https://api.careerbuilder.com/v1/job?DID=J3K7MC6CFXB7CZRVDHY&HostSite=UK&DeveloperKey=WDHP7QR6WLLWK64FD08H",
+          "Location": "Bury",
+          "DisplayCity": "Bury",
+          "City": "Bury",
+          "State": "LANCASHIRE",
+          "LocationLatitude": "53.60326",
+          "LocationLongitude": "-2.31127",
+          "PostedDate": "1/26/2015",
+          "PostedTime": "1/26/2015 9:42:47 AM",
+          "Pay": "£6.61 - £7.00/hour",
+          "SimilarJobsURL": "http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&job_did=J3K7MC6CFXB7CZRVDHY",
+          "JobTitle": "CARERS",
+          "ApplyRequirements": { "ApplyRequirement": "NoOnlineApply" },
+          "JobLevel": "-1"
+        }
+      ]
+    },
+    "SearchMetaData": {
+      "ResultsAlteredByUsersSearchPreferences": "false",
+      "SearchLocations": {
+        "SearchLocation": {
+          "CountryCode": "UK",
+          "Valid": "True"
+        }
+      }
+    }
+  }
+}
