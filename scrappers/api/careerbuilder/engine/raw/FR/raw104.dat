@@ -1,0 +1,3473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:49:08 AM</TimeResponseSent>
+  <TimeElapsed>0.2808</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13259</TotalCount>
+  <FirstItemIndex>10301</FirstItemIndex>
+  <LastItemIndex>10400</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J44X6LXFDYN6LJTC5</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Client final situé en IDF recherche un(e) Chef de projet Technico-Fonctionnel MS Dynamics CRM expérimenté sur la version 2013. Poste et missions :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J44X6LXFDYN6LJTC5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J44X6LXFDYN6LJTC5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Isle of France</Location>
+      <DisplayCity>Isle of France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 2:32:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J44X6LXFDYN6LJTC5</SimilarJobsURL>
+      <JobTitle>Consultant technico-fonctionnel MS CRM/ Client final/ IDF</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Dynamics CRM</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7DT7114RZMYLKYVT</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mon client, un client final utilisateur de MS Dynamics AX, est aujourd'hui même à la recherche de son nouveau Chef de projet MS Dynamics AX. Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7DT7114RZMYLKYVT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7DT7114RZMYLKYVT&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 2:32:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7DT7114RZMYLKYVT</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET MS DYNAMICS AX</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft dynamics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5X06CJ9VSNSC93V3</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Afin de renforcer son équipe informatique, mon client utilisateurs de l'ERP MS Dynamics Nav est à la recherche d'un Chef de Projet ERP specialisé sur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5X06CJ9VSNSC93V3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5X06CJ9VSNSC93V3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 2:32:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5X06CJ9VSNSC93V3</SimilarJobsURL>
+      <JobTitle>Chef de Projet Microsoft Dynamics Nav</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>evolution (software)</Skill>
+        <Skill>microsoft project</Skill>
+        <Skill>IL (network protocol)</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>microsoft dynamics nav</Skill>
+        <Skill>microsoft dynamics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H60J73TJQ921J2W1Z</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Administrateur Expert Citrix/Environnement Microsoft Domaines de compétences * Environnement Microsoft : o Les annuaires (Active Directory, LDAP,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H60J73TJQ921J2W1Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H60J73TJQ921J2W1Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 2:31:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H60J73TJQ921J2W1Z</SimilarJobsURL>
+      <JobTitle>Administrateur Expert Citrix</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>citrix systems</Skill>
+        <Skill>gateway (telecommunications)</Skill>
+        <Skill>dynamic host configuration protocol</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>radius</Skill>
+        <Skill>active directory</Skill>
+        <Skill>ldap</Skill>
+        <Skill>windows powershell</Skill>
+        <Skill>DNS</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F6Y05Z1ZHM4TPV2CG</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower ST MALO recherche pour son client, un Projeteur VRD H/F. Au sein d'un cabinet géomètre et VRD, vous travaillez en support auprès du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6Y05Z1ZHM4TPV2CG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6Y05Z1ZHM4TPV2CG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dinard</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dinard</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.63518</LocationLatitude>
+      <LocationLongitude>-2.05315</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6Y05Z1ZHM4TPV2CG</SimilarJobsURL>
+      <JobTitle>Projeteur BTP VRD (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J18S6SJNLH0JZVCVC</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client DCNS, un Chargé d'études/essais énergie H/F. Dans le domaine des installations de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J18S6SJNLH0JZVCVC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J18S6SJNLH0JZVCVC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J18S6SJNLH0JZVCVC</SimilarJobsURL>
+      <JobTitle>Chargé d'études essais énergie (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1Z26DZ30N4HHB20L</DID>
+      <OnetCode>17-3019.00</OnetCode>
+      <ONetFriendlyTitle>Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower ST BRIEUC INDUSTRIE TERTIAIRE recherche pour son client, acteur majeur dna sle domaine du BTP, un Dessinateur H/F. Mission à poruvoir sur St...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1Z26DZ30N4HHB20L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1Z26DZ30N4HHB20L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Brieuc</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Brieuc</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.5157</LocationLatitude>
+      <LocationLongitude>-2.76381</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1Z26DZ30N4HHB20L</SimilarJobsURL>
+      <JobTitle>Dessinateur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7FF6VWT7MLH77LKJ</DID>
+      <OnetCode>17-3019.00</OnetCode>
+      <ONetFriendlyTitle>Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower POITIERS recherche pour son client, un Dessinateur CAO H/F Dessinateur autonome sur Solidworks, vous disposez d'une longue expérience...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7FF6VWT7MLH77LKJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7FF6VWT7MLH77LKJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Poitiers</Location>
+      <DisplayCity></DisplayCity>
+      <City>Poitiers</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.58057</LocationLatitude>
+      <LocationLongitude>0.34169</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7FF6VWT7MLH77LKJ</SimilarJobsURL>
+      <JobTitle>Dessinateur CAO (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J73G6KZVCWNK69B3C</DID>
+      <OnetCode>27-1024.00</OnetCode>
+      <ONetFriendlyTitle>Graphic Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PONTARLIER recherche pour son client, un Dessinateur H/F. Mission : mettre à jour des plans sous SOLIDWORKS. Profil : - Diplôme type BAC+2 -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J73G6KZVCWNK69B3C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J73G6KZVCWNK69B3C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mouthe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mouthe</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>46.71258</LocationLatitude>
+      <LocationLongitude>6.19412</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J73G6KZVCWNK69B3C</SimilarJobsURL>
+      <JobTitle>Dessinateur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H75461JDR2JXCXY32</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower TOULOUSE CADRES INGENIERIE recherche pour son client, un Ingénieur généraliste H/F Mission : Gérer une ligne ou un groupe de lignes de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H75461JDR2JXCXY32</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H75461JDR2JXCXY32&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blagnac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Blagnac</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.63458</LocationLatitude>
+      <LocationLongitude>1.39684</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H75461JDR2JXCXY32</SimilarJobsURL>
+      <JobTitle>Ingénieur généraliste méthodes (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrialisation</Skill>
+        <Skill>Microsoft Office 2007</Skill>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5CW6V0VF2JN44KYF</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BORDEAUX AERO INGENIERIE recherche pour son client, un Technicien contrôle qualité H/F Tâches à accomplir : - contrôles dimensionnels,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5CW6V0VF2JN44KYF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5CW6V0VF2JN44KYF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bordeaux</Location>
+      <DisplayCity>Bordeaux</DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.83663</LocationLatitude>
+      <LocationLongitude>-0.58104</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5CW6V0VF2JN44KYF</SimilarJobsURL>
+      <JobTitle>Technicien contrôle qualité (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5376NF6C42RG2PCG</DID>
+      <OnetCode>17-3022.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PONTAULT BTP recherche pour son client,spécialisé dans la réalisation de travaux de couverture,étanchéité,zinguerie, un Technicien bureau d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5376NF6C42RG2PCG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5376NF6C42RG2PCG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Serris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Serris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8442</LocationLatitude>
+      <LocationLongitude>2.78793</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:34:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5376NF6C42RG2PCG</SimilarJobsURL>
+      <JobTitle>Technicien bureau d'études (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MICROSOFT FRANCE</Company>
+      <CompanyDID>chp85z6w37xlprwbfbf</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chp85z6w37xlprwbfbf/microsoft-france/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J83C66ZK70HR507XQ</DID>
+      <OnetCode>15-1071.01</OnetCode>
+      <ONetFriendlyTitle>Computer Security Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>La sécurité informatique est une priorité absolue chez Microsoft et nous nous engageons à développer des logiciels et services pour aider nos clients...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J83C66ZK70HR507XQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J83C66ZK70HR507XQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Issy-les-Moulineaux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Issy-les-Moulineaux</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.82114</LocationLatitude>
+      <LocationLongitude>2.25124</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:13:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J83C66ZK70HR507XQ</SimilarJobsURL>
+      <JobTitle>Ingénieur sécurité H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/31/M0T696740WP32PR9631.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>IL (network protocol)</Skill>
+        <Skill>active directory</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>D2M Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1VG6H01VWWS4S2WW</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>In charge of issuing technical documents for projects, tenders or internal developments. Review of Technical documentation from suppliers and or sub-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1VG6H01VWWS4S2WW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1VG6H01VWWS4S2WW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>FRANCE</Location>
+      <DisplayCity>FRANCE</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:12:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1VG6H01VWWS4S2WW</SimilarJobsURL>
+      <JobTitle>Installation Method Project Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2T/MYF61S6N30YGC76W62T.PNG</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Naval architecture</Skill>
+        <Skill>Technical documentation</Skill>
+        <Skill>Civil engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Emploi Pro</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2CS6T05CDW5HYDJ0</DID>
+      <OnetCode>13-1031.01</OnetCode>
+      <ONetFriendlyTitle>Claims Examiners, Property and Casualty Insurance</ONetFriendlyTitle>
+      <DescriptionTeaser>Intégré(e) au sein du département Flotte Automobile et Assurances, vous réceptionnez les constats amiables et les déclarations de sinistres RC -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G2CS6T05CDW5HYDJ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2CS6T05CDW5HYDJ0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bourgogne</Location>
+      <DisplayCity>Bourgogne</DisplayCity>
+      <City>Bourgogne</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>49.35105</LocationLatitude>
+      <LocationLongitude>4.07235</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:04:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2CS6T05CDW5HYDJ0</SimilarJobsURL>
+      <JobTitle>Gestionnaire Sinistres IARD et véhicules (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cabinet d'Avocats SOFFAL</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL5L5714ZN3M0QW9HG</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Cabinet d'Avocats SOFFAL , spécialisé en droit des affaires franco-allemand, recherche des stagiaires pour renforcer son équipe en droit fiscal....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL5L5714ZN3M0QW9HG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL5L5714ZN3M0QW9HG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris-75000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:01:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL5L5714ZN3M0QW9HG</SimilarJobsURL>
+      <JobTitle>Stages en cabinet d'avocats - anglais et/ou allemand indispensable</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Expectra Tours Ingénierie &amp; Industries</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6LP70PRR7RFJMBP0</DID>
+      <OnetCode>17-3012.00</OnetCode>
+      <ONetFriendlyTitle>Electrical and Electronics Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Marque Les consultants du Département Ingénierie &amp; Industries vous proposent des opportunités de carrière. Client Nous recherchons pour le compte de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6LP70PRR7RFJMBP0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6LP70PRR7RFJMBP0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>LA RICHE</Location>
+      <DisplayCity>LA RICHE</DisplayCity>
+      <City>Riche</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>48.89161</LocationLatitude>
+      <LocationLongitude>6.62822</LocationLongitude>
+      <PostedDate>12/16/2014</PostedDate>
+      <PostedTime>12/16/2014 1:00:51 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6LP70PRR7RFJMBP0</SimilarJobsURL>
+      <JobTitle>DESSINATEUR-PROJETEUR (ÉLECTRICITÉ/ÉLECTRONIQUE) (F/H)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/H7/MJQ7B062RT37PN4KSH7.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0CM6SQ16L5WJ390Y</DID>
+      <OnetCode>17-1022.00</OnetCode>
+      <ONetFriendlyTitle>Surveyors</ONetFriendlyTitle>
+      <DescriptionTeaser>METREUR MENUISERIE / ALUMINIUM / METALLERIE / FACADES Société spécialisée en menuiserie aluminium Sous la responsabilité du responsable commerciale,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0CM6SQ16L5WJ390Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0CM6SQ16L5WJ390Y&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne</Location>
+      <DisplayCity>Val-de-Marne</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.77734</LocationLatitude>
+      <LocationLongitude>2.45519</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 11:56:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0CM6SQ16L5WJ390Y</SimilarJobsURL>
+      <JobTitle>METREUR MENUISERIE/ALU/METALLERIE/FACADE AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT83Q77119SNK8FHDM</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le groupe DGE est une société spécialisée dans l'emploi de cadres, experts et techniciens spécialisés dans les domaines de l'Ingenerie, présent depuis...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT83Q77119SNK8FHDM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT83Q77119SNK8FHDM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 11:54:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT83Q77119SNK8FHDM</SimilarJobsURL>
+      <JobTitle>Projeteur Electricité Revit H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V4/MA24NG5WPSZJSW883V4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Baker &amp; McKenzie</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ6Y16XTKWX2NTNM4Q</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>COLLABORATEUR 4/5 ANS TAX - EMPLOYEE BENEFIT H/F Baker &amp; McKenzie bénéficie d’une force unique et d’une couverture géographique inégalée (4 200...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ6Y16XTKWX2NTNM4Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ6Y16XTKWX2NTNM4Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 11:18:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ6Y16XTKWX2NTNM4Q</SimilarJobsURL>
+      <JobTitle>COLLABORATEUR 4/5 ANS TAX - EMPLOYEE BENEFIT H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8HL72FCXW9ZDNWY5</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>INGENIEUR ETUDES ELECTRIQUES Société spécialisée en groupes électrogènes Sous la responsabilité hiérachique du responsable du pôle Electricité. Votre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F8HL72FCXW9ZDNWY5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8HL72FCXW9ZDNWY5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Essonne</Location>
+      <DisplayCity>Essonne</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 8:18:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8HL72FCXW9ZDNWY5</SimilarJobsURL>
+      <JobTitle>INGENIEUR ETUDES ELECTRIQUES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SNECMA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2Q46TGBDW8K4XG47</DID>
+      <OnetCode>51-4041.00</OnetCode>
+      <ONetFriendlyTitle>Machinists</ONetFriendlyTitle>
+      <DescriptionTeaser>Snecma est une société de Safran, groupe international de haute technologie, leader en aéronautique, défense et sécurité. Son activité est dédiée à la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2Q46TGBDW8K4XG47</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2Q46TGBDW8K4XG47&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>EVRY  CORBEIL</Location>
+      <DisplayCity>EVRY  CORBEIL</DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.6289</LocationLatitude>
+      <LocationLongitude>2.44567</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 6:34:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2Q46TGBDW8K4XG47</SimilarJobsURL>
+      <JobTitle>Programmeur Tournage/ Fraisage MOCN H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BC/MA177973PST53CTJ6BC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H6RG640CK23V46B77</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, opérateur global du bâtiment et des travaux publics, recherche un(e) chargé(e) d'études de prix. /n Missions principales : - Elaboration...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H6RG640CK23V46B77</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6RG640CK23V46B77&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Boulogne-Billancourt</Location>
+      <DisplayCity>Boulogne-Billancourt</DisplayCity>
+      <City>Boulogne-Billancourt</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.83515</LocationLatitude>
+      <LocationLongitude>2.24097</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 3:24:02 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6RG640CK23V46B77</SimilarJobsURL>
+      <JobTitle>CHARGE D ETUDES DE PRIX H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Marketing</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J5KW5YLHYHZJKDFNN</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Offre d'emploi de projeteur tuyauterie au sein d'une société située en Ile de France. Vous réaliserez, sous la direction d'un chef de projet les plans...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5KW5YLHYHZJKDFNN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5KW5YLHYHZJKDFNN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 1:35:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5KW5YLHYHZJKDFNN</SimilarJobsURL>
+      <JobTitle>PROJETEUR TUYAUTERIE AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F01M63S04ZKVMKCX0</DID>
+      <OnetCode>17-3013.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d'une filiale française d'un groupe international, spécialisée dans la conception, la commercialisation et la distribution de systèmes de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F01M63S04ZKVMKCX0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F01M63S04ZKVMKCX0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 1:34:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F01M63S04ZKVMKCX0</SimilarJobsURL>
+      <JobTitle>PROJETEUR MENUISERIE ALUMINIUM AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1VX60PK158HNDNJ3</DID>
+      <OnetCode>17-3019.00</OnetCode>
+      <ONetFriendlyTitle>Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d'un Bureau d'Etudes en IDF spécialisé dans la réalisation et la pose d'ouvrage en Métallerie - Serrurerie, sous l'autorité du Responsable du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1VX60PK158HNDNJ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1VX60PK158HNDNJ3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 1:34:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1VX60PK158HNDNJ3</SimilarJobsURL>
+      <JobTitle>DESSINATEUR PROJETEUR EN METALLERIE SERRURERIE AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J7GQ6V62THXBMYRQ7</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d'une entreprise spécialisée en Menuiserie, située en Ile de France. Missions : Vous réalisez des plans de fabrication. Vous réalisez des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7GQ6V62THXBMYRQ7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7GQ6V62THXBMYRQ7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/15/2014</PostedDate>
+      <PostedTime>12/15/2014 1:34:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7GQ6V62THXBMYRQ7</SimilarJobsURL>
+      <JobTitle>DESSINATEUR MENUISERIE BOIS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0P963R6R323MP1V5</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est une société spécialisée dans l'installation, la maintenance de systèmes de protection par cloisonnement ou fermeture contre le feu, l...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0P963R6R323MP1V5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0P963R6R323MP1V5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Antony</Location>
+      <DisplayCity>Antony</DisplayCity>
+      <City>Antony</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.75264</LocationLatitude>
+      <LocationLongitude>2.30265</LocationLongitude>
+      <PostedDate>12/14/2014</PostedDate>
+      <PostedTime>12/14/2014 3:05:53 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0P963R6R323MP1V5</SimilarJobsURL>
+      <JobTitle>INGENIEUR PROJET / CHEF DE PROJET H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J51G69YH7C29J72T2</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est spécialisé dans la construction métallique. /n Nous recherchons pour notre client : un CONDUCTEUR DE TRAVAUX H/F Rattaché au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J51G69YH7C29J72T2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J51G69YH7C29J72T2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Voves</Location>
+      <DisplayCity>Voves</DisplayCity>
+      <City>Voves</City>
+      <State>CENTRE</State>
+      <LocationLatitude>48.27162</LocationLatitude>
+      <LocationLongitude>1.62566</LocationLongitude>
+      <PostedDate>12/14/2014</PostedDate>
+      <PostedTime>12/14/2014 3:05:06 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J51G69YH7C29J72T2</SimilarJobsURL>
+      <JobTitle>CONDUCTEUR DE TRAVAUX H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>La Banque de France</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT1LW73QF72HQ8S59B</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>JURISTE EN DROIT BANCAIRE (H/F) La Banque de France recrute un juriste spécialisé dans le droit bancaire (h/f) pour renforcer ses équipes. Missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT1LW73QF72HQ8S59B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT1LW73QF72HQ8S59B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris 9ème</Location>
+      <DisplayCity>Paris 9ème</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/14/2014</PostedDate>
+      <PostedTime>12/14/2014 1:00:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT1LW73QF72HQ8S59B</SimilarJobsURL>
+      <JobTitle>JURISTE EN DROIT BANCAIRE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3Q/MTV6RG75CKZ2VJFR93Q.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4PJ6LN9FH69C8L29</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>FIDUCIAL est le leader des services pluridisciplinaires aux petites entreprises, positionnée sur les métiers du droit, de l'audit et du commissariat...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4PJ6LN9FH69C8L29</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4PJ6LN9FH69C8L29&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Angers</Location>
+      <DisplayCity></DisplayCity>
+      <City>Angers</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.47131</LocationLatitude>
+      <LocationLongitude>-0.55237</LocationLongitude>
+      <PostedDate>12/14/2014</PostedDate>
+      <PostedTime>12/14/2014 1:00:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4PJ6LN9FH69C8L29</SimilarJobsURL>
+      <JobTitle>Juriste Contentieux Confirmé - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Société Confidentielle</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL41465SZ03YBPG9XB</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d’une des business unit notre société, votre mission consiste à : Assister et aider le Responsable Fiscal de la BU afin d’assurer un suivi...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL41465SZ03YBPG9XB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL41465SZ03YBPG9XB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris-75000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>12/13/2014</PostedDate>
+      <PostedTime>12/13/2014 1:00:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL41465SZ03YBPG9XB</SimilarJobsURL>
+      <JobTitle>Fiscaliste h/f  (3 à 5 ans d’expérience)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>La Laurencie Conseil</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM89T6482LPH2SBF1R</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>LA LAURENCIE Conseil , cabinet de conseil en recrutement spécialisé dans les fonctions juridiques et fiscales, recherche pour un cabinet d'avocats d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM89T6482LPH2SBF1R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM89T6482LPH2SBF1R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XVI-75016</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XVI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8616</LocationLatitude>
+      <LocationLongitude>2.26189</LocationLongitude>
+      <PostedDate>12/13/2014</PostedDate>
+      <PostedTime>12/13/2014 1:00:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM89T6482LPH2SBF1R</SimilarJobsURL>
+      <JobTitle>Avocat en fiscalité immobilière</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/FS/M0V29Z6XYS25C12N4FS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SNT</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM62M5XX4H0C369368</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>FABRICANT DE COMPOSANTS DE TRANSMISSION DE PUISSANCE Recherche Dessinateur - Projeteur mécanique / cao Solidworks Vos missions: - Recherche de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM62M5XX4H0C369368</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM62M5XX4H0C369368&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Queue-en-Brie-94510</Location>
+      <DisplayCity></DisplayCity>
+      <City>Queue-en-Brie</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7805</LocationLatitude>
+      <LocationLongitude>2.57492</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 12:20:15 PM</PostedTime>
+      <Pay>26 000 € - 36 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM62M5XX4H0C369368</SimilarJobsURL>
+      <JobTitle>Dessinateur - Projeteur mécanique / cao  Solidworks</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/RD/MWN4BD64JM36FXMJYRD.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Arcelor Mittal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN0C973D6KJRT3F5VT</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein de Legal Affairs Europe, vous rejoindrez la Direction Juridique France et serez rattaché au Deputy General Counsel basé à Dunkerque....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN0C973D6KJRT3F5VT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN0C973D6KJRT3F5VT&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Denis-93200</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Denis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.937</LocationLatitude>
+      <LocationLongitude>2.34983</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 11:45:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN0C973D6KJRT3F5VT</SimilarJobsURL>
+      <JobTitle>JURISTE Senior Droit des Affaires - Droit des sociétés (CDD)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YV/MRC06377V7LZ6P7QWYV.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EASY'S</Company>
+      <CompanyDID>c8a8g56lzp3zgkp2fny</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8a8g56lzp3zgkp2fny/easys/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT4X9725FJ9WRY2T25</DID>
+      <OnetCode>17-1011.00</OnetCode>
+      <ONetFriendlyTitle>Architects, Except Landscape and Naval</ONetFriendlyTitle>
+      <DescriptionTeaser>EASY'S, société de conseil en Ingénierie et en Recrutement, spécialisée dans le Bâtiment, le Génie Civil et l'Industrie, recherche pour l'un de ses...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT4X9725FJ9WRY2T25</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT4X9725FJ9WRY2T25&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 11:45:12 AM</PostedTime>
+      <Pay>35 000 € - 45 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT4X9725FJ9WRY2T25</SimilarJobsURL>
+      <JobTitle>PROJETEUR BATIMENT/OUVRAGE - REVIT - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EASY'S</Company>
+      <CompanyDID>c8a8g56lzp3zgkp2fny</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8a8g56lzp3zgkp2fny/easys/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT87G6X666ZMFHRB6D</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients, un bureau d' études situé dans la région Rhône-Alpes, un nouveau collaborateur à intégrer en tant que :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT87G6X666ZMFHRB6D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT87G6X666ZMFHRB6D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valence</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valence</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>44.9293</LocationLatitude>
+      <LocationLongitude>4.90217</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 11:27:19 AM</PostedTime>
+      <Pay>18 000 € - 23 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT87G6X666ZMFHRB6D</SimilarJobsURL>
+      <JobTitle>DESSINATEUR RESEAUX ET CARTOGRAPHE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS1K560NLLXWHTKDXG</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Agence Tim recrute pour une société spécialisé en installation de système électrique et automatisme à destination des raffineries, un : Ingénieur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS1K560NLLXWHTKDXG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS1K560NLLXWHTKDXG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Charenton-le-Pont</Location>
+      <DisplayCity></DisplayCity>
+      <City>Charenton-le-Pont</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.82164</LocationLatitude>
+      <LocationLongitude>2.41349</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 10:44:13 AM</PostedTime>
+      <Pay>40 000 € - 46 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS1K560NLLXWHTKDXG</SimilarJobsURL>
+      <JobTitle>Ingénieur Projet en Electricité / Automatisme H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ATEX directive</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Eurofarad</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ3MC5WTHSV7S0RW05</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>EXXELIA Groupe industriel, concevant, fabriquant et commercialisant, en France et à l'export, des produits et systèmes «haut de gamme», destinés à l’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ3MC5WTHSV7S0RW05</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ3MC5WTHSV7S0RW05&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chanteloup-en-Brie</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chanteloup-en-Brie</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8542</LocationLatitude>
+      <LocationLongitude>2.74304</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 10:32:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ3MC5WTHSV7S0RW05</SimilarJobsURL>
+      <JobTitle>Ingénieur conception/innovation</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VT/MSL5LS6TJ1SL0J8H0VT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Autodesk</Skill>
+        <Skill>Autodesk Inventor</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT57C69QQ1ZXQ2SQ4Z</DID>
+      <OnetCode>43-6012.00</OnetCode>
+      <ONetFriendlyTitle>Legal Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour l’un de ses clients, un(e): Assistant(e) Juridique – M&amp;A / Corporate CDI immédiatement Cabinet d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT57C69QQ1ZXQ2SQ4Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT57C69QQ1ZXQ2SQ4Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 9:36:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT57C69QQ1ZXQ2SQ4Z</SimilarJobsURL>
+      <JobTitle>Assistant(e) Juridique – M&amp;A / Corporate</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>GIF 3</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR5WL79MFVJTZCXT7C</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>- Responsable du développement de solution pour automate , vous recherchez et analysez les nouvelles solutions automates / pesage / tactile . ( OMRON...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR5WL79MFVJTZCXT7C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR5WL79MFVJTZCXT7C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Conflans-Sainte-Honorine</Location>
+      <DisplayCity></DisplayCity>
+      <City>Conflans-Sainte-Honorine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.99337</LocationLatitude>
+      <LocationLongitude>2.09375</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:40:32 AM</PostedTime>
+      <Pay>33 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR5WL79MFVJTZCXT7C</SimilarJobsURL>
+      <JobTitle>Developpeur/ingénieur études en automatisme bilingue anglais H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>visual c++</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV5X87394KMB7BHJN3</DID>
+      <OnetCode>17-1011.00</OnetCode>
+      <ONetFriendlyTitle>Architects, Except Landscape and Naval</ONetFriendlyTitle>
+      <DescriptionTeaser>TIM recrute pour son client, Bureau d'Etudes spécialisé aéroportuaire, un Architecte AMO. Mission: - Suivi de travaux - OPC - Maitrise d'oeuvre d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV5X87394KMB7BHJN3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV5X87394KMB7BHJN3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Roissy-en-France</Location>
+      <DisplayCity></DisplayCity>
+      <City>Roissy-en-France</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.00391</LocationLatitude>
+      <LocationLongitude>2.51691</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:28:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV5X87394KMB7BHJN3</SimilarJobsURL>
+      <JobTitle>Architecte AMO H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J44D6DGMK81FKYM4G</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>AGENCE TIM FRANCE Nous sommes à la recherche d'un dessinateur/projeteur pour l'un de nos client spécalisé dans les machines spéciales. Vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J44D6DGMK81FKYM4G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J44D6DGMK81FKYM4G&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne</Location>
+      <DisplayCity>Val-de-Marne</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.77734</LocationLatitude>
+      <LocationLongitude>2.45519</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:28:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J44D6DGMK81FKYM4G</SimilarJobsURL>
+      <JobTitle>DESSINATEUR PROJETEUR SOLIDWORKS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL6Q177MGQWP7P9RRL</DID>
+      <OnetCode>49-3023.02</OnetCode>
+      <ONetFriendlyTitle>Automotive Specialty Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Agence Tim, recrute pour une société de prestation en automobile un(e) : MECANICIEN H/F VERSAILLES (78) Missions : Tri de pièces mécanique Inventaires...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL6Q177MGQWP7P9RRL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL6Q177MGQWP7P9RRL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Versailles-78000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Versailles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7978</LocationLatitude>
+      <LocationLongitude>2.11471</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:21:50 AM</PostedTime>
+      <Pay>18 000 € - 20 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL6Q177MGQWP7P9RRL</SimilarJobsURL>
+      <JobTitle>MECANICIEN H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN5906NDHKPVZWV5J6</DID>
+      <OnetCode>49-3023.01</OnetCode>
+      <ONetFriendlyTitle>Automotive Master Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Agence Tim, recrute pour une société de prestation en automobile un(e) : Mécanicien automobile H/F À COURCELLES SUR SEINE (27) Missions : Diagnostic...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN5906NDHKPVZWV5J6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN5906NDHKPVZWV5J6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aubevoye-27940</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aubevoye</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.1744</LocationLatitude>
+      <LocationLongitude>1.33356</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:15:31 AM</PostedTime>
+      <Pay>24 000 € - 27 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN5906NDHKPVZWV5J6</SimilarJobsURL>
+      <JobTitle>Mécanicien automobile H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITTAKA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV51G6X3W3GNNN60YX</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Groupe ITTAKA, Cabinet de Solutions RH, recherche pour l’un de ses clients, spécialiste en Energie, un Technicien Chauffagiste Itinérant pour le 94...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV51G6X3W3GNNN60YX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV51G6X3W3GNNN60YX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>94 (proche Créteil)</Location>
+      <DisplayCity>94 (proche Créteil)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:06:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV51G6X3W3GNNN60YX</SimilarJobsURL>
+      <JobTitle>Technicien Chauffagiste Itinérant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3W/MSG70S6SM3836W5SF3W.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2GJ74FLCSSV5L33L</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>AGENCE TIM FRANCE Nous recherchons pour intégrer un bureau d'études mécanique, un dessinateur projeteur. Rattaché(e) au responsable BE, vous avez pour...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G2GJ74FLCSSV5L33L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2GJ74FLCSSV5L33L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Essonne</Location>
+      <DisplayCity>Essonne</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 8:01:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2GJ74FLCSSV5L33L</SimilarJobsURL>
+      <JobTitle>DESSINATEUR PROJETEUR MACHINES SPECIALES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITTAKA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS32Q68LQ1W3TYR748</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Groupe ITTAKA, Cabinet de Solutions RH, recherche pour l’un de ses clients, spécialiste en Energie, un Technicien Chauffagiste Itinérant pour le 92...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS32Q68LQ1W3TYR748</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS32Q68LQ1W3TYR748&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>92 (proche Colombes)</Location>
+      <DisplayCity>92 (proche Colombes)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 7:31:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS32Q68LQ1W3TYR748</SimilarJobsURL>
+      <JobTitle>Technicien Chauffagiste Itinérant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3W/MSG70S6SM3836W5SF3W.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP68D6SLQT3FDHFQDB</DID>
+      <OnetCode>49-3023.02</OnetCode>
+      <ONetFriendlyTitle>Automotive Specialty Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Agence Tim, recrute pour une société de prestation en automobile un(e) : TECHNICIEN ESSAI BANC MOTEUR H/F A COURCELLES SUR SEINE (27) Mission :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP68D6SLQT3FDHFQDB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP68D6SLQT3FDHFQDB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aubevoye-27940</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aubevoye</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.1744</LocationLatitude>
+      <LocationLongitude>1.33356</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 6:32:38 AM</PostedTime>
+      <Pay>26 000 € - 27 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP68D6SLQT3FDHFQDB</SimilarJobsURL>
+      <JobTitle>TECHNICIEN ESSAI BANC MOTEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2WG72GNQV2JW66WZ</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recrutons pour une société spécialisée en connectique dans le domaine aéronautique, un : Projeteur Solidworks confirmé en connectique H/F A Evry...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR2WG72GNQV2JW66WZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2WG72GNQV2JW66WZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Évry-91000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.6289</LocationLatitude>
+      <LocationLongitude>2.44567</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 6:25:30 AM</PostedTime>
+      <Pay>36 000 € - 39 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2WG72GNQV2JW66WZ</SimilarJobsURL>
+      <JobTitle>Projeteur Solidworks confirmé en connecteurs H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5GC6YPBVNM1XRMH7</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recrutons pour l’un des premiers équipementiers mondial en automobile, un : Projeteur confirmé sur Créo ou Pro Engineer H/F A Andrésy (78) Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM5GC6YPBVNM1XRMH7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5GC6YPBVNM1XRMH7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Andrésy</Location>
+      <DisplayCity></DisplayCity>
+      <City>Andrésy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.98046</LocationLatitude>
+      <LocationLongitude>2.06003</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 5:15:38 AM</PostedTime>
+      <Pay>38 000 € - 42 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5GC6YPBVNM1XRMH7</SimilarJobsURL>
+      <JobTitle>Projeteur confirmé sur Créo ou Pro Engineer H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM11J6GM2Q8J8R43R5</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recrutons pour l’un des premiers équipementiers mondial en automobile, un : Ingénieur d’étude sur Créo ou Pro Engineer H/F A Andrésy (78) Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM11J6GM2Q8J8R43R5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM11J6GM2Q8J8R43R5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Andrésy</Location>
+      <DisplayCity></DisplayCity>
+      <City>Andrésy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.98046</LocationLatitude>
+      <LocationLongitude>2.06003</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 5:03:26 AM</PostedTime>
+      <Pay>40 000 € - 43 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM11J6GM2Q8J8R43R5</SimilarJobsURL>
+      <JobTitle>Ingénieur d’étude sur Créo ou Pro Engineer H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Laurence Simons</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP34Y6Q990Z78XFP6N</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Mon client est un cabinet d'avocats d'affaires international généraliste. Nous recherchons pour son département Droit Fiscal un avocat collaborateur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP34Y6Q990Z78XFP6N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP34Y6Q990Z78XFP6N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XVI-75016</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XVI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8616</LocationLatitude>
+      <LocationLongitude>2.26189</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 3:58:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP34Y6Q990Z78XFP6N</SimilarJobsURL>
+      <JobTitle>Collaborateur fiscaliste sénior</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YD/M0W6P260QYJYG4VRTYD.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6DG6XTWTB5TZD62N</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Spécialisée dans le domaine de l'impression /n Nous recherchons pour notre client basé au PECQ Assistant(e) commercial(e) Dans une petite structure...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6DG6XTWTB5TZD62N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6DG6XTWTB5TZD62N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Le Pecq</Location>
+      <DisplayCity>Le Pecq</DisplayCity>
+      <City>Le Pecq</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.89774</LocationLatitude>
+      <LocationLongitude>2.10699</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 2:50:43 AM</PostedTime>
+      <Pay>0 € - 20 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6DG6XTWTB5TZD62N</SimilarJobsURL>
+      <JobTitle>ASSISTANT(E) COMMERCIAL(E) H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3M2726P7KVWC6FDW</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisé en mécanique industrielle /n 1 DESSINATEUR (H/F) Travail au sein d'un bureau d'études /n Missions : - Conception, mesure, mise à jour des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3M2726P7KVWC6FDW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3M2726P7KVWC6FDW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Roche-sur-Yon</Location>
+      <DisplayCity>La Roche-sur-Yon</DisplayCity>
+      <City>Roche-sur-Yon</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.67194</LocationLatitude>
+      <LocationLongitude>-1.42738</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 2:50:36 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3M2726P7KVWC6FDW</SimilarJobsURL>
+      <JobTitle>DESSINATEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G24F6HKBZGH4R4LNW</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisé en ingénierie, maîtrise d'oeuvre et génie civil sur le secteur lensois, /n un technicien supérieur H/F ou ingénieur d'études electricité H/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G24F6HKBZGH4R4LNW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G24F6HKBZGH4R4LNW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lens</Location>
+      <DisplayCity>Lens</DisplayCity>
+      <City>Lens</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.42934</LocationLatitude>
+      <LocationLongitude>2.83296</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 2:50:34 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G24F6HKBZGH4R4LNW</SimilarJobsURL>
+      <JobTitle>TECHNICIEN SUPERIEUR/INGENIEUR ETUDES ELECTRICITE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G80S78P3D06WXKJDZ</DID>
+      <OnetCode>47-2061.00</OnetCode>
+      <ONetFriendlyTitle>Construction Laborers</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisée dans le revêtement des sols basée à Replonges /n un solier moquettiste expérimenté expérience en pose de parquet ou carrelage tolérée TH...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G80S78P3D06WXKJDZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G80S78P3D06WXKJDZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Replonges</Location>
+      <DisplayCity>Replonges</DisplayCity>
+      <City>Replonges</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>46.30138</LocationLatitude>
+      <LocationLongitude>4.8724</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 2:50:07 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G80S78P3D06WXKJDZ</SimilarJobsURL>
+      <JobTitle>SOLIER MOQUETTISTE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1M263QGVR0CH57XL</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est une société spécialisée dans l'installation, la maintenance de systèmes de protection par cloisonnement ou fermeture contre le feu, l...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1M263QGVR0CH57XL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1M263QGVR0CH57XL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Antony</Location>
+      <DisplayCity>Antony</DisplayCity>
+      <City>Antony</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.75264</LocationLatitude>
+      <LocationLongitude>2.30265</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 2:50:01 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1M263QGVR0CH57XL</SimilarJobsURL>
+      <JobTitle>TECHNICO COMMERCIAL H/F M/F H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H53K71MS2T9VN88N6</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower SOPHIA ANTIPOLIS recherche pour son client, un Dessinateur bureau d'études mécanique H/F Sous la responsabilité du responsable Technique,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H53K71MS2T9VN88N6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H53K71MS2T9VN88N6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Carros</Location>
+      <DisplayCity></DisplayCity>
+      <City>Carros</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.7668</LocationLatitude>
+      <LocationLongitude>7.19176</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H53K71MS2T9VN88N6</SimilarJobsURL>
+      <JobTitle>Dessinateur bureau d'études mécanique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F82V69P26F78G8BGP</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet de recrutement Manpower CDI, recherche pour son client spécialisé dans la conception de façade aluminium, un Ingénieur bureau d'études H/F...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F82V69P26F78G8BGP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F82V69P26F78G8BGP&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gray</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gray</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>47.44868</LocationLatitude>
+      <LocationLongitude>5.59113</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F82V69P26F78G8BGP</SimilarJobsURL>
+      <JobTitle>Ingénieur bureau d'études (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4D960357DQBM13SY</DID>
+      <OnetCode>17-3022.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet de recrutement Manpower CDI, recherche pour son client spécialisé dans la conception de façade aluminium, un Technicien bureau d'études H/F...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4D960357DQBM13SY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4D960357DQBM13SY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dijon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dijon</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.3268</LocationLatitude>
+      <LocationLongitude>5.04618</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4D960357DQBM13SY</SimilarJobsURL>
+      <JobTitle>Technicien bureau d'études (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4J46HBS11SV9L9KK</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur Majeur des Ressources Humaines, Manpower CHATEAU THIERRY recherche pour son client, un Opérateur qualité contrôle électronique H/F. Votre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4J46HBS11SV9L9KK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4J46HBS11SV9L9KK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Château-Thierry</Location>
+      <DisplayCity></DisplayCity>
+      <City>Château-Thierry</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.04403</LocationLatitude>
+      <LocationLongitude>3.4003</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4J46HBS11SV9L9KK</SimilarJobsURL>
+      <JobTitle>Opérateur qualité contrôle électronique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J5J171Y0Y9YYZX22F</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Pontoise BTP recherche pour son client, un Dessinateur H/F en éclairage public. Vos missions seront les suivantes : - Intervenir en phase...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5J171Y0Y9YYZX22F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5J171Y0Y9YYZX22F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>d'Oise</Location>
+      <DisplayCity>Val-d'Oise</DisplayCity>
+      <City>Cergy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.0352</LocationLatitude>
+      <LocationLongitude>2.07982</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5J171Y0Y9YYZX22F</SimilarJobsURL>
+      <JobTitle>Dessinateur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5H56GCQVPJB9KJFV</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client, un Technicien d'études manutentions/transferts H/F Vous travaillez au sein d'un bureau d...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5H56GCQVPJB9KJFV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5H56GCQVPJB9KJFV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5H56GCQVPJB9KJFV</SimilarJobsURL>
+      <JobTitle>Technicien d'études manutentions/transferts (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Manual handling</Skill>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H8FD78678KW1H7HVD</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet de recrutement Manpower CDI, recherche pour son client spécialisé dans la conception de façade aluminium, un Ingénieur bureau d'études H/F...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8FD78678KW1H7HVD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8FD78678KW1H7HVD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dijon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dijon</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.3268</LocationLatitude>
+      <LocationLongitude>5.04618</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8FD78678KW1H7HVD</SimilarJobsURL>
+      <JobTitle>Ingénieur bureau d'études (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F17Y70VWDY11GKDQD</DID>
+      <OnetCode>17-3023.03</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower SOPHIA ANTIPOLIS recherche pour son client, un Technicien industrialisation Électromécanique H/F. Missions : -Définit les standards d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F17Y70VWDY11GKDQD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F17Y70VWDY11GKDQD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Carros</Location>
+      <DisplayCity></DisplayCity>
+      <City>Carros</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.7668</LocationLatitude>
+      <LocationLongitude>7.19176</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:33:49 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F17Y70VWDY11GKDQD</SimilarJobsURL>
+      <JobTitle>Technicien industrialisation électrique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>Industrialisation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>UPCR GROUPE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H68J5Y1C5YZLR34ZR</DID>
+      <OnetCode>27-1019.00</OnetCode>
+      <ONetFriendlyTitle>Artists and Related Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Référence de l´offre : Pr_CM_PDMS_OffShore Lieu de travail : IDF, Toulouse, Marseille Date de début : Immédiat Type de contrat : CDI Expérience : 10...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H68J5Y1C5YZLR34ZR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H68J5Y1C5YZLR34ZR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>IDF, Toulouse, Marseille</Location>
+      <DisplayCity>IDF, Toulouse, Marseille</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:17:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H68J5Y1C5YZLR34ZR</SimilarJobsURL>
+      <JobTitle>Projeteur Charpentes Off-Shore PDMS H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VX/MSL7G865T81CMQ67NVX.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>La Laurencie Conseil</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN0NL6515TQJDWRYWS</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>LA LAURENCIE Conseil , cabinet de conseil en recrutement spécialisé dans les fonctions juridiques et fiscales, recherche pour un cabinet d'avocats d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN0NL6515TQJDWRYWS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN0NL6515TQJDWRYWS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:00:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN0NL6515TQJDWRYWS</SimilarJobsURL>
+      <JobTitle>Avocat droit immobilier- Baux Commerciaux</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/FS/M0V29Z6XYS25C12N4FS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5HC6SYX1QSZF7BTL</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>FIDUCIAL est le partenaire de ses 261 000 clients, artisans, commerçants, professions libérales, chefs d'entreprise et agriculteurs. FIDUCIAL leur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5HC6SYX1QSZF7BTL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5HC6SYX1QSZF7BTL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>12/12/2014</PostedDate>
+      <PostedTime>12/12/2014 1:00:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5HC6SYX1QSZF7BTL</SimilarJobsURL>
+      <JobTitle>Juriste en Droit des Sociétés H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3ZT75VZTW4BRHF9N</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Point Z recherche pour un de ses clients un INGENIEUR AUTOMOBILE liaison au sol H/F Créée en 1974, notre client, société d'ingénierie spécialisée dans...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3ZT75VZTW4BRHF9N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3ZT75VZTW4BRHF9N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>Île-de-France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 11:51:03 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3ZT75VZTW4BRHF9N</SimilarJobsURL>
+      <JobTitle>INGENIEUR AUTOMOBILE liaison au sol  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP31N6B3X4MHRCVD36</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>TIM recrute pour son client, société en ingénierie, un projeteur électricité sur Revit, en exécution. Mission: Pour travailler sur un Hôpital. - Phase...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP31N6B3X4MHRCVD36</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP31N6B3X4MHRCVD36&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitry-sur-Seine</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitry-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.78905</LocationLatitude>
+      <LocationLongitude>2.38823</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 10:59:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP31N6B3X4MHRCVD36</SimilarJobsURL>
+      <JobTitle>Projeteur Electricité Revit H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4LR66TCPXZB98RB7</DID>
+      <OnetCode>17-2141.02</OnetCode>
+      <ONetFriendlyTitle>Automotive Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Point Z recherche pour un de ses clients spécialisé un ARCHITECTE VEHICULE H/F Créée en 1974, notre client, société d'ingénierie spécialisée dans le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4LR66TCPXZB98RB7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4LR66TCPXZB98RB7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>Île-de-France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 10:05:27 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4LR66TCPXZB98RB7</SimilarJobsURL>
+      <JobTitle>ARCHITECTURE VEHICULE  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrialisation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>KENZO</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0836D8LXVRL87FZG</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Descriptif Au sein de la Direction Juridique, rattaché au responsable juridique, vos principales missions sont les suivantes : Assurer le conseil, la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR0836D8LXVRL87FZG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0836D8LXVRL87FZG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Paris II</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8693</LocationLatitude>
+      <LocationLongitude>2.34296</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 6:32:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0836D8LXVRL87FZG</SimilarJobsURL>
+      <JobTitle>Juriste Droit des Affaires</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SD/MSG6FQ5ZLH38S0NZBSD.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0QP6GBT9QXL7JYXD</DID>
+      <OnetCode>17-1011.00</OnetCode>
+      <ONetFriendlyTitle>Architects, Except Landscape and Naval</ONetFriendlyTitle>
+      <DescriptionTeaser>Point Z recherche pour un de ses clients spécialisé dans l'ingénierie mécanique et automobile un ARCHITECTE CARROSSERIE H/F Créée en 1974, notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0QP6GBT9QXL7JYXD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0QP6GBT9QXL7JYXD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>Île-de-France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 6:22:09 AM</PostedTime>
+      <Pay>24 000 € - 28 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0QP6GBT9QXL7JYXD</SimilarJobsURL>
+      <JobTitle>ARCHITECTE CARROSSERIE  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1YQ6L33HBTCSN8ZQ</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>PROJETS 2 - Vous concevez de nouveaux systèmes de façades en lien avec les spécifications techniques des projets, en élaborant et en optimisant les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1YQ6L33HBTCSN8ZQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1YQ6L33HBTCSN8ZQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Essonne</Location>
+      <DisplayCity>Essonne</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 4:39:40 AM</PostedTime>
+      <Pay>28 000 € - 29 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1YQ6L33HBTCSN8ZQ</SimilarJobsURL>
+      <JobTitle>PROJETEUR FACADES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H55Y6N2CHLD8N7WNZ</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>. Votre agence GIF , forte d'une expertise de plus de 40 ans dans la Délégation de Personnel Technique recherche pour un de ses client : - TECHNICIEN...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H55Y6N2CHLD8N7WNZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H55Y6N2CHLD8N7WNZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>lyon</Location>
+      <DisplayCity>lyon</DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 4:01:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H55Y6N2CHLD8N7WNZ</SimilarJobsURL>
+      <JobTitle>TECHNICIEN  MAINTENANCE INDUSTRIELLE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5KZ6TC9DVC3YHR3Q</DID>
+      <OnetCode>47-2141.00</OnetCode>
+      <ONetFriendlyTitle>Painters, Construction and Maintenance</ONetFriendlyTitle>
+      <DescriptionTeaser>Société de peinture en batiment /n Synergie recrute pour un de ses clients, spécialisé dans le bâtiment, des peintres sur le secetur de Chalon sur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5KZ6TC9DVC3YHR3Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5KZ6TC9DVC3YHR3Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chalon sur saone</Location>
+      <DisplayCity>Chalon sur saone</DisplayCity>
+      <City>Chalon-sur-Saône</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>46.77969</LocationLatitude>
+      <LocationLongitude>4.85501</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 2:57:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5KZ6TC9DVC3YHR3Q</SimilarJobsURL>
+      <JobTitle>PEINTRE BATIMENT H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6MS6D1PPS2975LX0</DID>
+      <OnetCode>51-2041.00</OnetCode>
+      <ONetFriendlyTitle>Structural Metal Fabricators and Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>acteur majeur de la construction métallique dans le Sud-Ouest, recherche dans le cadre de son développement un responsable bureau d'études structures...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6MS6D1PPS2975LX0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6MS6D1PPS2975LX0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity>Toulouse</DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 2:57:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6MS6D1PPS2975LX0</SimilarJobsURL>
+      <JobTitle>RESPONSABLE BUREAU D ETUDES STRUCTURES METALLIQUES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F28Y60MXVMW73XN7K</DID>
+      <OnetCode>29-2052.00</OnetCode>
+      <ONetFriendlyTitle>Pharmacy Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Pour l'un de nos clients, un fabricant de meubles spécialisés, nous recherchons un /n TECHNICIEN POLYVALENT ITINERANT H/F en CDI basé à Andrezieux (42...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F28Y60MXVMW73XN7K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F28Y60MXVMW73XN7K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Andrézieux-bouthéon</Location>
+      <DisplayCity>Andrézieux-bouthéon</DisplayCity>
+      <City>Andrézieux-Bouthéon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.52945</LocationLatitude>
+      <LocationLongitude>4.25635</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 2:56:32 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F28Y60MXVMW73XN7K</SimilarJobsURL>
+      <JobTitle>TECHNICIEN POLYVALENT H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J5PJ75G9Z1YYRD9RV</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Division Recrutement recherche pour son client, un Technicien Industrialisation / CAO H/F. Notre client est une structure en plein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5PJ75G9Z1YYRD9RV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5PJ75G9Z1YYRD9RV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blois</Location>
+      <DisplayCity></DisplayCity>
+      <City>Blois</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.58684</LocationLatitude>
+      <LocationLongitude>1.33143</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5PJ75G9Z1YYRD9RV</SimilarJobsURL>
+      <JobTitle>Technicien industrialisation (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+        <Skill>Industrialisation</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F6H35Z9PJ4V0T9Z4R</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LYON CADRES INGENIERIE recherche pour son client, acteur incontournable dans le développement des infrastructures de télécommunications, un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6H35Z9PJ4V0T9Z4R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6H35Z9PJ4V0T9Z4R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>69 Rhône</Location>
+      <DisplayCity>69 Rhône</DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6H35Z9PJ4V0T9Z4R</SimilarJobsURL>
+      <JobTitle>Dessinateur bureau d'études Ftth (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H01S69P5FHLL62QFW</DID>
+      <OnetCode>47-2152.01</OnetCode>
+      <ONetFriendlyTitle>Pipe Fitters and Steamfitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client, un Dessinateur projeteur en Tuyauterie H/F. Vous travaillez au sein d'un bureau d'études...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H01S69P5FHLL62QFW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H01S69P5FHLL62QFW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H01S69P5FHLL62QFW</SimilarJobsURL>
+      <JobTitle>Dessinateur projeteur tuyauterie (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3TJ66C5Y95QJN18W</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PAMIERS recherche pour son client, un Technicien méthodes devis industrielles H/F. Vous serez en charge de réaliser les devis clients de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3TJ66C5Y95QJN18W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3TJ66C5Y95QJN18W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tarascon-sur-Ariège</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tarascon-sur-Ariège</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>42.84567</LocationLatitude>
+      <LocationLongitude>1.60207</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3TJ66C5Y95QJN18W</SimilarJobsURL>
+      <JobTitle>Technicien méthodes industrielles devis (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J2D362J1NX6XXGLD5</DID>
+      <OnetCode>27-1021.00</OnetCode>
+      <ONetFriendlyTitle>Commercial and Industrial Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower MONTCEAU LES MINES recherche pour son client, un Dessinateur 3D H/F Modélisation et mise en plan 3D sur logiciel Inventor Dans le cadre de sa...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2D362J1NX6XXGLD5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2D362J1NX6XXGLD5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montceau-les-Mines</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montceau-les-Mines</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>46.67816</LocationLatitude>
+      <LocationLongitude>4.36673</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2D362J1NX6XXGLD5</SimilarJobsURL>
+      <JobTitle>Dessinateur 3D sur INVENTOR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J2D86H39TDK4N2J95</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client, un Ingénieur calculateur en industrie H/F. Vous travaillez au sein d'un bureau d'études...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2D86H39TDK4N2J95</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2D86H39TDK4N2J95&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2D86H39TDK4N2J95</SimilarJobsURL>
+      <JobTitle>Ingénieur calculateur en industrie (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G28L6G3DRHM8VWB3Z</DID>
+      <OnetCode>17-3022.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client, un Technicien bureau d'études Dessinateur Structures H/F. Vous travaillez au sein d'un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G28L6G3DRHM8VWB3Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G28L6G3DRHM8VWB3Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G28L6G3DRHM8VWB3Z</SimilarJobsURL>
+      <JobTitle>Technicien bureau d'études Dessinateur Structures (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G3G96FGK7PYJL078P</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client, un Ingénieur calculateur en industrie Piping H/F. Vous travaillez au sein d'un bureau d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3G96FGK7PYJL078P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3G96FGK7PYJL078P&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3G96FGK7PYJL078P</SimilarJobsURL>
+      <JobTitle>Ingénieur calculateur en industrie Piping (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0KN672YBQR1245GY</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower CHATEAU GONTIER recherche pour son client, un Technicien APPROVISIONNEMENT (supply chain H/F Vous serez sous la hiérarchie du responsable...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0KN672YBQR1245GY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0KN672YBQR1245GY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Château-Gontier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Château-Gontier</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.82595</LocationLatitude>
+      <LocationLongitude>-0.70792</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0KN672YBQR1245GY</SimilarJobsURL>
+      <JobTitle>Technicien gestion de production approvisionnement (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0G66QZCRVBYKXZ85</DID>
+      <OnetCode>17-3027.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Le pôle recrutement Manpower Clermont-Ferrand, recherche pour son client, un Technicien BE Dessinateur industriel H/F en CDI dans le cadre de son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0G66QZCRVBYKXZ85</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0G66QZCRVBYKXZ85&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Moulins</Location>
+      <DisplayCity></DisplayCity>
+      <City>Moulins</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.0126</LocationLatitude>
+      <LocationLongitude>-1.36153</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0G66QZCRVBYKXZ85</SimilarJobsURL>
+      <JobTitle>Dessinateur bureau d'études Technicien BE Mécanique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>Industrialisation</Skill>
+        <Skill>SolidWorks</Skill>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F60267GBSMSWNDL6D</DID>
+      <OnetCode>17-3013.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LANGON recherche pour son client, un Dessinateur industriel H/F Notre client est une entreprise reconnue dans la fabrication et l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F60267GBSMSWNDL6D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F60267GBSMSWNDL6D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cadillac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cadillac</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.6409</LocationLatitude>
+      <LocationLongitude>-0.30754</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F60267GBSMSWNDL6D</SimilarJobsURL>
+      <JobTitle>Dessinateur industriel en tuyauterie (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J32Z65RNPH20CV75L</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower COSNE SUR LOIRE recherche pour son client, un Technicien méthodes industrielles H/F Ses missions seront: - DEVIS - Faisabilité de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J32Z65RNPH20CV75L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J32Z65RNPH20CV75L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Charité-sur-Loire</Location>
+      <DisplayCity></DisplayCity>
+      <City>La Charité-sur-Loire</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.193</LocationLatitude>
+      <LocationLongitude>3.0145</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J32Z65RNPH20CV75L</SimilarJobsURL>
+      <JobTitle>Technicien méthodes industrielles (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrialisation</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5H675J7M9VMJF5X4</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower IZERNORE recherche pour son client, leader en fabrication de pièces techniques de précision, un Métrologue H/F. Sous la responsabilité du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5H675J7M9VMJF5X4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5H675J7M9VMJF5X4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oyonnax</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oyonnax</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>46.25914</LocationLatitude>
+      <LocationLongitude>5.65815</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5H675J7M9VMJF5X4</SimilarJobsURL>
+      <JobTitle>Métrologue (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0G96BZQ1LH909QT0</DID>
+      <OnetCode>17-3013.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LA ROCHE INDUSTRIE TERTIAIRE recherche pour son client, un Dessinateur H/F. Au sein du bureau d'études, vous réalisez la conception et le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0G96BZQ1LH909QT0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0G96BZQ1LH909QT0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>85 Vendée</Location>
+      <DisplayCity>85 Vendée</DisplayCity>
+      <City>Roche-sur-Yon</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.67194</LocationLatitude>
+      <LocationLongitude>-1.42738</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0G96BZQ1LH909QT0</SimilarJobsURL>
+      <JobTitle>Dessinateur industriel (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID>c7h4dc732x8pg9gl7c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c7h4dc732x8pg9gl7c8/manpower/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5976J3R9WWY1RH8N</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BOURGES recherche pour son client, un Technicien qualité fournisseurs H/F. Au sein de l'équipe Achats/Qualité, le collaborateur : - Définit,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5976J3R9WWY1RH8N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5976J3R9WWY1RH8N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location> Cher</Location>
+      <DisplayCity>18 - Cher</DisplayCity>
+      <City>Bourges</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.08585</LocationLatitude>
+      <LocationLongitude>2.39293</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:32:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5976J3R9WWY1RH8N</SimilarJobsURL>
+      <JobTitle>Technicien qualité fournisseurs (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LM/MJE34Q6BVJC7K6R3LLM.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>PDCA</Skill>
+        <Skill>Statistical process control</Skill>
+        <Skill>Six Sigma</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0HK71JKX4T6RQG7J</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Intek, spécialiste dans le recrutement de profils techniques hautes compétences recherche actuellement pour un bureau d'études située en Ile de France...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0HK71JKX4T6RQG7J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HK71JKX4T6RQG7J&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:24:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0HK71JKX4T6RQG7J</SimilarJobsURL>
+      <JobTitle>PROJETEUR CVC AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0D05ZK5R6CYLDJZ8</DID>
+      <OnetCode>17-3019.00</OnetCode>
+      <ONetFriendlyTitle>Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d'un Bureau d'Etudes situé en Ile de France, vous aurez pour mission : - l'étude de plans, - la réalisation des notes de calcul, - l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0D05ZK5R6CYLDJZ8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0D05ZK5R6CYLDJZ8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:24:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0D05ZK5R6CYLDJZ8</SimilarJobsURL>
+      <JobTitle>DESSINATEUR ELECTRICITE AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Expectra Paris 4ème Ingénierie &amp; Industries</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1QH6XZQLW1HKDD63</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Marque Les consultants du Département Ingénierie &amp; Industries vous proposent des opportunités de carrière. Client Nous recherchons pour le compte de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1QH6XZQLW1HKDD63</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1QH6XZQLW1HKDD63&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ivry-sur-Seine</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ivry-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.81168</LocationLatitude>
+      <LocationLongitude>2.38489</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:23:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1QH6XZQLW1HKDD63</SimilarJobsURL>
+      <JobTitle>DESSINATEUR TELECOM (F/H)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/H7/MJQ7B062RT37PN4KSH7.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>Microsoft Excel</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DGE INETRIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS7DL6QQ3V30Y2HGZ2</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Le groupe DGE est une société spécialisée dans l'emploi de cadres, experts et techniciens spécialisés, présent depuis plus de 10 ans, nous intervenons...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS7DL6QQ3V30Y2HGZ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS7DL6QQ3V30Y2HGZ2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chartres-28000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chartres</City>
+      <State>CENTRE</State>
+      <LocationLatitude>48.4487</LocationLatitude>
+      <LocationLongitude>1.49069</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:06:31 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS7DL6QQ3V30Y2HGZ2</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET FIBRE OPTIQUE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V4/MA24NG5WPSZJSW883V4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DGE INTERIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT7M17899HB6G70TRB</DID>
+      <OnetCode>17-2199.00</OnetCode>
+      <ONetFriendlyTitle>Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le groupe DGE est une société spécialisée dans l'emploi de cadres, experts et techniciens spécialisés, présent depuis plus de 10 ans, nous intervenons...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT7M17899HB6G70TRB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT7M17899HB6G70TRB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris II-75002</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris II</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8693</LocationLatitude>
+      <LocationLongitude>2.34296</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:04:46 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT7M17899HB6G70TRB</SimilarJobsURL>
+      <JobTitle>DESSINATEUR FIBRE OPTIQUE IPON GEOFIBRE AUTOCAD H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V4/MA24NG5WPSZJSW883V4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DGE INTERIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS8496SH69XM5FXXX5</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Entreprise : Le groupe DGE est une société spécialisée dans l'emploi de cadres, experts et techniciens spécialisés, présent depuis plus de 10 ans,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS8496SH69XM5FXXX5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS8496SH69XM5FXXX5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Paris II</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8693</LocationLatitude>
+      <LocationLongitude>2.34296</LocationLongitude>
+      <PostedDate>12/11/2014</PostedDate>
+      <PostedTime>12/11/2014 1:01:53 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS8496SH69XM5FXXX5</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET GSM H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V4/MA24NG5WPSZJSW883V4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

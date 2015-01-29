@@ -1,0 +1,3332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:47:45 AM</TimeResponseSent>
+  <TimeElapsed>0.39</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13258</TotalCount>
+  <FirstItemIndex>3001</FirstItemIndex>
+  <LastItemIndex>3100</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3R75YWGX8R1KC0L4</DID>
+      <OnetCode>49-3021.00</OnetCode>
+      <ONetFriendlyTitle>Automotive Body and Related Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>AXE TT LIMOUSIN BRIVE recherche pour l'un de ses clients un CARROSSIER - PEINTRE H/F Missions: Vous devrez réparer ou remplacer des éléments de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K3R75YWGX8R1KC0L4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3R75YWGX8R1KC0L4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Meyssac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Meyssac</City>
+      <State>LIMOUSIN</State>
+      <LocationLatitude>45.05515</LocationLatitude>
+      <LocationLongitude>1.67421</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3R75YWGX8R1KC0L4</SimilarJobsURL>
+      <JobTitle>CARROSSIER - PEINTRE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2N06X823ZG7X1QD9</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d'une équipe, vous assurerez le bon fonctionnement de l'ensemble des équipements de production dans le respect de la sécurité, la qualité et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2N06X823ZG7X1QD9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2N06X823ZG7X1QD9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Moncoutant</Location>
+      <DisplayCity></DisplayCity>
+      <City>Moncoutant</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.72219</LocationLatitude>
+      <LocationLongitude>-0.58716</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2N06X823ZG7X1QD9</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4R45Y730M55067SM</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client un soudeur MIG/MAG H/F sur acier galvanisé avec expérience. Horaires d'équipe. Salaire selon expérience. Moyen de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K4R45Y730M55067SM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4R45Y730M55067SM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tours</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tours</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.39038</LocationLatitude>
+      <LocationLongitude>0.68971</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4R45Y730M55067SM</SimilarJobsURL>
+      <JobTitle>SOUDEUR MIG/MAG SUR ACIER GALVANISE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L64F6VKNYKW9X7FG4</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la fabrication de profilé aluminium recrute dans le cadre de son développement Vos missions seront les suivantes : ....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L64F6VKNYKW9X7FG4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L64F6VKNYKW9X7FG4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chemillé</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chemillé</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21254</LocationLatitude>
+      <LocationLongitude>-0.73053</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L64F6VKNYKW9X7FG4</SimilarJobsURL>
+      <JobTitle>COMPTABLE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0RH6QYDLWS6GLS47</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients, sur le secteur de Daumeray : des CHAUDRONNIERS-SOUDEURS H/F pour assurer l'assemblage de petits sous-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0RH6QYDLWS6GLS47</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0RH6QYDLWS6GLS47&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Daumeray</Location>
+      <DisplayCity></DisplayCity>
+      <City>Daumeray</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.70118</LocationLatitude>
+      <LocationLongitude>-0.36372</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0RH6QYDLWS6GLS47</SimilarJobsURL>
+      <JobTitle>CHAUDRONNIERS-SOUDEURS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5SW5XVMW5YC7JHKC</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>RECHERCHONS UN CHARPENTIER H/F N3P2 POUR FAIRE DE LA POSE POSE DE CHARPENTE BOIS,DIVERS TRAVAUX DE CHARPENTE... Profil recherché personne dynamique,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G5SW5XVMW5YC7JHKC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5SW5XVMW5YC7JHKC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5SW5XVMW5YC7JHKC</SimilarJobsURL>
+      <JobTitle>CHARPENTIER H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8D56N2KY9FY0HZF2</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans le transport et la logistique recrute dans le cadre de son développement un(e) Cariste 1.3.5. Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F8D56N2KY9FY0HZF2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8D56N2KY9FY0HZF2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.74915</LocationLatitude>
+      <LocationLongitude>2.35138</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8D56N2KY9FY0HZF2</SimilarJobsURL>
+      <JobTitle>CARISTE 1.3.5 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4S86CRF5Z60V9D53</DID>
+      <OnetCode>27-1021.00</OnetCode>
+      <ONetFriendlyTitle>Commercial and Industrial Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous aurez notamment pour mission : - la modélisation 3D des machines existantes - l'intégration des modules mécaniques - la conception des systèmes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4S86CRF5Z60V9D53</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4S86CRF5Z60V9D53&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mazamet</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mazamet</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.4899</LocationLatitude>
+      <LocationLongitude>2.3753</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4S86CRF5Z60V9D53</SimilarJobsURL>
+      <JobTitle>DESSINATEUR(RICE) H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1GL606QBY5YY5DQ0</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client recrute un canalisateur (H/F). Vos missions seront les suivantes : - Installation, raccordement et maintenance de canalisations Profil...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1GL606QBY5YY5DQ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1GL606QBY5YY5DQ0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Besançon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Besançon</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>47.24231</LocationLatitude>
+      <LocationLongitude>6.02568</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1GL606QBY5YY5DQ0</SimilarJobsURL>
+      <JobTitle>CANALISATEUR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8F45W6VM4PZ1F2X0</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'entretien des Poids Lourds toute marque recrute dans le cadre d'un surcroit d'activité un Mecanicien Poids Lourds Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J8F45W6VM4PZ1F2X0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8F45W6VM4PZ1F2X0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montpellier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montpellier</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.61085</LocationLatitude>
+      <LocationLongitude>3.87609</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8F45W6VM4PZ1F2X0</SimilarJobsURL>
+      <JobTitle>MECANICIEN POIDS LOURDS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6TP6C00386F3B6H9</DID>
+      <OnetCode>47-2073.00</OnetCode>
+      <ONetFriendlyTitle>Operating Engineers and Other Construction Equipment Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>SAMSIC EMPLOI Beauvais recherche des conducteurs d'engins, tous types de CACES TP (de 1 à 9). Conduite de différents engins de chantier. Bonne...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6TP6C00386F3B6H9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6TP6C00386F3B6H9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bresles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bresles</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.41026</LocationLatitude>
+      <LocationLongitude>2.2484</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6TP6C00386F3B6H9</SimilarJobsURL>
+      <JobTitle>CONDUCTEUR D'ENGINS TP (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1S3761PLBM0VH1Q9</DID>
+      <OnetCode>51-2099.00</OnetCode>
+      <ONetFriendlyTitle>Assemblers and Fabricators</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'agroalimentaire animalier recrute dans le cadre de son développement un/e mécanicien monteur Travaillant en binôme,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L1S3761PLBM0VH1Q9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1S3761PLBM0VH1Q9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Languidic</Location>
+      <DisplayCity></DisplayCity>
+      <City>Languidic</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>47.83276</LocationLatitude>
+      <LocationLongitude>-3.15858</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1S3761PLBM0VH1Q9</SimilarJobsURL>
+      <JobTitle>MECANICIEN MONTEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2J9779FRLXZZ5TCF</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients situé à blanquefort, spécialisé dans l'entretien de textile, un technicien de maintenance, pour faire de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2J9779FRLXZZ5TCF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2J9779FRLXZZ5TCF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blanquefort</Location>
+      <DisplayCity>Blanquefort</DisplayCity>
+      <City>Blanquefort</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.9116</LocationLatitude>
+      <LocationLongitude>-0.63589</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2J9779FRLXZZ5TCF</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1WR6FN91MF1H8SMQ</DID>
+      <OnetCode>37-2011.00</OnetCode>
+      <ONetFriendlyTitle>Janitors and Cleaners, Except Maids and Housekeeping Cleaners</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons des LAVEURS DE VITRES H/F pour travailler sur Villeneuve d'Ascq. Vous travaillez en extérieur, en horaires de journée, du lundi au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1WR6FN91MF1H8SMQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1WR6FN91MF1H8SMQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve-d'Ascq</Location>
+      <DisplayCity></DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.61891</LocationLatitude>
+      <LocationLongitude>3.13297</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1WR6FN91MF1H8SMQ</SimilarJobsURL>
+      <JobTitle>LAVEUR DE VITRES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H83H667482WK4Y4QX</DID>
+      <OnetCode>35-3021.00</OnetCode>
+      <ONetFriendlyTitle>Combined Food Preparation and Serving Workers, Including Fast Food</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client basé à Nivolas Vermelle proche bourgoin un préparateur de commandes avec CACES 1 obligatoire et expérience en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H83H667482WK4Y4QX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H83H667482WK4Y4QX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nivolas-Vermelle</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nivolas-Vermelle</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.55742</LocationLatitude>
+      <LocationLongitude>5.30483</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H83H667482WK4Y4QX</SimilarJobsURL>
+      <JobTitle>PREPARATEUR DE COMMANDES TYPE VOCALE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K50W72J50LLSRT9L4</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous participez aux nouveaux projets en apportant votre expertise solution et métier dans le domaine Finance. Vous menez, dans le cadre de projets d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K50W72J50LLSRT9L4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K50W72J50LLSRT9L4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neuilly-sur-Seine</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neuilly-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.88437</LocationLatitude>
+      <LocationLongitude>2.26934</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K50W72J50LLSRT9L4</SimilarJobsURL>
+      <JobTitle>CONSULTANT(E) CONFIRME(E) PEOPLESOFT FINANCE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3TT65626XFVY1DZM</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Maintenance préventive et curative, entretien, nettoyage de machines de production, travail en équipe mais autonomie, prise d'initiatives,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3TT65626XFVY1DZM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3TT65626XFVY1DZM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Angoulême</Location>
+      <DisplayCity></DisplayCity>
+      <City>Angoulême</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>45.64924</LocationLatitude>
+      <LocationLongitude>0.15698</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3TT65626XFVY1DZM</SimilarJobsURL>
+      <JobTitle>AGENT DE MAINTENANCE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K41J6Z65FKP2VS4J3</DID>
+      <OnetCode>49-2022.00</OnetCode>
+      <ONetFriendlyTitle>Telecommunications Equipment Installers and Repairers, Except Line Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>URGENT - Notre client, spécialisé en électronique, recrute des Dépanneurs de téléphones portables H/F. Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K41J6Z65FKP2VS4J3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K41J6Z65FKP2VS4J3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dinan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dinan</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.45426</LocationLatitude>
+      <LocationLongitude>-2.04796</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K41J6Z65FKP2VS4J3</SimilarJobsURL>
+      <JobTitle>DEPANNEURS DE TELEPHONES PORTABLES  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6FG6GKDDT733M4P4</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>En tant que chef de projet, vous êtes en charge de : •Ecrire et suivre la réalisation des spécifications détaillées •Réaliser et délivrer les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L6FG6GKDDT733M4P4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6FG6GKDDT733M4P4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Quentin-Fallavier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Quentin-Fallavier</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.63259</LocationLatitude>
+      <LocationLongitude>5.11081</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6FG6GKDDT733M4P4</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET JUNIOR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6GD74VFP97P39YK9</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la maintenance et les reseaux recrute dans le cadre de son développement un chaudronnier soudeur. Vos missions seront...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K6GD74VFP97P39YK9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6GD74VFP97P39YK9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baillargues</Location>
+      <DisplayCity></DisplayCity>
+      <City>Baillargues</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.65851</LocationLatitude>
+      <LocationLongitude>4.01397</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6GD74VFP97P39YK9</SimilarJobsURL>
+      <JobTitle>CHAUDRONNIER SOUDEUR  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G33W63B8D4RY2FRL7</DID>
+      <OnetCode>47-5013.00</OnetCode>
+      <ONetFriendlyTitle>Service Unit Operators, Oil, Gas, and Mining</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous sommes actuellement à la recherche d'un opérateur service Essais/prototypes H/F pour un client situé à Saverne. Vos missions seront les suivantes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G33W63B8D4RY2FRL7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G33W63B8D4RY2FRL7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saverne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saverne</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.73947</LocationLatitude>
+      <LocationLongitude>7.36602</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G33W63B8D4RY2FRL7</SimilarJobsURL>
+      <JobTitle>OPÉRATEUR SERVICE ESSAIS/PROTOTYPES  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6BV5WG2HY91D0LKF</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients, spécialisé dans la maintenance maritime, un(e) soudeur(euse). Vous maîtrisez les procédés de soudage à arc...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6BV5WG2HY91D0LKF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6BV5WG2HY91D0LKF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bordeaux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.83663</LocationLatitude>
+      <LocationLongitude>-0.58104</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6BV5WG2HY91D0LKF</SimilarJobsURL>
+      <JobTitle>SOUDEUR(EUSE) (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L8HC6K02Y4Z86HYSJ</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'aluminium recrute dans le cadre de son développement un(e) Opérateur CN H/F. Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L8HC6K02Y4Z86HYSJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8HC6K02Y4Z86HYSJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brumath</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brumath</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.73031</LocationLatitude>
+      <LocationLongitude>7.7104</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8HC6K02Y4Z86HYSJ</SimilarJobsURL>
+      <JobTitle>OPÉRATEUR CN H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0X06HY9JDD20ZS8Q</DID>
+      <OnetCode>51-9081.00</OnetCode>
+      <ONetFriendlyTitle>Dental Laboratory Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'industrie Agro alimentaire recrute dans le cadre de son développement Vos missions seront les suivantes : -Vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0X06HY9JDD20ZS8Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0X06HY9JDD20ZS8Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pontivy</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pontivy</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.06494</LocationLatitude>
+      <LocationLongitude>-2.96613</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0X06HY9JDD20ZS8Q</SimilarJobsURL>
+      <JobTitle>TECHNICIEN (IENNE° LABORATOIRE EN IAA (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1TT6CK0LZL12YW7B</DID>
+      <OnetCode>35-9031.00</OnetCode>
+      <ONetFriendlyTitle>Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous sommes actuellement à la recherche d'hôtesse de caisse H/F pour un client spécialisé dans la grande distribution situé à Ingwiller. Vous avez...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1TT6CK0LZL12YW7B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1TT6CK0LZL12YW7B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ingwiller</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ingwiller</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.87324</LocationLatitude>
+      <LocationLongitude>7.48032</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1TT6CK0LZL12YW7B</SimilarJobsURL>
+      <JobTitle>HOTESSE DE CAISSE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1VG6FCXVJD450YWV</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>SAMSIC EMPLOI Le Neubourg (27110) Recherche pour l'un de ses clients, spécialisé dans la distribution d'électricité, un(e) : - CONSEILLER(E) CLIENTELE...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1VG6FCXVJD450YWV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1VG6FCXVJD450YWV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Elbeuf</Location>
+      <DisplayCity></DisplayCity>
+      <City>Elbeuf</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.2862</LocationLatitude>
+      <LocationLongitude>1.00824</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1VG6FCXVJD450YWV</SimilarJobsURL>
+      <JobTitle>CONSEILLER CLIENTELE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4FW6QZ83R743L33D</DID>
+      <OnetCode>35-3021.00</OnetCode>
+      <ONetFriendlyTitle>Combined Food Preparation and Serving Workers, Including Fast Food</ONetFriendlyTitle>
+      <DescriptionTeaser>Description : SAMSIC EMPLOI recherche un vendeur H/F au rayon traditionnel charcuterie. Possibilité de CDI par la suite. Merci d'envoyer votre cv :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4FW6QZ83R743L33D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4FW6QZ83R743L33D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4FW6QZ83R743L33D</SimilarJobsURL>
+      <JobTitle>VENDEUR CHARCUTERIE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2GD7235L9KNP4YFB</DID>
+      <OnetCode>47-2031.01</OnetCode>
+      <ONetFriendlyTitle>Construction Carpenters</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans les menuiseries ALU et PVC recrute dans le cadre de son développement un/une POSEUR EN MENUISERIE H/F. Vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2GD7235L9KNP4YFB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2GD7235L9KNP4YFB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blois</Location>
+      <DisplayCity></DisplayCity>
+      <City>Blois</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.58684</LocationLatitude>
+      <LocationLongitude>1.33143</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2GD7235L9KNP4YFB</SimilarJobsURL>
+      <JobTitle>POSEUR MENUISERIE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6247621WKGMMHXDX</DID>
+      <OnetCode>51-2041.00</OnetCode>
+      <ONetFriendlyTitle>Structural Metal Fabricators and Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients des électriciens monteur en atelier Vos missions seront les suivantes : - Lire un plan - Montage de pièces...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L6247621WKGMMHXDX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6247621WKGMMHXDX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dieppe</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dieppe</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.9272</LocationLatitude>
+      <LocationLongitude>1.07936</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6247621WKGMMHXDX</SimilarJobsURL>
+      <JobTitle>ELECTRICIEN MONTEUR EN ATELIER (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5305Z946VX3NLLW3</DID>
+      <OnetCode>13-2072.00</OnetCode>
+      <ONetFriendlyTitle>Loan Officers</ONetFriendlyTitle>
+      <DescriptionTeaser>AXE T.T. RECHERCHE UNE(E) ATTACHE(E) COMMERCIAL(E) MISSIONS : - Prospecter de nouveaux clients (entreprise et chantier) / Développement portefeuille...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5305Z946VX3NLLW3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5305Z946VX3NLLW3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Carcassonne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Carcassonne</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.21183</LocationLatitude>
+      <LocationLongitude>2.3584</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5305Z946VX3NLLW3</SimilarJobsURL>
+      <JobTitle>ATTACHE(E) COMMERCIAL(E) (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4KJ6X7HF2K51S2DJ</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients, un opérateur sur commandes numériques L'opérateur conduit une (ou plusieurs) machine(s) à commande...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4KJ6X7HF2K51S2DJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4KJ6X7HF2K51S2DJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rouen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rouen</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.4397</LocationLatitude>
+      <LocationLongitude>1.08908</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4KJ6X7HF2K51S2DJ</SimilarJobsURL>
+      <JobTitle>OPÉRATEUR SUR COMMANDES NUMÉRIQUES (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0N96YD0WXTFVQ9ND</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'industrie recrute dans le cadre de son développement un technicien de maintenance. Formation dans l'électrotechnique...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0N96YD0WXTFVQ9ND</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0N96YD0WXTFVQ9ND&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Haguenau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Haguenau</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.81435</LocationLatitude>
+      <LocationLongitude>7.78868</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0N96YD0WXTFVQ9ND</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4286QTZT4T62VX8H</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client, un chaudronnier-soudeur (H/F) pour effectuer des travaux de soudure TIG inox et acier en atelier. Lecture de plans...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4286QTZT4T62VX8H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4286QTZT4T62VX8H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tours</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tours</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.39038</LocationLatitude>
+      <LocationLongitude>0.68971</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4286QTZT4T62VX8H</SimilarJobsURL>
+      <JobTitle>CHAUDRONNIER-SOUDEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1NS757JPSJ7BHSBD</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la fabricatin de charcuterie cuite recrute un(e) technicien(ne) de maintenance industrielle Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1NS757JPSJ7BHSBD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1NS757JPSJ7BHSBD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bécherel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bécherel</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.30011</LocationLatitude>
+      <LocationLongitude>-1.93893</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1NS757JPSJ7BHSBD</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) DE MAINTENANCE INDUSTRIELLE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7S079PG505PL7M46</DID>
+      <OnetCode>35-3031.00</OnetCode>
+      <ONetFriendlyTitle>Waiters and Waitresses</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la restauration recrute dans le cadre de son développement un serveur (H/F). Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7S079PG505PL7M46</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7S079PG505PL7M46&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lamotte-Beuvron</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lamotte-Beuvron</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.59915</LocationLatitude>
+      <LocationLongitude>2.02344</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7S079PG505PL7M46</SimilarJobsURL>
+      <JobTitle>SERVEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L8CC6L57MSY1TJL8R</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients basé à Tourville la riviere, des chauffeurs H/F avec expérience en benne Permis EC, fimo marchandises et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L8CC6L57MSY1TJL8R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8CC6L57MSY1TJL8R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tourville-la-Rivière</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tourville-la-Rivière</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.32863</LocationLatitude>
+      <LocationLongitude>1.10465</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8CC6L57MSY1TJL8R</SimilarJobsURL>
+      <JobTitle>CHAUFFEUR BENNE SPL (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1M777M0RVLR5JYJS</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients, un TECHNICIEN DE MAINTENANCE (H/F). Rattaché au Service Maintenance, vous êtes en charge des missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1M777M0RVLR5JYJS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1M777M0RVLR5JYJS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pouzauges</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pouzauges</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.7822</LocationLatitude>
+      <LocationLongitude>-0.8361</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1M777M0RVLR5JYJS</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F21R71R9BF7440C4V</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Filiale d'un groupe international leader de son marché, notre client aide les organisations à relever avec succès les défis de l'immobilier d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F21R71R9BF7440C4V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F21R71R9BF7440C4V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noisy-le-Grand</Location>
+      <DisplayCity></DisplayCity>
+      <City>Noisy-le-Grand</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.84889</LocationLatitude>
+      <LocationLongitude>2.55366</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F21R71R9BF7440C4V</SimilarJobsURL>
+      <JobTitle>CONSULTANT(E) EN GMAO (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6KC65JLZS6KXQ1CM</DID>
+      <OnetCode>27-3041.00</OnetCode>
+      <ONetFriendlyTitle>Editors</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, recrute dans le cadre d'un surcroit d'activités des monteurs decteteurs d'incendie Vos missions seront les suivantes : -Pose de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6KC65JLZS6KXQ1CM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6KC65JLZS6KXQ1CM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Strasbourg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Strasbourg</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.58508</LocationLatitude>
+      <LocationLongitude>7.73643</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6KC65JLZS6KXQ1CM</SimilarJobsURL>
+      <JobTitle>MONTEUR DETECTEURS INCENDIE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0FV6R1K06JJRP3JL</DID>
+      <OnetCode>17-3019.00</OnetCode>
+      <ONetFriendlyTitle>Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la menuiserie recrute dans le cadre d'un remplacement un dessinateur CAO/PAO Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L0FV6R1K06JJRP3JL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0FV6R1K06JJRP3JL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blois</Location>
+      <DisplayCity></DisplayCity>
+      <City>Blois</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.58684</LocationLatitude>
+      <LocationLongitude>1.33143</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0FV6R1K06JJRP3JL</SimilarJobsURL>
+      <JobTitle>DESSINATEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2KT6VCPPGCP68PF6</DID>
+      <OnetCode>53-7062.00</OnetCode>
+      <ONetFriendlyTitle>Laborers and Material Movers</ONetFriendlyTitle>
+      <DescriptionTeaser>RECHERCHONS POUR MISSION D'INTÉRIM SUR TOULOUSE UN MANUTENTIONNAIRE AFIN DE RÉALISER DU DECHARGEMENT DE CONTAINERS, FILMAGE ET ETIQUETTAGE DES COLIS...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2KT6VCPPGCP68PF6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2KT6VCPPGCP68PF6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gratentour</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gratentour</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.7218</LocationLatitude>
+      <LocationLongitude>1.43171</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2KT6VCPPGCP68PF6</SimilarJobsURL>
+      <JobTitle>MANUTENTIONNAIRE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5ZD6QX6700BY53LV</DID>
+      <OnetCode>51-3021.00</OnetCode>
+      <ONetFriendlyTitle>Butchers and Meat Cutters</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la préparation de produit à base de viandre recrute dans le cadre de son développement un charcutier . Vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5ZD6QX6700BY53LV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5ZD6QX6700BY53LV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Orthez</Location>
+      <DisplayCity></DisplayCity>
+      <City>Orthez</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>43.48735</LocationLatitude>
+      <LocationLongitude>-0.77317</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5ZD6QX6700BY53LV</SimilarJobsURL>
+      <JobTitle>CHARCUTIER (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4DP706DQVB2K417W</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans le pharmaceutique, recrute un(e) préparateur(trice). Vos missions seront les suivantes : - garantir la conformité des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4DP706DQVB2K417W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4DP706DQVB2K417W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Coutances</Location>
+      <DisplayCity></DisplayCity>
+      <City>Coutances</City>
+      <State>BASSE-NORMANDIE</State>
+      <LocationLatitude>49.04795</LocationLatitude>
+      <LocationLongitude>-1.44517</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4DP706DQVB2K417W</SimilarJobsURL>
+      <JobTitle>PREPARATEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2CC6NDMN3201837C</DID>
+      <OnetCode>35-2021.00</OnetCode>
+      <ONetFriendlyTitle>Food Preparation Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Description : SAMSIC EMPLOI recherche pour l'un de ses clients un Poissionner H/F. Vous aurez pour mission : - Réceptionner, contrôler les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K2CC6NDMN3201837C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2CC6NDMN3201837C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nort-sur-Erdre</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nort-sur-Erdre</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.43995</LocationLatitude>
+      <LocationLongitude>-1.49424</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2CC6NDMN3201837C</SimilarJobsURL>
+      <JobTitle>POISSONIER H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2XJ62M3BC36MQ674</DID>
+      <OnetCode>51-3021.00</OnetCode>
+      <ONetFriendlyTitle>Butchers and Meat Cutters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous sommes actuellement à la recherche de bouchers H/F pour un client situé à Ingwiller ainsi qu'à Saverne. Ce poste est à pourvoir en CDI au plus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2XJ62M3BC36MQ674</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2XJ62M3BC36MQ674&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saverne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saverne</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.73947</LocationLatitude>
+      <LocationLongitude>7.36602</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2XJ62M3BC36MQ674</SimilarJobsURL>
+      <JobTitle>BOUCHERS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3T66J8T38KQCBZ29</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Electronique de puissance. Travail en bureau d'études.Intervention sur cartes et composants. Qualification : BTS ou DUT Electronique Experience : 3...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3T66J8T38KQCBZ29</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3T66J8T38KQCBZ29&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Angoulême</Location>
+      <DisplayCity></DisplayCity>
+      <City>Angoulême</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>45.64924</LocationLatitude>
+      <LocationLongitude>0.15698</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3T66J8T38KQCBZ29</SimilarJobsURL>
+      <JobTitle>TECHNICIEN EN ÉLECTRONIQUE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3Y76YP9K5T00V1YY</DID>
+      <OnetCode>47-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Construction Trades and Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients, dans le cadre de son développement, des électriciens batiments confirmés H/F. Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3Y76YP9K5T00V1YY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3Y76YP9K5T00V1YY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rouen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rouen</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.4397</LocationLatitude>
+      <LocationLongitude>1.08908</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3Y76YP9K5T00V1YY</SimilarJobsURL>
+      <JobTitle>ELECTRICIENS BATIMENTS H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G12G76YW3NCHCKR1M</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'isolation, recrute dans le cadre de son développement un aide comptable polyvalent (H/F) : Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G12G76YW3NCHCKR1M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G12G76YW3NCHCKR1M&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baud</Location>
+      <DisplayCity></DisplayCity>
+      <City>Baud</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>47.87542</LocationLatitude>
+      <LocationLongitude>-3.01949</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G12G76YW3NCHCKR1M</SimilarJobsURL>
+      <JobTitle>COMPTABLE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0HP77KR6ZG1BR925</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la metallerie, recrute dans le cadre de son développement un agent de production en metallerie . Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0HP77KR6ZG1BR925</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0HP77KR6ZG1BR925&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beauvais</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beauvais</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.42955</LocationLatitude>
+      <LocationLongitude>2.08322</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0HP77KR6ZG1BR925</SimilarJobsURL>
+      <JobTitle>AGENT DE PRODUCTION EN MÉTALLERIE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5GW6M6374JYH4G32</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'Agroalimentaire, recrute dans le cadre de son développement un Technicien de Maintenance H/F Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K5GW6M6374JYH4G32</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5GW6M6374JYH4G32&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pouzauges</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pouzauges</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.7822</LocationLatitude>
+      <LocationLongitude>-0.8361</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5GW6M6374JYH4G32</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0ZL5WJSN3NGJ1RDC</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client un fraiseur sur CN, secteur Vendée Est : Vous réglez les outils de coupe, le positionnement et le maintien de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0ZL5WJSN3NGJ1RDC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0ZL5WJSN3NGJ1RDC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pouzauges</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pouzauges</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.7822</LocationLatitude>
+      <LocationLongitude>-0.8361</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0ZL5WJSN3NGJ1RDC</SimilarJobsURL>
+      <JobTitle>FRAISEUR SUR CN (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J47T66MKYDLY6N50Q</DID>
+      <OnetCode>35-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chefs and Head Cooks</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la grande distribution recrute dans le cadre d'un remplacement un(e) boulanger . Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J47T66MKYDLY6N50Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J47T66MKYDLY6N50Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Quimper</Location>
+      <DisplayCity></DisplayCity>
+      <City>Quimper</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>47.9942</LocationLatitude>
+      <LocationLongitude>-4.09866</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J47T66MKYDLY6N50Q</SimilarJobsURL>
+      <JobTitle>BOULANGER (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J86J6CC2LH9VYQ146</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Soudeurs avec la licence 111 en priorité. Qualification : Soudeur Experience : minimum 3 ans Type de contrat : intérim Durée : 1-3 mois Localisation...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J86J6CC2LH9VYQ146</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J86J6CC2LH9VYQ146&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Angoulême</Location>
+      <DisplayCity></DisplayCity>
+      <City>Angoulême</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>45.64924</LocationLatitude>
+      <LocationLongitude>0.15698</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J86J6CC2LH9VYQ146</SimilarJobsURL>
+      <JobTitle>SOUDEUR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7CW6C587K102GSTN</DID>
+      <OnetCode>49-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bus and Truck Mechanics and Diesel Engine Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients, un mécanicien PL H/F avec expérience. Maintenance preventive et curative d'un parc de bus et de camion PL,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K7CW6C587K102GSTN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7CW6C587K102GSTN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rouen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rouen</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.4397</LocationLatitude>
+      <LocationLongitude>1.08908</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7CW6C587K102GSTN</SimilarJobsURL>
+      <JobTitle>MECANICIEN PL - BUS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8J16WRJFV58T1JC4</DID>
+      <OnetCode>51-2099.00</OnetCode>
+      <ONetFriendlyTitle>Assemblers and Fabricators</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'industrie recrute dans le cadre de son développement un(e) assembleur H/F Votre mission consistera à organisation et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8J16WRJFV58T1JC4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8J16WRJFV58T1JC4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Haguenau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Haguenau</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.81435</LocationLatitude>
+      <LocationLongitude>7.78868</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8J16WRJFV58T1JC4</SimilarJobsURL>
+      <JobTitle>ASSEMBLEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1BP797YFM2SMHMZL</DID>
+      <OnetCode>13-1021.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents and Buyers, Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients des agents de découpe (volailles). Poste en 2x8 avec possibilité de travailler le samedi matin. Expérience...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1BP797YFM2SMHMZL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1BP797YFM2SMHMZL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Moncoutant</Location>
+      <DisplayCity></DisplayCity>
+      <City>Moncoutant</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.72219</LocationLatitude>
+      <LocationLongitude>-0.58716</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1BP797YFM2SMHMZL</SimilarJobsURL>
+      <JobTitle>AGENT DE DECOUPE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7K05XB8HQPHGTGVL</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'électricité recrute dans le cadre de ses chantiers: - Plusieurs électriciens Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7K05XB8HQPHGTGVL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7K05XB8HQPHGTGVL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7K05XB8HQPHGTGVL</SimilarJobsURL>
+      <JobTitle>ELECTRICIENS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3KP60VYZ554J660W</DID>
+      <OnetCode>51-6093.00</OnetCode>
+      <ONetFriendlyTitle>Upholsterers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous êtes qualifiés dans la confection de rideaux et voilages et notamment dans la broderie sur pièce de velour. Vous savez vous servir de tous types...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3KP60VYZ554J660W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3KP60VYZ554J660W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3KP60VYZ554J660W</SimilarJobsURL>
+      <JobTitle>COUTURIER TAPISSIER  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7176LKGF89D514R1</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients, un Chauffeur PL/SPL (H/F). Profil recherché Permis C, EC + FIMO obligatoire, CACES Grue auxiliaire. Horaires...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L7176LKGF89D514R1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7176LKGF89D514R1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Benet</Location>
+      <DisplayCity></DisplayCity>
+      <City>Benet</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.36923</LocationLatitude>
+      <LocationLongitude>-0.59585</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7176LKGF89D514R1</SimilarJobsURL>
+      <JobTitle>CHAUFFEUR PL/SPL AVEC CACES GRUE AUXILIAIRE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1V05ZMCBQ0PZ172Q</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la production et la distribution de produits pour l'industrie recrute dans le cadre d'un surcroit d'activité un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1V05ZMCBQ0PZ172Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1V05ZMCBQ0PZ172Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Béziers</Location>
+      <DisplayCity></DisplayCity>
+      <City>Béziers</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.34423</LocationLatitude>
+      <LocationLongitude>3.2161</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1V05ZMCBQ0PZ172Q</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4K96GS3VDNH5XLW5</DID>
+      <OnetCode>47-2021.00</OnetCode>
+      <ONetFriendlyTitle>Brickmasons and Blockmasons</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, entreprise du bâtiment recrute dans le cadre d’un surcroît d’activités un Maçon Bâtisseur (H/F) Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K4K96GS3VDNH5XLW5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4K96GS3VDNH5XLW5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cahors</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cahors</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>44.44669</LocationLatitude>
+      <LocationLongitude>1.44075</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4K96GS3VDNH5XLW5</SimilarJobsURL>
+      <JobTitle>MAÇON BATISSEUR (H/F) NIP1 - N1P2</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2WG77DH96091RX3F</DID>
+      <OnetCode>49-9098.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Installation, Maintenance, and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client spécialisé dans la vente dans le secteur agricole recherche pour l’un de ses clients, un aide mécanicien (H/F) : Vous aurez pour mission...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L2WG77DH96091RX3F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2WG77DH96091RX3F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Moréac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Moréac</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>47.9204</LocationLatitude>
+      <LocationLongitude>-2.80641</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2WG77DH96091RX3F</SimilarJobsURL>
+      <JobTitle>AIDE MÉCANICIEN (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5BK6HR5S5SNL8CTB</DID>
+      <OnetCode>49-3021.00</OnetCode>
+      <ONetFriendlyTitle>Automotive Body and Related Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la maintenance des véhicules industiels recrute dans le cadre de son développement un(e) carrossier(ère). Vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L5BK6HR5S5SNL8CTB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5BK6HR5S5SNL8CTB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>HAVRE</Location>
+      <DisplayCity>LE-HAVRE</DisplayCity>
+      <City>Havre</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.49346</LocationLatitude>
+      <LocationLongitude>0.10139</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5BK6HR5S5SNL8CTB</SimilarJobsURL>
+      <JobTitle>CARROSSIER PL CONFIRMÉ (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0J26KD98LHBLTZ30</DID>
+      <OnetCode>13-1021.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents and Buyers, Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la logistique recrute dans le cadre de son développement des AGENTS DE PRODUCTION. Vos missions seront les suivantes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0J26KD98LHBLTZ30</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0J26KD98LHBLTZ30&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Contres</Location>
+      <DisplayCity></DisplayCity>
+      <City>Contres</City>
+      <State>CENTRE</State>
+      <LocationLatitude>46.86767</LocationLatitude>
+      <LocationLongitude>2.49094</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0J26KD98LHBLTZ30</SimilarJobsURL>
+      <JobTitle>AGENT DE PRODUCTION (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3Z26TM07K1L6107V</DID>
+      <OnetCode>13-1071.00</OnetCode>
+      <ONetFriendlyTitle>Employment, Recruitment, and Placement Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la production de profilés aluminium recrute dans le cadre de son développement Vos missions seront les suivantes . suit...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3Z26TM07K1L6107V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3Z26TM07K1L6107V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chemillé</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chemillé</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21254</LocationLatitude>
+      <LocationLongitude>-0.73053</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3Z26TM07K1L6107V</SimilarJobsURL>
+      <JobTitle>RESPONSABLE RESSOURCES HUMAINES (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2HB64JCSZNYGSMWS</DID>
+      <OnetCode>53-7062.00</OnetCode>
+      <ONetFriendlyTitle>Laborers and Material Movers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la logistique recrute dans le cadre de son développement des manutentionnaires Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L2HB64JCSZNYGSMWS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2HB64JCSZNYGSMWS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beuzeville</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beuzeville</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.3317</LocationLatitude>
+      <LocationLongitude>0.35092</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2HB64JCSZNYGSMWS</SimilarJobsURL>
+      <JobTitle>MANUTENTIONNAIRES SUR BEUZEVILLE (27) (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8715XQ1NN2FV996D</DID>
+      <OnetCode>27-1014.00</OnetCode>
+      <ONetFriendlyTitle>Multi-Media Artists and Animators</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients un inforgraphiste 3d Vous serez basé au bureau d'étude pour la présentation des projets de travaux en 3D aux...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8715XQ1NN2FV996D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8715XQ1NN2FV996D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offranville</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offranville</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.86925</LocationLatitude>
+      <LocationLongitude>1.04929</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8715XQ1NN2FV996D</SimilarJobsURL>
+      <JobTitle>INFOGRAPHISTE 3D (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F03D5VYBS80V419J1</DID>
+      <OnetCode>47-2021.00</OnetCode>
+      <ONetFriendlyTitle>Brickmasons and Blockmasons</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la maçonnerie recrute dans le cadre de son développement un Maçon Traditionnel (H/F) . Vos missions seront les suivantes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F03D5VYBS80V419J1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F03D5VYBS80V419J1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rennes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.10751</LocationLatitude>
+      <LocationLongitude>-1.68447</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F03D5VYBS80V419J1</SimilarJobsURL>
+      <JobTitle>MAÇON BRIQUETEUR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F70P77NWGTR7C458Z</DID>
+      <OnetCode>35-2021.00</OnetCode>
+      <ONetFriendlyTitle>Food Preparation Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'agro-alimentaire recrute dans le cadre de son développement des préparateurs de commandes F/H avec le caces 1...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F70P77NWGTR7C458Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F70P77NWGTR7C458Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Laurent-de-Mure</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Laurent-de-Mure</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.69119</LocationLatitude>
+      <LocationLongitude>5.03564</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F70P77NWGTR7C458Z</SimilarJobsURL>
+      <JobTitle>PREPARATEUR DE COMMANDES CACES 1 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4MK6HVBB8W8DK1NL</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients basé à Darnetal, un chauffeur PL H/F avec expérience en bras grue auxiliaire, Permis C, fimo marchandises et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L4MK6HVBB8W8DK1NL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4MK6HVBB8W8DK1NL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Darnétal</Location>
+      <DisplayCity></DisplayCity>
+      <City>Darnétal</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.44072</LocationLatitude>
+      <LocationLongitude>1.14608</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4MK6HVBB8W8DK1NL</SimilarJobsURL>
+      <JobTitle>CHAUFFEUR PL BRAS GRUE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G23J6KTPL4FT9LD15</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la nurserie recrute dans le cadre de son développement un cariste 1 3 5. Vos missions seront les suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G23J6KTPL4FT9LD15</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G23J6KTPL4FT9LD15&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cholet</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cholet</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.06259</LocationLatitude>
+      <LocationLongitude>-0.88068</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G23J6KTPL4FT9LD15</SimilarJobsURL>
+      <JobTitle>CARISTE 1 3 5 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2N265GN9MKM3CMHV</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>SAMSIC EMPLOI recherche pour l'un de ses clients un cariste H/F. Vous êtes en charge d'effectuer le chargement et le déchargement de camions....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K2N265GN9MKM3CMHV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2N265GN9MKM3CMHV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Héric</Location>
+      <DisplayCity></DisplayCity>
+      <City>Héric</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.41401</LocationLatitude>
+      <LocationLongitude>-1.65227</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2N265GN9MKM3CMHV</SimilarJobsURL>
+      <JobTitle>CARISTE 1/2/5 H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5R66FZXFDKXQRHPN</DID>
+      <OnetCode>25-9021.00</OnetCode>
+      <ONetFriendlyTitle>Farm and Home Management Advisors</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client un étancheur H/F AVEC expérience. Vos principales missions : déposer les revêtements d'isolation et d'étanchéité,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G5R66FZXFDKXQRHPN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5R66FZXFDKXQRHPN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tours</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tours</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.39038</LocationLatitude>
+      <LocationLongitude>0.68971</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5R66FZXFDKXQRHPN</SimilarJobsURL>
+      <JobTitle>ETANCHEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4K85ZN6MMB6CLTTY</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans le Service Apres Vente de materiel électronique recrute dans le cadre d'un accroissement d'activité un(e) technicien en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L4K85ZN6MMB6CLTTY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4K85ZN6MMB6CLTTY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montferrier-sur-Lez</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montferrier-sur-Lez</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.66796</LocationLatitude>
+      <LocationLongitude>3.85915</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4K85ZN6MMB6CLTTY</SimilarJobsURL>
+      <JobTitle>TECHNICIEN EN ÉLECTRONIQUE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1Z36VZD8K7H1WK2H</DID>
+      <OnetCode>51-4012.00</OnetCode>
+      <ONetFriendlyTitle>Numerical Tool and Process Control Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client, un contrôleur H/F. Vos missions: assister la fabrication, s'assurer du bon fonctionnement du mode de contrôle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1Z36VZD8K7H1WK2H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1Z36VZD8K7H1WK2H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amboise</Location>
+      <DisplayCity></DisplayCity>
+      <City>Amboise</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.41285</LocationLatitude>
+      <LocationLongitude>0.98254</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1Z36VZD8K7H1WK2H</SimilarJobsURL>
+      <JobTitle>CONTROLEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J81R6B87BP1TLFVKZ</DID>
+      <OnetCode>53-7051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Truck and Tractor Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos clients des opérateurs titulaires d'un bac pro CAIC ou IP. Mission à pourvoir rapidement avec des contrats à la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J81R6B87BP1TLFVKZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J81R6B87BP1TLFVKZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rouen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rouen</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.4397</LocationLatitude>
+      <LocationLongitude>1.08908</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J81R6B87BP1TLFVKZ</SimilarJobsURL>
+      <JobTitle>OPERATEUR CAIC (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1QH63T3H9N6T97D2</DID>
+      <OnetCode>53-3033.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Light or Delivery Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients un/une magasinier cariste avec les caces 1-3-5(valide) . Vos missions seront les suivantes : - Chargement et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1QH63T3H9N6T97D2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1QH63T3H9N6T97D2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Offranville</Location>
+      <DisplayCity></DisplayCity>
+      <City>Offranville</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.86925</LocationLatitude>
+      <LocationLongitude>1.04929</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1QH63T3H9N6T97D2</SimilarJobsURL>
+      <JobTitle>MAGASINIER CARISTE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6WW6ZC3D4DC6BBBK</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans vente de matériel elcetrique recrute dans le cadre de son développement un(e) Assistant technique Support (H/F). Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6WW6ZC3D4DC6BBBK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6WW6ZC3D4DC6BBBK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beauvais</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beauvais</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.42955</LocationLatitude>
+      <LocationLongitude>2.08322</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6WW6ZC3D4DC6BBBK</SimilarJobsURL>
+      <JobTitle>ASSISTANT TECHNIQUE SUPPORT (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6G36CC513VV174QS</DID>
+      <OnetCode>25-9021.00</OnetCode>
+      <ONetFriendlyTitle>Farm and Home Management Advisors</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'agro-alimentaire recrute dans le cadre de son développement des employes libre service polyvalents: - vous aurez pour...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K6G36CC513VV174QS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6G36CC513VV174QS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aoste</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aoste</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.58746</LocationLatitude>
+      <LocationLongitude>5.60866</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6G36CC513VV174QS</SimilarJobsURL>
+      <JobTitle>ELS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J34375PGH7DLW00RC</DID>
+      <OnetCode>11-9012.00</OnetCode>
+      <ONetFriendlyTitle>Farmers and Ranchers</ONetFriendlyTitle>
+      <DescriptionTeaser>RECHERCHONS POUR MISSION D'INTERIM SUR TOULOUSE OU ENVIRONS UN COFFREUR AFIN DE REALISER DU COULAGE DE BETON, LA MISE EN PLACE D'ARMATURES, LA...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J34375PGH7DLW00RC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J34375PGH7DLW00RC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J34375PGH7DLW00RC</SimilarJobsURL>
+      <JobTitle>COFFREUR / BANCHEUR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H36570QBP2C03TMHC</DID>
+      <OnetCode>47-2051.00</OnetCode>
+      <ONetFriendlyTitle>Cement Masons and Concrete Finishers</ONetFriendlyTitle>
+      <DescriptionTeaser>RECHERCHONS POUR MISSION D'INTERIM SUR TOULOUSE OU ENVIRONS UN MACON FINISSEUR AFIN DE REALISER DES TRAVAUX DE REPRISE EN MACONNERIE, SEUILS,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H36570QBP2C03TMHC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H36570QBP2C03TMHC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H36570QBP2C03TMHC</SimilarJobsURL>
+      <JobTitle>MAÇON FINISSEUR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4MM65DMDK7719Y3V</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'agroalimentaire recrute dans le cadre de son développement un(e) technicien de maintenance . Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4MM65DMDK7719Y3V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4MM65DMDK7719Y3V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laval</Location>
+      <DisplayCity>Laval</DisplayCity>
+      <City>Laval</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>48.07272</LocationLatitude>
+      <LocationLongitude>-0.77304</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4MM65DMDK7719Y3V</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K71L5Z46W0DD3DGK9</DID>
+      <OnetCode>33-3021.03</OnetCode>
+      <ONetFriendlyTitle>Criminal Investigators and Special Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>VOUS EFFECTUER SUR DIFFERENTS LIEUX SUR DES AXES ROUTIERS DES RELEVES OU COMPTAGES DES USAGERS MISSION JOURNALIERE DE 05H30 A 09H ET DE 16H A 19H...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K71L5Z46W0DD3DGK9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K71L5Z46W0DD3DGK9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Antony</Location>
+      <DisplayCity></DisplayCity>
+      <City>Antony</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.75264</LocationLatitude>
+      <LocationLongitude>2.30265</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K71L5Z46W0DD3DGK9</SimilarJobsURL>
+      <JobTitle>ENQUETEUR/ENQUETRICE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H66568WBMLLQ7Y5KJ</DID>
+      <OnetCode>53-6021.00</OnetCode>
+      <ONetFriendlyTitle>Parking Lot Attendants</ONetFriendlyTitle>
+      <DescriptionTeaser>L'agence SAMSIC Emploi de Lille recherche pour l'un de ses clients des AGENTS D'EXPLOITATION DE STATIONNEMENT avec le SSIAP1 H/F. Qualification SSIAP1...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H66568WBMLLQ7Y5KJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H66568WBMLLQ7Y5KJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H66568WBMLLQ7Y5KJ</SimilarJobsURL>
+      <JobTitle>AGENT D'EXPLOITATION DE STATIONNEMENT (AUTO) - SSIAP1 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6L172MZ8RVKP20B6</DID>
+      <OnetCode>51-3021.00</OnetCode>
+      <ONetFriendlyTitle>Butchers and Meat Cutters</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous sommes actuellement à la recherche de bouchers H/F pour un client situé à Wasselonne. Ce poste est à pourvoir en intérim dans un premier temps,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6L172MZ8RVKP20B6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6L172MZ8RVKP20B6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wasselonne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wasselonne</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.6372</LocationLatitude>
+      <LocationLongitude>7.44727</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6L172MZ8RVKP20B6</SimilarJobsURL>
+      <JobTitle>BOUCHER (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H83H67P1ZD8WB57HF</DID>
+      <OnetCode>51-8093.00</OnetCode>
+      <ONetFriendlyTitle>Petroleum Pump System Operators, Refinery Operators, and Gaugers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la fabrication de biocarburant et huile recherche dans le cadre de son développement des opérateurs. Vos missions seront...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H83H67P1ZD8WB57HF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H83H67P1ZD8WB57HF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>HAVRE</Location>
+      <DisplayCity>LE-HAVRE</DisplayCity>
+      <City>Havre</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.49346</LocationLatitude>
+      <LocationLongitude>0.10139</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H83H67P1ZD8WB57HF</SimilarJobsURL>
+      <JobTitle>OPÉRATEURS EN INDUSTRIE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7GX72SFJCQPTDPY2</DID>
+      <OnetCode>13-1021.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents and Buyers, Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour l'un de nos client, des agents de production en industrie agro-alimentaire ayant pour missions : - la mise en barquettes, -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7GX72SFJCQPTDPY2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7GX72SFJCQPTDPY2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rennes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.10751</LocationLatitude>
+      <LocationLongitude>-1.68447</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7GX72SFJCQPTDPY2</SimilarJobsURL>
+      <JobTitle>AGENT DE PRODUCTION AGRO-ALIMENTAIRE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H39T6VDS55RM01XDM</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Samsic Emploi recherche pour l'un de ses clients spécialisé dans la fabrication de pièces un fraiseur P3 pour une mission en intérim. Vous aurez en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H39T6VDS55RM01XDM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H39T6VDS55RM01XDM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Septème</Location>
+      <DisplayCity></DisplayCity>
+      <City>Septème</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.5524</LocationLatitude>
+      <LocationLongitude>5.00505</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H39T6VDS55RM01XDM</SimilarJobsURL>
+      <JobTitle>FRAISEUR P3 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L29F71FZQ3XXBJVGJ</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans les installations électriques et instrumentation dans le secteur de l'énergie, recrute dans le cadre de son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L29F71FZQ3XXBJVGJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L29F71FZQ3XXBJVGJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vénissieux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vénissieux</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.69657</LocationLatitude>
+      <LocationLongitude>4.8851</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L29F71FZQ3XXBJVGJ</SimilarJobsURL>
+      <JobTitle>MONTEUR ELECTRICIEN GSM TELECOM  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1M86SYF3JV9TMLS0</DID>
+      <OnetCode>51-9198.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d'un atelier de conditionnement, vous êtes en charge d'effectuer : - du tri et du lavage de mache - de la coupe de salade - du conditionnement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1M86SYF3JV9TMLS0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1M86SYF3JV9TMLS0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Julien-de-Concelles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Julien-de-Concelles</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.25332</LocationLatitude>
+      <LocationLongitude>-1.38822</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1M86SYF3JV9TMLS0</SimilarJobsURL>
+      <JobTitle>AGENT DE PRODUCTION EN INDUSTRIE ALIMENTAIRE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2B56MM0W21XMND2N</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, recrute un techicien de maintenance en electricité F/H Vos missions seront les suivantes - Réaliser les interventions en électricité...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2B56MM0W21XMND2N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2B56MM0W21XMND2N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Échirolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Échirolles</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.14953</LocationLatitude>
+      <LocationLongitude>5.7194</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2B56MM0W21XMND2N</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE EN ELECTRICITE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7KS5WSMVR5BRZW4G</DID>
+      <OnetCode>47-2211.00</OnetCode>
+      <ONetFriendlyTitle>Sheet Metal Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client un monteur en charpente métallique H/F : Vous effectuez l'assemblage au sol des structures métalliques et le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F7KS5WSMVR5BRZW4G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7KS5WSMVR5BRZW4G&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pouzauges</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pouzauges</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.7822</LocationLatitude>
+      <LocationLongitude>-0.8361</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7KS5WSMVR5BRZW4G</SimilarJobsURL>
+      <JobTitle>MONTEUR/POSEUR CHARPENTE METALLIQUE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2W3667FNL0HGZYJH</DID>
+      <OnetCode>43-5053.00</OnetCode>
+      <ONetFriendlyTitle>Postal Service Mail Sorters, Processors, and Processing Machine Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Votre mission : Trier et contrôler le linge puis le répartir en fonction des lots. Vous êtes autonome, sérieux et dynamique Poste à pourvoir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G2W3667FNL0HGZYJH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2W3667FNL0HGZYJH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pouzauges</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pouzauges</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.7822</LocationLatitude>
+      <LocationLongitude>-0.8361</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2W3667FNL0HGZYJH</SimilarJobsURL>
+      <JobTitle>AGENT DE TRI (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F22X78LPDVMKT08WJ</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans le transport express recherche un(e) manutentionnaire. Vos missions seront les suivantes : - déchargement de camions -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F22X78LPDVMKT08WJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F22X78LPDVMKT08WJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mérignac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mérignac</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.83128</LocationLatitude>
+      <LocationLongitude>-0.68192</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F22X78LPDVMKT08WJ</SimilarJobsURL>
+      <JobTitle>MANUTENTIONNAIRE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7RT65BLSZJNCMTY8</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans la construction et la rénovation des stations services recrute dans le cadre de son développement un chef de chantier...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K7RT65BLSZJNCMTY8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7RT65BLSZJNCMTY8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bordeaux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.83663</LocationLatitude>
+      <LocationLongitude>-0.58104</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7RT65BLSZJNCMTY8</SimilarJobsURL>
+      <JobTitle>CHEF DE CHANTIER (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8BS75DVGDYH2Q56Q</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans les matières plastiques recrute dans le cadre de son développement un opérateur sur presse H/F Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J8BS75DVGDYH2Q56Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8BS75DVGDYH2Q56Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Quentin-Fallavier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Quentin-Fallavier</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.63259</LocationLatitude>
+      <LocationLongitude>5.11081</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8BS75DVGDYH2Q56Q</SimilarJobsURL>
+      <JobTitle>OPERATEUR SUR PRESSE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L05L6GJRD3811JM6F</DID>
+      <OnetCode>51-9198.00</OnetCode>
+      <ONetFriendlyTitle>Helpers--Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour un de nos clients, spécialisé en agro-alimentaire, des agents de productions H/F. Postes à pourvoir rapidement, horaires en 2x8...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L05L6GJRD3811JM6F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L05L6GJRD3811JM6F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Plaintel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Plaintel</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.40716</LocationLatitude>
+      <LocationLongitude>-2.81662</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L05L6GJRD3811JM6F</SimilarJobsURL>
+      <JobTitle>AGENT DE PRODUCTION H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L78463MW3TG4BR8W0</DID>
+      <OnetCode>51-5023.00</OnetCode>
+      <ONetFriendlyTitle>Printing Machine Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>conduite de machine, réglage, ajustage des couleurs, quelques notions de maintenance mécanique Qualification : Bac Pro, CAP conducteur offset...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L78463MW3TG4BR8W0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L78463MW3TG4BR8W0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Angoulême</Location>
+      <DisplayCity></DisplayCity>
+      <City>Angoulême</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>45.64924</LocationLatitude>
+      <LocationLongitude>0.15698</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L78463MW3TG4BR8W0</SimilarJobsURL>
+      <JobTitle>MARGEUR OFFSET (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3P86CVJQVTYB420M</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>SAMSIC EMPLOI recherche pour son client, un frigoriste H/F. Vos missions: maintenance préventive et corrective sur installations de types productions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3P86CVJQVTYB420M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3P86CVJQVTYB420M&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tours</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tours</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.39038</LocationLatitude>
+      <LocationLongitude>0.68971</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3P86CVJQVTYB420M</SimilarJobsURL>
+      <JobTitle>FRIGORISTE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SAMSIC EMPLOI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J27B6BWBDLBYY6BJR</DID>
+      <OnetCode>27-3041.00</OnetCode>
+      <ONetFriendlyTitle>Editors</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans le matériel médical recrute dans le cadre de son développement des monteur et/ou ajusteurs. - Monteur avec notion en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J27B6BWBDLBYY6BJR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J27B6BWBDLBYY6BJR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gradignan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gradignan</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.77342</LocationLatitude>
+      <LocationLongitude>-0.61404</LocationLongitude>
+      <PostedDate>1/21/2015</PostedDate>
+      <PostedTime>1/21/2015 10:43:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J27B6BWBDLBYY6BJR</SimilarJobsURL>
+      <JobTitle>MONTEUR ET/OU AJUSTEUR (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GS/MSL5GK6R80LPCKPJDGS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

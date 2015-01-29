@@ -1,0 +1,3435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:48:29 AM</TimeResponseSent>
+  <TimeElapsed>0.5304</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13258</TotalCount>
+  <FirstItemIndex>7101</FirstItemIndex>
+  <LastItemIndex>7200</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>TIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN7J579LBJJSYM35ZS</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recrutons pour le bureau d’étude d’une société spécialisé en ingénierie, un : Dessinateur Projeteur RobCad en ferrage H/F A Bussy Saint Georges (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN7J579LBJJSYM35ZS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN7J579LBJJSYM35ZS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bussy-Saint-Georges</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bussy-Saint-Georges</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.84331</LocationLatitude>
+      <LocationLongitude>2.6977</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:04:28 AM</PostedTime>
+      <Pay>30 000 € - 34 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN7J579LBJJSYM35ZS</SimilarJobsURL>
+      <JobTitle>Dessinateur Projeteur RobCad en ferrage H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LMI Recrutement</Company>
+      <CompanyDID>chs63b6184m3jslh3mg</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs63b6184m3jslh3mg/lmi-recrutement/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4G2661NT5HLLJF02</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>ENTREPRISE : Nous recrutons un chef de mission H/F pour un CDI au sein d'un important cabinet d'expertise comptable. DESCRIPTIF DE MISSION :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4G2661NT5HLLJF02</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4G2661NT5HLLJF02&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:02:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4G2661NT5HLLJF02</SimilarJobsURL>
+      <JobTitle>Chef de Mission H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SX/MSG3V06LTCCDGC3MRSX.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LMI Recrutement</Company>
+      <CompanyDID>chs63b6184m3jslh3mg</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs63b6184m3jslh3mg/lmi-recrutement/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4Z16P5VBHY5XVV4C</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>ENTREPRISE : Nous recrutons un collaborateur confirmé /chef de mission H/F pour un CDI au sein d'un important cabinet d'expertise comptable....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4Z16P5VBHY5XVV4C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4Z16P5VBHY5XVV4C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon Est</Location>
+      <DisplayCity>Lyon Est</DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:02:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4Z16P5VBHY5XVV4C</SimilarJobsURL>
+      <JobTitle>Collaborateur Confirmé / Chef de Mission H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SX/MSG3V06LTCCDGC3MRSX.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Budget</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DGE INTERIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS7M069V1X84XDNHDX</DID>
+      <OnetCode>17-2199.00</OnetCode>
+      <ONetFriendlyTitle>Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le groupe DGE est une société spécialisée dans l'emploi de cadres, experts et techniciens spécialisés, présent depuis plus de 10 ans, nous intervenons...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS7M069V1X84XDNHDX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS7M069V1X84XDNHDX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Blois</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.5837</LocationLatitude>
+      <LocationLongitude>1.30281</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:02:20 AM</PostedTime>
+      <Pay>25 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS7M069V1X84XDNHDX</SimilarJobsURL>
+      <JobTitle>PIQUETEUR FIBRE OPTIQUE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V4/MA24NG5WPSZJSW883V4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Harvest</Company>
+      <CompanyDID>c8e3y96zcfz6dqr1dmv</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8e3y96zcfz6dqr1dmv/harvest/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G3V96LWCRC4LK3V2L</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous êtes fortement motivé par le développement de logiciels. Rattaché à un Chef de Projet, vous êtes impliqué dans l'ensemble du processus de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3V96LWCRC4LK3V2L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3V96LWCRC4LK3V2L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>CLERMONT-FERRAND</Location>
+      <DisplayCity>CLERMONT-FERRAND</DisplayCity>
+      <City>Clermont-Ferrand</City>
+      <State>AUVERGNE</State>
+      <LocationLatitude>45.77666</LocationLatitude>
+      <LocationLongitude>3.07723</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3V96LWCRC4LK3V2L</SimilarJobsURL>
+      <JobTitle>Ingénieur Logiciel Objet Java/J2E - Editeur - Finances H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/bd/m0v4fb6j1tb494wl9bd.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>xml</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>jquery</Skill>
+        <Skill>java (programming language)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cuisinella</Company>
+      <CompanyDID>chl5216xg7c6pvhmcsz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl5216xg7c6pvhmcsz/cuisinella/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F1KT76NC8H7LHYG7W</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>cuisinella-emploi.fr Vous ne connaissez pas encore ce site ? Connectez-vous pour découvrir une enseigne, un univers et des postes à pourvoir sur toute...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1KT76NC8H7LHYG7W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1KT76NC8H7LHYG7W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>RAMBOUILLET</Location>
+      <DisplayCity>RAMBOUILLET</DisplayCity>
+      <City>Rambouillet</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.64343</LocationLatitude>
+      <LocationLongitude>1.82625</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1KT76NC8H7LHYG7W</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vk/msg80d6p7stkvn8d2vk.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cuisinella</Company>
+      <CompanyDID>chl5216xg7c6pvhmcsz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl5216xg7c6pvhmcsz/cuisinella/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3XQ5ZHSFVWZC9HS2</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>cuisinella-emploi.fr Vous ne connaissez pas encore ce site ? Connectez-vous pour découvrir une enseigne, un univers et des postes à pourvoir sur toute...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3XQ5ZHSFVWZC9HS2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3XQ5ZHSFVWZC9HS2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Puget-sur-Argens</Location>
+      <DisplayCity></DisplayCity>
+      <City>Puget-sur-Argens</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.45455</LocationLatitude>
+      <LocationLongitude>6.68748</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3XQ5ZHSFVWZC9HS2</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vk/msg80d6p7stkvn8d2vk.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cuisinella</Company>
+      <CompanyDID>chl5216xg7c6pvhmcsz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl5216xg7c6pvhmcsz/cuisinella/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1096BR40RQVXQKMH</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>cuisinella-emploi.fr Vous ne connaissez pas encore ce site ? Connectez-vous pour découvrir une enseigne, un univers et des postes à pourvoir sur toute...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1096BR40RQVXQKMH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1096BR40RQVXQKMH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>LOUVROIL</Location>
+      <DisplayCity>LOUVROIL</DisplayCity>
+      <City>Louvroil</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.26388</LocationLatitude>
+      <LocationLongitude>3.96216</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1096BR40RQVXQKMH</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vk/msg80d6p7stkvn8d2vk.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G19V6J8XH16K2RS33</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>FIDUCIAL OFFICE SOLUTIONS, filiale de FIDUCIAL, est un spécialiste de l'équipement du bureau et propose à ses clients l'offre la plus large du marché...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G19V6J8XH16K2RS33</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G19V6J8XH16K2RS33&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Metz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Metz</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>49.11566</LocationLatitude>
+      <LocationLongitude>6.1732</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G19V6J8XH16K2RS33</SimilarJobsURL>
+      <JobTitle>Chef des Ventes - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV7145YDWN1F3B3L8D</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, le candidat est capable de piloter l’activité communication de l’entreprise sur les réseaux sociaux. Il fédère une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV7145YDWN1F3B3L8D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV7145YDWN1F3B3L8D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Versailles</Location>
+      <DisplayCity>Versailles</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV7145YDWN1F3B3L8D</SimilarJobsURL>
+      <JobTitle>Community manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV0WV6XY7Q418MK1W6</DID>
+      <OnetCode>27-3041.00</OnetCode>
+      <ONetFriendlyTitle>Editors</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, le candidat est capable de gérer et garantir tous les contenus éditoriaux web d’une entreprise. Il définit le style et le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV0WV6XY7Q418MK1W6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV0WV6XY7Q418MK1W6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI</Location>
+      <DisplayCity>Paris XI</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV0WV6XY7Q418MK1W6</SimilarJobsURL>
+      <JobTitle>Rédacteur référenceur – Chargé(e) éditorial Web</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3BY73RDBG9ZH1W49</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Acquérir l’ensemble de connaissances qui relèvent de la comptabilité, de la fiscalité, de la gestion et du droit afin de prendre en charge de manière...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS3BY73RDBG9ZH1W49</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3BY73RDBG9ZH1W49&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XIII-75013</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8293</LocationLatitude>
+      <LocationLongitude>2.3667</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3BY73RDBG9ZH1W49</SimilarJobsURL>
+      <JobTitle>Collaborateur comptable / Responsable comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS8CG61XM3Y0S9FQ7G</DID>
+      <OnetCode>17-2111.01</OnetCode>
+      <ONetFriendlyTitle>Industrial Safety and Health Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation est une spécialisation dans le domaine du management de la qualité, destinée à des personnes qui ont de l’expérience professionnelle....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS8CG61XM3Y0S9FQ7G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS8CG61XM3Y0S9FQ7G&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS8CG61XM3Y0S9FQ7G</SimilarJobsURL>
+      <JobTitle>Responsable système QHSE (Qualité / Hygiène / Sécurité / Environnement)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV482774K7MQRXRQ3C</DID>
+      <OnetCode>27-3041.00</OnetCode>
+      <ONetFriendlyTitle>Editors</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, le candidat est capable de gérer et garantir tous les contenus éditoriaux web d’une entreprise. Il définit le style et le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV482774K7MQRXRQ3C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV482774K7MQRXRQ3C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV482774K7MQRXRQ3C</SimilarJobsURL>
+      <JobTitle>Formation Rédacteur référenceur – Chargé(e) éditorial Web</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS4666CNQVPBD4JLQK</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats maîtrisent les bases de la gestion administrative, juridique et financière de la copropriété et de la gestion...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS4666CNQVPBD4JLQK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS4666CNQVPBD4JLQK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI-75011</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8619</LocationLatitude>
+      <LocationLongitude>2.3787</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS4666CNQVPBD4JLQK</SimilarJobsURL>
+      <JobTitle>Assistant(e) en gestion immobilière</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR6J46VML8FQJKB7ZH</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants savent créer ou refondre des sites Internet, concevoir et réaliser des maquettes graphiques, écrire des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR6J46VML8FQJKB7ZH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR6J46VML8FQJKB7ZH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy-95000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cergy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.044</LocationLatitude>
+      <LocationLongitude>2.05478</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR6J46VML8FQJKB7ZH</SimilarJobsURL>
+      <JobTitle>Développeur intégrateur web</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web design</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ6DX68C502GD7ZFW1</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de traiter l’ensemble des informations comptables, de la collecte des documents à la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ6DX68C502GD7ZFW1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ6DX68C502GD7ZFW1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy</Location>
+      <DisplayCity>Cergy</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ6DX68C502GD7ZFW1</SimilarJobsURL>
+      <JobTitle>Technicien comptable - Spécialisation paie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR52L5YPNFGW5P8S8T</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants ont acquis une qualification technique solide et un savoir-faire très opérationnel, permettant une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR52L5YPNFGW5P8S8T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR52L5YPNFGW5P8S8T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XIII-75013</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8293</LocationLatitude>
+      <LocationLongitude>2.3667</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR52L5YPNFGW5P8S8T</SimilarJobsURL>
+      <JobTitle>Assistant(e) de direction</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Windows</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR1N067XDVRFBDD17K</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, le candidat est capable de piloter l’activité communication de l’entreprise sur les réseaux sociaux. Il fédère une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR1N067XDVRFBDD17K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR1N067XDVRFBDD17K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR1N067XDVRFBDD17K</SimilarJobsURL>
+      <JobTitle>Community manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ1FF67XGQTVP05F9L</DID>
+      <OnetCode>27-2012.03</OnetCode>
+      <ONetFriendlyTitle>Program Directors</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation permet d’acquérir les compétences nécessaires à l’intégration web, à la réalisation de vidéos adaptées au web et à l’interconnexion de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ1FF67XGQTVP05F9L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ1FF67XGQTVP05F9L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI</Location>
+      <DisplayCity>Paris XI</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ1FF67XGQTVP05F9L</SimilarJobsURL>
+      <JobTitle>Vidéaste online – Réalisateur vidéo rich media</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR3RF69G4H9DBSC6X5</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants savent créer ou refondre des sites Internet, concevoir et réaliser des maquettes graphiques, écrire des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR3RF69G4H9DBSC6X5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR3RF69G4H9DBSC6X5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR3RF69G4H9DBSC6X5</SimilarJobsURL>
+      <JobTitle>Développeur intégrateur web</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web design</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ2BH6Z8Y5L6SHK9KM</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation permet d’acquérir les techniques administratives nécessaires à l’exercice des fonctions d’accueil, de secrétariat et d’assistance à sa...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ2BH6Z8Y5L6SHK9KM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ2BH6Z8Y5L6SHK9KM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Melun</Location>
+      <DisplayCity>Melun</DisplayCity>
+      <City>Melun</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.547</LocationLatitude>
+      <LocationLongitude>2.65371</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ2BH6Z8Y5L6SHK9KM</SimilarJobsURL>
+      <JobTitle>Secrétaire - Assistant(e)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP847696MG7N1RTM5L</DID>
+      <OnetCode>11-2031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, le candidat est capable de piloter l’activité communication de l’entreprise sur les réseaux sociaux. Il fédère une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP847696MG7N1RTM5L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP847696MG7N1RTM5L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy Pontoise</Location>
+      <DisplayCity>Cergy Pontoise</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP847696MG7N1RTM5L</SimilarJobsURL>
+      <JobTitle>Community manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP1YY783GMC9BMCM7Q</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation permet aux participants d’acquérir une approche globale, technique et humaine de la fonction Ressources Humaines, de gérer en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP1YY783GMC9BMCM7Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP1YY783GMC9BMCM7Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve d'ascq</Location>
+      <DisplayCity>Villeneuve d'ascq</DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.6254</LocationLatitude>
+      <LocationLongitude>3.14087</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP1YY783GMC9BMCM7Q</SimilarJobsURL>
+      <JobTitle>Responsable ressources humaines</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN4W86NBMJ5JNJ5FS9</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de traiter les opérations comptables et fiscales d’une entreprise, d’analyser les documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN4W86NBMJ5JNJ5FS9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN4W86NBMJ5JNJ5FS9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI</Location>
+      <DisplayCity>Paris XI</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN4W86NBMJ5JNJ5FS9</SimilarJobsURL>
+      <JobTitle>Assistant(e) en gestion entreprises - Option comptabilité</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN78179BGX481CCYCG</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>A l’issue de la formation, les participants savent analyser les besoins clients internes ou externes, organiser et planifier la mise en œuvre de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contrat de professionnalisation</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN78179BGX481CCYCG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN78179BGX481CCYCG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN78179BGX481CCYCG</SimilarJobsURL>
+      <JobTitle>Chef de projet digital</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>R</Skill>
+        <Skill>c (programming language)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN8DF5WGRN7WS25ZVZ</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation prépare les participants à l’analyse stratégique, au management marketing / commercial des projets et au pilotage financier des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN8DF5WGRN7WS25ZVZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN8DF5WGRN7WS25ZVZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI</Location>
+      <DisplayCity>Paris XI</DisplayCity>
+      <City>Paris XI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8619</LocationLatitude>
+      <LocationLongitude>2.3787</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN8DF5WGRN7WS25ZVZ</SimilarJobsURL>
+      <JobTitle>Responsable marketing et  management commercial</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP0WN6LQ8NTGBJBBJR</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats maîtrisent les techniques de comptabilité, les outils de gestion et utilisent de façon performante l’outil...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP0WN6LQ8NTGBJBBJR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP0WN6LQ8NTGBJBBJR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XIII</Location>
+      <DisplayCity>Paris XIII</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP0WN6LQ8NTGBJBBJR</SimilarJobsURL>
+      <JobTitle>Formation : Comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN6N66620FQXLMCB6K</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants maîtrisent la méthodologie propre à la programmation orientée objet, afin de faciliter le travail...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN6N66620FQXLMCB6K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN6N66620FQXLMCB6K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN6N66620FQXLMCB6K</SimilarJobsURL>
+      <JobTitle>Développeur intégrateur web - Option  PHP orienté objet</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>javascript</Skill>
+        <Skill>drupal</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM1Z85VV82BQHRK38W</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants savent créer ou refondre des sites Internet, concevoir et réaliser des maquettes graphiques, écrire des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM1Z85VV82BQHRK38W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM1Z85VV82BQHRK38W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI</Location>
+      <DisplayCity>Paris XI</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM1Z85VV82BQHRK38W</SimilarJobsURL>
+      <JobTitle>Développeur intégrateur web</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web design</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL6WV6W58D5B47MYQ0</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de traiter la paie, assurer la gestion administrative du personnel et gérer les charges et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL6WV6W58D5B47MYQ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL6WV6W58D5B47MYQ0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve d'Ascq</Location>
+      <DisplayCity>Villeneuve d'Ascq</DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.6254</LocationLatitude>
+      <LocationLongitude>3.14087</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL6WV6W58D5B47MYQ0</SimilarJobsURL>
+      <JobTitle>Gestionnaire de paie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL2DB72GBLJPTWXY2B</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de prospecter, commercialiser et négocier une opération immobilière, de conseiller...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL2DB72GBLJPTWXY2B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL2DB72GBLJPTWXY2B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris 11ème</Location>
+      <DisplayCity>Paris 11ème</DisplayCity>
+      <City>Paris XI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8619</LocationLatitude>
+      <LocationLongitude>2.3787</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL2DB72GBLJPTWXY2B</SimilarJobsURL>
+      <JobTitle>Négociateur immobilier</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL6GZ69KH2Z86FTCF3</DID>
+      <OnetCode>11-3031.01</OnetCode>
+      <ONetFriendlyTitle>Treasurers and Controllers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats sont capables d’analyser en permanence tous les indicateurs de gestion pour évaluer l’activité de l’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL6GZ69KH2Z86FTCF3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL6GZ69KH2Z86FTCF3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI-75011</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8619</LocationLatitude>
+      <LocationLongitude>2.3787</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL6GZ69KH2Z86FTCF3</SimilarJobsURL>
+      <JobTitle>Contrôleur de gestion</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL2MF6BVFLDLKL1BNJ</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation permet d’acquérir les techniques administratives nécessaires à l’exercice des fonctions d’accueil, de secrétariat et d’assistance à sa...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL2MF6BVFLDLKL1BNJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL2MF6BVFLDLKL1BNJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve d'Ascq</Location>
+      <DisplayCity>Villeneuve d'Ascq</DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.6254</LocationLatitude>
+      <LocationLongitude>3.14087</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL2MF6BVFLDLKL1BNJ</SimilarJobsURL>
+      <JobTitle>Secrétaire - Assistant(e)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77LR6CW0ZLC87NJP2</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de traiter la paie, assurer la gestion administrative du personnel et gérer les charges et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB77LR6CW0ZLC87NJP2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77LR6CW0ZLC87NJP2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis-94150</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77LR6CW0ZLC87NJP2</SimilarJobsURL>
+      <JobTitle>Gestionnaire de paie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77XV5VHXD3D0VS2S2</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de gérer l’administration du personnel au quotidien en conformité avec la législation, d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB77XV5VHXD3D0VS2S2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77XV5VHXD3D0VS2S2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Melun-77000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Melun</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.547</LocationLatitude>
+      <LocationLongitude>2.65371</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77XV5VHXD3D0VS2S2</SimilarJobsURL>
+      <JobTitle>Assistant(e) en ressources humaines</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB750Y6SGD44HQZK9V0</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation pluridisciplinaire permet d’acquérir les compétences professionnelles liées à l’ensemble des activités commerciales d’une entreprise...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB750Y6SGD44HQZK9V0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB750Y6SGD44HQZK9V0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB750Y6SGD44HQZK9V0</SimilarJobsURL>
+      <JobTitle>Assistant(e) en gestion entreprises - Option action commerciale</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB75PH6HGH70XXG77SQ</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de gérer l’administration du personnel au quotidien en conformité avec la législation, d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB75PH6HGH70XXG77SQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB75PH6HGH70XXG77SQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Versailles-78000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Versailles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7978</LocationLatitude>
+      <LocationLongitude>2.11471</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB75PH6HGH70XXG77SQ</SimilarJobsURL>
+      <JobTitle>Assistant(e) en ressources humaines</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76HP6KC4X16G9M088</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation prépare les participants à l’analyse stratégique, au management marketing / commercial des projets et au pilotage financier des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76HP6KC4X16G9M088</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76HP6KC4X16G9M088&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76HP6KC4X16G9M088</SimilarJobsURL>
+      <JobTitle>Responsable marketing et  management commercial</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB762W67JVV7LP5YWXP</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats maîtrisent les techniques de comptabilité, les outils de gestion et utilisent de façon performante l’outil...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB762W67JVV7LP5YWXP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB762W67JVV7LP5YWXP&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve d'ascq</Location>
+      <DisplayCity>Villeneuve d'ascq</DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.6254</LocationLatitude>
+      <LocationLongitude>3.14087</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB762W67JVV7LP5YWXP</SimilarJobsURL>
+      <JobTitle>Formation : Comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB7495685RRQ6RHRHWW</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants maîtrisent la méthodologie propre à la programmation orientée objet, afin de faciliter le travail...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB7495685RRQ6RHRHWW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB7495685RRQ6RHRHWW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI</Location>
+      <DisplayCity>Paris XI</DisplayCity>
+      <City>Paris XI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8619</LocationLatitude>
+      <LocationLongitude>2.3787</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB7495685RRQ6RHRHWW</SimilarJobsURL>
+      <JobTitle>Développeur intégrateur web - Option  PHP orienté objet</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>javascript</Skill>
+        <Skill>drupal</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB74B06PC7YCPGZL4R2</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de traiter la paie, assurer la gestion administrative du personnel et gérer les charges et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB74B06PC7YCPGZL4R2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74B06PC7YCPGZL4R2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XIII-75013</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8293</LocationLatitude>
+      <LocationLongitude>2.3667</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74B06PC7YCPGZL4R2</SimilarJobsURL>
+      <JobTitle>Gestionnaire de paie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76BD6HS4KXM3JS5D6</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats maîtrisent les techniques de comptabilité, les outils de gestion et utilisent de façon performante l’outil...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76BD6HS4KXM3JS5D6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76BD6HS4KXM3JS5D6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Auxerre</Location>
+      <DisplayCity></DisplayCity>
+      <City>Auxerre</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.79605</LocationLatitude>
+      <LocationLongitude>3.5693</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76BD6HS4KXM3JS5D6</SimilarJobsURL>
+      <JobTitle>Formation : Comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB71T26HYG7H3JGNCKH</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats maîtrisent les techniques de comptabilité, les outils de gestion et utilisent de façon performante l’outil...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB71T26HYG7H3JGNCKH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71T26HYG7H3JGNCKH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy</Location>
+      <DisplayCity>Cergy</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71T26HYG7H3JGNCKH</SimilarJobsURL>
+      <JobTitle>Formation : Comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB72M26WHTG827XZPJ0</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation les participants ont acquis une qualification technique solide et un savoir-faire très opérationnel, permettant une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72M26WHTG827XZPJ0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72M26WHTG827XZPJ0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis-94150</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72M26WHTG827XZPJ0</SimilarJobsURL>
+      <JobTitle>Assistant(e) de direction</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Windows</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB73BZ66DP1W0KW4QM6</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de gérer l’administration du personnel au quotidien en conformité avec la législation, d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB73BZ66DP1W0KW4QM6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB73BZ66DP1W0KW4QM6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7488</LocationLatitude>
+      <LocationLongitude>2.35491</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB73BZ66DP1W0KW4QM6</SimilarJobsURL>
+      <JobTitle>Assistant(e) en ressources humaines</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB72V46MRD2GRTJRLK3</DID>
+      <OnetCode>17-2111.01</OnetCode>
+      <ONetFriendlyTitle>Industrial Safety and Health Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation est une spécialisation dans le domaine du management de la qualité, destinée à des personnes qui ont de l’expérience professionnelle....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72V46MRD2GRTJRLK3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72V46MRD2GRTJRLK3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Melun</Location>
+      <DisplayCity>Melun</DisplayCity>
+      <City>Livry-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.5068</LocationLatitude>
+      <LocationLongitude>2.68751</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72V46MRD2GRTJRLK3</SimilarJobsURL>
+      <JobTitle>Responsable système QHSE (Qualité / Hygiène / Sécurité / Environnement)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB73K45WXZG9ZGNB7FY</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de gérer l’administration du personnel au quotidien en conformité avec la législation, d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB73K45WXZG9ZGNB7FY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB73K45WXZG9ZGNB7FY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve-d'Ascq-59650</Location>
+      <DisplayCity></DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.6254</LocationLatitude>
+      <LocationLongitude>3.14087</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB73K45WXZG9ZGNB7FY</SimilarJobsURL>
+      <JobTitle>Assistant(e) en ressources humaines</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB708D61P3ZYQFV24PS</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de traiter l’ensemble des informations comptables, de la collecte des documents à la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB708D61P3ZYQFV24PS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB708D61P3ZYQFV24PS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Versailles</Location>
+      <DisplayCity>Versailles</DisplayCity>
+      <City>Versailles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7978</LocationLatitude>
+      <LocationLongitude>2.11471</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB708D61P3ZYQFV24PS</SimilarJobsURL>
+      <JobTitle>Technicien comptable - Spécialisation paie</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70KF6TNQ624VB2YD5</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats ont les compétences en bureautique et en communication, pour assister les services de communication dans tous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB70KF6TNQ624VB2YD5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70KF6TNQ624VB2YD5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy</Location>
+      <DisplayCity>Cergy</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70KF6TNQ624VB2YD5</SimilarJobsURL>
+      <JobTitle>Assistant(e) de communication multimédia</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70H272D1CQXP0VM4Q</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les participants sont capables de gérer l’administration du personnel au quotidien en conformité avec la législation, d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB70H272D1CQXP0VM4Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70H272D1CQXP0VM4Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nevers</Location>
+      <DisplayCity>Nevers</DisplayCity>
+      <City>Nevers</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>46.9887</LocationLatitude>
+      <LocationLongitude>3.17603</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70H272D1CQXP0VM4Q</SimilarJobsURL>
+      <JobTitle>Assistant(e) en ressources humaines</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB712S6SMZ0SR1TQVMP</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>À l’issue de la formation, les candidats maîtrisent les techniques de comptabilité, les outils de gestion et utilisent de façon performante l’outil...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB712S6SMZ0SR1TQVMP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB712S6SMZ0SR1TQVMP&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Melun</Location>
+      <DisplayCity>Melun</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB712S6SMZ0SR1TQVMP</SimilarJobsURL>
+      <JobTitle>Formation : Comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70KY79RJV94PHWHTS</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Acquérir l’ensemble de connaissances qui relèvent de la comptabilité, de la fiscalité, de la gestion et du droit afin de prendre en charge de manière...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB70KY79RJV94PHWHTS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70KY79RJV94PHWHTS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve-d'Ascq-59650</Location>
+      <DisplayCity></DisplayCity>
+      <City>Villeneuve-d'Ascq</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.6254</LocationLatitude>
+      <LocationLongitude>3.14087</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70KY79RJV94PHWHTS</SimilarJobsURL>
+      <JobTitle>Collaborateur comptable / Responsable comptable</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>IFOCOP: Organisme de formation</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB706W6QXN3MCCF41N1</DID>
+      <OnetCode>17-2111.01</OnetCode>
+      <ONetFriendlyTitle>Industrial Safety and Health Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cette formation est une spécialisation dans le domaine du management de la qualité, destinée à des personnes qui ont de l’expérience professionnelle....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB706W6QXN3MCCF41N1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB706W6QXN3MCCF41N1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy pontoise</Location>
+      <DisplayCity>Cergy pontoise</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:00:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB706W6QXN3MCCF41N1</SimilarJobsURL>
+      <JobTitle>Responsable système QHSE (Qualité / Hygiène / Sécurité / Environnement)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QY/M0X2TC6RJ9KGNFT6ZQY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K11B6C9X5LJ7S6TVW</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dans le cadre de son développement, notre client, acteur majeur dans la conception et la fabrication de robinets et de vannes, recrute un(e) Technico-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K11B6C9X5LJ7S6TVW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K11B6C9X5LJ7S6TVW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille 14ème</Location>
+      <DisplayCity>Marseille 14ème</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K11B6C9X5LJ7S6TVW</SimilarJobsURL>
+      <JobTitle>TECHNICO-COMMERCIAL(E) SÉDENTAIRE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3JX5W8M4QZYMBSMG</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dans le cadre de son développement, notre client, acteur majeur dans la conception et la fabrication de robinets et de vannes, recrute un(e) Technico-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3JX5W8M4QZYMBSMG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3JX5W8M4QZYMBSMG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity>Lille</DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.624</LocationLatitude>
+      <LocationLongitude>3.05651</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3JX5W8M4QZYMBSMG</SimilarJobsURL>
+      <JobTitle>TECHNICO-COMMERCIAL(E) ITINÉRANT(E)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L39M73699JVVVTRW9</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dans le cadre de son développement, notre client, acteur majeur dans la conception et la fabrication de robinets et de vannes, recrute un(e) Technico-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L39M73699JVVVTRW9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L39M73699JVVVTRW9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille 14ème</Location>
+      <DisplayCity>Marseille 14ème</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:38 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L39M73699JVVVTRW9</SimilarJobsURL>
+      <JobTitle>TECHNICO-COMMERCIAL(E) SÉDENTAIRE JUNIOR</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6HF769Z6Q7RG8T3N</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recrute pour l'un de ses clients, un(e) Gestionnaire Paies. Dans le cadre d'une réorganisation du Service Paie et la création d'un CSP...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6HF769Z6Q7RG8T3N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6HF769Z6Q7RG8T3N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:22 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6HF769Z6Q7RG8T3N</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE PAIES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4YP64WFBSTMPNLP6</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, acteur industriel majeur dans le secteur de l'agroalimentaire, recherche, dans le cadre de son développement, un(e) Technicien(ne)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4YP64WFBSTMPNLP6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4YP64WFBSTMPNLP6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>93</Location>
+      <DisplayCity>93</DisplayCity>
+      <City>Bobigny</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9123</LocationLatitude>
+      <LocationLongitude>2.44343</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:21 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4YP64WFBSTMPNLP6</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) MAINTENANCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F1RC709XHR218GJNV</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recherche, pour un de ses clients, leader dans son secteur, un(e) Comptable Général(e). Rattaché(e) au Responsable Comptable, vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1RC709XHR218GJNV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1RC709XHR218GJNV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>78 proche Versailles et essonne</Location>
+      <DisplayCity>78 proche Versailles et essonne</DisplayCity>
+      <City>Versailles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7978</LocationLatitude>
+      <LocationLongitude>2.11471</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:19 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1RC709XHR218GJNV</SimilarJobsURL>
+      <JobTitle>COMPTABLE GÉNÉRAL(E)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>5</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7Q576BQLRGM7PKDF</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client spécialisé dans la fabrication de composant électronique recherche un(e) Responsable de Ligne de Production. Vous assurerez la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K7Q576BQLRGM7PKDF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7Q576BQLRGM7PKDF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lemanon</Location>
+      <DisplayCity>Lemanon</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7Q576BQLRGM7PKDF</SimilarJobsURL>
+      <JobTitle>RESPONSABLE DE LIGNE DE PRODUCTION</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Lean manufacturing</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L47Z6L4LXRMS4ZSXQ</DID>
+      <OnetCode>17-3023.03</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans les réseaux électriques industriels, recherche deux Technicien(ne)s Bureau d'Etudes. Au sein de notre Bureau d'Etudes,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L47Z6L4LXRMS4ZSXQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L47Z6L4LXRMS4ZSXQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>94</Location>
+      <DisplayCity>94</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7853</LocationLatitude>
+      <LocationLongitude>2.46332</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L47Z6L4LXRMS4ZSXQ</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) BUREAU D'ETUDES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>CIM</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4G45Z7SGH8710LBM</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est une société majeure sur le marché des énergies et services. Dans le cadre de son développement, il recherche un(e) Chargé(e) d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4G45Z7SGH8710LBM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4G45Z7SGH8710LBM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sud de Lyon</Location>
+      <DisplayCity>Sud de Lyon</DisplayCity>
+      <City>Lyon I</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7711</LocationLatitude>
+      <LocationLongitude>4.82935</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4G45Z7SGH8710LBM</SimilarJobsURL>
+      <JobTitle>CHARGÉ(E) D'AFFAIRES FROID INDUSTRIEL</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K0PZ73C7523JVPZKC</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, acteur incontournable sur son marché, recherche un(e) Comptable Fournisseurs. Au sein du Service Comptable et rattaché(e) au Responsable...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K0PZ73C7523JVPZKC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0PZ73C7523JVPZKC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris (75)</Location>
+      <DisplayCity>Paris (75)</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0PZ73C7523JVPZKC</SimilarJobsURL>
+      <JobTitle>COMPTABLE FOURNISSEURS SAP</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/57/MSG50D70NJSSWZT9F57.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G2FN688YZXW0BGBL7</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, leader dans le secteur des Services de Maintenance Industrielle, recrute, dans le cadre de son développement, un(e) Technicien(ne) de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G2FN688YZXW0BGBL7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2FN688YZXW0BGBL7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>92</Location>
+      <DisplayCity>92</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:01 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2FN688YZXW0BGBL7</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) DE MAINTENANCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K49D63TMXK27P4B3P</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recherche pour un de ses clients, cabinet d'expertise comptable, un(e) Gestionnaire de Paie. Au sein du Service Social, rattaché(e) au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K49D63TMXK27P4B3P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K49D63TMXK27P4B3P&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aix en Provence</Location>
+      <DisplayCity>Aix en Provence</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:12:00 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K49D63TMXK27P4B3P</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE DE PAIE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6WC6MN7KGRF1YMMB</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Pour l'un de nos clients, nous recherchons un(e) Assistant(e) de Direction trilingue anglais et néerlandais. Au sein d'un grand Groupe, vous serez...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6WC6MN7KGRF1YMMB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6WC6MN7KGRF1YMMB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Défense (92)</Location>
+      <DisplayCity>La Défense (92)</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 2:11:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6WC6MN7KGRF1YMMB</SimilarJobsURL>
+      <JobTitle>ASSISTANT(E) DE DIRECTION BILINGUE NÉERLANDAIS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3Z562YT19C50GTYW</DID>
+      <OnetCode>11-3051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Production Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est un Groupe industriel international. Rattaché(e) au Directeur du Contrôle de Gestion Groupe, vous intervenez dans un contexte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3Z562YT19C50GTYW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3Z562YT19C50GTYW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vaucluse</Location>
+      <DisplayCity>Vaucluse</DisplayCity>
+      <City>Avignon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.9464</LocationLatitude>
+      <LocationLongitude>4.80921</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:55:06 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3Z562YT19C50GTYW</SimilarJobsURL>
+      <JobTitle>RESPONSABLE DU CONTRÔLE DE GESTION</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K3Z669P96TSYXGWLC</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est un important bureau d'études techniques spécialisé en ingénierie du bâtiment et de l'industrie, en génie électrique et climatique....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K3Z669P96TSYXGWLC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3Z669P96TSYXGWLC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Rochelle</Location>
+      <DisplayCity>La Rochelle</DisplayCity>
+      <City>Rochelle</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.1625</LocationLatitude>
+      <LocationLongitude>-1.18474</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:55:05 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3Z669P96TSYXGWLC</SimilarJobsURL>
+      <JobTitle>INGÉNIEUR PROJETS INDUSTRIELS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Project</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F14C6W3T2W8B8KN5C</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Société de négoce. La mission consistera à : - Intervenir sur différents modules de Sage L1000, notamment la programmation et le développement,-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F14C6W3T2W8B8KN5C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F14C6W3T2W8B8KN5C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>IDF</Location>
+      <DisplayCity>IDF</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:55:05 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F14C6W3T2W8B8KN5C</SimilarJobsURL>
+      <JobTitle>PROGRAMMEUR(SE) SAGE L1000</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2VD6M1P8N317S3Y8</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Groupe bancaire d'envergure. Vous renforcez la présence commerciale auprès des clients et des prospects et vous : - Gérez et développez votre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2VD6M1P8N317S3Y8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2VD6M1P8N317S3Y8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montbelliard (25)</Location>
+      <DisplayCity>Montbelliard (25)</DisplayCity>
+      <City>Besançon</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>47.2377</LocationLatitude>
+      <LocationLongitude>6.0249</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:55:04 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2VD6M1P8N317S3Y8</SimilarJobsURL>
+      <JobTitle>CONSEILLER(E) CLIENTÈLE PROFESSIONNELS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7DH6VFWX2XRWL501</DID>
+      <OnetCode>47-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Construction Trades and Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Chef de Chantier en Génie Climatique dans le cadre d'une embauche en CDI. Poste basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L7DH6VFWX2XRWL501</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7DH6VFWX2XRWL501&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Ciotat</Location>
+      <DisplayCity></DisplayCity>
+      <City>La Ciotat</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.17418</LocationLatitude>
+      <LocationLongitude>5.61036</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7DH6VFWX2XRWL501</SimilarJobsURL>
+      <JobTitle>Chef de Chantier en Génie Climatique H/F offre d'emploi sur La Ciotat - 13 - ANLB5148MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G73171L97GSJ9TZ0X</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, une société d'ingénierie généraliste, un(e) Ingénieur Thermicien dans le cadre d’un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G73171L97GSJ9TZ0X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G73171L97GSJ9TZ0X&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Martigues</Location>
+      <DisplayCity></DisplayCity>
+      <City>Martigues</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.40653</LocationLatitude>
+      <LocationLongitude>5.05523</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G73171L97GSJ9TZ0X</SimilarJobsURL>
+      <JobTitle>Ingénieur Thermicien H/F offre d'emploi sur Martigues - 13 ANLB5183MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7QK72FFHK9C83Y15</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Fraiseur /Tourneur Commande Numérique, dans le cadre d'une mission de 3 mois. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7QK72FFHK9C83Y15</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7QK72FFHK9C83Y15&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitrolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitrolles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.44994</LocationLatitude>
+      <LocationLongitude>5.253</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:16 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7QK72FFHK9C83Y15</SimilarJobsURL>
+      <JobTitle>Fraiseur / Tourneur Commande numérique H/F Offre d'emploi sur Vitrolles - 13 FDLB5474MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4K46CT1XQL1LNRLB</DID>
+      <OnetCode>17-3011.01</OnetCode>
+      <ONetFriendlyTitle>Architectural Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement recherche pour son client, un Dessinateur Chiffreur Autocad dans le cadre d'une mission de 6 mois renouvelable. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4K46CT1XQL1LNRLB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4K46CT1XQL1LNRLB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve</Location>
+      <DisplayCity>Villeneuve</DisplayCity>
+      <City>Villeneuve-Saint-Georges</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.72878</LocationLatitude>
+      <LocationLongitude>2.44766</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4K46CT1XQL1LNRLB</SimilarJobsURL>
+      <JobTitle>Dessinateur Chiffreur sur Autocad H/F Offre d'emploi sur Villeuneuve - 04 FDLB5435MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G06Q672QG5X161YHG</DID>
+      <OnetCode>17-2199.00</OnetCode>
+      <ONetFriendlyTitle>Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un Monteur Fibre Optique dans le cadre d’une mission intérim de 3 mois renouvelable. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G06Q672QG5X161YHG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G06Q672QG5X161YHG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G06Q672QG5X161YHG</SimilarJobsURL>
+      <JobTitle>Monteur Fibre Optique H/F Offre d'emploi sur Toulouse - 31 FDLB5476MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K55H5Z37243X1RTCN</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Technicien de Maintenance en Electromécanique dans le cadre d’une mission de 6 mois...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K55H5Z37243X1RTCN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K55H5Z37243X1RTCN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brignoles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brignoles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.4061</LocationLatitude>
+      <LocationLongitude>6.06565</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:15 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K55H5Z37243X1RTCN</SimilarJobsURL>
+      <JobTitle>Technicien de Maintenance en Electromécanique H/F Offre d'emploi sur Brignoles - 83 FDLB5440MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7B270FP3PGLCCLCG</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un Responsable Buanderie dans le cadre d'un CDI. Poste basé sur Grasse - 06. Vous organisez et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K7B270FP3PGLCCLCG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7B270FP3PGLCCLCG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grasse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Grasse</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.66044</LocationLatitude>
+      <LocationLongitude>6.92247</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7B270FP3PGLCCLCG</SimilarJobsURL>
+      <JobTitle>Responsable buanderie H/F Offre d'emploi sur Grasse - 06 FDLB5436MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J33K7459CDVG4Y76H</DID>
+      <OnetCode>17-2111.02</OnetCode>
+      <ONetFriendlyTitle>Fire-Prevention and Protection Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un(e) Technicien mise en service en Protection Incendie dans le cadre d’une mission de 6 mois...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J33K7459CDVG4Y76H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J33K7459CDVG4Y76H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aubagne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aubagne</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.29214</LocationLatitude>
+      <LocationLongitude>5.5687</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J33K7459CDVG4Y76H</SimilarJobsURL>
+      <JobTitle>Technicien mise en service en Protection Incendie H/F offre d'emploi sur Aubagne ANLB5317MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K29M67WZVF8JHCFYR</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un Mécanicien de maintenance sur site dans le cadre d'une mission de 6 mois renouvelable....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K29M67WZVF8JHCFYR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K29M67WZVF8JHCFYR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aubagne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aubagne</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.29214</LocationLatitude>
+      <LocationLongitude>5.5687</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:13 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K29M67WZVF8JHCFYR</SimilarJobsURL>
+      <JobTitle>Mécanicien de maintenance sur site H/F Offre d'emploi sur Aubagne - 13 FDLB5449MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F88F6CQ7P3TRGKWMY</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un Projeteur en Electrotechnique dans le cadre d'un CDI. Poste basé à proximité de Nimes - 30...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F88F6CQ7P3TRGKWMY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F88F6CQ7P3TRGKWMY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nîmes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nîmes</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.83002</LocationLatitude>
+      <LocationLongitude>4.35611</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F88F6CQ7P3TRGKWMY</SimilarJobsURL>
+      <JobTitle>Projeteur en Electrotechnique H/F Offre d'emploi sur Nimes - 30 ANLB5463MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6Y56PHLY1F9FHM2T</DID>
+      <OnetCode>17-3024.00</OnetCode>
+      <ONetFriendlyTitle>Electro-Mechanical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Technicien de Maintenance Itinérant en Electromécanique dans le cadre d’une mission 6...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6Y56PHLY1F9FHM2T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6Y56PHLY1F9FHM2T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gémenos</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gémenos</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.29413</LocationLatitude>
+      <LocationLongitude>5.62748</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6Y56PHLY1F9FHM2T</SimilarJobsURL>
+      <JobTitle>Technicien Maintenance Itinérant en Electromécanique H/F Offre d'emploi sur Gemenos - 13 FDLB5357MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4K867P57L1L9XF4H</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Mécanicien Soudeur dans le cadre d’une mission de 6 mois renouvelable. Poste basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L4K867P57L1L9XF4H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4K867P57L1L9XF4H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brignoles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brignoles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.4061</LocationLatitude>
+      <LocationLongitude>6.06565</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4K867P57L1L9XF4H</SimilarJobsURL>
+      <JobTitle>Mécanicien Soudeur H/F Offre d'emploi sur Brignoles - 83 FDLB5439MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1LX6LC35LVYN85S3</DID>
+      <OnetCode>17-3024.00</OnetCode>
+      <ONetFriendlyTitle>Electro-Mechanical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Technicien de Maintenance Itinérant en Electromécanique dans le cadre d’un CDI. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1LX6LC35LVYN85S3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1LX6LC35LVYN85S3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cavaillon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cavaillon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.83768</LocationLatitude>
+      <LocationLongitude>5.03941</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1LX6LC35LVYN85S3</SimilarJobsURL>
+      <JobTitle>Technicien maintenance Itinérant en Electromécanique H/F Offre d'emploi dans le 84 FDLB5304MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1BT6GYV0WPT927GJ</DID>
+      <OnetCode>17-2199.00</OnetCode>
+      <ONetFriendlyTitle>Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un Monteur Fibre Optique dans le cadre d’une mission intérim de 3 mois renouvelable. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L1BT6GYV0WPT927GJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1BT6GYV0WPT927GJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montpellier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montpellier</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.61085</LocationLatitude>
+      <LocationLongitude>3.87609</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1BT6GYV0WPT927GJ</SimilarJobsURL>
+      <JobTitle>Monteur Fibre Optique H/F Offre d'emploi sur Montpellier - 34 FDLB5475MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H641643VX4Y9RVY2F</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Technicien maintenance Pont Roulant dans le cadre d'une mission de 6 mois renouvelable...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H641643VX4Y9RVY2F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H641643VX4Y9RVY2F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Caumont-sur-Durance</Location>
+      <DisplayCity></DisplayCity>
+      <City>Caumont-sur-Durance</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.89313</LocationLatitude>
+      <LocationLongitude>4.94812</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H641643VX4Y9RVY2F</SimilarJobsURL>
+      <JobTitle>Technicien maintenance Pont Roulant H/F Offre d'emploi sur Caumont sur Durance - 84 FDLB5477MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7K964XZLHZL8MG3S</DID>
+      <OnetCode>17-3024.00</OnetCode>
+      <ONetFriendlyTitle>Electro-Mechanical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Technicien de Maintenance Itinérant en Electromécanique dans le cadre d’un CDD de 6...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K7K964XZLHZL8MG3S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7K964XZLHZL8MG3S&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nîmes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nîmes</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.83002</LocationLatitude>
+      <LocationLongitude>4.35611</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:31:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7K964XZLHZL8MG3S</SimilarJobsURL>
+      <JobTitle>Technicien Maintenance Itinérant en Electromécanique H/F Offre d'emploi sur le 30 FDLB5275MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>GIE PV-CP Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS6DL6ZFHLN83KQJ4J</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec son modèle économique unique de promoteur et d’exploitant, le Groupe Pierre et Vacances - Center Parcs, est le leader européen du tourisme de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS6DL6ZFHLN83KQJ4J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS6DL6ZFHLN83KQJ4J&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XIX-75019</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XIX</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8861</LocationLatitude>
+      <LocationLongitude>2.38352</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:22:22 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS6DL6ZFHLN83KQJ4J</SimilarJobsURL>
+      <JobTitle>Télévendeur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/K5/MBS89B604X84PD5JVK5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Brochure</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H4916V8Y44WJD2JTC</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>If you are looking for a successful and exciting career in marketing in a top medical device company, I have the right opportunity for you in one of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4916V8Y44WJD2JTC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4916V8Y44WJD2JTC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:17:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4916V8Y44WJD2JTC</SimilarJobsURL>
+      <JobTitle>Global Product Manager-Market Research-Paris</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F6TD6BC842WY023HH</DID>
+      <OnetCode>19-1042.00</OnetCode>
+      <ONetFriendlyTitle>Medical Scientists, Except Epidemiologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Nonstop is currently recruiting a cellular immunotherapy scientist on behalf of a growing biotech located in Paris. The company was created in 2007...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6TD6BC842WY023HH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6TD6BC842WY023HH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:16:50 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6TD6BC842WY023HH</SimilarJobsURL>
+      <JobTitle>cellular immunotherapy scientist (CAR)- Paris</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mason Frank</Company>
+      <CompanyDID>c8g83j73zlk2k2m8p57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8g83j73zlk2k2m8p57/mason-frank/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K7206X8B4QH3Z262S</DID>
+      <OnetCode>99-9999.99</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Mason Frank International est le leader global dans le domaine du recrutement de profil Salesforce.com (administrateur, développeur, architecte,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K7206X8B4QH3Z262S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7206X8B4QH3Z262S&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:11:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7206X8B4QH3Z262S</SimilarJobsURL>
+      <JobTitle>Développeur Salesforce.com Freelance</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vr/ma3196686d92h5tbgvr.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0056X9DR3B9TCJMG</DID>
+      <OnetCode>19-1042.00</OnetCode>
+      <ONetFriendlyTitle>Medical Scientists, Except Epidemiologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Role: On behalf of a small biotech, I am seeking a Senior Pharmacologist to lead the preclinical in vivo evaluation of the company's anti-infective...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0056X9DR3B9TCJMG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0056X9DR3B9TCJMG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>France</DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:07:23 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0056X9DR3B9TCJMG</SimilarJobsURL>
+      <JobTitle>Sr Pre-clinical pharmacologist - antibacterials</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Actual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM6F86SP4B8Y5ZH243</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur sur son marché recherche un(e) superviseur. Vos missions: 1- Mise en place des opérations (préparation des documents, attribution des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM6F86SP4B8Y5ZH243</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM6F86SP4B8Y5ZH243&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Clichy-92110</Location>
+      <DisplayCity></DisplayCity>
+      <City>Clichy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9018</LocationLatitude>
+      <LocationLongitude>2.30733</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:06:38 PM</PostedTime>
+      <Pay>24 000 € - 28 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM6F86SP4B8Y5ZH243</SimilarJobsURL>
+      <JobTitle>SUPERVISEUR H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JSB Brothers</Company>
+      <CompanyDID>cht11m6r31swm3c2jzk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht11m6r31swm3c2jzk/jsb-brothers/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L7VF6J439XRQDCG3G</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>JSB &amp; Brothers, cabinet de conseil en ressources humaines et gestion d'entreprise (www.jsbbrothers.fr), accompagne au quotidien ses clients, grands...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L7VF6J439XRQDCG3G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7VF6J439XRQDCG3G&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche Nantes</Location>
+      <DisplayCity>Proche Nantes</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:03:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7VF6J439XRQDCG3G</SimilarJobsURL>
+      <JobTitle>Commercial / conseiller commercial H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1K/MSG36J5XW5W17K0TP1K.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JSB Brothers</Company>
+      <CompanyDID>cht11m6r31swm3c2jzk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht11m6r31swm3c2jzk/jsb-brothers/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3626P7JMQ1N9VK16</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>JSB &amp; Brothers, cabinet de conseil en ressources humaines et gestion d'entreprise (www.jsbbrothers.fr), accompagne au quotidien ses clients, grands...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3626P7JMQ1N9VK16</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3626P7JMQ1N9VK16&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche Angers (49)</Location>
+      <DisplayCity>Proche Angers (49)</DisplayCity>
+      <City>Angers</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.47131</LocationLatitude>
+      <LocationLongitude>-0.55237</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:03:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3626P7JMQ1N9VK16</SimilarJobsURL>
+      <JobTitle>Commercial / conseiller commercial H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1K/MSG36J5XW5W17K0TP1K.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JSB Brothers</Company>
+      <CompanyDID>cht11m6r31swm3c2jzk</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht11m6r31swm3c2jzk/jsb-brothers/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5WB5Z3TKQZQDY7DS</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>JSB &amp; Brothers, cabinet de conseil en ressources humaines et gestion d'entreprise (www.jsbbrothers.fr), accompagne au quotidien ses clients, grands...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5WB5Z3TKQZQDY7DS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5WB5Z3TKQZQDY7DS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche Rennes (35)</Location>
+      <DisplayCity>Proche Rennes (35)</DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.10751</LocationLatitude>
+      <LocationLongitude>-1.68447</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:03:47 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5WB5Z3TKQZQDY7DS</SimilarJobsURL>
+      <JobTitle>Commercial / conseiller commercial H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1K/MSG36J5XW5W17K0TP1K.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Anson McCade Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV6CK5Y7KCVB6G9DM8</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Description : Mon client, un éditeur de logiciel, leader sur le marché du e-commerce recherche des profils Java J2ee pour leurs bureau à Paris -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV6CK5Y7KCVB6G9DM8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV6CK5Y7KCVB6G9DM8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris - Madrid - Londres - Munich - Milan - Benelux ou scandinav</Location>
+      <DisplayCity>Paris - Madrid - Londres - Munich - Milan - Benelux ou scandinav</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 1:01:22 PM</PostedTime>
+      <Pay>40 000 € - 70 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV6CK5Y7KCVB6G9DM8</SimilarJobsURL>
+      <JobTitle>Consultant j2ee – Technical lead j2ee – Chef de projet technique j2ee – Expert Java j2ee – Développeur senior j2ee - architecte</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V0/MWL04D6DZNGNC4RBPV0.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ETL</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>drupal</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Actual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV2GD61YJT43YRW049</DID>
+      <OnetCode>21-1099.00</OnetCode>
+      <ONetFriendlyTitle>Community and Social Service Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein du service client d'un grand groupe, composé de 11 téléconseiller(e)s vous assurez les missions suivantes en récepion d'appels : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV2GD61YJT43YRW049</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV2GD61YJT43YRW049&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XI-75011</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XI</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8619</LocationLatitude>
+      <LocationLongitude>2.3787</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 12:54:17 PM</PostedTime>
+      <Pay>21 000 € - 22 000 €/mois</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV2GD61YJT43YRW049</SimilarJobsURL>
+      <JobTitle>TELECONSEILLER(E) PREVOYANCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1C/M0W5JC69M4QNZMKJS1C.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DG CONSEILS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS5ZF77XG4RGBB905N</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Société de service en informatique intervient sur des prestations MOA/MOE des Systèmes d’Information de nos clients (PME, PMI, Groupe). Leur expertise...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS5ZF77XG4RGBB905N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS5ZF77XG4RGBB905N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Clermont-Ferrand</Location>
+      <DisplayCity>Clermont-Ferrand</DisplayCity>
+      <City>Clermont-Ferrand</City>
+      <State>AUVERGNE</State>
+      <LocationLatitude>45.7776</LocationLatitude>
+      <LocationLongitude>3.08381</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 12:34:52 PM</PostedTime>
+      <Pay>35 000 € - 45 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS5ZF77XG4RGBB905N</SimilarJobsURL>
+      <JobTitle>Consultant DBA ORACLE Expérimenté (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1F/M0V25M6QXWPMMLBTV1F.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>cisco systems</Skill>
+        <Skill>vb</Skill>
+        <Skill>ibm system i</Skill>
+        <Skill>active directory</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>vmware</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DG CONSEILS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5JB61G6MMQSMTQP7</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Contrat CDI Entreprise Cette société de service en informatique intervient sur des prestations MOA/MOE des Systèmes d’Information de nos clients (PME...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM5JB61G6MMQSMTQP7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5JB61G6MMQSMTQP7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Clermont-Ferrand-63000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Clermont-Ferrand</City>
+      <State>AUVERGNE</State>
+      <LocationLatitude>45.7776</LocationLatitude>
+      <LocationLongitude>3.08381</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 12:30:17 PM</PostedTime>
+      <Pay>37 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5JB61G6MMQSMTQP7</SimilarJobsURL>
+      <JobTitle>Développeur Java J2EE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1F/M0V25M6QXWPMMLBTV1F.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>vb</Skill>
+        <Skill>ibm system i</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

@@ -1,0 +1,3637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:50:07 AM</TimeResponseSent>
+  <TimeElapsed>0.39</TimeElapsed>
+  <TotalPages>17</TotalPages>
+  <TotalCount>1638</TotalCount>
+  <FirstItemIndex>1001</FirstItemIndex>
+  <LastItemIndex>1100</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1B56DB2VMSDHR99K</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client in Dublin requires German Tech Support Advisors Salary €23,000 per year Our client in Dublin requires Customer Service Advisors with fluent...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F1B56DB2VMSDHR99K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1B56DB2VMSDHR99K&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:17:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1B56DB2VMSDHR99K</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Speaking Customer Advisors</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H82X75QH23G6TBVWX</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Main Responsibilities • 1st Line technical support role in a predominetly Microsoft areana • To Demonstrate excellent customer service at all times •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H82X75QH23G6TBVWX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H82X75QH23G6TBVWX&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ireland</Location>
+      <DisplayCity>Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:17:07 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H82X75QH23G6TBVWX</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Technical Support</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft office</Skill>
+        <Skill>active directory</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Grafton Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4D15VX9GJ0TPR5P5</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Do you have a passion for IT? Are you experienced in hardware support? We have a fantastic opportunity available for a German speaking Technical...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3K4D15VX9GJ0TPR5P5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4D15VX9GJ0TPR5P5&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:16:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4D15VX9GJ0TPR5P5</SimilarJobsURL>
+      <JobTitle>Grafton Recruitment - Hardware Support German</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Headhunt International</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G56P61R67RX2N1K13</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Company Profile: Headhunt is an International Recruiting Company based in Dublin. We have over 34 years of expertise in recruiting the best candidates...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G56P61R67RX2N1K13</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G56P61R67RX2N1K13&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:16:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G56P61R67RX2N1K13</SimilarJobsURL>
+      <JobTitle>Headhunt International - Database management internship</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>database</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>Social Network</Skill>
+        <Skill>microsoft powerpoint</Skill>
+      </Skills>
+      <JobLevel>1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6SD5Y50NG83R6LSV</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Leading pharmaceutical company based in Cork are seeking an experienced customer service professional who speaks fluent Finnish. This position has...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F6SD5Y50NG83R6LSV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6SD5Y50NG83R6LSV&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland, Cork</Location>
+      <DisplayCity>Cork - South-West, Ireland, Cork</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:16:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6SD5Y50NG83R6LSV</SimilarJobsURL>
+      <JobTitle>Hays Ireland - CMS Associate with Finnish</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5H75ZBTFSG6C9D1J</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>German Speaking Tech Support Dublin, Ireland €23,000 per year This role involves solving customer queries over the phone and by email. The role will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J5H75ZBTFSG6C9D1J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5H75ZBTFSG6C9D1J&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:16:44 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5H75ZBTFSG6C9D1J</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Speaking Technical Support - Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5JT5WRR7NDKW4RQ1</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Danish or Norwegian Speaking Tech Support Dublin, Ireland €23,500 per year This role involves solving customer queries over the phone and by email....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H5JT5WRR7NDKW4RQ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5JT5WRR7NDKW4RQ1&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:16:40 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5JT5WRR7NDKW4RQ1</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - Danish or Norwegian Speaking Technical Support</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J8GZ6BS7QLNW4XTHH</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global is currently recruiting a German Customer Service people to join a global provider of solutions that enable organisations to communicate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J8GZ6BS7QLNW4XTHH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8GZ6BS7QLNW4XTHH&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:16:08 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8GZ6BS7QLNW4XTHH</SimilarJobsURL>
+      <JobTitle>PE Global - German Customer Service</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G45S6GX6J1C913ZVS</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>German Inside Sales – Online Solutions Our client is an exciting and innovative company and a worldwide leader in their industry. They offer complex...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G45S6GX6J1C913ZVS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G45S6GX6J1C913ZVS&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:15:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G45S6GX6J1C913ZVS</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - German - Inside Sales Job</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales process</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Gilligan Black</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H87Z6QC8T5GG3KNGN</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Sales Development Representative (Graduate) Leading U.S Software Multinational German, English and Spanish/Italian roles available €30k with €8k bonus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H87Z6QC8T5GG3KNGN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H87Z6QC8T5GG3KNGN&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:15:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H87Z6QC8T5GG3KNGN</SimilarJobsURL>
+      <JobTitle>Gilligan Black - Graduate Sales Development Representative</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Phone Skills</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Cold calling</Skill>
+        <Skill>Sales Development</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J65Z6T8GJ1NZ92VR2</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global are currently recruiting a Software Developer to work as part of a leading communications solutions company at their facility in Cork. This...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J65Z6T8GJ1NZ92VR2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J65Z6T8GJ1NZ92VR2&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:15:39 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J65Z6T8GJ1NZ92VR2</SimilarJobsURL>
+      <JobTitle>PE Global - Software Developer -Web Services</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>xml</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>bash</Skill>
+        <Skill>iso/iec 27001</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>windows powershell</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>Blue (queue management algorithm)</Skill>
+        <Skill>enterprise content management</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>computer security</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3WM74MZR8PW5NZHQ</DID>
+      <OnetCode>13-1071.02</OnetCode>
+      <ONetFriendlyTitle>Personnel Recruiters</ONetFriendlyTitle>
+      <DescriptionTeaser>I have a number of clients screaming out for Dutch speakers. The opportunities are primarily based within Sales, Customer Support, IT Support or...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G3WM74MZR8PW5NZHQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3WM74MZR8PW5NZHQ&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:15:28 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3WM74MZR8PW5NZHQ</SimilarJobsURL>
+      <JobTitle>Recruiters - Dutch Speaker - Urgently required!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer support</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0F661NCKLP8L6XCF</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>A worldwide leader in Online Solutions is looking to hire a Lead Generator for their EMEA Head Office in Dublin. This is a chance to join one of the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F0F661NCKLP8L6XCF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0F661NCKLP8L6XCF&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:15:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0F661NCKLP8L6XCF</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Inside Sales Representative  Swedish</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Market research</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kaizen Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F47F6LY62VW9KPZZ2</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Kaizen Recruitment are currently recruiting Dutch, French &amp; German speaking Graduate Marketing Specialists to work with one of the most famous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F47F6LY62VW9KPZZ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F47F6LY62VW9KPZZ2&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F47F6LY62VW9KPZZ2</SimilarJobsURL>
+      <JobTitle>Kaizen Recruitment - Graduate Online Marketing Roles Available - Dutch, French &amp; German Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Microsoft</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5WH6HMLB1N3L8LM4</DID>
+      <OnetCode>11-2011.00</OnetCode>
+      <ONetFriendlyTitle>Advertising and Promotions Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Make the Bing Sales Team at Microsoft Advertising part of your career story! Microsoft Advertising is the destination for experienced, collaborative,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3K5WH6HMLB1N3L8LM4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5WH6HMLB1N3L8LM4&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5WH6HMLB1N3L8LM4</SimilarJobsURL>
+      <JobTitle>Microsoft - Bing Account Manager – Dutch Territory</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Problem Solving</Skill>
+        <Skill>Incentive program</Skill>
+        <Skill>Account Management</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4SF75L4CHZY9PCT2</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>I am a multi-lingual recruiter, I specialise in opportunities in Leinster in IT, Sales, Customer Support, Market Research and many more industries! I...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H4SF75L4CHZY9PCT2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4SF75L4CHZY9PCT2&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:28 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4SF75L4CHZY9PCT2</SimilarJobsURL>
+      <JobTitle>Recruiters - Let me find you your dream language job!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3QK62NBM08G780B2</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global is now recruiting for a Supplier Quality Specialist for a Global Health Care company based in Cork. Job Purpose To manage and co-ordinate on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F3QK62NBM08G780B2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3QK62NBM08G780B2&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:22 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3QK62NBM08G780B2</SimilarJobsURL>
+      <JobTitle>PE Global - Supplier Quality Specialist</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Telecommunication</Skill>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Quality management system</Skill>
+        <Skill>Quality management</Skill>
+        <Skill>Data system</Skill>
+        <Skill>Process architecture</Skill>
+        <Skill>Systems architecture</Skill>
+        <Skill>Continuous improvement process</Skill>
+        <Skill>Standard operating procedure</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4ZW65MQC16ZRPLP3</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global is currently recruiting a German Account Manager to join a global provider of solutions that enable organisations to communicate more...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3L4ZW65MQC16ZRPLP3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4ZW65MQC16ZRPLP3&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:20 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4ZW65MQC16ZRPLP3</SimilarJobsURL>
+      <JobTitle>PE Global - German Account Manager</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>close sales</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Strategic management</Skill>
+        <Skill>Loyalty business model</Skill>
+        <Skill>Client Service</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5DK687S4931T9YD0</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Junior Online Advertising Role – Fluent German Required A multinational business services company based in Dublin is currently looking for an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3L5DK687S4931T9YD0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5DK687S4931T9YD0&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5DK687S4931T9YD0</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Online Marketing Job - German</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0DW704RFCMJ233LD</DID>
+      <OnetCode>13-1071.02</OnetCode>
+      <ONetFriendlyTitle>Personnel Recruiters</ONetFriendlyTitle>
+      <DescriptionTeaser>I am on the lookout for fluent Finnish speaker for a number of positions based here in Dublin. I have clients screaming out for Finnish candidate with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G0DW704RFCMJ233LD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0DW704RFCMJ233LD&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:08 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0DW704RFCMJ233LD</SimilarJobsURL>
+      <JobTitle>Recruiters - Finnish Speakers - Urgent!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer support</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4RX67DFBXPZ5VX5B</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>International Sales Account Manager Our client is looking for a sales oriented account manager to manage the relationship with some of their core...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F4RX67DFBXPZ5VX5B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4RX67DFBXPZ5VX5B&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ireland</Location>
+      <DisplayCity>Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:14:07 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4RX67DFBXPZ5VX5B</SimilarJobsURL>
+      <JobTitle>Recruiters - International Account Manager - Danish</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>International Sales</Skill>
+        <Skill>Customer Relationship</Skill>
+        <Skill>Brochure</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5BH6VCVSVY3SJCVS</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>QA, Supplier Management Executive - Good Work Environment NonStop Pharmaceutical Recruitment are currently searching for a QA, Supplier Management...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H5BH6VCVSVY3SJCVS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5BH6VCVSVY3SJCVS&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Galway - West, Ireland, Republic of Ireland</Location>
+      <DisplayCity>Galway - West, Ireland, Republic of Ireland</DisplayCity>
+      <City>Galway</City>
+      <State>GALWAY</State>
+      <LocationLatitude>53.27388</LocationLatitude>
+      <LocationLongitude>-9.04835</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:13:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5BH6VCVSVY3SJCVS</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - QA, Supplier Management Executive – Good Work Environment</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Quality management system</Skill>
+        <Skill>Quality management</Skill>
+        <Skill>Risk assessment</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7TR6WX2H1Z6FR02P</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>German Customer Support Dublin €23,000 per year Our client based in Dublin requires a German speaking Customer Support person to assist customers with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H7TR6WX2H1Z6FR02P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7TR6WX2H1Z6FR02P&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:13:33 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7TR6WX2H1Z6FR02P</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Customer Service - Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H65470Z2WS1VRT407</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Accounts Payable | 35k My client, an international bank is currently recruiting for an accounts payable specialist for an initial 11 month contract....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H65470Z2WS1VRT407</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H65470Z2WS1VRT407&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:13:30 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H65470Z2WS1VRT407</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Accounts Payable | 35k</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AP</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F37J78VW9ZFCJLXB5</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>German Sales Executives : Dublin based (30K basic + commission, 50K OTE) Candidates must have a minimum of two years outbound sales experience. The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F37J78VW9ZFCJLXB5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F37J78VW9ZFCJLXB5&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:13:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F37J78VW9ZFCJLXB5</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Sales Executives</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Grafton Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2QR69DCG1GX2H567</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Time to move up career ladder? Our client, a global leader in their field , is recruiting for a Dutch customer service agent This is an ideal...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G2QR69DCG1GX2H567</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2QR69DCG1GX2H567&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:13:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2QR69DCG1GX2H567</SimilarJobsURL>
+      <JobTitle>Grafton Recruitment - Dutch Customer Service Agent</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1T074SCYR2LX2D06</DID>
+      <OnetCode>41-3011.00</OnetCode>
+      <ONetFriendlyTitle>Advertising Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>German Speaking Sales Agents County Louth, Ireland Basic €25,000 + commission = €40,000 OTE Temporary role from August to December Our client requires...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G1T074SCYR2LX2D06</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1T074SCYR2LX2D06&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland</Location>
+      <DisplayCity>Louth - Border, Ireland</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:12:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1T074SCYR2LX2D06</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Speaking Sales Agents - Contract</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>New business development</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3N360S65BPXSHWFS</DID>
+      <OnetCode>99-9999.01</OnetCode>
+      <ONetFriendlyTitle>Work from Home</ONetFriendlyTitle>
+      <DescriptionTeaser>Would you like to cut-out your daily commute to work and save time &amp; money? Are you looking for flexibility, excellent earning potential and an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F3N360S65BPXSHWFS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3N360S65BPXSHWFS&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:12:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3N360S65BPXSHWFS</SimilarJobsURL>
+      <JobTitle>Recruiters - Danish Inside Sales - From home</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Allen Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0VP6P4LJJNCDVKYS</DID>
+      <OnetCode>11-2011.00</OnetCode>
+      <ONetFriendlyTitle>Advertising and Promotions Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Use your entrepreneurial drive to target new customers in this exciting new role. Based in Dublin 4 our client, one of the worlds’ leading...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3K0VP6P4LJJNCDVKYS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0VP6P4LJJNCDVKYS&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:12:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0VP6P4LJJNCDVKYS</SimilarJobsURL>
+      <JobTitle>Allen Recruitment - Italian Online Account Manager BHJOB3473_7684</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Digital media</Skill>
+        <Skill>Account Management</Skill>
+        <Skill>Client Service</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5DS5WH2DL5XKKVH7</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speaking Customer Service Agents €24,000 per year - County Louth Our client based in County Louth, Ireland is recruiting a Dutch speaking...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F5DS5WH2DL5XKKVH7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5DS5WH2DL5XKKVH7&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland</Location>
+      <DisplayCity>Louth - Border, Ireland</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:12:41 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5DS5WH2DL5XKKVH7</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - Dutch Speaking Customer Service</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1Q666JM5S2PF4Y5V</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client is a new Telecoms company with a new and innovative consumer offering. You will also contribute to quarterly forecasting, annual budgeting...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F1Q666JM5S2PF4Y5V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1Q666JM5S2PF4Y5V&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ireland</Location>
+      <DisplayCity>Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:12:29 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1Q666JM5S2PF4Y5V</SimilarJobsURL>
+      <JobTitle>Recruiters - Accounts Analyst -  Telecoms</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>budgeting</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PayPal</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2NW6H8JBGBLGSJJQ</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Primary Job Responsibilities As a teammate within Customer Solutions (Dutch), your primary responsibilities will be assisting our customers and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H2NW6H8JBGBLGSJJQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2NW6H8JBGBLGSJJQ&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:11:42 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2NW6H8JBGBLGSJJQ</SimilarJobsURL>
+      <JobTitle>PayPal - Dutch Customer Solutions Agent</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7896G9HRRGCWMRZH</DID>
+      <OnetCode>13-2061.00</OnetCode>
+      <ONetFriendlyTitle>Financial Examiners</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Compliance Analyst Purpose of role: Successful applicant will be required to deliver specific aspects of the Compliance Monitoring Plans for...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F7896G9HRRGCWMRZH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7896G9HRRGCWMRZH&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:11:25 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7896G9HRRGCWMRZH</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Senior Compliance Analyst</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+        <Skill>Compliance requirements</Skill>
+        <Skill>Internal audit</Skill>
+        <Skill>Investment management</Skill>
+        <Skill>Economics</Skill>
+        <Skill>Remuneration</Skill>
+        <Skill>Financial services</Skill>
+        <Skill>Corporate governance</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6GH5VS9T6T0S5CTC</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>German or Norwegian Customer Service Advisors Louth, Ireland 4 month contract Basic €18,895 + commission (typically €50-200 a month) + quarterly bonus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J6GH5VS9T6T0S5CTC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6GH5VS9T6T0S5CTC&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland</Location>
+      <DisplayCity>Louth - Border, Ireland</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:11:20 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6GH5VS9T6T0S5CTC</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German or Norwegian Customer Service - 4 month contract</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2XD6GPNTZ13LJ009</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Swedish Telesales Agent Dundalk Basic €21k - ote €35k per year + relocation assistance Our client based in County Louth is currently recruiting for...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H2XD6GPNTZ13LJ009</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2XD6GPNTZ13LJ009&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland</Location>
+      <DisplayCity>Louth - Border, Ireland</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:11:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2XD6GPNTZ13LJ009</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - Swedish Speaking Telesales Agent</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Customer Relationship</Skill>
+        <Skill>Brochure</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6WF6L64NSSWFY9CX</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Role: My client is a multinational company with HQ in Dublin looking for one more English speaker Sales Rep to join their successful sales team....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H6WF6L64NSSWFY9CX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6WF6L64NSSWFY9CX&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:11:00 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6WF6L64NSSWFY9CX</SimilarJobsURL>
+      <JobTitle>CPL Ireland - UK/Ireland Sales Rep Dublin 25,5k   10kOTE</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Call Center</Skill>
+        <Skill>Competitive Sales</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Origin Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H00267K5DBM5FN0L6</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Company: Our Client is leaders in the IT industry, with locations globally including the Uk, USA, and Japan. They are at the forefront of IT mobility...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H00267K5DBM5FN0L6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H00267K5DBM5FN0L6&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South-West</Location>
+      <DisplayCity>South-West</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:10:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H00267K5DBM5FN0L6</SimilarJobsURL>
+      <JobTitle>Origin Multilingual - Spanish Inside Sales Representative €50K OTE Cork</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Account Management</Skill>
+        <Skill>Business Requirements</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2966W7BPHX1R4X17</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>German Customer Service Advisors County Louth, Ireland €24,000 per year and bonus Assisting customers by inbound calls and emails with account queries...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H2966W7BPHX1R4X17</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2966W7BPHX1R4X17&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland</Location>
+      <DisplayCity>Louth - Border, Ireland</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:10:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2966W7BPHX1R4X17</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Customer Service Advisors</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G08X75NJRD533L885</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Norwegian Speaking Tech Support Advisors - €23k + bonus Our client based in Dublin requires Norwegian speaking Customer Service Advisors. Candidates...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G08X75NJRD533L885</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G08X75NJRD533L885&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:10:40 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G08X75NJRD533L885</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - Norwegian Speaking Tech Support Advisors</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruitment Direct Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0VD704QTX1JFCF2K</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>German Customer Support Dublin €21,500 per year Our client based in Dublin requires a German speaking Customer Support person to assist customers with...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H0VD704QTX1JFCF2K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0VD704QTX1JFCF2K&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:10:29 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0VD704QTX1JFCF2K</SimilarJobsURL>
+      <JobTitle>Recruitment Direct Ltd - German Speaking Customer Support - Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5SD76C6GR6PMTWNX</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently working on a large scale recruitment project for a new start up and are keen to speak to professionals with experience/exposure in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3L5SD76C6GR6PMTWNX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5SD76C6GR6PMTWNX&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:10:27 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5SD76C6GR6PMTWNX</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - New Start Up - Fund Accountants/Middle Office</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5QG623F97HS2MT48</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>A leading Dublin City based client is looking to hire a Lead PHP Web developer for a hands on lead development role. This role is initially a 6 month...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H5QG623F97HS2MT48</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5QG623F97HS2MT48&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 3:10:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5QG623F97HS2MT48</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Lead PHP Developer - Daily Rate - Dublin City</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>web development</Skill>
+        <Skill>web service</Skill>
+        <Skill>xml</Skill>
+        <Skill>firewall (computing)</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>search engine optimization</Skill>
+        <Skill>ajax</Skill>
+        <Skill>json</Skill>
+        <Skill>php</Skill>
+        <Skill>xhtml</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Language Recruitment Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6LV6JMD5GGCDGYP9</DID>
+      <OnetCode>41-3011.00</OnetCode>
+      <ONetFriendlyTitle>Advertising Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Relocation package offered! Dutch, French or Italian Media Sales /CS Executive - Creative Field Excellent Basic + Excellent Bonus Structure (Inside...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G6LV6JMD5GGCDGYP9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6LV6JMD5GGCDGYP9&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 3:00:11 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6LV6JMD5GGCDGYP9</SimilarJobsURL>
+      <JobTitle>Language Recruitment Services - Dutch, French or Italian Media Sales Executive - Berlin Germany</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Phone Skills</Skill>
+        <Skill>Niche market</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Solution Sales</Skill>
+        <Skill>Client Service</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>eBay Inc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4RH6PDLPMTNPMXKW</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>Overview:As part of the Policy Team you will be responsible for supporting the needs of our members and ensuring we provide a clean and safe site on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H4RH6PDLPMTNPMXKW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4RH6PDLPMTNPMXKW&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 3:00:05 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4RH6PDLPMTNPMXKW</SimilarJobsURL>
+      <JobTitle>eBay Inc. - Italian Policy Teammate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bulgarian Headhunters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5VS6HYGDXZ74HZ60</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Bulgarian Headhunters is an international consultancy specialized is multilingual, BPO, IT, Healthcare, Finance, Industrial and Telecoms. Our services...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J5VS6HYGDXZ74HZ60</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5VS6HYGDXZ74HZ60&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:59:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5VS6HYGDXZ74HZ60</SimilarJobsURL>
+      <JobTitle>Bulgarian Headhunters - Turkish Support for Global Hotels and Resorts (Cork)- EU Visa</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6126DBP5K7LGC8LZ</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Norwegian Inside Sales Representative - No cold calling The Inside Sales Representative will support a growing sales organisation as part of his or...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F6126DBP5K7LGC8LZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6126DBP5K7LGC8LZ&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:59:39 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6126DBP5K7LGC8LZ</SimilarJobsURL>
+      <JobTitle>Recruiters - Inside Sales Agent - Norwegian - No cold calls</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer skills</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Customer retention</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>eBay Inc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7DL756LP6H3HXXV7</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>As part of the Policy Team you will be responsible for supporting the needs of our members and ensuring we provide a clean and safe site on which to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G7DL756LP6H3HXXV7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7DL756LP6H3HXXV7&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:59:01 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7DL756LP6H3HXXV7</SimilarJobsURL>
+      <JobTitle>eBay Inc. - Polish or Dutch Policy Teammate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bulgarian Headhunters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7LM5XKG0CDYR0DMN</DID>
+      <OnetCode>15-1099.02</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Engineers/Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>Bulgarian Headhunters is an international recruitment agency specialized is multilingual vacancies in different sectors - BPO, IT, Healthcare, Finance...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G7LM5XKG0CDYR0DMN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7LM5XKG0CDYR0DMN&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:58:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7LM5XKG0CDYR0DMN</SimilarJobsURL>
+      <JobTitle>Bulgarian Headhunters - Microsoft Software Solution Architect(Dublin)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>software development</Skill>
+        <Skill>system integration</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2L46YQSHHSPN4V90</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Do you speak Korean (한국어 | 조선말) and English? If so, we are looking for multilinguals to work on-site in Dublin in one one of the world's leading...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J2L46YQSHHSPN4V90</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2L46YQSHHSPN4V90&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:58:42 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2L46YQSHHSPN4V90</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Cpl/ Facebook Korean Data Analyst Job</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5376V01TSL7LBVRL</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>International Sales Account Manager Our client is looking for a sales oriented account manager to manage the relationship with some of their core...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J5376V01TSL7LBVRL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5376V01TSL7LBVRL&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ireland</Location>
+      <DisplayCity>Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:58:19 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5376V01TSL7LBVRL</SimilarJobsURL>
+      <JobTitle>Recruiters - Sales Account Manager  Norwegian</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>International Sales</Skill>
+        <Skill>Customer Relationship</Skill>
+        <Skill>Brochure</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>eBay Inc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5CS71F0JJKKR7NRR</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>Overview:As part of the Policy Team you'll be responsible for supporting the needs of our members and ensuring we provide a clean and safe site on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F5CS71F0JJKKR7NRR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5CS71F0JJKKR7NRR&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:58:12 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5CS71F0JJKKR7NRR</SimilarJobsURL>
+      <JobTitle>eBay Inc. - Spanish Policy Teammate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SIDETRADE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3DJ73PN5LVN89K41</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Sidetrade Ltd are hiring a fluent French and English speaking Cash Collections Project Manager to work in our newly opened offices based in Dublin 2....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H3DJ73PN5LVN89K41</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3DJ73PN5LVN89K41&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:57:44 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3DJ73PN5LVN89K41</SimilarJobsURL>
+      <JobTitle>SIDETRADE - Delivery Manager (Cash Collections)  with French</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Careertrotter</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7PV6WZMT4BGSB0VB</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>What is the Job? This Swedish sales job is a target driven sales role where you will be responsible for achieving monthly sales targets. You will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J7PV6WZMT4BGSB0VB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7PV6WZMT4BGSB0VB&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland, Dundalk</Location>
+      <DisplayCity>Louth - Border, Ireland, Dundalk</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:57:24 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7PV6WZMT4BGSB0VB</SimilarJobsURL>
+      <JobTitle>Careertrotter - Swedish Telesales needed - relocation offered</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Upselling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Allen Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5RN62F8LLY3C1NDG</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Financial Accountant Job Description Have you experience in preparing and analyzing financial statements and managing compliance reporting? As...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G5RN62F8LLY3C1NDG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5RN62F8LLY3C1NDG&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:57:04 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5RN62F8LLY3C1NDG</SimilarJobsURL>
+      <JobTitle>Allen Recruitment - Senior Financial Accountant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Internal control</Skill>
+        <Skill>ACCA</Skill>
+        <Skill>Audit</Skill>
+        <Skill>AP</Skill>
+        <Skill>Payroll</Skill>
+        <Skill>Outsourcing</Skill>
+        <Skill>Financial statement</Skill>
+        <Skill>Financial plan</Skill>
+        <Skill>GAAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J61K6MPDB22FDH4QK</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J61K6MPDB22FDH4QK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J61K6MPDB22FDH4QK&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:57:00 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J61K6MPDB22FDH4QK</SimilarJobsURL>
+      <JobTitle>Apple - Just Ask Specialist - English speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>GRaphics Animation System for Professionals</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Creativity</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3Z86J4TH6DQ8D3DR</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Job Title: QA Automation Engineer Reporting to: Line Manager Summary of Job Purpose: As a part of my clients Technology Development Center, the QA...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3K3Z86J4TH6DQ8D3DR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3Z86J4TH6DQ8D3DR&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:56:55 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3Z86J4TH6DQ8D3DR</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Graduate QA Manual/Automation Engineers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>qa</Skill>
+        <Skill>software development</Skill>
+        <Skill>hp quality center</Skill>
+        <Skill>sdlc</Skill>
+        <Skill>software testing</Skill>
+        <Skill>performance testing</Skill>
+        <Skill>hp quicktest professional</Skill>
+        <Skill>systems engineering</Skill>
+        <Skill>routing</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Convergys Dublin</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3V26KNCLG2DW0WYV</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Photography Support Professional- German Objectives: “The primary role of the Support Advisor is to provide first class customer support to consumers...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H3V26KNCLG2DW0WYV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3V26KNCLG2DW0WYV&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:56:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3V26KNCLG2DW0WYV</SimilarJobsURL>
+      <JobTitle>Convergys Dublin - Photography Support Professional with German</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4D26Q65RLG5L5DDJ</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F4D26Q65RLG5L5DDJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4D26Q65RLG5L5DDJ&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4D26Q65RLG5L5DDJ</SimilarJobsURL>
+      <JobTitle>Apple - Just Ask - German speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>GRaphics Animation System for Professionals</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Creativity</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FRS Recruitment Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J32C69JGBB10J506V</DID>
+      <OnetCode>31-1011.00</OnetCode>
+      <ONetFriendlyTitle>Home Health Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently seeking dependable,responsible and caring Care Assistants who have previous experience in providing care for the elderly in their own...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J32C69JGBB10J506V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J32C69JGBB10J506V&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kerry - South-West, Ireland</Location>
+      <DisplayCity>Kerry - South-West, Ireland</DisplayCity>
+      <City>Tralee</City>
+      <State>KERRY</State>
+      <LocationLatitude>52.26938</LocationLatitude>
+      <LocationLongitude>-9.70476</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:39 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J32C69JGBB10J506V</SimilarJobsURL>
+      <JobTitle>FRS Recruitment Ireland - Care Assistants Kenmare</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>nursing home</Skill>
+        <Skill>elderly care</Skill>
+        <Skill>personal care</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Place Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F22B673B181D7FPRD</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>OUR CLIENT is an International Holiday Club specialising in Vacation Exchange Business. They have over 4,000 resorts in more than 100 countries...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F22B673B181D7FPRD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F22B673B181D7FPRD&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:38 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F22B673B181D7FPRD</SimilarJobsURL>
+      <JobTitle>First Place Recruitment - Dutch Reservations Consultant – Travel &amp; Tourism (Ireland)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>eBay Inc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6396BKKCY65JRMHR</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>As part of our Italian Community Phone support team, you will be supporting the needs of both Italian buyers and sellers on eBay. We work both...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G6396BKKCY65JRMHR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6396BKKCY65JRMHR&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:34 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6396BKKCY65JRMHR</SimilarJobsURL>
+      <JobTitle>eBay Inc. - Italian Customer Support Teammate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FRS Recruitment Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3SM6Q9VXYS5Z5W6P</DID>
+      <OnetCode>39-9021.00</OnetCode>
+      <ONetFriendlyTitle>Personal and Home Care Aides</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently seeking dependable,responsible and caring Care Assistants who have previous experience in providing care for the elderly in their own...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J3SM6Q9VXYS5Z5W6P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3SM6Q9VXYS5Z5W6P&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Waterford - South-East, Ireland</Location>
+      <DisplayCity>Waterford - South-East, Ireland</DisplayCity>
+      <City>Waterford</City>
+      <State>WATERFORD</State>
+      <LocationLatitude>52.262</LocationLatitude>
+      <LocationLongitude>-7.11087</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:31 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3SM6Q9VXYS5Z5W6P</SimilarJobsURL>
+      <JobTitle>FRS Recruitment Ireland - Care Assistant Co Waterford</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bulgarian Headhunters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6WX6KW17B167B26C</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Bulgarian Headhunters is an international consultancy specialized is multilingual, BPO, IT, Healthcare, Hospitality, Finance, Industrial and Telecoms...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F6WX6KW17B167B26C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6WX6KW17B167B26C&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:20 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6WX6KW17B167B26C</SimilarJobsURL>
+      <JobTitle>Bulgarian Headhunters - Software Engineer(Dublin)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>software development</Skill>
+        <Skill>vm (operating system)</Skill>
+        <Skill>mvc</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Gilligan Black</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J741741L5X59WHMJY</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>German Technical Support International software Company Dublin Central 25k - 35k I have an immediate requirement for 3 x advanced Tier 1 / 2 German...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J741741L5X59WHMJY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J741741L5X59WHMJY&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin 2</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin 2</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:55:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J741741L5X59WHMJY</SimilarJobsURL>
+      <JobTitle>Gilligan Black - Tier 1 German Technical Support</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft exchange server</Skill>
+        <Skill>x window system</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>vmware esx</Skill>
+        <Skill>hyper-v</Skill>
+        <Skill>Linux</Skill>
+        <Skill>vmware</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>sql</Skill>
+        <Skill>ESX</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kelly Services Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1V275T9FR1HD4HW4</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Kelly Services are currently recruiting French, Spanish, Italian, English or Polish Speaking gamers for our Client Blizzard Entertainment based in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H1V275T9FR1HD4HW4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1V275T9FR1HD4HW4&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South-East</Location>
+      <DisplayCity>South-East</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:54:28 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1V275T9FR1HD4HW4</SimilarJobsURL>
+      <JobTitle>Kelly Services Ireland - French,Italian, Spanish, English or Polish speaking CSR</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Origin Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F58M5X92ZXC0YZKZW</DID>
+      <OnetCode>43-4181.00</OnetCode>
+      <ONetFriendlyTitle>Reservation and Transportation Ticket Agents and Travel Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Company: Our client is a leading online business with headquarters worldwide. They are currently recruiting a Reservation Agent in their Limerick...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F58M5X92ZXC0YZKZW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F58M5X92ZXC0YZKZW&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>South-West</Location>
+      <DisplayCity>South-West</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:54:20 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F58M5X92ZXC0YZKZW</SimilarJobsURL>
+      <JobTitle>Origin Multilingual - German Reservation Agent Limerick €22-23k</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>eBay Inc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2ZF635YZNQ2PXJ08</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>Overview:As part of the Trust &amp; Safety Team you'll be responsible for supporting the needs of our members and ensuring we provide a clean and safe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J2ZF635YZNQ2PXJ08</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2ZF635YZNQ2PXJ08&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:53:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2ZF635YZNQ2PXJ08</SimilarJobsURL>
+      <JobTitle>eBay Inc. - Italian Trust &amp; Safety Teammate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Allen Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5Y75YPT3S02KLGCL</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Are you a fluent German speaker with a high level of customer service ability? Our client is looking for a number or German speaking Customer Service...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F5Y75YPT3S02KLGCL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5Y75YPT3S02KLGCL&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:53:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5Y75YPT3S02KLGCL</SimilarJobsURL>
+      <JobTitle>Allen Recruitment - Customer Service Agent</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G12G6STX8XFL8CLY2</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Role: My client is a successful online betting company looking for one more Danish agent to join their customer service team. The company is located...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G12G6STX8XFL8CLY2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G12G6STX8XFL8CLY2&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:53:05 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G12G6STX8XFL8CLY2</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Danish Customer Service - 22k - Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Allen Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F35Z6M3F4M6MQNC67</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>If you are a fluent Hebrew Speaker and have excellent customer service skills this could be the job for you. About the company Currently hiring more...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F35Z6M3F4M6MQNC67</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F35Z6M3F4M6MQNC67&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin 2</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin 2</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:53:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F35Z6M3F4M6MQNC67</SimilarJobsURL>
+      <JobTitle>Allen Recruitment - Customer Services / Online Advertising Support - Hebrew</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4RL79G7BSK2SLRCV</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsibilities: • Provide excellent levels of customer service to German customers via a variety of media channels (e.g. chat, phone, email) •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J4RL79G7BSK2SLRCV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4RL79G7BSK2SLRCV&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:52:27 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4RL79G7BSK2SLRCV</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Danish Customer Service</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Allen Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6DP6XXYWX9XJ7KXL</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Technical Support Engineer (French) Excellent opportunity for a Technical Support Engineer with fluent French and to join a global technology leader...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H6DP6XXYWX9XJ7KXL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6DP6XXYWX9XJ7KXL&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland, Cork City</Location>
+      <DisplayCity>Cork - South-West, Ireland, Cork City</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:52:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6DP6XXYWX9XJ7KXL</SimilarJobsURL>
+      <JobTitle>Allen Recruitment - Technical Support Engineer (French)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>IIS</Skill>
+        <Skill>Linux</Skill>
+        <Skill>active directory</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>routing</Skill>
+        <Skill>red hat</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SIDETRADE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F17T5XD7VXX0C6PLM</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Sidetrade Ltd are hiring a fluent French speaking professional to work in our newly opened offices based in Dublin, to be part of a rapidly expanding...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F17T5XD7VXX0C6PLM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F17T5XD7VXX0C6PLM&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F17T5XD7VXX0C6PLM</SimilarJobsURL>
+      <JobTitle>SIDETRADE - Cash Collections Agent with French</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Careertrotter</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5K85VKZFFZ5YBX3L</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>What is the Job? This Finnish sales job is a target driven sales role where you will be responsible for achieving monthly sales targets. You will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J5K85VKZFFZ5YBX3L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5K85VKZFFZ5YBX3L&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland, Dundalk</Location>
+      <DisplayCity>Louth - Border, Ireland, Dundalk</DisplayCity>
+      <City>Dundalk</City>
+      <State>LOUTH</State>
+      <LocationLatitude>54.00187</LocationLatitude>
+      <LocationLongitude>-6.40431</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:47 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5K85VKZFFZ5YBX3L</SimilarJobsURL>
+      <JobTitle>Careertrotter - Finnish Telesales needed - relocation offered</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Upselling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bulgarian Headhunters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F25K6NLGX51LD3WSN</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Bulgarian Headhunters is an international recruitment agency specialized is multilingual vacancies in different sectors – BPO, IT, Healthcare, Finance...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F25K6NLGX51LD3WSN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F25K6NLGX51LD3WSN&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:36 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F25K6NLGX51LD3WSN</SimilarJobsURL>
+      <JobTitle>Bulgarian Headhunters - Java Developer-Urgent (Dublin)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>beta</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>database</Skill>
+        <Skill>software development</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>ibm websphere application server</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kelly Services Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4HR60CPMLRQR8G4R</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Kelly Services are currently recruiting a Vendor Engineering Technician to work for a Global Medical Device company located in Galway. Function The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G4HR60CPMLRQR8G4R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4HR60CPMLRQR8G4R&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>West</Location>
+      <DisplayCity>West</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:30 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4HR60CPMLRQR8G4R</SimilarJobsURL>
+      <JobTitle>Kelly Services Ireland - Vendor Engineering Technician</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Failure analysis</Skill>
+        <Skill>Quality management system</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Strategic sourcing</Skill>
+        <Skill>Electronic engineering</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Engineering Change Order</Skill>
+        <Skill>New product development</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>eBay Inc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3QN6208LNS6J1BCN</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Customer Experience Management Ensure differentiated customer experience is at forefront of all department actions &amp; work to actively enhance customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J3QN6208LNS6J1BCN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3QN6208LNS6J1BCN&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:27 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3QN6208LNS6J1BCN</SimilarJobsURL>
+      <JobTitle>eBay Inc. - EEC Team Leader</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SIDETRADE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3CN66FH0QGK4DTM0</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sidetrade Ltd are hiring a fluent French speaking professional to work in our newly opened offices based in Dublin 2, to be part of a rapidly...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J3CN66FH0QGK4DTM0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3CN66FH0QGK4DTM0&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:19 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3CN66FH0QGK4DTM0</SimilarJobsURL>
+      <JobTitle>SIDETRADE - Business Development Executive with French</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1Z06SS9Q5X9PK4BW</DID>
+      <OnetCode>19-3021.00</OnetCode>
+      <ONetFriendlyTitle>Market Research Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Do you speak English and Japanese (日本語)? If so, we are looking for multilinguals to work on-site in Dublin in one one of the world's leading social...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J1Z06SS9Q5X9PK4BW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1Z06SS9Q5X9PK4BW&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:51:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1Z06SS9Q5X9PK4BW</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Cpl/ Facebook Japanese Data Analyst Job</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Workforce Cyprus</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3W46ST9X82057FBJ</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a large multilingual business process outsource provider seeks to employ numerous technical support agents for their offices in Cork,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J3W46ST9X82057FBJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3W46ST9X82057FBJ&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 3:03:39 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3W46ST9X82057FBJ</SimilarJobsURL>
+      <JobTitle>Workforce Cyprus - Technical Support</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>wi-fi</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6G069L50QS28VRZ3</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsibilities: • Provide excellent levels of customer service to German customers via a variety of media channels (e.g. chat, phone, email) •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J6G069L50QS28VRZ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6G069L50QS28VRZ3&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 3:01:32 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6G069L50QS28VRZ3</SimilarJobsURL>
+      <JobTitle>CPL Germany - Danish Customer Service</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5176BBXWPDPY2WF1</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F5176BBXWPDPY2WF1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5176BBXWPDPY2WF1&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 3:01:06 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5176BBXWPDPY2WF1</SimilarJobsURL>
+      <JobTitle>Apple - Technical / Customer Support - German speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Shaw Academy</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2FB60P4VSMV93FGR</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>The Company The Shaw Academy is a professional training and higher education institution focussed on making the highest quality practical education...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H2FB60P4VSMV93FGR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2FB60P4VSMV93FGR&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin 2</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin 2</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 3:00:53 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2FB60P4VSMV93FGR</SimilarJobsURL>
+      <JobTitle>The Shaw Academy   - Mandarin Speaking Online Marketing Professionals Required</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F68R6GG58QV04FJTT</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F68R6GG58QV04FJTT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F68R6GG58QV04FJTT&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 3:00:10 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F68R6GG58QV04FJTT</SimilarJobsURL>
+      <JobTitle>Apple - German Speaking - Technical Support Chat Advisor</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>iphone</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K60Y6WDR2S3N6NV85</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3K60Y6WDR2S3N6NV85</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K60Y6WDR2S3N6NV85&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 3:00:00 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K60Y6WDR2S3N6NV85</SimilarJobsURL>
+      <JobTitle>Apple - Customer Support Rep (temp contract)-German,French,English OR Italian speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2T26L531T81RF46D</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H2T26L531T81RF46D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2T26L531T81RF46D&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:59:43 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2T26L531T81RF46D</SimilarJobsURL>
+      <JobTitle>Apple - Just Ask Specialist - Spanish speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Communication</Skill>
+        <Skill>GRaphics Animation System for Professionals</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Creativity</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1T16RWDQZ16MQZ5Q</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G1T16RWDQZ16MQZ5Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1T16RWDQZ16MQZ5Q&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:59:42 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1T16RWDQZ16MQZ5Q</SimilarJobsURL>
+      <JobTitle>Apple - Apple Specialist - German, French, Italian OR English speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer literacy</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Problem Solving</Skill>
+        <Skill>Call Center</Skill>
+        <Skill>Creativity</Skill>
+        <Skill>Innovation</Skill>
+        <Skill>Needs Based Selling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K51576J6XBK5TSP38</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3K51576J6XBK5TSP38</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K51576J6XBK5TSP38&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:59:30 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K51576J6XBK5TSP38</SimilarJobsURL>
+      <JobTitle>Apple - Order Support Specialist -German, Italian OR French -Temp Contract</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>acceptance testing</Skill>
+        <Skill>activity diagram</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H29H6Q2XBSXT9XV4G</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsibilities: • Provide excellent levels of customer service to German customers via a variety of media channels (e.g. chat, phone, email) •...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H29H6Q2XBSXT9XV4G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H29H6Q2XBSXT9XV4G&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:59:29 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H29H6Q2XBSXT9XV4G</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Danish Customer Service</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7YD65676FM4CW57T</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Junior Sales Executive - German - Relocation Package An exciting opportunity to work for an internationally recognised firm. You will be working in a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H7YD65676FM4CW57T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7YD65676FM4CW57T&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ireland</Location>
+      <DisplayCity>Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:59:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7YD65676FM4CW57T</SimilarJobsURL>
+      <JobTitle>Recruiters - Junior Sales Executive - German - No cold calls</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer skills</Skill>
+        <Skill>Upselling</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Bentley Systems</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J68S67P1LYY30LCM6</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsibilities: Resolving users' application questions or problems in the areas of software configurations/setup, product functionality and bugs/...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J68S67P1LYY30LCM6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J68S67P1LYY30LCM6&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:59:14 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J68S67P1LYY30LCM6</SimilarJobsURL>
+      <JobTitle>Bentley Systems  - Technical Support Engineer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>quality assurance</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>workflow</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>computer-aided design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H09M6YWFQJ8G3SCQ5</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>We are EA And we make games – how cool is that? In fact, we entertain millions of people across the globe with the most amazing and immersive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H09M6YWFQJ8G3SCQ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H09M6YWFQJ8G3SCQ5&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Galway - West, Ireland</Location>
+      <DisplayCity>Galway - West, Ireland</DisplayCity>
+      <City>Galway</City>
+      <State>GALWAY</State>
+      <LocationLatitude>53.27388</LocationLatitude>
+      <LocationLongitude>-9.04835</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:58:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H09M6YWFQJ8G3SCQ5</SimilarJobsURL>
+      <JobTitle>EA - EA French Advisor (48642)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2S76JB1161HPCS76</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>English Speaking Sales Representive Required in Dublin 18 Responsibilities: • Responsible for the renewal and overall sales of hi-tech service and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G2S76JB1161HPCS76</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2S76JB1161HPCS76&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:58:17 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2S76JB1161HPCS76</SimilarJobsURL>
+      <JobTitle>CPL Germany - Swedish(Svenska) Sales Rep- 25.5k-28k 12Bonus -D18</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Lead generation</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5D95XPY85JX8K4PR</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Junior Bilingual Sales Agent - German/Danish/Finnish/Dutch/Norwegian Our client is a leader in Office Supplies based just 40 mins from Dublin City...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F5D95XPY85JX8K4PR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5D95XPY85JX8K4PR&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5D95XPY85JX8K4PR</SimilarJobsURL>
+      <JobTitle>Recruiters - Junior Bilingual Sales Agent - Urgent!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer skills</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F75D6QYRFB3XDY3T8</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>We are EA And we make games – how cool is that? In fact, we entertain millions of people across the globe with the most amazing and immersive...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3F75D6QYRFB3XDY3T8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F75D6QYRFB3XDY3T8&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Galway - West, Ireland</Location>
+      <DisplayCity>Galway - West, Ireland</DisplayCity>
+      <City>Galway</City>
+      <State>GALWAY</State>
+      <LocationLatitude>53.27388</LocationLatitude>
+      <LocationLongitude>-9.04835</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F75D6QYRFB3XDY3T8</SimilarJobsURL>
+      <JobTitle>EA - EA Danish Advisor (48641)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3156YRD102T69CMZ</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Junior Inside Sales Executive - German An exciting opportunity to work for an internationally recognised firm. You will be working in a busy...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3J3156YRD102T69CMZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3156YRD102T69CMZ&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ireland</Location>
+      <DisplayCity>Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:37 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3156YRD102T69CMZ</SimilarJobsURL>
+      <JobTitle>Recruiters - Junior Inside Sales Executive - German</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer skills</Skill>
+        <Skill>Upselling</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Shaw Academy</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G65W6MHC5J2C18WHR</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>The Company The Shaw Academy is a professional training and higher education institution focussed on making the highest quality practical education...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G65W6MHC5J2C18WHR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G65W6MHC5J2C18WHR&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland, Dublin 2</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland, Dublin 2</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:35 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G65W6MHC5J2C18WHR</SimilarJobsURL>
+      <JobTitle>The Shaw Academy   - Japanese Speaking Online Marketing Professionals Required</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Apple</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H228606FFD4FG0RWX</DID>
+      <OnetCode>99-9999.01</OnetCode>
+      <ONetFriendlyTitle>Work from Home</ONetFriendlyTitle>
+      <DescriptionTeaser>Changing the world is all in a day's work at Apple. If you love innovation, here's your chance to make a career of it. You'll work hard. But the job...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3H228606FFD4FG0RWX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H228606FFD4FG0RWX&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Cork</City>
+      <State>CORK</State>
+      <LocationLatitude>51.89834</LocationLatitude>
+      <LocationLongitude>-8.47277</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:29 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H228606FFD4FG0RWX</SimilarJobsURL>
+      <JobTitle>Apple - Sales Chat Rep (temp contract) -German,French,English,OR Italian speaking</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Recruiters</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6175XW02HQ777B1W</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>B2B Telesales Executive - Dublin Upon successful hire you will be: • Managing Business Development Executive’s diary and making quality sales...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G6175XW02HQ777B1W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6175XW02HQ777B1W&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:21 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6175XW02HQ777B1W</SimilarJobsURL>
+      <JobTitle>Recruiters - Business Sales Executive - B2B - Consultancy Firm</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Customer service</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Convergys Dublin</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G83K6QLGHMV6L2X43</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Passion for Photography?? Want to work with one of the World Leaders in Photography? Then this is the role for you!! Support Agents will handle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=IE&amp;DID=J3G83K6QLGHMV6L2X43</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G83K6QLGHMV6L2X43&amp;HostSite=IE&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Dublin</City>
+      <State>DUBLIN</State>
+      <LocationLatitude>53.34807</LocationLatitude>
+      <LocationLongitude>-6.24827</LocationLongitude>
+      <PostedDate>1/17/2015</PostedDate>
+      <PostedTime>1/17/2015 2:57:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.ie/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G83K6QLGHMV6L2X43</SimilarJobsURL>
+      <JobTitle>Convergys Dublin - Photography Support Professional with Swedish</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>IE</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

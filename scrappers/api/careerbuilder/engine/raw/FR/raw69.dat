@@ -1,0 +1,3480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:48:25 AM</TimeResponseSent>
+  <TimeElapsed>0.3276</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13242</TotalCount>
+  <FirstItemIndex>6801</FirstItemIndex>
+  <LastItemIndex>6900</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>ASSU 2000</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV6YP608NT8DFK9S4C</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Rejoignez sans plus attendre le premier réseau français de courtage d'assurance au service du particulier, avec plus de 400 agences. ASSU 2000 (600...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV6YP608NT8DFK9S4C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV6YP608NT8DFK9S4C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bordeaux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.83663</LocationLatitude>
+      <LocationLongitude>-0.58104</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:35:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV6YP608NT8DFK9S4C</SimilarJobsURL>
+      <JobTitle>Commercial Bordeaux H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/F1/MSL55W61ZHNYX0NW3F1.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Agence Lyon</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4TH6YM14Z5WND589</DID>
+      <OnetCode>47-4011.00</OnetCode>
+      <ONetFriendlyTitle>Construction and Building Inspectors</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Groupe DLSI fédère un réseau de plus de 75 agences d'emploi positionnées en France, au Luxembourg, en Allemagne et en Suisse.Présent dans tous les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4TH6YM14Z5WND589</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4TH6YM14Z5WND589&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>ST PRIEST</Location>
+      <DisplayCity>ST PRIEST</DisplayCity>
+      <City>Saint-Priest</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.6961</LocationLatitude>
+      <LocationLongitude>4.9428</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:30:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4TH6YM14Z5WND589</SimilarJobsURL>
+      <JobTitle>Dessinateur bâtiment</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/84/MBP3546TB830Z2WFW84.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J85X6CLDWWZNDJ50V</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Filiale de promotion d'un Groupe national très présent dans les métiers de l'immobilier, nous recherchons, dans le cadre d'un remplacement, un(e)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J85X6CLDWWZNDJ50V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J85X6CLDWWZNDJ50V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes (44)</Location>
+      <DisplayCity>Nantes (44)</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.2307</LocationLatitude>
+      <LocationLongitude>-1.56115</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:27:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J85X6CLDWWZNDJ50V</SimilarJobsURL>
+      <JobTitle>DÉVELOPPEUR(SE) FONCIER</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>POINT Z</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT5J362H25TY9TFLS0</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>POINT Z recherche un Technicien Micro-Réseaux pour l'un de ses clients situé à Limours (91). Vous assurez le support auprès des utilisateurs, la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT5J362H25TY9TFLS0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5J362H25TY9TFLS0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Limours-91470</Location>
+      <DisplayCity></DisplayCity>
+      <City>Limours</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.6454</LocationLatitude>
+      <LocationLongitude>2.08314</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:25:07 AM</PostedTime>
+      <Pay>1 800 € - 1 900 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5J362H25TY9TFLS0</SimilarJobsURL>
+      <JobTitle>TECHNICIEN INFORMATIQUE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ5T16Y0JWFN6P16JS</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Team RH, cabinet de recrutement, recherche pour l’un de ses clients : Avocat senior (4/6 ans) Droit des sociétés (H/F) Notre client, prestigieux...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ5T16Y0JWFN6P16JS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ5T16Y0JWFN6P16JS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:16:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ5T16Y0JWFN6P16JS</SimilarJobsURL>
+      <JobTitle>Avocat Senior (4/6 ans) Droit des sociétés</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN83Z6BN3PV9KSVJ9X</DID>
+      <OnetCode>43-6012.00</OnetCode>
+      <ONetFriendlyTitle>Legal Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>Team RH , cabinet de recrutement, recherche pour l’un de ses clients, un cabinet d’avocats anglo-saxons, un(e): Secrétaire du Soir Bilingue (CDI à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN83Z6BN3PV9KSVJ9X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN83Z6BN3PV9KSVJ9X&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:15:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN83Z6BN3PV9KSVJ9X</SimilarJobsURL>
+      <JobTitle>Secrétaire du Soir Bilingue</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5ZK68QV5388C4Q4N</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour l’un de ses clients, un cabinet d’avocats britannique : Un(e) Secrétaire Département Energy Au sein du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM5ZK68QV5388C4Q4N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5ZK68QV5388C4Q4N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris II-75002</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris II</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8693</LocationLatitude>
+      <LocationLongitude>2.34296</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:13:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5ZK68QV5388C4Q4N</SimilarJobsURL>
+      <JobTitle>Un(e) Secrétaire Département Energy</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ7RS6YW9XCYYXR7YY</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , cabinet de recrutement, recherche pour l’un de ses clients : Avocat 5/10 ans Droit public (H/F) Notre client, cabinet d’avocats français,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ7RS6YW9XCYYXR7YY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ7RS6YW9XCYYXR7YY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:13:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ7RS6YW9XCYYXR7YY</SimilarJobsURL>
+      <JobTitle>Avocat 5/10 ans Droit public (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM7GC6379VVJK8W8WC</DID>
+      <OnetCode>19-4061.00</OnetCode>
+      <ONetFriendlyTitle>Social Science Research Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH, conseil en recrutement, recherche pour l’un de ses clients : Associé Social Notre client, cabinet d’avocats international de tout premier plan...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM7GC6379VVJK8W8WC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM7GC6379VVJK8W8WC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:12:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM7GC6379VVJK8W8WC</SimilarJobsURL>
+      <JobTitle>Associé Social</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ7FS6H5PD8CHJJR8M</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour un de ses clients : Secrétaire Bilingue Anglais – Propriété Intellectuelle Vous aurez la charge d’un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ7FS6H5PD8CHJJR8M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ7FS6H5PD8CHJJR8M&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:10:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ7FS6H5PD8CHJJR8M</SimilarJobsURL>
+      <JobTitle>Secrétaire Bilingue Anglais – Propriété Intellectuelle</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DECISION RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL55V6MJT5SH4249TV</DID>
+      <OnetCode>15-1099.02</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Engineers/Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, le Crédit Agricole Technologies est le GIE Informatique du groupe Crédit Agricole. Né de la volonté de 39 Caisses Régionales de bâtir un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL55V6MJT5SH4249TV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL55V6MJT5SH4249TV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:10:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL55V6MJT5SH4249TV</SimilarJobsURL>
+      <JobTitle>ARCHITECTE ETUDES BASE DE DONNEES (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/JW/MN56RN5XG0M91SFHNJW.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>data warehouse</Skill>
+        <Skill>Linux</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0QJ72P153Q9QRHBF</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , cabinet de recrutement, recherche pour l’un de ses clients : Avocat 3/5 ans Immobilier Notre client, cabinet d’avocats international,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR0QJ72P153Q9QRHBF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0QJ72P153Q9QRHBF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:07:54 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0QJ72P153Q9QRHBF</SimilarJobsURL>
+      <JobTitle>Avocat 3/5 ans Immobilier</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ0656ZF5NHNZ3V7XB</DID>
+      <OnetCode>43-6012.00</OnetCode>
+      <ONetFriendlyTitle>Legal Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour l’un de ses clients, un cabinet d’avocats britannique : Un(e) Secrétaire avec un excellent niveau d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ0656ZF5NHNZ3V7XB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ0656ZF5NHNZ3V7XB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:07:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ0656ZF5NHNZ3V7XB</SimilarJobsURL>
+      <JobTitle>Un(e) Secrétaire avec un excellent niveau d’anglais Département Arbitrage</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3B25ZHKJFK0D3SN6</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour l’un de ses clients : Associé Droit Social (H/F) Notre client, cabinet d’avocats d’affaires, reconnu...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS3B25ZHKJFK0D3SN6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3B25ZHKJFK0D3SN6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:06:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3B25ZHKJFK0D3SN6</SimilarJobsURL>
+      <JobTitle>Associé Droit Social (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ6S161QP0ZGS36JFQ</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH, cabinet de recrutement, recherche pour l’un de ses clients un(e): Associé(e) Immobilier (H/F) Notre client, cabinet d’avocats français de tout...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ6S161QP0ZGS36JFQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ6S161QP0ZGS36JFQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:05:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ6S161QP0ZGS36JFQ</SimilarJobsURL>
+      <JobTitle>Associé(e) Immobilier (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>GROUPE HN</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP8226PD609474QG0R</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Chef de projet Technique PHP 5 / Symfony 2 (H/F) Le Groupe HN est une Société de Conseil et de Service en Ingénierie Informatique d'envergure...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP8226PD609474QG0R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP8226PD609474QG0R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris XII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8337</LocationLatitude>
+      <LocationLongitude>2.4268</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:01:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP8226PD609474QG0R</SimilarJobsURL>
+      <JobTitle>Chef de projet technique PHP5 / Symfony2 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MC/MRK5JW6XGDQFLGFZRMC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DECISION RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN03G6K22DV6HWF2TK</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, le Crédit Agricole Technologies est le GIE Informatique du groupe Crédit Agricole. Né Notre client, le Crédit Agricole Technologies est...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN03G6K22DV6HWF2TK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN03G6K22DV6HWF2TK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity>Nantes</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.2307</LocationLatitude>
+      <LocationLongitude>-1.56115</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:58:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN03G6K22DV6HWF2TK</SimilarJobsURL>
+      <JobTitle>ANALYSTE SUPPORT OUTILS DE DEVELOPPEMENT (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/JW/MN56RN5XG0M91SFHNJW.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Cognos</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Casino</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1JM5ZRR51NDXBG77</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Casino, Groupe de distribution, occupe en France une position de leader grâce à la diversité de ses enseignes : Géant Casino, Monoprix, Supermarchés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1JM5ZRR51NDXBG77</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1JM5ZRR51NDXBG77&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brive la Gaillarde</Location>
+      <DisplayCity>Brive la Gaillarde</DisplayCity>
+      <City>St etienne</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.723</LocationLatitude>
+      <LocationLongitude>4.2</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:54:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1JM5ZRR51NDXBG77</SimilarJobsURL>
+      <JobTitle>Manager de Rayon Boucherie Brive la Gaillarde H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XC/M0X09772PL04P5BCQXC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EY</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K6ZR67SK9WVN71M4V</DID>
+      <OnetCode>13-2011.02</OnetCode>
+      <ONetFriendlyTitle>Auditors</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur en France et à l'international dans l'Audit, le Droit et la Finance, EY se donne les moyens de répondre à un double enjeu prioritaire :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K6ZR67SK9WVN71M4V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6ZR67SK9WVN71M4V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:47:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6ZR67SK9WVN71M4V</SimilarJobsURL>
+      <JobTitle>Consultants Auditeurs Expé en Risk IT H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D1/M0X33Y78VW8XBHFRDD1.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Risk management</Skill>
+        <Skill>Audit</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>VIP International</Company>
+      <CompanyDID>c8c3nk6gt80bwkf5rc4</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8c3nk6gt80bwkf5rc4/vip-international/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0XQ5VX9BW8C15KC8</DID>
+      <OnetCode>27-3091.00</OnetCode>
+      <ONetFriendlyTitle>Interpreters and Translators</ONetFriendlyTitle>
+      <DescriptionTeaser>VIP International , agence de Travail Temporaire spécialisée dans le recrutement et la délégation de personnel bilingue/trilingue et de langue...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0XQ5VX9BW8C15KC8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0XQ5VX9BW8C15KC8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:36:11 AM</PostedTime>
+      <Pay>27 600 € - 32 200 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0XQ5VX9BW8C15KC8</SimilarJobsURL>
+      <JobTitle>TEAM LEADER BILINGUE ESPAGNOL - PORTUGAIS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/rs/i8g0786g5w2l4y2h6rs.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Casino</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6035ZN3XYN95M1S0</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Casino, Groupe de distribution, occupe en France une position de leader grâce à la diversité de ses enseignes : Géant Casino, Monoprix, Supermarchés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6035ZN3XYN95M1S0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6035ZN3XYN95M1S0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Arcachon</Location>
+      <DisplayCity>Arcachon</DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.8382</LocationLatitude>
+      <LocationLongitude>-0.57303</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:33:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6035ZN3XYN95M1S0</SimilarJobsURL>
+      <JobTitle>Manager de Rayon Boucherie Arcachon H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XC/M0X09772PL04P5BCQXC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ4BL77LF6HYND4MRJ</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Entreprise: Pour notre client spécialisé dans la machine spéciale et dans le cadre de projets en conception, nous recherchons un(e) : PROJETEUR...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ4BL77LF6HYND4MRJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ4BL77LF6HYND4MRJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Évry</Location>
+      <DisplayCity></DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.62468</LocationLatitude>
+      <LocationLongitude>2.42932</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:30:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ4BL77LF6HYND4MRJ</SimilarJobsURL>
+      <JobTitle>PROJETEUR MECANIQUE  SOLIDWORKS (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT6SF6WYCN6GJ2D3GY</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>L'entreprise : Pour notre client spécialisé dans la machine spéciale et dans le cadre de projets en conception, nous recherchons plusieurs :...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT6SF6WYCN6GJ2D3GY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6SF6WYCN6GJ2D3GY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nanterre</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.88811</LocationLatitude>
+      <LocationLongitude>2.19491</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:29:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6SF6WYCN6GJ2D3GY</SimilarJobsURL>
+      <JobTitle>DESSINATEUR  MECANIQUE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INFOLOR</Company>
+      <CompanyDID>chm5sr6v8x8tgnrbftb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chm5sr6v8x8tgnrbftb/infolor/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G0BJ754LW7N2ZW2HT</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Sous la responsabilité du Responsable de groupe Projets, votre rôle sera de piloter l’optimisation des projets à travers les data centers. Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0BJ754LW7N2ZW2HT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0BJ754LW7N2ZW2HT&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>78 : Yvelines</Location>
+      <DisplayCity>78 : Yvelines</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:29:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0BJ754LW7N2ZW2HT</SimilarJobsURL>
+      <JobTitle>Chef de Projet Infrastructure Data Center</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/jq/msg7gd6x8xr8jwjpjjq.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Linux</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BLUESTONE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2LQ74K21NKD83XXZ</DID>
+      <OnetCode>15-1011.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Scientists, Research</ONetFriendlyTitle>
+      <DescriptionTeaser>Leader sur le métier du conseil en Data Science, BLUESTONE est un cabinet indépendant de 130 consultants, qui accompagne ses clients dans l’univers de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR2LQ74K21NKD83XXZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2LQ74K21NKD83XXZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris 9e</Location>
+      <DisplayCity>Paris 9e</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:25:14 AM</PostedTime>
+      <Pay>35 000 € - 60 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2LQ74K21NKD83XXZ</SimilarJobsURL>
+      <JobTitle>Consultant(e) Data Scientist H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/8X/MN55LJ73YSM66M3L58X.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache hadoop</Skill>
+        <Skill>mapreduce</Skill>
+        <Skill>R</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>spark (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>data management</Skill>
+        <Skill>SAS</Skill>
+        <Skill>data mining</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kha Systems</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT0B86N30QG8GGFHMW</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>KHA SYSTEMS, est une société de prestation spécialisée dans la production et l'exploitation informatique. Nous intervenons sur des grands projets d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT0B86N30QG8GGFHMW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT0B86N30QG8GGFHMW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:12:16 AM</PostedTime>
+      <Pay>55 000 € - 58 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT0B86N30QG8GGFHMW</SimilarJobsURL>
+      <JobTitle>Ingénieur Windows - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/WM/MXQ3XZ718HHPVFL1CWM.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>microsoft exchange server</Skill>
+        <Skill>solaris (operating system)</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>local area network</Skill>
+        <Skill>Linux</Skill>
+        <Skill>IL (network protocol)</Skill>
+        <Skill>active directory</Skill>
+        <Skill>ibm aix</Skill>
+        <Skill>vmware</Skill>
+        <Skill>User Experience</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+        <Skill>Text over IP</Skill>
+        <Skill>hp-ux</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PROSODIE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL1DV6JC06L40V1CWY</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Sous la responsabilité du Responsable de groupe, votre rôle sera de réaliser le suivi d’un produit, et de garantir son bon fonctionnement. Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL1DV6JC06L40V1CWY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL1DV6JC06L40V1CWY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:11:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL1DV6JC06L40V1CWY</SimilarJobsURL>
+      <JobTitle>Administrateur Produit (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C1/M3P2F377F751HRBT1C1.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DECISION RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM4R05ZY3CQ2HRBQLG</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, le Crédit Agricole Technologies est le GIE Informatique du groupe Crédit Agricole. Né de la volonté de 39 Caisses Régionales de bâtir un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM4R05ZY3CQ2HRBQLG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM4R05ZY3CQ2HRBQLG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gradignan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gradignan</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.77342</LocationLatitude>
+      <LocationLongitude>-0.61404</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:01:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM4R05ZY3CQ2HRBQLG</SimilarJobsURL>
+      <JobTitle>INGENIEUR STOCKAGE ET SAUVEGARDE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/JW/MN56RN5XG0M91SFHNJW.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Linux</Skill>
+        <Skill>netbackup</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EUROFARAD</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3FD71GZPZ5M92LZZ</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>EXXELIA est un Groupe industriel, concevant, fabriquant et commercialisant, en France et à l'export, des produits et systèmes «haut de gamme»,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS3FD71GZPZ5M92LZZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3FD71GZPZ5M92LZZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marmoutier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marmoutier</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.69058</LocationLatitude>
+      <LocationLongitude>7.38107</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:01:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3FD71GZPZ5M92LZZ</SimilarJobsURL>
+      <JobTitle>Responsable qualité mécanique</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VT/MSL5LS6TJ1SL0J8H0VT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Temex</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR12466HKQ1S9W9QXW</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Filiale d’un groupe industriel leader dans la fabrication de composants électroniques passifs pour des équipements de haute technologie dans les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR12466HKQ1S9W9QXW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR12466HKQ1S9W9QXW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pessac</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pessac</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.8013</LocationLatitude>
+      <LocationLongitude>-0.63019</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:01:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR12466HKQ1S9W9QXW</SimilarJobsURL>
+      <JobTitle>Responsable business développement</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VT/MSL5LS6TJ1SL0J8H0VT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Diapason Informatique</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3DZ6TNM4RF49RJ5Y</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous sommes à la recherche d'un Chef de projet connaissant Magento. Expérience Fonctionnelle et/ou Technique - Conception fonctionnelle/technique...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS3DZ6TNM4RF49RJ5Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3DZ6TNM4RF49RJ5Y&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Mandé</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Mandé</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.84091</LocationLatitude>
+      <LocationLongitude>2.41863</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:56:23 AM</PostedTime>
+      <Pay>40 000 € - 45 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3DZ6TNM4RF49RJ5Y</SimilarJobsURL>
+      <JobTitle>Chef de projet WEB</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/L6/Mw31GS6QCWFHWX26BL6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FSYSTEM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN0T85Y7RJ5J2K4WYJ</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Créée en 1998, FSystem est devenu en moins de seize années une SSII majeure de l'hexagone. Reconnue par ses pairs, plébiscitée par ses clients et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN0T85Y7RJ5J2K4WYJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN0T85Y7RJ5J2K4WYJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris RP</Location>
+      <DisplayCity>Paris RP</DisplayCity>
+      <City>Paris Rp</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.867</LocationLatitude>
+      <LocationLongitude>2.333</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:51:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN0T85Y7RJ5J2K4WYJ</SimilarJobsURL>
+      <JobTitle>Ingénieur de production</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/15/MYF6066VHTZXXS6DJ15.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cegedim France</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K24976XVW6HHMPFZC</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Entreprise : Entreprise mondiale de technologies et de services spécialisée dans le domaine de la santé, Cegedim compte 8 100 collaborateurs dans plus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K24976XVW6HHMPFZC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K24976XVW6HHMPFZC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity>Lille</DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:51:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K24976XVW6HHMPFZC</SimilarJobsURL>
+      <JobTitle>Ingénieur Fonctionnel / Support (JMM/ACT/IFS/602)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Q4/Mw24SS5ZS493B5VSLQ4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java (programming language)</Skill>
+        <Skill>pl/sql</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FSYSTEM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR38S66KBQ3KRDMDZ9</DID>
+      <OnetCode>51-9199.00</OnetCode>
+      <ONetFriendlyTitle>Production Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Créée en 1998, FSystem est devenu en moins de seize années une SSII majeure de l'hexagone. Reconnue par ses pairs, plébiscitée par ses clients et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR38S66KBQ3KRDMDZ9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR38S66KBQ3KRDMDZ9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris RP</Location>
+      <DisplayCity>Paris RP</DisplayCity>
+      <City>Paris Rp</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.867</LocationLatitude>
+      <LocationLongitude>2.333</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:47:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR38S66KBQ3KRDMDZ9</SimilarJobsURL>
+      <JobTitle>Intégrateur en production</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/15/MYF6066VHTZXXS6DJ15.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITS GROUP</Company>
+      <CompanyDID>cht35475rt7vq2pwcr9</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht35475rt7vq2pwcr9/its-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L0K066TYWN4ZBGCSS</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Pour la société ITS Integra, le centre de Services assure la disponibilité des services d'hébergement et des Services Managés pour les infrastructures...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L0K066TYWN4ZBGCSS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0K066TYWN4ZBGCSS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Boulogne</Location>
+      <DisplayCity>Boulogne</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:47:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0K066TYWN4ZBGCSS</SimilarJobsURL>
+      <JobTitle>DBA H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/wx/m0x75r6twdm1htcvkwx.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>oracle data guard</Skill>
+        <Skill>rman</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DECISION RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR6VS6MFX7DGVJGTSK</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Crédit Agricole Technologies est le GIE informatique du groupe Crédit Agricole. Né de la volonté de 39 Caisses Régionales de bâtir un système...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR6VS6MFX7DGVJGTSK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR6VS6MFX7DGVJGTSK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille-59000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.624</LocationLatitude>
+      <LocationLongitude>3.05651</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:30:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR6VS6MFX7DGVJGTSK</SimilarJobsURL>
+      <JobTitle>RESPONSABLE MOE SOLUTIONS METIERS SIRH (H/F) - Lille</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/JW/MN56RN5XG0M91SFHNJW.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ibm software</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Promovacances.com</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL1VM6W65RQVK70D5H</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Entreprise : N°1 de la vente de séjours en ligne avec plus de 7 millions de visiteurs uniques par mois sur ses différents sites, le groupe Karavel...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL1VM6W65RQVK70D5H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL1VM6W65RQVK70D5H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris X</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8789</LocationLatitude>
+      <LocationLongitude>2.36156</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:25:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL1VM6W65RQVK70D5H</SimilarJobsURL>
+      <JobTitle>Développeur Décisionnel - Microsoft BI (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/6S/MR85XV769XLMN5S7L6S.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache hadoop</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>Business Intelligence</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>spark (programming language)</Skill>
+        <Skill>data mining</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SERENIS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL07L5WJB8DJQRYQFG</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Pour l'un de nos clients, constructeur automobile et au sein du Service Client, vous prenez en charge la gestion desréclamations clients de l’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL07L5WJB8DJQRYQFG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL07L5WJB8DJQRYQFG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nanterre</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.88811</LocationLatitude>
+      <LocationLongitude>2.19491</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:15:07 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL07L5WJB8DJQRYQFG</SimilarJobsURL>
+      <JobTitle>Chargé de réclamations anglais courant H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2W/MBS0W56PGN88WMVV62W.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mutuaide Assistance</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ7836CDJ8QMY3YG12</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Mutuaide Assistance, filiale du groupe Groupama, accompagne depuis plus de 30 ans ses clients pour toutes leurs demandes d’assistance qu’ils soient en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ7836CDJ8QMY3YG12</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ7836CDJ8QMY3YG12&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bry-sur-Marne</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.83931</LocationLatitude>
+      <LocationLongitude>2.52239</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:12:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ7836CDJ8QMY3YG12</SimilarJobsURL>
+      <JobTitle>Comptable fournisseurs h/f</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XS/M0V64S5Y53RCSJTKPXS.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ISIMEDIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP4R8682YWC8FCYJTZ</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>L’entreprise ISIMEDIA est la première ESN (Entreprise de Services Numérique) française dédiée aux technologies WINDEV, WEBDEV et WINDEV MOBILE. Depuis...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP4R8682YWC8FCYJTZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP4R8682YWC8FCYJTZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:09:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP4R8682YWC8FCYJTZ</SimilarJobsURL>
+      <JobTitle>Développeur WINDEV – WEBDEV – WINDEV MOBILE – HF Paris</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Y8/MR57RR674S1JT4Z1NY8.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vivien &amp; Associés</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM43T77J35RCWPMN6F</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cabinet d’affaires parisien d’une trentaine d’avocats, clientèle internationale diversifiée de premier plan, recherche un avocat collaborateur/une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM43T77J35RCWPMN6F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM43T77J35RCWPMN6F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VII-75007</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8567</LocationLatitude>
+      <LocationLongitude>2.31431</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 3:01:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM43T77J35RCWPMN6F</SimilarJobsURL>
+      <JobTitle>Avocat collaborateur Droit Social</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V3/MFQ38861RH5M710T2V3.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J53C71MBQ94MMVSHV</DID>
+      <OnetCode>53-7021.00</OnetCode>
+      <ONetFriendlyTitle>Crane and Tower Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Un grutier (H/F) sous la responsabilité du chef de chantier, vous aurez pour missions : - La conduite en cabine d'une grue à tour et la conduite gros...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J53C71MBQ94MMVSHV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J53C71MBQ94MMVSHV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montpellier</Location>
+      <DisplayCity>Montpellier</DisplayCity>
+      <City>Montpellier</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.61085</LocationLatitude>
+      <LocationLongitude>3.87609</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 2:54:25 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J53C71MBQ94MMVSHV</SimilarJobsURL>
+      <JobTitle>CHAUFFEUR GRUTIER H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G10J6WSJ9X5R6QVTW</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisé dans les infrastructures et réseaux de télécommunications filaires /n UN DESSINATEUR TELECOM H/F Vous aurez pour principales missions : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G10J6WSJ9X5R6QVTW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G10J6WSJ9X5R6QVTW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eysines</Location>
+      <DisplayCity>Eysines</DisplayCity>
+      <City>Eysines</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.88631</LocationLatitude>
+      <LocationLongitude>-0.64844</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 2:53:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G10J6WSJ9X5R6QVTW</SimilarJobsURL>
+      <JobTitle>DESSINATEUR TELECOM  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>autocad</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1XL6Q2X51H74TB5K</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Conseil recrutement recherche pour l'un de ses clients un conseiller commercial H/F en CDI: Vous maîtrisez les techniques de vente et de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1XL6Q2X51H74TB5K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1XL6Q2X51H74TB5K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valenciennes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valenciennes</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.35849</LocationLatitude>
+      <LocationLongitude>3.5241</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:39:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1XL6Q2X51H74TB5K</SimilarJobsURL>
+      <JobTitle>Conseiller clientèle assurances secteur Valenciennes et Lille (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5YD6M20YZGNRTD75</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower France et son réseau d'agences spécialisées 'Compétences&amp;experts IT', interviennent dans le conseil en Ressources Humaines depuis plus de 50...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5YD6M20YZGNRTD75</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5YD6M20YZGNRTD75&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Voiron</Location>
+      <DisplayCity></DisplayCity>
+      <City>Voiron</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.36721</LocationLatitude>
+      <LocationLongitude>5.5911</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:39:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5YD6M20YZGNRTD75</SimilarJobsURL>
+      <JobTitle>Technicien support informatique et Téléphonie IP N2 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>local area network</Skill>
+        <Skill>avaya</Skill>
+        <Skill>wi-fi</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0H46B2QHXCZV0QP6</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LA DEFENSE INFORMATIQUE recherche pour son client un Chef de projet technique informatique H/F L'objectif du poste est d'assurer l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0H46B2QHXCZV0QP6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0H46B2QHXCZV0QP6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:39:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0H46B2QHXCZV0QP6</SimilarJobsURL>
+      <JobTitle>Chef de projet technique informatique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ibm software</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>Linux</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>windows powershell</Skill>
+        <Skill>ipv4</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L46H67PM2PX6R70NY</DID>
+      <OnetCode>49-2022.00</OnetCode>
+      <ONetFriendlyTitle>Telecommunications Equipment Installers and Repairers, Except Line Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower THIONVILLE recherche pour son client, société spécialisée dans les réseaux de communication, un Technicien monteur câbleur télécom H/F. Vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L46H67PM2PX6R70NY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L46H67PM2PX6R70NY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Metz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Metz</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>49.11566</LocationLatitude>
+      <LocationLongitude>6.1732</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:39:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L46H67PM2PX6R70NY</SimilarJobsURL>
+      <JobTitle>Technicien télécom Monteur câbleur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H54K6H29L2DMTLBQ2</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BREST INDUSTRIE TERTIAIRE recherche pour son client, un Technicien déploiement informatique H/F. Vous travaillez pour une grande entreprise...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H54K6H29L2DMTLBQ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H54K6H29L2DMTLBQ2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.39023</LocationLatitude>
+      <LocationLongitude>-4.48622</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:39:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H54K6H29L2DMTLBQ2</SimilarJobsURL>
+      <JobTitle>Technicien déploiement informatique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft office</Skill>
+        <Skill>active directory</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5JD5ZTWD1VD8DRTG</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NANTES INFORMATIQUE recherche pour son client, un Analyste d'exploitation informatique H/F Votre mission : Assurer l'exploitation de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5JD5ZTWD1VD8DRTG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5JD5ZTWD1VD8DRTG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saran</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saran</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.95024</LocationLatitude>
+      <LocationLongitude>1.87462</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:38:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5JD5ZTWD1VD8DRTG</SimilarJobsURL>
+      <JobTitle>Analyste d'exploitation informatique unix (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ibm system i</Skill>
+        <Skill>ibm aix</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3JX6VPBD8MFGH26F</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Une superbe opportunité pour s'installer au sein d'une une SSII à taille humaine pour la rentrée. En rejoignant cette société vous interviendrez sur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3JX6VPBD8MFGH26F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3JX6VPBD8MFGH26F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:36:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3JX6VPBD8MFGH26F</SimilarJobsURL>
+      <JobTitle>Développeur SharePoint/SSII/ CDI/ 30K-40K/ Toulouse</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft infopath</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Emploi Pro</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3HP77MT7XCXJ3QFG</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Missions:• Développer et gérer le Service Mécanique, Elingage, Levage et Échafaudage ainsi que les activités de protection anti-corrosion.• Apporter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3HP77MT7XCXJ3QFG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3HP77MT7XCXJ3QFG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>International</Location>
+      <DisplayCity>International</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:33:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3HP77MT7XCXJ3QFG</SimilarJobsURL>
+      <JobTitle>Chef de Projet Mécanique et Tuyauterie (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Emploi Pro</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3896VHGN6KF7NVYB</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Vos responsabilités :• Assurer le bon déroulement de ses projets confiées dans le respect des objectifs de sécurité, de budget et de qualité.• Manager...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3896VHGN6KF7NVYB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3896VHGN6KF7NVYB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>International</Location>
+      <DisplayCity>International</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:32:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3896VHGN6KF7NVYB</SimilarJobsURL>
+      <JobTitle>Chargé de projet mécanique et structure (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Lynx RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H52J7870PJCXKP9WY</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Description du poste Lynx RH Paris Ouest, cabinet de recrutement en CDI, CDD, Intérim, recherche pour l'un de ses clients, un institut spécialisé dans...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H52J7870PJCXKP9WY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H52J7870PJCXKP9WY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:31:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H52J7870PJCXKP9WY</SimilarJobsURL>
+      <JobTitle>IT Support Specialist (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YZ/MX10MC6Q2J6JD2HPTYZ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mac os x</Skill>
+        <Skill>Android</Skill>
+        <Skill>cisco systems</Skill>
+        <Skill>iphone</Skill>
+        <Skill>local area network</Skill>
+        <Skill>wi-fi</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>computer security</Skill>
+        <Skill>ios</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Lynx RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5S566H6XJVFBLX6Z</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Description du poste Lynx RH Paris Ouest, cabinet de recrutement en CDI, CDD, Intérim, recherche pour l'un de ses clients, société de services et d’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5S566H6XJVFBLX6Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5S566H6XJVFBLX6Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:31:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5S566H6XJVFBLX6Z</SimilarJobsURL>
+      <JobTitle>Technicien de proximité VIP (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YZ/MX10MC6Q2J6JD2HPTYZ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Lynx RH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6P96BQSG32X4X5PQ</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Description du poste Lynx RH Paris 17e, cabinet de recrutement en CDI, CDD, Intérim, recherche pour l'un de ses clients, société spécialisée dans la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6P96BQSG32X4X5PQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6P96BQSG32X4X5PQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:31:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6P96BQSG32X4X5PQ</SimilarJobsURL>
+      <JobTitle>Collaborateur comptable H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YZ/MX10MC6Q2J6JD2HPTYZ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Lynx</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTEK Travail Temporaire</Company>
+      <CompanyDID>chv4m674byrkgcygws3</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chv4m674byrkgcygws3/intek-travail-temporaire/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8J164D67FKPMRN3V</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Offre d'emloi de projeteur electricité autocad à pourvoir au sein d'un Bureau d'Etudes en Ile de France, vous étes rattaché(e) à l'Ingénieur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G8J164D67FKPMRN3V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8J164D67FKPMRN3V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Île de France</Location>
+      <DisplayCity>Île de France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:21:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8J164D67FKPMRN3V</SimilarJobsURL>
+      <JobTitle>PROJETEUR EN ELECTRICITE AUTOCAD</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/M0W59064JJ3J8TFJHQT.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>RATP</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7WJ6FK1RCJY56Q31</DID>
+      <OnetCode>13-1031.01</OnetCode>
+      <ONetFriendlyTitle>Claims Examiners, Property and Casualty Insurance</ONetFriendlyTitle>
+      <DescriptionTeaser>POSTE ET MISSIONS Rattaché(e) directement à son responsable de groupe, le(la) Chargé(e) d’affaires assure la gestion en droit commun des sinistres...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7WJ6FK1RCJY56Q31</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7WJ6FK1RCJY56Q31&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:12:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7WJ6FK1RCJY56Q31</SimilarJobsURL>
+      <JobTitle>Gestionnaire de sinistres automobiles F/H en cdd.</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YG/M551S65X3BFDK8ZY5YG.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB76YV6FYJG8VGNNXXG</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76YV6FYJG8VGNNXXG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76YV6FYJG8VGNNXXG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Roche sur Yon (85)</Location>
+      <DisplayCity>La Roche sur Yon (85)</DisplayCity>
+      <City>Roche-sur-Yon</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.67194</LocationLatitude>
+      <LocationLongitude>-1.42738</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:19 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76YV6FYJG8VGNNXXG</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB77TZ678MD1WK5M24B</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB77TZ678MD1WK5M24B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77TZ678MD1WK5M24B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fenouillet</Location>
+      <DisplayCity>Fenouillet</DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:18 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77TZ678MD1WK5M24B</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB76XX5ZFQ5PBZ7BT38</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76XX5ZFQ5PBZ7BT38</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76XX5ZFQ5PBZ7BT38&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tours (37)</Location>
+      <DisplayCity>Tours (37)</DisplayCity>
+      <City>Tours</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.39038</LocationLatitude>
+      <LocationLongitude>0.68971</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:18 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76XX5ZFQ5PBZ7BT38</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB76466SK8ZM03MVHT5</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76466SK8ZM03MVHT5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76466SK8ZM03MVHT5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Le Mans (72)</Location>
+      <DisplayCity>Le Mans (72)</DisplayCity>
+      <City>Le Mans</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>48.00809</LocationLatitude>
+      <LocationLongitude>0.19781</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:17 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76466SK8ZM03MVHT5</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB76WL6KBMYH6CS0JTL</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76WL6KBMYH6CS0JTL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76WL6KBMYH6CS0JTL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Angers (49)</Location>
+      <DisplayCity>Angers (49)</DisplayCity>
+      <City>Angers</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.47131</LocationLatitude>
+      <LocationLongitude>-0.55237</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:17 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76WL6KBMYH6CS0JTL</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB76VG6Z9LKXF72S7WL</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76VG6Z9LKXF72S7WL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76VG6Z9LKXF72S7WL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes (44)</Location>
+      <DisplayCity>Nantes (44)</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:17 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76VG6Z9LKXF72S7WL</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB74H5653W7MSF4XVJL</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB74H5653W7MSF4XVJL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74H5653W7MSF4XVJL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Troyes (10)</Location>
+      <DisplayCity>Troyes (10)</DisplayCity>
+      <City>Troyes</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>48.29787</LocationLatitude>
+      <LocationLongitude>4.07434</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:16 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74H5653W7MSF4XVJL</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB74L672S3C0C7NCW2N</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB74L672S3C0C7NCW2N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74L672S3C0C7NCW2N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beauvais (60)</Location>
+      <DisplayCity>Beauvais (60)</DisplayCity>
+      <City>Beauvais</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.42955</LocationLatitude>
+      <LocationLongitude>2.08322</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:16 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74L672S3C0C7NCW2N</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB75FK6CBSTDDG5BJFK</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB75FK6CBSTDDG5BJFK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB75FK6CBSTDDG5BJFK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amiens (80)</Location>
+      <DisplayCity>Amiens (80)</DisplayCity>
+      <City>Amiens</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.89473</LocationLatitude>
+      <LocationLongitude>2.29316</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:16 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB75FK6CBSTDDG5BJFK</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB72PX6NZHKMC9W5PH3</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72PX6NZHKMC9W5PH3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72PX6NZHKMC9W5PH3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Baillet en France et Puiseux (95)</Location>
+      <DisplayCity>Baillet en France et Puiseux (95)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:15 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72PX6NZHKMC9W5PH3</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB72WL6SSJMJ9LPF8SQ</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72WL6SSJMJ9LPF8SQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72WL6SSJMJ9LPF8SQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chartres (28)</Location>
+      <DisplayCity>Chartres (28)</DisplayCity>
+      <City>Chartres</City>
+      <State>CENTRE</State>
+      <LocationLatitude>48.44453</LocationLatitude>
+      <LocationLongitude>1.48339</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:15 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72WL6SSJMJ9LPF8SQ</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB72WP67TV443XXN60F</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72WP67TV443XXN60F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72WP67TV443XXN60F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Orléans (45)</Location>
+      <DisplayCity>Orléans (45)</DisplayCity>
+      <City>Orléans</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.90143</LocationLatitude>
+      <LocationLongitude>1.90496</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:15 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72WP67TV443XXN60F</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB748B5WQKT8CLKRYV1</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB748B5WQKT8CLKRYV1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB748B5WQKT8CLKRYV1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sens (89)</Location>
+      <DisplayCity>Sens (89)</DisplayCity>
+      <City>Dijon</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.3268</LocationLatitude>
+      <LocationLongitude>5.04618</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:15 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB748B5WQKT8CLKRYV1</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB71TW773BKFF3GCV97</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB71TW773BKFF3GCV97</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71TW773BKFF3GCV97&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Asnières (92)</Location>
+      <DisplayCity>Asnières (92)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:14 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71TW773BKFF3GCV97</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB72GD6QG9CD00NBHDQ</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72GD6QG9CD00NBHDQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72GD6QG9CD00NBHDQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ormesson et Villeneuve Saint Georges (94)</Location>
+      <DisplayCity>Ormesson et Villeneuve Saint Georges (94)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:14 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72GD6QG9CD00NBHDQ</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB72416N5ZQSFS3CNSD</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72416N5ZQSFS3CNSD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72416N5ZQSFS3CNSD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aulnay (93)</Location>
+      <DisplayCity>Aulnay (93)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:14 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72416N5ZQSFS3CNSD</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB70F35WLV1S1KX406Z</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB70F35WLV1S1KX406Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70F35WLV1S1KX406Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Coignières et Issou (78)</Location>
+      <DisplayCity>Coignières et Issou (78)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:13 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70F35WLV1S1KX406Z</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB71BL67R25QWWZJQ7T</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB71BL67R25QWWZJQ7T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71BL67R25QWWZJQ7T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sainte Geneviève des Bois (91)</Location>
+      <DisplayCity>Sainte Geneviève des Bois (91)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:13 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71BL67R25QWWZJQ7T</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Maisons Pierre</Company>
+      <CompanyDID>chr5tj77t88c4k25kpb</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr5tj77t88c4k25kpb/maisons-pierre/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JB708C6DG8LY31477XR</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 40 points de vente en France, le constructeur promoteur Maisons Pierre est l'un des leaders sur son marché en France. Dans le cadre de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB708C6DG8LY31477XR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB708C6DG8LY31477XR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montevrain, Moissy, et Melun (77)</Location>
+      <DisplayCity>Montevrain, Moissy, et Melun (77)</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:13 AM</PostedTime>
+      <Pay>48 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB708C6DG8LY31477XR</SimilarJobsURL>
+      <JobTitle>Conseiller commercial Terrain Maisons Individuelles H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/84/msl5c66cb3bm3gqj184.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SB CONSULT</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM3FM6VGF56M98GNHH</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, société de renom spécialisée dans l'amélioration de l'habitat et les économies d'énergie (panneaux photovoltaïques, pompes à chaleur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM3FM6VGF56M98GNHH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM3FM6VGF56M98GNHH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Clichy-92110</Location>
+      <DisplayCity></DisplayCity>
+      <City>Clichy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9018</LocationLatitude>
+      <LocationLongitude>2.30733</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:09:12 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM3FM6VGF56M98GNHH</SimilarJobsURL>
+      <JobTitle>Téléprospecteurs  CDI - H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SERENIS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN7QG6C8WC8D8BYW75</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>SERENIS, prestataire spécialisé dans la gestion et le traitement de la Relation Client à distance. Pour l'un de nos clients situé à Paris 12ème,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN7QG6C8WC8D8BYW75</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN7QG6C8WC8D8BYW75&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:08:43 AM</PostedTime>
+      <Pay>20 000 € - 24 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN7QG6C8WC8D8BYW75</SimilarJobsURL>
+      <JobTitle>Chargé(e) de clientèle Assurance H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2W/MBS0W56PGN88WMVV62W.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ1HM77ZTLGQBQMG83</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Team RH, cabinet de recrutement, recherche pour l’un de ses clients : Avocat (3/5 ans) Droit Social (H/F) Notre client, cabinet d’avocats français...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ1HM77ZTLGQBQMG83</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ1HM77ZTLGQBQMG83&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:07:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ1HM77ZTLGQBQMG83</SimilarJobsURL>
+      <JobTitle>Avocat (3/5 ans) Droit Social (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Uniware Global Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT1XB6GQ0SB0Q5WDF8</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Créée en 2010, UniWare Global Services est une société de conseil IT de nouvelle génération mise au service des stratégies de transformation des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT1XB6GQ0SB0Q5WDF8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT1XB6GQ0SB0Q5WDF8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neuilly-sur-Seine-92200</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neuilly-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8842</LocationLatitude>
+      <LocationLongitude>2.27233</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:05:58 AM</PostedTime>
+      <Pay>35 000 € - 50 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT1XB6GQ0SB0Q5WDF8</SimilarJobsURL>
+      <JobTitle>PMO (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BC/MRB44W6RSKGNSQVZJBC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Uniware Global Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2ZM5WNRQSFNWQSTX</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Créée en 2010, UniWare Global Services est une société de conseil IT de nouvelle génération mise au service des stratégies de transformation des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR2ZM5WNRQSFNWQSTX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2ZM5WNRQSFNWQSTX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neuilly-sur-Seine-92200</Location>
+      <DisplayCity></DisplayCity>
+      <City>Neuilly-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8842</LocationLatitude>
+      <LocationLongitude>2.27233</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:05:58 AM</PostedTime>
+      <Pay>38 000 € - 50 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2ZM5WNRQSFNWQSTX</SimilarJobsURL>
+      <JobTitle>Chefs de projet Infrastructure (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BC/MRB44W6RSKGNSQVZJBC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>OSIATIS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP21G75CMNFP6S8TQC</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Econocom-Osiatis recrute un Gestionnaire de Parc (H/F). Mission : Gestion technique du parc informatique : o Inventaire, et mise à jour des items de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP21G75CMNFP6S8TQC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP21G75CMNFP6S8TQC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Neuilly</Location>
+      <DisplayCity>Neuilly</DisplayCity>
+      <City>Neuilly-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8842</LocationLatitude>
+      <LocationLongitude>2.27233</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:04:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP21G75CMNFP6S8TQC</SimilarJobsURL>
+      <JobTitle>Gestionnaire de Parc (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/94/M0T4WL5Z45BLTMGT194.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>Business Intelligence</Skill>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Uniware Global Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3X76ZG95TTWHPRWP</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>IT ASSET MANAGER Au sein de l'activité Compliance d'Uniware, nous accompagne nos clients dans la maîtrise de leurs risques et l'amélioration de leur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS3X76ZG95TTWHPRWP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3X76ZG95TTWHPRWP&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:02:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3X76ZG95TTWHPRWP</SimilarJobsURL>
+      <JobTitle>SOFTWARE ASSET MANAGER</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BC/MRB44W6RSKGNSQVZJBC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>SAP</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ubisoft</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP1G070DM7STRM1CPL</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>A propos d'Ubisoft® Ubisoft figure parmi les leaders en production, édition et distribution de Jeux Vidéo dans le monde. Le groupe a connu une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP1G070DM7STRM1CPL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP1G070DM7STRM1CPL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris - Montreuil</Location>
+      <DisplayCity>Paris - Montreuil</DisplayCity>
+      <City>Montreuil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8661</LocationLatitude>
+      <LocationLongitude>2.45088</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:01:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP1G070DM7STRM1CPL</SimilarJobsURL>
+      <JobTitle>Senior Project Manager – ERP/EPM</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/CS/MXD6R76NX9FWCWYVDCS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>jd edwards</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Hyperion Planning</Skill>
+        <Skill>Hyperion</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ubisoft</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL4QM75Y57Y3KPTF37</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>A propos d'Ubisoft® Ubisoft figure parmi les leaders en production, édition et distribution de Jeux Vidéo dans le monde. Le groupe a connu une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL4QM75Y57Y3KPTF37</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL4QM75Y57Y3KPTF37&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris - Montreuil</Location>
+      <DisplayCity>Paris - Montreuil</DisplayCity>
+      <City>Montreuil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8661</LocationLatitude>
+      <LocationLongitude>2.45088</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:01:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL4QM75Y57Y3KPTF37</SimilarJobsURL>
+      <JobTitle>IT Business Analyst –SCM Stream</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/CS/MXD6R76NX9FWCWYVDCS.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J44C6WTB53RPVHJH4</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>BNP PARIBAS fait désormais partie des premiers acteurs européens de la banque, avec une présence internationale forte. Nous rejoindre, c'est partager...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J44C6WTB53RPVHJH4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J44C6WTB53RPVHJH4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>de-France</Location>
+      <DisplayCity>FR-Île-de-France</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:01:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J44C6WTB53RPVHJH4</SimilarJobsURL>
+      <JobTitle>Conseiller Clientèle Débutant (CCL) H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0B8716B6FZKFJG66</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur de BNP Paribas, la Banque de Détailen France (BDDF) place la satisfaction client et la capacité d'innovationau cœur de son modèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0B8716B6FZKFJG66</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0B8716B6FZKFJG66&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>de-France</Location>
+      <DisplayCity>FR-Île-de-France</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0B8716B6FZKFJG66</SimilarJobsURL>
+      <JobTitle>Conseiller Clientèle Particulier H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4FN6V6XK4K6NSQVY</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>BNP Paribas est une banque leader de la zone euro qui possède l'un des plus grands réseaux d'agences en France et en Europe, et un acteur bancaire de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4FN6V6XK4K6NSQVY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4FN6V6XK4K6NSQVY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>de-France</Location>
+      <DisplayCity>FR-Île-de-France</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4FN6V6XK4K6NSQVY</SimilarJobsURL>
+      <JobTitle>Directeur d'agence H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8GT6FBYHHD8B8KD0</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur de BNP Paribas, la Banque de Détail en France (BDDF) place la satisfaction client et la capacité d'innovation au cœur de son modèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8GT6FBYHHD8B8KD0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8GT6FBYHHD8B8KD0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8GT6FBYHHD8B8KD0</SimilarJobsURL>
+      <JobTitle>Conseiller Patrimonial  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cuisinella</Company>
+      <CompanyDID>chl5216xg7c6pvhmcsz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl5216xg7c6pvhmcsz/cuisinella/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J25T6W0H3FXT21FHK</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>cuisinella-emploi.fr Vous ne connaissez pas encore ce site ? Connectez-vous pour découvrir une enseigne, un univers et des postes à pourvoir sur toute...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J25T6W0H3FXT21FHK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J25T6W0H3FXT21FHK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>AUXERRE</Location>
+      <DisplayCity>AUXERRE</DisplayCity>
+      <City>Auxerre</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.79605</LocationLatitude>
+      <LocationLongitude>3.5693</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J25T6W0H3FXT21FHK</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vk/msg80d6p7stkvn8d2vk.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cuisinella</Company>
+      <CompanyDID>chl5216xg7c6pvhmcsz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl5216xg7c6pvhmcsz/cuisinella/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J2866RRD5PCBKB7SD</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>cuisinella-emploi.fr Vous ne connaissez pas encore ce site ? Connectez-vous pour découvrir une enseigne, un univers et des postes à pourvoir sur toute...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2866RRD5PCBKB7SD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2866RRD5PCBKB7SD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brie-Comte-Robert</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brie-Comte-Robert</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.69184</LocationLatitude>
+      <LocationLongitude>2.61273</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2866RRD5PCBKB7SD</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vk/msg80d6p7stkvn8d2vk.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schmidt</Company>
+      <CompanyDID>chp0br60g1qvpyrghs0</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chp0br60g1qvpyrghs0/schmidt/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1GF6Y7SN0Q58YV8Z</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>SCHMIDT au cœur de votre vie professionnelle www.job-schmidt.com L'adresse incontournable pour nous connaître et découvrir toutes nos opportunités de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1GF6Y7SN0Q58YV8Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1GF6Y7SN0Q58YV8Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>VIRY-CHATILLON</Location>
+      <DisplayCity>VIRY-CHATILLON</DisplayCity>
+      <City>Viry-Châtillon</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.67076</LocationLatitude>
+      <LocationLongitude>2.37523</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1GF6Y7SN0Q58YV8Z</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2p/msl7n46zpxfp6364g2p.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0WV6M63J1LDCGRZX</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur de BNPParibas, la Banque de Détail en France (BDDF) place la satisfaction client et la capacité d'innovation au cœur de son modèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0WV6M63J1LDCGRZX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0WV6M63J1LDCGRZX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>de-France</Location>
+      <DisplayCity>FR-Île-de-France</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0WV6M63J1LDCGRZX</SimilarJobsURL>
+      <JobTitle>Conseiller en Banque Privée H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G56N6XXYTLJD1YX9D</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur de BNP Paribas, la Banque de Détail en France (BDDF) place la satisfaction client et la capacité d'innovation au cœur de son modèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G56N6XXYTLJD1YX9D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G56N6XXYTLJD1YX9D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>de-France</Location>
+      <DisplayCity>FR-Île-de-France</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G56N6XXYTLJD1YX9D</SimilarJobsURL>
+      <JobTitle>Chargé(e) d'Affaires Entrepreneurs H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Cuisinella</Company>
+      <CompanyDID>chl5216xg7c6pvhmcsz</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl5216xg7c6pvhmcsz/cuisinella/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0VQ6GBX6QHJQRZLR</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>cuisinella-emploi.fr Vous ne connaissez pas encore ce site ? Connectez-vous pour découvrir une enseigne, un univers et des postes à pourvoir sur toute...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0VQ6GBX6QHJQRZLR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0VQ6GBX6QHJQRZLR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montigny-lès-Cormeilles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montigny-lès-Cormeilles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.98646</LocationLatitude>
+      <LocationLongitude>2.18874</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0VQ6GBX6QHJQRZLR</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/vk/msg80d6p7stkvn8d2vk.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F15Y6C2JHYJMRW1NW</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur de BNP Paribas, la Banque deDétail en France (BDDF) place la satisfaction client et la capacité d'innovation au cœur de son modèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F15Y6C2JHYJMRW1NW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F15Y6C2JHYJMRW1NW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F15Y6C2JHYJMRW1NW</SimilarJobsURL>
+      <JobTitle>Conseiller en Patrimoine Financier H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>BNP Paribas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2JJ5XVRY21695NNZ</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Acteur majeur de BNP Paribas, la Banque de Détail en France (BDDF) place la satisfaction client et la capacité d'innovation au cœur de son modèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G2JJ5XVRY21695NNZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2JJ5XVRY21695NNZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2JJ5XVRY21695NNZ</SimilarJobsURL>
+      <JobTitle>Conseiller Patrimonial Débutant H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9T/MRJ5G579RYVXD7X9R9T.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G73J75BLSTQH9LKV9</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>FIDUCIAL est le partenaire de ses 261 000 clients, artisans, commerçants, professions libérales, chefs d'entreprise et agriculteurs. FIDUCIAL leur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G73J75BLSTQH9LKV9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G73J75BLSTQH9LKV9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Courbevoie</Location>
+      <DisplayCity></DisplayCity>
+      <City>Courbevoie</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8959</LocationLatitude>
+      <LocationLongitude>2.25644</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G73J75BLSTQH9LKV9</SimilarJobsURL>
+      <JobTitle>Conseiller en Gestion de Patrimoine - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Schmidt</Company>
+      <CompanyDID>chp0br60g1qvpyrghs0</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chp0br60g1qvpyrghs0/schmidt/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3F46D13V4JKT2LDG</DID>
+      <OnetCode>27-1025.00</OnetCode>
+      <ONetFriendlyTitle>Interior Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>SCHMIDT au cœur de votre vie professionnelle www.job-schmidt.com L'adresse incontournable pour nous connaître et découvrir toutes nos opportunités de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3F46D13V4JKT2LDG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3F46D13V4JKT2LDG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>MONETEAU</Location>
+      <DisplayCity>MONETEAU</DisplayCity>
+      <City>Monéteau</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.85006</LocationLatitude>
+      <LocationLongitude>3.57857</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:00:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3F46D13V4JKT2LDG</SimilarJobsURL>
+      <JobTitle>Concepteur Vendeur H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2p/msl7n46zpxfp6364g2p.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CGI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3RW5XD9ZDDZJD6TS</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Analyste - Développeur expérimenté MS SharePoint H/F OBJECTIF DU POSTE En qualité d’ingénieur études et développement, vous réalisez des missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3RW5XD9ZDDZJD6TS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3RW5XD9ZDDZJD6TS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 12:01:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3RW5XD9ZDDZJD6TS</SimilarJobsURL>
+      <JobTitle>Analyste - Développeur expérimenté MS SharePoint H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D1/M0T8BD6H7V4R8YF1HD1.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>javascript</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>IIS</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>IL (network protocol)</Skill>
+        <Skill>internet information services</Skill>
+        <Skill>workflow</Skill>
+        <Skill>windows powershell</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>application programming interface</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

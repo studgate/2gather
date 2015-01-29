@@ -1,0 +1,3592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 7:01:44 AM</TimeResponseSent>
+  <TimeElapsed>0.3588</TimeElapsed>
+  <TotalPages>14</TotalPages>
+  <TotalCount>1313</TotalCount>
+  <FirstItemIndex>901</FirstItemIndex>
+  <LastItemIndex>1000</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Velti</Company>
+      <CompanyDID>c7c7v46bc4qw201fj25</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c7v46bc4qw201fj25/velti/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J04V735V4K4DF25Y5</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>This is a fantastic opportunity to join our Accounting team based in our Athens office. We are looking for an exceptional individual whose key...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3J04V735V4K4DF25Y5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J04V735V4K4DF25Y5&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:21:40 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J04V735V4K4DF25Y5</SimilarJobsURL>
+      <JobTitle>Assistant Accountant</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p9/mww6cl6kdt7c34hdcp9.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Velti</Company>
+      <CompanyDID>c7c7v46bc4qw201fj25</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c7v46bc4qw201fj25/velti/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H00B6Z1CSDJFTJ7YP</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Velti is seeking for a talented and motivated Software Engineer with strong technical skills, a collaborative work ethic and teamwork spirit to join...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3H00B6Z1CSDJFTJ7YP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H00B6Z1CSDJFTJ7YP&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Πάτρα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Πάτρα</City>
+      <State>ΔΥΤΙΚΉ ΕΛΛΆΔΑ</State>
+      <LocationLatitude>38.24425</LocationLatitude>
+      <LocationLongitude>21.73256</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:21:39 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H00B6Z1CSDJFTJ7YP</SimilarJobsURL>
+      <JobTitle>Software Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p9/mww6cl6kdt7c34hdcp9.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>svn</Skill>
+        <Skill>database</Skill>
+        <Skill>internet backbone</Skill>
+        <Skill>xml</Skill>
+        <Skill>javascript</Skill>
+        <Skill>Android</Skill>
+        <Skill>software development</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>nosql</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>websockets</Skill>
+        <Skill>ios</Skill>
+        <Skill>c++</Skill>
+        <Skill>unix</Skill>
+        <Skill>jira</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Velti</Company>
+      <CompanyDID>c7c7v46bc4qw201fj25</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c7v46bc4qw201fj25/velti/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3Y764YXV7H0P0SPB</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>iOS Mobile Applications Developer | Patras/Athens Job Code: (Code: i MAD) Summary: Mobile Applications Developer will be responsible for the design...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3J3Y764YXV7H0P0SPB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3Y764YXV7H0P0SPB&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:21:38 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3Y764YXV7H0P0SPB</SimilarJobsURL>
+      <JobTitle>iOS Mobile Applications Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/p9/mww6cl6kdt7c34hdcp9.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>xcode</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>Android</Skill>
+        <Skill>software development</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>User Experience</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>objective-c</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>ios</Skill>
+        <Skill>ios sdk</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Teleperformance Hellas</Company>
+      <CompanyDID>c7c4h85z1h9lk0jnl2l</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c4h85z1h9lk0jnl2l/teleperformance-hellas/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6205ZR8L3GS4DTJK</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Teleperformance Hellas, a member of the Teleperformance Group, the worldwide leader in outsourced multichannel customer experience management, is...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3J6205ZR8L3GS4DTJK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6205ZR8L3GS4DTJK&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:11:15 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6205ZR8L3GS4DTJK</SimilarJobsURL>
+      <JobTitle>SPANISH ADVISOR FOR TECHNICAL SUPPORT(0202)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nv/mx41hy6p3w2s4f287nv.jpg</CompanyImageURL>
+      <JobBrandingIcons>VIcon,PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>skype</Skill>
+        <Skill>database</Skill>
+        <Skill>knowledge management</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>ios</Skill>
+        <Skill>data entry</Skill>
+        <Skill>http secure</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ICAP Group</Company>
+      <CompanyDID>chp7nx6mp82dwm3fy5m</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/chp7nx6mp82dwm3fy5m/icap-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3117C6H17V9YRTX4P7</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>H ICAP Group – με €63 εκατομμύρια έσοδα και 1.250 εργαζομένους- είναι ο μεγαλύτερος Όμιλος παροχής υπηρεσιών προς επιχειρήσεις στην Ελλάδα. Διαθέτει...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3117C6H17V9YRTX4P7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3117C6H17V9YRTX4P7&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Καλλιθέα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Καλλιθέα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9552</LocationLatitude>
+      <LocationLongitude>23.7028</LocationLongitude>
+      <PostedDate>1/13/2015</PostedDate>
+      <PostedTime>1/13/2015 1:04:09 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3117C6H17V9YRTX4P7</SimilarJobsURL>
+      <JobTitle>Σύμβουλοι Τηλεφωνικών Πωλήσεων, Contact Center</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/b7/mwm40v63d4m4k6xfxb7.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Contact center</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EUROPEAN DYNAMICS SA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL0C5790G5STKH559P</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>(ref: BMITEC/01/15), Athens, Greece. Main focus: international business development and pre-sales. EUROPEAN DYNAMICS ( www.eurodyn.com ) is a leading...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL0C5790G5STKH559P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL0C5790G5STKH559P&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 11:22:49 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL0C5790G5STKH559P</SimilarJobsURL>
+      <JobTitle>BID MANAGER IT ENGINEER / CONSULTANT</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HZ/MVK10N6R1KHWBL5FJHZ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>POST (HTTP)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP7RT5ZQVKHK1H2GFD</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>Ζητείται Μηχανικός - Χειριστής CNC Εργαλειομηχανών, από εταιρία κατασκευής μεταλλικών καλουπιών ,για τους Νομούς Θεσσαλονίκης και Κιλκίς. Η εταιρία...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP7RT5ZQVKHK1H2GFD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP7RT5ZQVKHK1H2GFD&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Κιλκίς</Location>
+      <DisplayCity></DisplayCity>
+      <City>Κιλκίς</City>
+      <State>ΚΕΝΤΡΙΚΉ ΜΑΚΕΔΟΝΊΑ-ΘΕΣΣΑΛΟΝΊΚΗ</State>
+      <LocationLatitude>40.9949</LocationLatitude>
+      <LocationLongitude>22.8753</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:46:28 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP7RT5ZQVKHK1H2GFD</SimilarJobsURL>
+      <JobTitle>ΜΗΧΑΝΙΚΟΣ - ΧΕΙΡΙΣΤΗΣ C.N.C. ΕΡΓΑΛΕΙΟΜΗΧΑΝΩΝ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/F5/M123TD6X1LBW0KH04F5.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV7T170YPQS68KMMHT</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Εταιρεία Λογισμικού, Ολοκληρωμένων λύσεων Πληροφορικής και Συμβουλευτικών Υπηρεσιών η οποία προσφέρει ένα μεγάλο φάσμα προϊόντων και υπηρεσιών...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV7T170YPQS68KMMHT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV7T170YPQS68KMMHT&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:36:05 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV7T170YPQS68KMMHT</SimilarJobsURL>
+      <JobTitle>JUNIOR IT PROFESSIONAL</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Εταιρεία Marketing</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5BC62VJ1H7CQ182M</DID>
+      <OnetCode>11-2011.00</OnetCode>
+      <ONetFriendlyTitle>Advertising and Promotions Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Μια από τις μεγαλύτερες και πλέον αξιόπιστες εταιρείες προώθησης προϊόντων και παροχής υπηρεσιών αναζητά άμεσα νέες (έως 35 ετών) για τη στελέχωση...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρως/Μερικώς Απασχολούμενος</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM5BC62VJ1H7CQ182M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5BC62VJ1H7CQ182M&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:21:31 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5BC62VJ1H7CQ182M</SimilarJobsURL>
+      <JobTitle>PROMOTION</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN59768Z0T8ZPMYGZ9</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Μεγάλη πολυεθνική εταιρεία στοχεύοντας στην ενίσχυση της παρουσίας της στην αγορά του φαρμάκου και στην περαιτέρω ανάπτυξη του τμήματος ιατρικής...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHN59768Z0T8ZPMYGZ9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN59768Z0T8ZPMYGZ9&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:17:50 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN59768Z0T8ZPMYGZ9</SimilarJobsURL>
+      <JobTitle>ΙΑΤΡΙΚΟΣ ΕΠΙΣΚΕΠΤΗΣ-ΕΠΙΣΤΗΜΟΝΙΚΟΣ ΣΥΝΕΡΓΑΤΗΣ</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Εμπορική εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ0W461B728Y3HZ0TD</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Eταιρεία που παρέχει υποστηρικτικές υπηρεσίες σε εταιρείες, βελτιώνοντας την επιχειρηματική τους δραστηριότητα, αναζητά νέους ή νέες έως 28 ετών....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ0W461B728Y3HZ0TD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ0W461B728Y3HZ0TD&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:14:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ0W461B728Y3HZ0TD</SimilarJobsURL>
+      <JobTitle>Πλήρης Απασχόληση νέοι/νέες</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR6WV645YXKRGRD9JW</DID>
+      <OnetCode>29-2061.00</OnetCode>
+      <ONetFriendlyTitle>Licensed Practical and Vocational Nurses</ONetFriendlyTitle>
+      <DescriptionTeaser>Ζητούνται πωλητές από Εταιρία Φροντίδας Υγείας κατ’ οίκον, για τις περιοχές Δ. Μακεδονίας και για Ν. Ημαθίας, κατά προτίμηση με την ειδικότητα:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR6WV645YXKRGRD9JW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR6WV645YXKRGRD9JW&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Κοζάνη</Location>
+      <DisplayCity></DisplayCity>
+      <City>Κοζάνη</City>
+      <State>ΔΥΤΙΚΉ ΜΑΚΕΔΟΝΊΑ</State>
+      <LocationLatitude>40.30612</LocationLatitude>
+      <LocationLongitude>21.78856</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 9:06:37 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR6WV645YXKRGRD9JW</SimilarJobsURL>
+      <JobTitle>Νοσηλευτής ή Τεχνικός Ιατρικών Οργάνων</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL8GF6SHPLKLQDF4VP</DID>
+      <OnetCode>13-2051.00</OnetCode>
+      <ONetFriendlyTitle>Financial Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Financial Analyst/Associate Job Description : A financial advisory firm is seeking a highly motivated individual able to work within a team for an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL8GF6SHPLKLQDF4VP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL8GF6SHPLKLQDF4VP&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:49:10 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL8GF6SHPLKLQDF4VP</SimilarJobsURL>
+      <JobTitle>Financial Analyst/Associate</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Risk management</Skill>
+        <Skill>Statistical model</Skill>
+        <Skill>Management consulting</Skill>
+        <Skill>Economics</Skill>
+        <Skill>International standard</Skill>
+        <Skill>Investment banking</Skill>
+        <Skill>Consulting</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV2BR6YY3WB33XYW9X</DID>
+      <OnetCode>27-2012.02</OnetCode>
+      <ONetFriendlyTitle>Directors- Stage, Motion Pictures, Television, and Radio</ONetFriendlyTitle>
+      <DescriptionTeaser>ΖΗΤΕΙΤΑΙ ΕΜΠΟΡΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ ΓΙΑ ΤΗΝ ΣΤΕΛΕΧΩΣΗ ΕΜΠΟΡΙΚΟΥ ΠΟΛΥΚΑΤΑΣΤΗΜΑΤΟΣ ΣΤΗΝ ΑΤΤΙΚΗ ΠΟΥ ΛΕΙΤΟΥΡΓΕΙ ΩΣ « SHOP IN SHOP ». ΑΠΑΡΑΙΤΗΤΗ Η ΠΡΟΫΠΗΡΕΣΙΑ ΣΕ...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV2BR6YY3WB33XYW9X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV2BR6YY3WB33XYW9X&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:49:03 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV2BR6YY3WB33XYW9X</SimilarJobsURL>
+      <JobTitle>Εμπορικός Διευθυντής</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Buenvi</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL52B6RVFCVGHBCJNX</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Η εταιρεία Buenvi , με πολυετή παρουσία στην ελληνική αγορά και διαρκώς ανοδική πορεία, αναζητά άτομα για τη στελέχωση των τμημάτων της στους τομείς:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρως/Μερικώς Απασχολούμενος</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL52B6RVFCVGHBCJNX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL52B6RVFCVGHBCJNX&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:44:07 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL52B6RVFCVGHBCJNX</SimilarJobsURL>
+      <JobTitle>Στελέχη Επιχειρήσεων</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HV/MWM1CC758218JHJ7NHV.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV36169GH0BH6S0T6W</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>E ταιρεία με πολυετή παρουσία στην ελληνική αγορά και ανοδική πορεία, αναζητά άτομα για τη στελέχωση του τμήματος: οργάνωσης και συντονισμού δικτύου...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV36169GH0BH6S0T6W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV36169GH0BH6S0T6W&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:39:49 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV36169GH0BH6S0T6W</SimilarJobsURL>
+      <JobTitle>Στελέχη Τμήματος</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL4V067S7PX8LDFK1H</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Company profile A leading multinational chemical company. The Roles: The Technical Sales Engineer ensures order and revenue growth of company products...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL4V067S7PX8LDFK1H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL4V067S7PX8LDFK1H&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Θεσσαλονίκη</Location>
+      <DisplayCity></DisplayCity>
+      <City>Θεσσαλονίκη</City>
+      <State>ΚΕΝΤΡΙΚΉ ΜΑΚΕΔΟΝΊΑ-ΘΕΣΣΑΛΟΝΊΚΗ</State>
+      <LocationLatitude>40.629</LocationLatitude>
+      <LocationLongitude>22.9534</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:34:51 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL4V067S7PX8LDFK1H</SimilarJobsURL>
+      <JobTitle>Technical Sales Engineers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer literacy</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Technical Sales</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0PJ69RJFP9QQ0SXB</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Company profile A leading multinational chemical company. The Roles: The Technical Sales Engineer ensures order and revenue growth of company products...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR0PJ69RJFP9QQ0SXB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0PJ69RJFP9QQ0SXB&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:30:05 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0PJ69RJFP9QQ0SXB</SimilarJobsURL>
+      <JobTitle>Technical Sales Engineers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer literacy</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Technical Sales</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT3R26HQ62H3HW8937</DID>
+      <OnetCode>43-6013.00</OnetCode>
+      <ONetFriendlyTitle>Medical Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>ΙΑΤΡΙΚΟΣ ΕΠΙΣΚΕΠΤΗΣ ΜΕ ΕΔΡΑ ΤΗΝ ΑΘΗΝΑ ΑΠΑΡΑΙΤΗΤΑ ΠΡΟΣΟΝΤΑ ΥΠΟΨΗΦΙΩΝ: Άριστη ικανότητα επικοινωνίας Επαγγελματισμός Γνώση Αγγλικής γλώσσας Χρήση Η/Υ...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHT3R26HQ62H3HW8937</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT3R26HQ62H3HW8937&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:24:18 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT3R26HQ62H3HW8937</SimilarJobsURL>
+      <JobTitle>Ιατρικός επισκέπτης</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Poseidon Software S.A</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP7HG5Z36YDRHWC7NS</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>H Poseidon Software SA ( www . poseidon . gr ), η πιο δυναμικά ανερχόμενη εταιρία λογισμικού, αναζητά: Δικηγόρο για τη στελέχωση του νομικού τμήματος...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP7HG5Z36YDRHWC7NS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP7HG5Z36YDRHWC7NS&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Περιστέρι</Location>
+      <DisplayCity></DisplayCity>
+      <City>Περιστέρι</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0125</LocationLatitude>
+      <LocationLongitude>23.6952</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:19:09 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP7HG5Z36YDRHWC7NS</SimilarJobsURL>
+      <JobTitle>Δικηγόρος</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/WV/MRB1GX64YKT5LZMKZWV.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Poseidon Software S.A</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR1MK63XH7KNQTMW1V</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>H Poseidon Software SA ( www . poseidon . gr ), η πιο δυναμικά ανερχόμενη εταιρία λογισμικού, αναζητά υποψήφιο για τη θέση της: Γραμματειακής...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR1MK63XH7KNQTMW1V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR1MK63XH7KNQTMW1V&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Περιστέρι</Location>
+      <DisplayCity></DisplayCity>
+      <City>Περιστέρι</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0125</LocationLatitude>
+      <LocationLongitude>23.6952</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 8:04:08 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR1MK63XH7KNQTMW1V</SimilarJobsURL>
+      <JobTitle>Γραμματειακή Υποστήριξη</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/WV/MRB1GX64YKT5LZMKZWV.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Generation Y</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT5CT6ZVKSD5Y18SJM</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Generation Y is a rapidly growing Interactive Agency, based in Athens, Greece with offices in UK and Germany and an international clientele. We are...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHT5CT6ZVKSD5Y18SJM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5CT6ZVKSD5Y18SJM&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aghios Dimitrios-173 43</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aghios Dimitrios</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.937</LocationLatitude>
+      <LocationLongitude>23.7356</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 7:55:20 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5CT6ZVKSD5Y18SJM</SimilarJobsURL>
+      <JobTitle>Junior PHP or Ruby Web Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2M/MRB0PJ64Y26B51MG62M.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>web development</Skill>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>Linux</Skill>
+        <Skill>ruby on rails</Skill>
+        <Skill>php</Skill>
+        <Skill>database design</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2T16Y4DY2FFY09PL</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Ανώνυμη Εταιρεία παροχής υπηρεσιών προώθησης και επικοινωνίας, εγκατεστημένη στο Μαρούσι, ζητά Στέλεχος Πωλήσεων Β2Β και διαχείρισης εταιρικών...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR2T16Y4DY2FFY09PL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2T16Y4DY2FFY09PL&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Μαρούσι</Location>
+      <DisplayCity></DisplayCity>
+      <City>Μαρούσι</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0573</LocationLatitude>
+      <LocationLongitude>23.8046</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 7:48:19 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2T16Y4DY2FFY09PL</SimilarJobsURL>
+      <JobTitle>Στέλεχος Πωλήσεων Β2Β</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ΔΙΟΛΚΟΣ ΑΕΕ</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM3TN67S8QH3S9FYP4</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Υπεύθυνος Πωλήσεων σε προϊόντα ομορφιάς/κομμωτηρίου για την περιοχή της Αττικής με δυνατότητα ολιγοήμερης μηνιαίας απασχόλησης στην επαρχία Έως 30...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM3TN67S8QH3S9FYP4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM3TN67S8QH3S9FYP4&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paleo Faliro-175 63</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paleo Faliro</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9255</LocationLatitude>
+      <LocationLongitude>23.7136</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 7:25:50 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM3TN67S8QH3S9FYP4</SimilarJobsURL>
+      <JobTitle>Πωλητής Προϊόντων Καλλυντικών/Κομμωτηρίου</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Golden Home</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL63Q67N1Z1DMP9ZXG</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>. .</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL63Q67N1Z1DMP9ZXG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL63Q67N1Z1DMP9ZXG&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 7:21:46 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL63Q67N1Z1DMP9ZXG</SimilarJobsURL>
+      <JobTitle>Σύμβουλοι Ακινήτων</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/V8/MVN06V5ZLKPK5QH80V8.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV4LG6HLQ92903KZQW</DID>
+      <OnetCode>15-1032.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Systems Software</ONetFriendlyTitle>
+      <DescriptionTeaser>iTechScope ( http://www.itechscope.gr/ ) is the first International Technical Recruitment Company in Greece. Based in Athens &amp; Dubai we offer HR...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV4LG6HLQ92903KZQW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV4LG6HLQ92903KZQW&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 7:06:40 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV4LG6HLQ92903KZQW</SimilarJobsURL>
+      <JobTitle>Senior C Software Engineers - Remote Working - €4000-€8000 per month</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/BS/MXE7JK6DJNM13WZ04BS.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>software development</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>software design</Skill>
+        <Skill>cryptographic protocol</Skill>
+        <Skill>deep packet inspection</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>http secure</Skill>
+        <Skill>network intelligence</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SΥΝΤΑΧ</Company>
+      <CompanyDID>c8e61y70my0ldpdj3kw</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8e61y70my0ldpdj3kw/sυνταχ/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHV3GZ61MYHWB75MQVW</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>SYNTAX is seeking to immediately recruit PHP developers with hands-on experience in the implementation of web-based applications. Software Developer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV3GZ61MYHWB75MQVW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV3GZ61MYHWB75MQVW&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:55:18 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV3GZ61MYHWB75MQVW</SimilarJobsURL>
+      <JobTitle>Web/PHP Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/yl/myo2d46ps75tnn38qyl.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>microsoft excel</Skill>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>database</Skill>
+        <Skill>mobile application development</Skill>
+        <Skill>IIS</Skill>
+        <Skill>jquery</Skill>
+        <Skill>dbase</Skill>
+        <Skill>sql</Skill>
+        <Skill>ajax</Skill>
+        <Skill>apache wicket</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Σπαντίδος Εκδόσεις/Spandidos Publications</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP2T96B5CRWG0L641N</DID>
+      <OnetCode>43-9081.00</OnetCode>
+      <ONetFriendlyTitle>Proofreaders and Copy Markers</ONetFriendlyTitle>
+      <DescriptionTeaser>Copy Editor/ Proofreader We are looking for a proofreader to copy-edit articles to a high quality standard. Excellent knowledge of the English...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP2T96B5CRWG0L641N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP2T96B5CRWG0L641N&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Athina-116 34</Location>
+      <DisplayCity></DisplayCity>
+      <City>Athina</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.965</LocationLatitude>
+      <LocationLongitude>23.748</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:48:27 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP2T96B5CRWG0L641N</SimilarJobsURL>
+      <JobTitle>Copy Editor/Proofreader</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/52/Mwq7006B3CCD306DY52.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NET TRUST</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ5NF674XRQ9XCXTB5</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>ΤΗΛΕΦΩΝΙΚΗ ΕΞΥΠΗΡΕΤΗΣΗ ΠΕΛΑΤΩΝ – TECHNICAL SUPPORT CALL CENTER – ΣΥΓΓΡΟΥ ΦΙΞ Η NET TRUST , ανερχόμενη εταιρία παροχής τηλεφωνικών υπηρεσιών, ζητεί...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρως/Μερικώς Απασχολούμενος</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ5NF674XRQ9XCXTB5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ5NF674XRQ9XCXTB5&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:41:58 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ5NF674XRQ9XCXTB5</SimilarJobsURL>
+      <JobTitle>ΤΗΛΕΦΩΝΙΚΗ  ΕΞΥΠΗΡΕΤΗΣΗ ΠΕΛΑΤΩΝ – TECHNICAL SUPPORT</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C0/MRK2JP5X37PVNGTQYC0.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>windows 2000</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>fax</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NET TRUST</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP4556ZHQHQGVV5YM1</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>ΕΚΠΡΟΣΩΠΟΙ ΤΗΛΕΦΩΝΙΚΩΝ ΠΩΛΗΣΕΩΝ FORTHNET/NOVA CALL CENTER – ΣΥΓΓΡΟΥ ΦΙΞ Η Εταιρία NET TRUST, επίσημος εμπορικός συνεργάτης του ομίλου Forthnet - Nova...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP4556ZHQHQGVV5YM1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP4556ZHQHQGVV5YM1&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:36:00 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP4556ZHQHQGVV5YM1</SimilarJobsURL>
+      <JobTitle>ΕΚΠΡΟΣΩΠΟΙ ΤΗΛΕΦΩΝΙΚΩΝ ΠΩΛΗΣΕΩΝ FORTHNET/NOVA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C0/MRK2JP5X37PVNGTQYC0.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hellenic Seaways</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL17P6YDR75TW05QC6</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Η Hellenic Seaways, η μεγαλύτερη ακτοπλοϊκή εταιρία του Αιγαίου, επιθυμεί να προσλάβει: IT A dministrator για την Διεύθυνση Πληροφορικής Περιγραφή...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL17P6YDR75TW05QC6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL17P6YDR75TW05QC6&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:33:30 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL17P6YDR75TW05QC6</SimilarJobsURL>
+      <JobTitle>IT Administrator</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GB/MFW31Y6990HCZXTKTGB.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>microsoft exchange server</Skill>
+        <Skill>virtual lan</Skill>
+        <Skill>cisco systems</Skill>
+        <Skill>vb</Skill>
+        <Skill>windows server</Skill>
+        <Skill>ibm system i</Skill>
+        <Skill>Linux</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>vmware</Skill>
+        <Skill>wi-fi</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+        <Skill>cisco hardware</Skill>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NET TRUST</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR04Q6VBL6KRT76DJN</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>ΤΗΛΕΦΩΝΙΚΗ ΕΞΥΠΗΡΕΤΗΣΗ ΠΕΛΑΤΩΝ Η NET TRUST , ανερχόμενη εταιρία παροχής τηλεφωνικών υπηρεσιών, ζητεί άμεσα άτομα με σκοπό την εξυπηρέτηση πελατών (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρως/Μερικώς Απασχολούμενος</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR04Q6VBL6KRT76DJN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR04Q6VBL6KRT76DJN&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:33:21 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR04Q6VBL6KRT76DJN</SimilarJobsURL>
+      <JobTitle>ΤΗΛΕΦΩΝΙΚΗ ΕΞΥΠΗΡΕΤΗΣΗ ΠΕΛΑΤΩΝ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/C0/MRK2JP5X37PVNGTQYC0.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Data Hellas S.A.</Company>
+      <CompanyDID>c7f2vj6jffj2wgx8t97</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7f2vj6jffj2wgx8t97/first-data-hellas-s-a/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ0X66F0YSHQK4L38P</DID>
+      <OnetCode>27-3042.00</OnetCode>
+      <ONetFriendlyTitle>Technical Writers</ONetFriendlyTitle>
+      <DescriptionTeaser>Proposal Writer The Company First Data is a leading provider of payment solutions for financial institutions and merchants around the world. With over...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ0X66F0YSHQK4L38P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ0X66F0YSHQK4L38P&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:24:28 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ0X66F0YSHQK4L38P</SimilarJobsURL>
+      <JobTitle>Proposal Writer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/58/MRN0PP6WTXWJJL5ZJ58.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SALES PROMOTION CENTER</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT6M36XXP6RJ1RDCLC</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Η PIERRE FABRE ( AVENE, GALENIC, DUCRAY/A-DERMA, KLORANE, ELANCYL, RENE FURTERER, ORAL CARE) που αποτελεί έναν από τους μεγαλύτερους ομίλους στο χώρο...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Αδιάφορο</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHT6M36XXP6RJ1RDCLC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6M36XXP6RJ1RDCLC&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ρόδος</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ρόδος</City>
+      <State>ΝΌΤΙΟ ΑΙΓΑΊΟ</State>
+      <LocationLatitude>36.44795</LocationLatitude>
+      <LocationLongitude>28.22591</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:19:10 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6M36XXP6RJ1RDCLC</SimilarJobsURL>
+      <JobTitle>ΣΥΜΒΟΥΛΟΙ ΟΜΟΡΦΙΑΣ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ZX/MR16ZF6GJ55RYWY9VZX.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales Promotion</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>e-value</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM4QY73S2N5D6JZN4F</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>. .</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM4QY73S2N5D6JZN4F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM4QY73S2N5D6JZN4F&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα &amp; Ξάνθη</Location>
+      <DisplayCity>Αθήνα &amp; Ξάνθη</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:19:09 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM4QY73S2N5D6JZN4F</SimilarJobsURL>
+      <JobTitle>Σύμβουλος Τηλεφωνικών Πωλήσεων</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>e-value</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV0Q16FM9TSWXG378C</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>. .</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV0Q16FM9TSWXG378C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV0Q16FM9TSWXG378C&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:17:55 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV0Q16FM9TSWXG378C</SimilarJobsURL>
+      <JobTitle>Σύμβουλος Τηλεφωνικών Πωλήσεων</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>e-value</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0VW6Z5DM0H8YSGBX</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>. .</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR0VW6Z5DM0H8YSGBX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0VW6Z5DM0H8YSGBX&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:15:18 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0VW6Z5DM0H8YSGBX</SimilarJobsURL>
+      <JobTitle>Σύμβουλος Τηλεφωνικής Εξυπηρέτησης</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>e-value</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ88K780WH39SG2Y38</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>. .</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ88K780WH39SG2Y38</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ88K780WH39SG2Y38&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:13:40 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ88K780WH39SG2Y38</SimilarJobsURL>
+      <JobTitle>Σύμβουλος Τηλεφωνικής Εξυπηρέτησης</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Epignosis</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0NJ73ZMSGSQ1TCSV</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>This position is for a talented PHP/MYSQL/JQuery developer to join a vibrant, focused and technically minded team which is responsible for developing...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3K0NJ73ZMSGSQ1TCSV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0NJ73ZMSGSQ1TCSV&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Athina-105 64</Location>
+      <DisplayCity></DisplayCity>
+      <City>Athina</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9774</LocationLatitude>
+      <LocationLongitude>23.7343</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:08:19 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0NJ73ZMSGSQ1TCSV</SimilarJobsURL>
+      <JobTitle>Web Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/R3/MH37KB6GQ8BDHSYD1R3.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>amazon web services</Skill>
+        <Skill>mysql</Skill>
+        <Skill>html5</Skill>
+        <Skill>database</Skill>
+        <Skill>jquery</Skill>
+        <Skill>Linux</Skill>
+        <Skill>mvc</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+        <Skill>database design</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Cyprus Institute (CyI)</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL6XV6Z2QBS3RZ4XY1</DID>
+      <OnetCode>19-2041.00</OnetCode>
+      <ONetFriendlyTitle>Environmental Scientists and Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Post-doctoral Fellow in Atmospheric Aerosols Closing Date : 15 th January 2015 The Cyprus Institute (CyI) is a European non-profit science and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL6XV6Z2QBS3RZ4XY1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL6XV6Z2QBS3RZ4XY1&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Λευκωσία</Location>
+      <DisplayCity></DisplayCity>
+      <City>Λευκωσία</City>
+      <State>ΚΎΠΡΟΣ</State>
+      <LocationLatitude>35.1666</LocationLatitude>
+      <LocationLongitude>33.3666</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 6:05:57 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL6XV6Z2QBS3RZ4XY1</SimilarJobsURL>
+      <JobTitle>Post-doctoral Fellow in Atmospheric Aerosols</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/6X/Mwd6BC6L7J10JQJPQ6X.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ICAP Employment Solutions</Company>
+      <CompanyDID>chn3nl62whxcp13w337</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/chn3nl62whxcp13w337/icap-employment-solutions/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHM50X654TRH7TL60S0</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Υπεύθυνοι Τηλεφωνικών Πωλήσεων σε Τραπεζικό Οργανισμό Η ICAP Employment Solutions , για λογαριασμό πελάτη της, τραπεζικού οργανισμού, αναζητά...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM50X654TRH7TL60S0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM50X654TRH7TL60S0&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ελλάδα</Location>
+      <DisplayCity>Ελλάδα</DisplayCity>
+      <City>Kallithea</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9587</LocationLatitude>
+      <LocationLongitude>23.7067</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 5:43:41 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM50X654TRH7TL60S0</SimilarJobsURL>
+      <JobTitle>Υπεύθυνοι Τηλεφωνικών Πωλήσεων σε Τραπεζικό Οργανισμό</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/f2/mww3z66rs2mz02j15f2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM8H55Y7CMGHK4V8F8</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>A well-established multinational company wishes to recruit an Electrical Engineer, for its plant in PATRA. The successful candidate will direct and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM8H55Y7CMGHK4V8F8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM8H55Y7CMGHK4V8F8&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Πάτρα</Location>
+      <DisplayCity>Πάτρα</DisplayCity>
+      <City>Καλαμάτα</City>
+      <State>ΠΕΛΟΠΌΝΝΗΣΟΣ</State>
+      <LocationLatitude>37.04294</LocationLatitude>
+      <LocationLongitude>22.11145</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:44:12 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM8H55Y7CMGHK4V8F8</SimilarJobsURL>
+      <JobTitle>Electrical Engineer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Development aid</Skill>
+        <Skill>Maintenance</Skill>
+        <Skill>Blueprint</Skill>
+        <Skill>Automation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ22H7490L3JF0K35W</DID>
+      <OnetCode>17-2199.07</OnetCode>
+      <ONetFriendlyTitle>Photonics Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>THEON Sensors specializes in the design, development, manufacture &amp; integration of Electro-Optical systems for defence and security applications...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Master's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ22H7490L3JF0K35W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ22H7490L3JF0K35W&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Koropi-194 00</Location>
+      <DisplayCity></DisplayCity>
+      <City>Koropi</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.8874</LocationLatitude>
+      <LocationLongitude>23.8563</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:35:33 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ22H7490L3JF0K35W</SimilarJobsURL>
+      <JobTitle>Optical Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/J2/MX186478FD5M4K4HKJ2.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Optical engineering</Skill>
+        <Skill>LabVIEW</Skill>
+        <Skill>Career development</Skill>
+        <Skill>MATLAB</Skill>
+        <Skill>Optical lens design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Κατασκευαστική εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR1ZY6QZHS0N9LW050</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Αρχιτέκτονας και μηχανικός στατικός ζητούνται από κατασκευαστική εταιρεία με έδρα την Χαλκίδα. Απαραίτητες γνώσεις ΓΟΚ και αγγλικά.</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Αδιάφορο</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR1ZY6QZHS0N9LW050</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR1ZY6QZHS0N9LW050&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Χαλκίδα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Χαλκίδα</City>
+      <State>ΣΤΕΡΕΆ ΕΛΛΆΔΑ</State>
+      <LocationLatitude>38.46476</LocationLatitude>
+      <LocationLongitude>23.60305</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:34:00 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR1ZY6QZHS0N9LW050</SimilarJobsURL>
+      <JobTitle>Αρχιτέκτονας και μηχανικός στατικός</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ingroup</Company>
+      <CompanyDID>c8e3rv79v67wbwt0ty0</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8e3rv79v67wbwt0ty0/ingroup/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHR12Y669NC65581HTY</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Η IN GROUP ΑΕ, η μεγαλύτερη Ελληνική εταιρεία απασχόλησης ανθρώπινου δυναμικού, πιστοποιημένη σύμφωνα με το διεθνές πρότυπο ISO 9001:2008 στον τομέα...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR12Y669NC65581HTY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR12Y669NC65581HTY&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:33:45 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR12Y669NC65581HTY</SimilarJobsURL>
+      <JobTitle>Πωλητής/ Merchandiser- Αθήνα</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/29/mwv07l70j107pcfb929.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Supermarket</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ingroup</Company>
+      <CompanyDID>c8e3rv79v67wbwt0ty0</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8e3rv79v67wbwt0ty0/ingroup/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL14L6GZNM4D3F1YK2</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Η IN GROUP ΑΕ, η μεγαλύτερη Ελληνική εταιρεία απασχόλησης ανθρώπινου δυναμικού, πιστοποιημένη σύμφωνα με το διεθνές πρότυπο ISO 9001:2008 στον τομέα...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL14L6GZNM4D3F1YK2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL14L6GZNM4D3F1YK2&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Καλαμάτα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Καλαμάτα</City>
+      <State>ΠΕΛΟΠΌΝΝΗΣΟΣ</State>
+      <LocationLatitude>37.04294</LocationLatitude>
+      <LocationLongitude>22.11145</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:29:27 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL14L6GZNM4D3F1YK2</SimilarJobsURL>
+      <JobTitle>Πωλητής/ Merchandiser - Καλαμάτα</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/29/mwv07l70j107pcfb929.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Supermarket</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Profile S.A.</Company>
+      <CompanyDID>c7h5yg70n2s68pk90y1</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7h5yg70n2s68pk90y1/profile-s-a/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHN0DW5WDGBZ05BHZ6F</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Η PROFILE Α.Ε., εισηγμένη εταιρεία στο Χ.Α.Α. (www.profilesw.com), η οποία παρέχει ολοκληρωμένες λύσεις πληροφορικής στον χρηματοοικονομικό και τον...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHN0DW5WDGBZ05BHZ6F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN0DW5WDGBZ05BHZ6F&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nea Smyrni-171 21</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nea Smyrni</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9475</LocationLatitude>
+      <LocationLongitude>23.7139</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:29:14 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN0DW5WDGBZ05BHZ6F</SimilarJobsURL>
+      <JobTitle>PRESALES TECHNICAL CONSULTANT - PUBLIC SECTOR (PTC-PS)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/kh/mw36lg6lmlhldg4yxkh.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM03Z6JHPM0VXNT07K</DID>
+      <OnetCode>39-6022.00</OnetCode>
+      <ONetFriendlyTitle>Travel Guides</ONetFriendlyTitle>
+      <DescriptionTeaser>Ζητείται οδηγός για επιχειρηματία στα Νότια Προάστια για πλήρη εξαήμερη απασχόληση με εναλλαγή βάρδιας (09.00-18.00 / 18.00-02.00) Ελεύθερος...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM03Z6JHPM0VXNT07K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM03Z6JHPM0VXNT07K&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Βούλα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Βούλα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.8428</LocationLatitude>
+      <LocationLongitude>23.7685</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:18:43 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM03Z6JHPM0VXNT07K</SimilarJobsURL>
+      <JobTitle>Οδηγός</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Freddo AE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ6YM6SRHMZV67HY2G</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>H Εταιρία μας επιθυμεί να εντάξει στο Ανθρώπινο δυναμικό της έναν Μηχανολόγο Μηχανικό ( Junior) Προφίλ Υποψηφίου Περιγραφή θέσης Τεχνοοικονομική...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ6YM6SRHMZV67HY2G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ6YM6SRHMZV67HY2G&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:17:06 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ6YM6SRHMZV67HY2G</SimilarJobsURL>
+      <JobTitle>Μηχανολόγος Μηχανικός (Junior)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QT/MVQ48B74J0B7ZL0X2QT.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Profile S.A.</Company>
+      <CompanyDID>c7h5yg70n2s68pk90y1</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7h5yg70n2s68pk90y1/profile-s-a/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHS24N7664291BT71XC</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>PROFILE Software ( www.profilesw.com ) is a specialized financial solutions provider, with offices in Geneva, Dubai, London, Singapore, Athens and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHS24N7664291BT71XC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS24N7664291BT71XC&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nea Smyrni-171 21</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nea Smyrni</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9475</LocationLatitude>
+      <LocationLongitude>23.7139</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:15:48 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS24N7664291BT71XC</SimilarJobsURL>
+      <JobTitle>Payments Consultants (CPAY)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/kh/mw36lg6lmlhldg4yxkh.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>qa</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft project</Skill>
+        <Skill>requirements analysis</Skill>
+        <Skill>microsoft powerpoint</Skill>
+        <Skill>workflow</Skill>
+        <Skill>sql</Skill>
+        <Skill>system testing</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Profile S.A.</Company>
+      <CompanyDID>c7h5yg70n2s68pk90y1</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7h5yg70n2s68pk90y1/profile-s-a/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ72R6HW7HMNHXZVYN</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>PROFILE Software ( www.profilesw.com ) is a specialized financial solutions provider, with offices in Geneva, Dubai, London, Singapore, Athens and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ72R6HW7HMNHXZVYN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ72R6HW7HMNHXZVYN&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nea Smyrni-171 21</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nea Smyrni</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9475</LocationLatitude>
+      <LocationLongitude>23.7139</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:06:16 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ72R6HW7HMNHXZVYN</SimilarJobsURL>
+      <JobTitle>Technical Analyst –Electronic Payment (TAPAY)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/kh/mw36lg6lmlhldg4yxkh.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>solaris (operating system)</Skill>
+        <Skill>qa</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>oracle weblogic server</Skill>
+        <Skill>Linux</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>perl</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>ibm aix</Skill>
+        <Skill>java ee application</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Plaisio Computers</Company>
+      <CompanyDID>c8d4v55zbkhdbl6v6dp</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8d4v55zbkhdbl6v6dp/plaisio-computers/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHS7M65ZNW8MZR0JFNK</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Με ηγετική θέση στον χώρο της πληροφορικής, των τηλεπικοινωνιών και ειδών γραφείου στην Ελλάδα, ξέρουμε καλά τη μυστική συνταγή της επιτυχίας: έχουμε...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHS7M65ZNW8MZR0JFNK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS7M65ZNW8MZR0JFNK&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 4:01:35 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS7M65ZNW8MZR0JFNK</SimilarJobsURL>
+      <JobTitle>Συνεργάτης για την προβολή και επικοινωνία των προϊόντων στα καταστήματα</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/yv/mvc5936p0jx84lqsryv.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CBS IT Systems Cyprus LTD</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS23R6N0RW443JH925</DID>
+      <OnetCode>15-1032.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Systems Software</ONetFriendlyTitle>
+      <DescriptionTeaser>Η CBS IT Systems Cyprus LTD με έδρα την Κύπρο μέλος του ομίλου πληροφορικής Cosmos Business Systems SA (Hellas)., ενδιαφέρεται να προσλάβει : Systems...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHS23R6N0RW443JH925</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS23R6N0RW443JH925&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Λευκωσία</Location>
+      <DisplayCity></DisplayCity>
+      <City>Λευκωσία</City>
+      <State>ΚΎΠΡΟΣ</State>
+      <LocationLatitude>35.1666</LocationLatitude>
+      <LocationLongitude>33.3666</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 3:51:42 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS23R6N0RW443JH925</SimilarJobsURL>
+      <JobTitle>Systems Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/JG/MXF08K71NKFYZMRG7JG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>cisco systems</Skill>
+        <Skill>fax</Skill>
+        <Skill>systems engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CBS IT Systems Cyprus LTD</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM46J5WJM84YLLWYPM</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Η CBS IT Systems Cyprus LTD με έδρα την Κύπρο μέλος του ομίλου πληροφορικής Cosmos Business Systems SA (Hellas)., ενδιαφέρεται να προσλάβει : Accounts...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM46J5WJM84YLLWYPM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM46J5WJM84YLLWYPM&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Λευκωσία</Location>
+      <DisplayCity></DisplayCity>
+      <City>Λευκωσία</City>
+      <State>ΚΎΠΡΟΣ</State>
+      <LocationLatitude>35.1666</LocationLatitude>
+      <LocationLongitude>33.3666</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 3:48:22 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM46J5WJM84YLLWYPM</SimilarJobsURL>
+      <JobTitle>Accounts Manager για το τμήμα Πωλήσεων Ιδιωτικού Τομέα</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/JG/MXF08K71NKFYZMRG7JG.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Demian Labs</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR3726Z1LQRXSTZ8NS</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Demian Labs is creating business software that is used and loved by thousands across the globe. Our mission is to free people from the pain of using...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR3726Z1LQRXSTZ8NS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR3726Z1LQRXSTZ8NS&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:08:32 AM</PostedTime>
+      <Pay>1.500 € - 2.500 €/µ??a</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR3726Z1LQRXSTZ8NS</SimilarJobsURL>
+      <JobTitle>Web developer (full stack)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>sql</Skill>
+        <Skill>ajax</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ICAP Group</Company>
+      <CompanyDID>chp7nx6mp82dwm3fy5m</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/chp7nx6mp82dwm3fy5m/icap-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JZN87R67DXH46838DBD</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>H ICAP Group – με €63 εκατομμύρια έσοδα και 1.250 εργαζομένους- είναι ο μεγαλύτερος Όμιλος παροχής υπηρεσιών προς επιχειρήσεις στην Ελλάδα. Διαθέτει...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JZN87R67DXH46838DBD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JZN87R67DXH46838DBD&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Καλλιθέα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Καλλιθέα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9552</LocationLatitude>
+      <LocationLongitude>23.7028</LocationLongitude>
+      <PostedDate>1/12/2015</PostedDate>
+      <PostedTime>1/12/2015 1:04:48 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JZN87R67DXH46838DBD</SimilarJobsURL>
+      <JobTitle>Σύμβουλοι Τηλεφωνικών Πωλήσεων, Contact Center</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/b7/mwm40v63d4m4k6xfxb7.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Contact center</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ICAP Group</Company>
+      <CompanyDID>chp7nx6mp82dwm3fy5m</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/chp7nx6mp82dwm3fy5m/icap-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J318GR6LD5S0CTW6PMD</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>H ICAP Group – με €63 εκατομμύρια έσοδα και 1.250 εργαζομένους- είναι ο μεγαλύτερος Όμιλος παροχής υπηρεσιών προς επιχειρήσεις στην Ελλάδα. Διαθέτει...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J318GR6LD5S0CTW6PMD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J318GR6LD5S0CTW6PMD&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Καλλιθέα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Καλλιθέα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9552</LocationLatitude>
+      <LocationLongitude>23.7028</LocationLongitude>
+      <PostedDate>1/11/2015</PostedDate>
+      <PostedTime>1/11/2015 1:06:30 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J318GR6LD5S0CTW6PMD</SimilarJobsURL>
+      <JobTitle>Σύμβουλοι Τηλεφωνικών Πωλήσεων, Contact Center</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/b7/mwm40v63d4m4k6xfxb7.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Contact center</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL5BD6QMTNK2B21R7K</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Εταιρεία που δραστηριοποιείται στον χώρο των τηλεπικοινωνιών στο κέντρο της Αθήνας, ζητά νέους και νέες οι οποίοι θα ενταχθούν στα τμήματα: Πωλήσεων...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL5BD6QMTNK2B21R7K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL5BD6QMTNK2B21R7K&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/11/2015</PostedDate>
+      <PostedTime>1/11/2015 1:05:30 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL5BD6QMTNK2B21R7K</SimilarJobsURL>
+      <JobTitle>Υπάλληλοι Γραφείου</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV7YZ6SW1VP83H91TR</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Εταιρεία που δραστηριοποιείται στον χώρο των τηλεπικοινωνιών στο κέντρο της Θεσσαλονίκης, ζητά νέους και νέες οι οποίοι θα ενταχθούν στα τμήματα:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV7YZ6SW1VP83H91TR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV7YZ6SW1VP83H91TR&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Θεσσαλονίκη</Location>
+      <DisplayCity></DisplayCity>
+      <City>Θεσσαλονίκη</City>
+      <State>ΚΕΝΤΡΙΚΉ ΜΑΚΕΔΟΝΊΑ-ΘΕΣΣΑΛΟΝΊΚΗ</State>
+      <LocationLatitude>40.629</LocationLatitude>
+      <LocationLongitude>22.9534</LocationLongitude>
+      <PostedDate>1/11/2015</PostedDate>
+      <PostedTime>1/11/2015 1:05:30 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV7YZ6SW1VP83H91TR</SimilarJobsURL>
+      <JobTitle>Υπάλληλοι Γραφείου</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3MP6G7BTZZ30B31J</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Εταιρεία που δραστηριοποιείται στον χώρο των τηλεπικοινωνιών στο κέντρο του Πειραιά, ζητά νέους και νέες οι οποίοι θα ενταχθούν στα τμήματα: Πωλήσεων...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHS3MP6G7BTZZ30B31J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3MP6G7BTZZ30B31J&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Πειραιάς</Location>
+      <DisplayCity></DisplayCity>
+      <City>Πειραιάς</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9357</LocationLatitude>
+      <LocationLongitude>23.6402</LocationLongitude>
+      <PostedDate>1/11/2015</PostedDate>
+      <PostedTime>1/11/2015 1:05:30 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3MP6G7BTZZ30B31J</SimilarJobsURL>
+      <JobTitle>Υπάλληλοι Γραφείου</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>KAPIEPA AE</Company>
+      <CompanyDID>c7g02h5z9fqygfdth6q</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7g02h5z9fqygfdth6q/kapiepa-ae/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHN3K95W9SNQ5N1ZKZ5</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Müşteri Hizmetleri Temsilcisi - Türk Kariera.gr on behalf of its client is looking for potential candidates to cover position of Customer Service...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHN3K95W9SNQ5N1ZKZ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN3K95W9SNQ5N1ZKZ5&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 7:25:17 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN3K95W9SNQ5N1ZKZ5</SimilarJobsURL>
+      <JobTitle>Customer Service Representative – Turkish</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0s/mfq6876spnrs6q4tf0s.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Windows</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>KAPIEPA AE</Company>
+      <CompanyDID>c7g02h5z9fqygfdth6q</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7g02h5z9fqygfdth6q/kapiepa-ae/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL3ZY67LZGBHMGBBFJ</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Customer Service Representative - German - Polish Kariera.gr on behalf of its client is looking for potential candidates to cover position of Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL3ZY67LZGBHMGBBFJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL3ZY67LZGBHMGBBFJ&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 7:17:31 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL3ZY67LZGBHMGBBFJ</SimilarJobsURL>
+      <JobTitle>Customer Service Representative – German-Polish</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/0s/mfq6876spnrs6q4tf0s.jpg</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Windows</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ICAP Employment Solutions</Company>
+      <CompanyDID>chn3nl62whxcp13w337</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/chn3nl62whxcp13w337/icap-employment-solutions/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHN05B6K3K8QVTTWPVC</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Η ICAP Employment Solutions, για λογαριασμό πελάτη της πολυεθνικής εταιρίας στον χώρο των τηλεπικοινωνιών, αναζητά υποψηφίους για την κάλυψη θέσεων...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Αδιάφορο</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHN05B6K3K8QVTTWPVC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN05B6K3K8QVTTWPVC&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ελλάδα</Location>
+      <DisplayCity>Ελλάδα</DisplayCity>
+      <City>Kallithea</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9587</LocationLatitude>
+      <LocationLongitude>23.7067</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:07:58 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN05B6K3K8QVTTWPVC</SimilarJobsURL>
+      <JobTitle>Υπεύθυνοι Τηλεφωνικών Πωλήσεων</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/f2/mww3z66rs2mz02j15f2.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ICAP Group</Company>
+      <CompanyDID>chp7nx6mp82dwm3fy5m</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/chp7nx6mp82dwm3fy5m/icap-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JH27YT6HKYTH0RVYG7B</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>H ICAP Group – με €63 εκατομμύρια έσοδα και 1.250 εργαζομένους- είναι ο μεγαλύτερος Όμιλος παροχής υπηρεσιών προς επιχειρήσεις στην Ελλάδα. Διαθέτει...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Μερικής Απασχόλησης</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JH27YT6HKYTH0RVYG7B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JH27YT6HKYTH0RVYG7B&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Καλλιθέα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Καλλιθέα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9552</LocationLatitude>
+      <LocationLongitude>23.7028</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:03:33 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JH27YT6HKYTH0RVYG7B</SimilarJobsURL>
+      <JobTitle>Σύμβουλοι Τηλεφωνικών Πωλήσεων, Contact Center</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/b7/mwm40v63d4m4k6xfxb7.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Contact center</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Teleperformance Hellas</Company>
+      <CompanyDID>c7c4h85z1h9lk0jnl2l</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c4h85z1h9lk0jnl2l/teleperformance-hellas/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8GF6PFKQ392PGRYW</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Teleperformance Hellas, a member of the Teleperformance Group, the worldwide leader in outsourced multichannel customer experience management, is...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3G8GF6PFKQ392PGRYW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8GF6PFKQ392PGRYW&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:03:05 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8GF6PFKQ392PGRYW</SimilarJobsURL>
+      <JobTitle>GERMAN FRONT-LINE AGENT(TPWG_1901)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nv/mx41hy6p3w2s4f287nv.jpg</CompanyImageURL>
+      <JobBrandingIcons>VIcon,PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Windows</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LIDL Hellas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2456WGBHWV1F02LZ</DID>
+      <OnetCode>21-1012.00</OnetCode>
+      <ONetFriendlyTitle>Educational, Vocational, and School Counselors</ONetFriendlyTitle>
+      <DescriptionTeaser>στο Διεθνές Λιανεμπόριο ή Εμπόριο καταναλωτικών ειδών Αξιόλογη εκπαίδευση, εργασιακή εμπειρία στο εξωτερικό και αμοιβή από την πρώτη στιγμή; Η Lidl...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=J3H2456WGBHWV1F02LZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2456WGBHWV1F02LZ&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Σπουδές στη Γερμανία</Location>
+      <DisplayCity>Σπουδές στη Γερμανία</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/10/2015</PostedDate>
+      <PostedTime>1/10/2015 1:01:53 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2456WGBHWV1F02LZ</SimilarJobsURL>
+      <JobTitle>Ευκαιρία σταδιοδρομίας</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/YL/MJR0DP5YQVSG27YF3YL.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>abcareers</Company>
+      <CompanyDID>c7c6jt6g4ny7v1z6y8y</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c6jt6g4ny7v1z6y8y/abcareers/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ57F6QDJKSDFT0D1R</DID>
+      <OnetCode>21-1021.00</OnetCode>
+      <ONetFriendlyTitle>Child, Family, and School Social Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Τίτλος θέσης ΚΟΙΝΩΝΙΚΗ/ΟΣ ΛΕΙΤΟΥΡΓΟΣ Προφίλ εταιρίας Ο Όμιλος ΑΛΦΑ ΒΗΤΑ ΒΑΣΙΛΟΠΟΥΛΟΣ, είναι μία από τις μεγαλύτερες αλυσίδες στο χώρο εμπορίας...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ57F6QDJKSDFT0D1R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ57F6QDJKSDFT0D1R&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gerakas-153 44</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gerakas</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0277</LocationLatitude>
+      <LocationLongitude>23.8555</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:46:29 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ57F6QDJKSDFT0D1R</SimilarJobsURL>
+      <JobTitle>Κοινωνική/ος Λειτουργός</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/9t/mx16zk6rll1m8kjhx9t.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Central-Parking</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL77K6JMK0312S0ZYG</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Εταιρία παροχής υπηρεσιών με ηγετική θέση στο χώρο της αναζητά Business Analyst Περιγραφή θέσης: Σχεδιάζει και προετοιμάζει οικονομικές και...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL77K6JMK0312S0ZYG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL77K6JMK0312S0ZYG&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:31:29 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL77K6JMK0312S0ZYG</SimilarJobsURL>
+      <JobTitle>Business Analyst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/8M/MXQ2XF6GD7CBKKWD68M.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>abcareers</Company>
+      <CompanyDID>c7c6jt6g4ny7v1z6y8y</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c6jt6g4ny7v1z6y8y/abcareers/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL61T6NCDZVNQS5TH9</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Job Title JUNIOR CATEGORY MANAGER Company Profile Ο Όμιλος ΑΛΦΑ ΒΗΤΑ ΒΑΣΙΛΟΠΟΥΛΟΣ, είναι μία από τις μεγαλύτερες αλυσίδες στο χώρο εμπορίας τροφίμων,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL61T6NCDZVNQS5TH9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL61T6NCDZVNQS5TH9&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Γέρακας</Location>
+      <DisplayCity></DisplayCity>
+      <City>Γέρακας</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0342</LocationLatitude>
+      <LocationLongitude>23.8556</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:19:48 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL61T6NCDZVNQS5TH9</SimilarJobsURL>
+      <JobTitle>JUNIOR CATEGORY MANAGER</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/9t/mx16zk6rll1m8kjhx9t.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ64K6YVD26BLJCXRP</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>ΑΠΟ ΜΕΓΑΛΗ ΤΟΥΡΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ ΖΗΤΕΙΤΑΙ ΥΠΑΛΛΗΛΟΣ ΓΙΑ ΤΟ ΤΜΗΜΑ ΚΡΑΤΗΣΕΩΝ Απαραίτητα προσόντα: ΠΡΟΥΠΗΡΕΣΙΑ ΠΟΛΥ ΚΑΛΗ ΓΝΩΣΗ ΙΣΠΑΝΙΚΩΝ. Η ΓΝΩΣΗ ΑΓΓΛΙΚΩΝ...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ64K6YVD26BLJCXRP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ64K6YVD26BLJCXRP&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:16:19 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ64K6YVD26BLJCXRP</SimilarJobsURL>
+      <JobTitle>ΥΠΑΛΛΗΛΟΣ ΓΙΑ ΤΟ ΤΜΗΜΑ ΚΡΑΤΗΣΕΩΝ</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ZINAS – CINEMA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT84L65DBJV051G5T7</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Ζητείται πωλήτρια για το κατάστημα ρούχων ZINAS – CINEMA Στην περιοχή της Γλυφάδας. Απαραίτητα προσόντα: Προϋπηρεσία στην λιανική πώληση γυναικείων...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHT84L65DBJV051G5T7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT84L65DBJV051G5T7&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Γλυφάδα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Γλυφάδα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.8662</LocationLatitude>
+      <LocationLongitude>23.7549</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:10:46 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT84L65DBJV051G5T7</SimilarJobsURL>
+      <JobTitle>Πωλήτρια</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Public</Company>
+      <CompanyDID>c8d74174xcm7klgxwlc</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8d74174xcm7klgxwlc/public/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL6HQ7653GHLRV2VXR</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Σύμβουλος Πωλήσεων Τμήματος Πολιτισμού Κωδικοί Αγγελιών: SGR/0514 Sales_Book, για Σύμβουλο Πωλήσεων Βιβλίου SGR/0514 Sales_Music/DVD, για Σύμβουλο...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL6HQ7653GHLRV2VXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL6HQ7653GHLRV2VXR&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ξάνθη</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ξάνθη</City>
+      <State>ΑΝΑΤΟΛΙΚΉ ΜΑΚΕΔΟΝΊΑ-ΘΡΆΚΗ</State>
+      <LocationLatitude>41.13254</LocationLatitude>
+      <LocationLongitude>24.89342</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:09:01 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL6HQ7653GHLRV2VXR</SimilarJobsURL>
+      <JobTitle>Σύμβουλο Πωλήσεων Τμήματος Πολιτισμού</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HB/MYL50W76M0P2JJ843HB.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>INTERAMERICAN</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP50C6DJ24LNXG0BJN</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Το διοικητικό κέντρο νοτίων προαστίων της Interamerican,θα στελεχώσει άμεσα το τομέα πωλήσεων,με στόχο την ανάπτυξη του πελατολογίου της εταιρίας ....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP50C6DJ24LNXG0BJN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP50C6DJ24LNXG0BJN&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 11:03:44 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP50C6DJ24LNXG0BJN</SimilarJobsURL>
+      <JobTitle>ΣΤΕΛΕΧΟΣ ΠΩΛΗΣΕΩΝ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QJ/MVP646791HGN6RD8VQJ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Advanced Materials</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM6C26NY2T2PNXWFWP</DID>
+      <OnetCode>43-9061.00</OnetCode>
+      <ONetFriendlyTitle>Office Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Η Advanced Materials , πρωτοπόρος εταιρεία στον κλάδο των μονωτικών και αφρωδών υλικών, αναζητά ένα άτομο για την στελέχωση της παρακάτω θέσης:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM6C26NY2T2PNXWFWP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM6C26NY2T2PNXWFWP&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:49:21 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM6C26NY2T2PNXWFWP</SimilarJobsURL>
+      <JobTitle>Υπάλληλος Γραφείου</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/84/M530Y16DY6Y94BTCT84.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EUROCOFFEE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP5J46CBK8BJ3365DF</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Η Εταιρεία Eurocoffee επιθυμεί να στελεχώσει το Ανθρώπινο Δυναμικό της με τη θέση " Πωλητή " για την περιοχή της Αθήνας. Εργασιακά χαρακτηριστικά:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP5J46CBK8BJ3365DF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP5J46CBK8BJ3365DF&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:41:33 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP5J46CBK8BJ3365DF</SimilarJobsURL>
+      <JobTitle>ΠΩΛΗΤΗΣ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/H6/MRH4KS72VXHC5WX1MH6.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Door to Door</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Claire’s stores</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL4LF64S0MK7CMNLP5</DID>
+      <OnetCode>41-2031.00</OnetCode>
+      <ONetFriendlyTitle>Retail Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Η Claire’s stores είναι η παγκόσμια ηγέτης των fashion accessories,μεπερισσότερα απο 3,200 καταστήματα σε 20 χώρες σε όλο τον κόσμο. Απο το 2005...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL4LF64S0MK7CMNLP5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL4LF64S0MK7CMNLP5&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Γλυφάδα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Γλυφάδα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.8662</LocationLatitude>
+      <LocationLongitude>23.7549</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:38:49 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL4LF64S0MK7CMNLP5</SimilarJobsURL>
+      <JobTitle>Πωλήτρια</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GV/MRR5N46P6F17RG4H6GV.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Intersport</Company>
+      <CompanyDID>c8h56v6yk1gw7zqvbf0</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8h56v6yk1gw7zqvbf0/intersport/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT61P6H34154CW5Y9J</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Η INTERSPORT Athletics , θυγατρική εταιρία του Ομίλου FOURLIS, με 100 καταστήματα σε Ελλάδα, Κύπρο, Ρουμανία, Βουλγαρία, μέλος της INTERSPORT...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHT61P6H34154CW5Y9J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT61P6H34154CW5Y9J&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Πάφος</Location>
+      <DisplayCity></DisplayCity>
+      <City>Πάφος</City>
+      <State>ΚΎΠΡΟΣ</State>
+      <LocationLatitude>34.7666</LocationLatitude>
+      <LocationLongitude>32.4166</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:34:00 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT61P6H34154CW5Y9J</SimilarJobsURL>
+      <JobTitle>Trainee Assistant Store Manager (Pafos Cyprus) /Εκπαιδευόμενος Υποδ/ντής Κατ/τος (Πάφος Κύπρος)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/dx/mrr2v663994bkzmr2dx.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR68N5XPHKD2B77XQL</DID>
+      <OnetCode>29-1062.00</OnetCode>
+      <ONetFriendlyTitle>Family and General Practitioners</ONetFriendlyTitle>
+      <DescriptionTeaser>Ιατρική εταιρεία αναζητά Γιατρούς Από Μάιο έως Οκτώβριο για εργασία στα ιατρεία που διαθέτει σε τουριστικούς προορισμούς της Ελλάδας όπως Λευκάδα,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR68N5XPHKD2B77XQL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR68N5XPHKD2B77XQL&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Λευκάδα, Σκιάθο, Πελοπόννησο</Location>
+      <DisplayCity>Λευκάδα, Σκιάθο, Πελοπόννησο</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:25:56 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR68N5XPHKD2B77XQL</SimilarJobsURL>
+      <JobTitle>Γιατροί</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MIKEL COFFEΕ COMPANY</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN4656HPH6QGX1HF9H</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Η εταιρία καταστημάτων καφεστίασης ‘’ MIKEL ’’ προκειμένου να στελεχώσει το κατάστημά της στη Νέα Φιλαδέλφεια, ζητά προσωπικό ηλικίας 20 – 35 ετών για...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHN4656HPH6QGX1HF9H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN4656HPH6QGX1HF9H&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Νέα Φιλαδέλφεια</Location>
+      <DisplayCity>Νέα Φιλαδέλφεια</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:25:24 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN4656HPH6QGX1HF9H</SimilarJobsURL>
+      <JobTitle>Προσωπικό καταστήματος</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ZC/MRN3GY6R53YDZ8P3RZC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Intersport</Company>
+      <CompanyDID>c8h56v6yk1gw7zqvbf0</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c8h56v6yk1gw7zqvbf0/intersport/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHR7N069SPDXK9XBZJ7</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Η INTERSPORT Athletics , θυγατρική εταιρία του Ομίλου FOURLIS, με 100 καταστήματα σε Ελλάδα, Κύπρο, Ρουμανία, Βουλγαρία, μέλος της INTERSPORT...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR7N069SPDXK9XBZJ7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR7N069SPDXK9XBZJ7&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Λευκωσία</Location>
+      <DisplayCity></DisplayCity>
+      <City>Λευκωσία</City>
+      <State>ΚΎΠΡΟΣ</State>
+      <LocationLatitude>35.1666</LocationLatitude>
+      <LocationLongitude>33.3666</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:25:17 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR7N069SPDXK9XBZJ7</SimilarJobsURL>
+      <JobTitle>Trainee Assistant Store Manager (Νicosia Cyprus) /Εκπαιδευόμενος Υποδ/ντής Κατ/τος (Λευκωσία Κύπρος)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/dx/mrr2v663994bkzmr2dx.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MIKEL COFFEΕ COMPANY</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR47J5YYP7ZMDYMKMJ</DID>
+      <OnetCode>53-3033.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Light or Delivery Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Η εταιρία καταστημάτων καφεστίασης ‘ ’ MIKEL ’’ προκειμένου να στελεχώσει το κατάστημά της στην Παλλήνη , ζητά άτομα για το θέση του delivery ,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR47J5YYP7ZMDYMKMJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR47J5YYP7ZMDYMKMJ&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Παλλήνη</Location>
+      <DisplayCity>Παλλήνη</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:20:14 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR47J5YYP7ZMDYMKMJ</SimilarJobsURL>
+      <JobTitle>Προσωπικό Delivery</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ZC/MRN3GY6R53YDZ8P3RZC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NRG Trading House S.A.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV2XP6WGLP7LJMBQL5</DID>
+      <OnetCode>17-2171.00</OnetCode>
+      <ONetFriendlyTitle>Petroleum Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>NRG Trading House S.A., a power supply and trading company located in Glyfada Athens, is seeking for an Energy Supply Engineer to work for the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV2XP6WGLP7LJMBQL5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV2XP6WGLP7LJMBQL5&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Γλυφάδα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Γλυφάδα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.8662</LocationLatitude>
+      <LocationLongitude>23.7549</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:08:50 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV2XP6WGLP7LJMBQL5</SimilarJobsURL>
+      <JobTitle>Energy Supply Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XJ/MW15KZ5W1Q5HX3KXRXJ.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LYNNE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN2606BTTF7D0SCTHM</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Η Εταιρεία LYNNE, μέλος του ομίλου B&amp;F ζητα: Πωλήτριες Λιανικής για το κατάστημά Lynne στο Metro Mall Υπεύθυνη Καταστήματος για το κατάστημα Lynne στο...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHN2606BTTF7D0SCTHM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN2606BTTF7D0SCTHM&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nea Philadelfia-143 42</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nea Philadelfia</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0477</LocationLatitude>
+      <LocationLongitude>23.7425</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 10:00:14 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN2606BTTF7D0SCTHM</SimilarJobsURL>
+      <JobTitle>ΠΩΛΗΤΡΙΕΣ ΛΙΑΝΙΚΗΣ ΚΑΙ ΥΠΕΥΘΥΝΗ ΚΑΤΑΣΤΗΜΑΤΟΣ ΓΙΑ ΤΟ ΚΑΤΑΣΤΗΜΑ LYNNE ΣΤΟ METRO MALL</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT86M6FCDJ8TCJDKSK</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Εταιρεία κοσμημάτων στο χώρο του retail και whole sale αναζητά: Εμπορικό Διευθυντή Περιγραφή θέσης: Ο κάτοχος της θέσεως θα αναφέρεται στον...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHT86M6FCDJ8TCJDKSK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT86M6FCDJ8TCJDKSK&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:59:02 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT86M6FCDJ8TCJDKSK</SimilarJobsURL>
+      <JobTitle>Εμπορικός Διευθυντής</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Pink Woman A.B.E.E</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP4QN6NRN1X8DVBLF2</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Η εταιρεία Pink Woman A . B . E . E αναζήτα Υπεύθυνη/ο για ένα από τα κατάστημα της στην Αττική. Προφίλ υποψηφίου /ας: Εμπειρία τουλάχιστον 3 ετών...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP4QN6NRN1X8DVBLF2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP4QN6NRN1X8DVBLF2&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:47:46 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP4QN6NRN1X8DVBLF2</SimilarJobsURL>
+      <JobTitle>Υπεύθυνος/η καταστήματος</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/SV/Mw807W6JXTF3XZCHQSV.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Validata Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM1S2754M63ZZGTJG0</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>T24 Test Manager / Project Manager Validata Group is a fast growing multinational company, developing solutions for the banking sector. We are looking...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM1S2754M63ZZGTJG0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM1S2754M63ZZGTJG0&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:46:44 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM1S2754M63ZZGTJG0</SimilarJobsURL>
+      <JobTitle>T24 Test Manager / Project Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Z9/MW34N95VTJ07LS68JZ9.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>message passing</Skill>
+        <Skill>microsoft project</Skill>
+        <Skill>regression testing</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>microsoft powerpoint</Skill>
+        <Skill>quality of service</Skill>
+        <Skill>microsoft visio</Skill>
+        <Skill>data migration</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Remax ΕΠΕΝΔΥΣΗ ΑΚΙΝΗΤΩΝ</Company>
+      <CompanyDID>c7g5h862mnv7rbl2qsv</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7g5h862mnv7rbl2qsv/remax-επενδυση-ακινητων/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHQ3TV77YNHRCWXYXMB</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>«Kάνε τη σωστή κίνηση … » Σε περίοδο κρίσης εμείς αναπτυσσόμαστε και για τα γραφεία μας στην Αθήνα ζητάμε συνεργάτες. Ασχοληθείτε ως ελεύθερος...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Ελεύθερη συνεργασία</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ3TV77YNHRCWXYXMB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ3TV77YNHRCWXYXMB&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:43:52 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ3TV77YNHRCWXYXMB</SimilarJobsURL>
+      <JobTitle>Συνεργάτες σύμβουλοι ακίνητης περιουσίας</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/f4/m494hr60sc7vsyd5gf4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Remax ΕΠΕΝΔΥΣΗ ΑΚΙΝΗΤΩΝ</Company>
+      <CompanyDID>c7g5h862mnv7rbl2qsv</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7g5h862mnv7rbl2qsv/remax-επενδυση-ακινητων/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHP0246SLZ3W3ZHQN09</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>«Kάνε τη σωστή κίνηση … » Σε περίοδο κρίσης εμείς αναπτυσσόμαστε και για τα γραφεία μας στα Βόρεια προάστεια ( Χαλάνδρι) ζητάμε συνεργάτες....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Ελεύθερη συνεργασία</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP0246SLZ3W3ZHQN09</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP0246SLZ3W3ZHQN09&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Βόρεια προάστεια</Location>
+      <DisplayCity>Βόρεια προάστεια</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:41:18 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP0246SLZ3W3ZHQN09</SimilarJobsURL>
+      <JobTitle>Συνεργάτες σύμβουλοι ακίνητης περιουσίας</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/f4/m494hr60sc7vsyd5gf4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>XL closet</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL5CG63BGMD039S4WV</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>XLcloset is a fast fashion retailer, selling clothes in affordable prices, exclusively for the curvy women. Our team consists of creative and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL5CG63BGMD039S4WV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL5CG63BGMD039S4WV&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:37:48 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL5CG63BGMD039S4WV</SimilarJobsURL>
+      <JobTitle>Web Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/NY/MR20MQ70RN5XCB1W6NY.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>User Experience</Skill>
+        <Skill>search engine optimization</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Zelka Web</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ3W0790V9GMSCXXNZ</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Front End Web Developer The opening As a front end Web developer you will be leading with your creativity the web platform that our company develops...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHQ3W0790V9GMSCXXNZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ3W0790V9GMSCXXNZ&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amaroussio-151 25</Location>
+      <DisplayCity></DisplayCity>
+      <City>Amaroussio</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>38.0421</LocationLatitude>
+      <LocationLongitude>23.8108</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:34:25 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ3W0790V9GMSCXXNZ</SimilarJobsURL>
+      <JobTitle>Front End Web Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/FM/MSP7WF7863B3Z7HMCFM.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>xsl</Skill>
+        <Skill>web service</Skill>
+        <Skill>html</Skill>
+        <Skill>agile software development</Skill>
+        <Skill>xml</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>software development</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>world wide web consortium</Skill>
+        <Skill>nosql</Skill>
+        <Skill>mvc</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>xhtml</Skill>
+        <Skill>scrum (development)</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WWF Ελλάς</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV0WJ72F9P7SS7GG8P</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Υπεύθυνος/η και Συνεργάτης/ιδα εκστρατείας ενημέρωσης για βιώσιμα αλιεύματα Η περιβαλλοντική οργάνωση WWF Ελλάς στο πλαίσιο ανάπτυξης των σχετικών...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV0WJ72F9P7SS7GG8P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV0WJ72F9P7SS7GG8P&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:29:56 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV0WJ72F9P7SS7GG8P</SimilarJobsURL>
+      <JobTitle>Υπεύθυνος/η και Συνεργάτης/ιδα εκστρατείας ενημέρωσης για βιώσιμα αλιεύματα</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MQ/M2W6716D4JBKDZYMVMQ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasScreener</ApplyRequirement>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Remax ΕΠΕΝΔΥΣΗ ΑΚΙΝΗΤΩΝ</Company>
+      <CompanyDID>c7g5h862mnv7rbl2qsv</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7g5h862mnv7rbl2qsv/remax-επενδυση-ακινητων/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHP33G6SBYJQBG8FDLS</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>«Kάνε τη σωστή κίνηση … » Σε περίοδο κρίσης εμείς αναπτυσσόμαστε και για τα γραφεία μας στα Νότια προάστια ( Γλυφάδα) ζητάμε συνεργάτες. Ασχοληθείτε...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Ελεύθερη συνεργασία</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP33G6SBYJQBG8FDLS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP33G6SBYJQBG8FDLS&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Γλυφάδα- Νότια προάστεια</Location>
+      <DisplayCity>Γλυφάδα- Νότια προάστεια</DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:24:01 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP33G6SBYJQBG8FDLS</SimilarJobsURL>
+      <JobTitle>Συνεργάτες σύμβουλοι ακίνητης περιουσίας</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/F4/M494HR60SC7VSYD5GF4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ergotrak</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL02P6X4KGBZ08QRB2</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>H Ergotrak , μέλος του Ομίλου Εταιριών Σφακιανάκη , αντιπρόσωπος και διανομέας βαρέων οχημάτων, μηχανημάτων και βιομηχανικού εξοπλισμού με έδρα την...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHL02P6X4KGBZ08QRB2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL02P6X4KGBZ08QRB2&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:14:16 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL02P6X4KGBZ08QRB2</SimilarJobsURL>
+      <JobTitle>Ηλεκτρολόγος Βαρέων Οχημάτων</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MY/MWW3MF71W8DSZCPB6MY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WWF Ελλάς</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP72M6MHP9N9GQ0DHX</DID>
+      <OnetCode>19-1023.00</OnetCode>
+      <ONetFriendlyTitle>Zoologists and Wildlife Biologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Υπεύθυνος/η τομέα για την αλιεία Η περιβαλλοντική οργάνωση WWF Ελλάς στο πλαίσιο ανάπτυξης των σχετικών δραστηριοτήτων της, αναζητεί συνεργάτη πλήρους...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP72M6MHP9N9GQ0DHX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP72M6MHP9N9GQ0DHX&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:13:13 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP72M6MHP9N9GQ0DHX</SimilarJobsURL>
+      <JobTitle>Υπεύθυνος/η τομέα για την αλιεία</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MQ/M2W6716D4JBKDZYMVMQ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Ανώνυμη Εταιρεία</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV3MH6B2B5CBKNVLSP</DID>
+      <OnetCode>27-3031.00</OnetCode>
+      <ONetFriendlyTitle>Public Relations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Corporate Marketing Coordinator (Ref: CMC-0115) Our client, a member of multinational company in the casual clothing industry, representing some of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHV3MH6B2B5CBKNVLSP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV3MH6B2B5CBKNVLSP&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:09:06 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV3MH6B2B5CBKNVLSP</SimilarJobsURL>
+      <JobTitle>Corporate Marketing Coordinator</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/15/MW18CV79G49CP1V0P15.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TESCOM HELLAS A.E.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP3WZ6JM2TVRH7391M</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Η εταιρεία TESCOM HELLAS SA θυγατρική εταιρεία της TESTUM ELECTRONICS (UPS-AVR-STS ), και αποκλειστική αντιπρόσωπος για ΕΛΛΑΔΑ, ΚΥΠΡΟ &amp; ΒΑΛΚΑΝΙΑ των...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHP3WZ6JM2TVRH7391M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP3WZ6JM2TVRH7391M&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Moschato-183 46</Location>
+      <DisplayCity></DisplayCity>
+      <City>Moschato</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9574</LocationLatitude>
+      <LocationLongitude>23.6863</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 9:02:24 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP3WZ6JM2TVRH7391M</SimilarJobsURL>
+      <JobTitle>ΠΩΛΗΤΗΣ - ΜΗΧΑΝΙΚΟΣ ΠΩΛΗΣΕΩΝ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/QM/MVB0WM5YPF2Y00S0TQM.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>METRICA A.E.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5706J1L5F580FHQ1</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Μηχανικός πωλήσεων (Junior level) Κύριες αρµοδιότητες: • Τεχνική Πώληση σε περιβαλλοντικό &amp; βιοµηχανικό εξοπλισµό • ιαχείριση εταιρικών πελατών &amp;...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHM5706J1L5F580FHQ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5706J1L5F580FHQ1&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Αθήνα</Location>
+      <DisplayCity></DisplayCity>
+      <City>Αθήνα</City>
+      <State>ΑΤΤΙΚΉ-ΑΘΉΝΑ</State>
+      <LocationLatitude>37.9811</LocationLatitude>
+      <LocationLongitude>23.7319</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 8:59:01 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5706J1L5F580FHQ1</SimilarJobsURL>
+      <JobTitle>Μηχανικός Πωλήσεων</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/6K/MWM0J070MKTQC1DYV6K.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>HasAOReview</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Perfetti Van Melle</Company>
+      <CompanyDID>c7c86t76jcn0gxlt6bq</CompanyDID>
+      <CompanyDetailsURL>http://www.kariera.gr/αγγελίες-εργασίας/εταιρεία/c7c86t76jcn0gxlt6bq/perfetti-van-melle/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHS7W672S94QKYKQ62W</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Η Perfetti Van Melle Ελλάς, μεγάλη πολυεθνική εταιρεία ζαχαρωδών προϊόντων, στα πλαίσια της ανάπτυξής της ζητά Υπεύθυνο Ανάπτυξης Αγοράς (πωλητή ex -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>High School Diploma</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHS7W672S94QKYKQ62W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS7W672S94QKYKQ62W&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Θεσσαλονίκη</Location>
+      <DisplayCity></DisplayCity>
+      <City>Θεσσαλονίκη</City>
+      <State>ΚΕΝΤΡΙΚΉ ΜΑΚΕΔΟΝΊΑ-ΘΕΣΣΑΛΟΝΊΚΗ</State>
+      <LocationLatitude>40.629</LocationLatitude>
+      <LocationLongitude>22.9534</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 8:58:10 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS7W672S94QKYKQ62W</SimilarJobsURL>
+      <JobTitle>Πωλητής Ex-Van Θεσσαλονίκης</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/hp/i7x0926sdh0llcl2xhp.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Leda Village Resort</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS01C62KK5WLY4N98S</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Το Ξενοδοχείο Leda Village Resort στο Χόρτο – Πηλίου (Βόλο) , αναζητά υποψήφιους για τις θέσεις: ΣΤΕΛΕΧΟΣ ΤΜΗΜΑΤΟΣ MARKETING ΑΠΑΡΑΙΤΗΤΑ ΠΡΟΣΟΝΤΑ:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Πλήρης Απασχόληση</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHS01C62KK5WLY4N98S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS01C62KK5WLY4N98S&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Χόρτο Πηλίου</Location>
+      <DisplayCity>Χόρτο Πηλίου</DisplayCity>
+      <City>Καρδίτσα</City>
+      <State>ΘΕΣΣΑΛΊΑ</State>
+      <LocationLatitude>39.36208</LocationLatitude>
+      <LocationLongitude>21.91967</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 8:48:37 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS01C62KK5WLY4N98S</SimilarJobsURL>
+      <JobTitle>Στέλεχος Τμήματος Marketing</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MZ/MW17JK6PR7R64F70TMZ.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR8HC71K7795YKN320</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Θέση Πωλητής/ Πωλήτρια Η Καριέρα αναζητά για λογαριασμό πελάτη της, κάτοχο Κάρτας Ανεργίας ηλικίας έως 29 ετών για την κάλυψη θέσης στα Ιόνια νησιά. Η...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Αδιάφορο</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=GR&amp;DID=JHR8HC71K7795YKN320</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR8HC71K7795YKN320&amp;HostSite=GR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ζάκυνθος</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ζάκυνθος</City>
+      <State>ΙΌΝΙΑ ΝΗΣΙΆ</State>
+      <LocationLatitude>37.78397</LocationLatitude>
+      <LocationLongitude>20.89836</LocationLongitude>
+      <PostedDate>1/9/2015</PostedDate>
+      <PostedTime>1/9/2015 8:48:24 AM</PostedTime>
+      <Pay>?/?</Pay>
+      <SimilarJobsURL>http://www.kariera.gr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR8HC71K7795YKN320</SimilarJobsURL>
+      <JobTitle>Πωλητές Voucher Περιφέρειας</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>GR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

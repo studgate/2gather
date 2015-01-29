@@ -1,0 +1,3444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:46:34 AM</TimeResponseSent>
+  <TimeElapsed>0.2808</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>4258</TotalCount>
+  <FirstItemIndex>1801</FirstItemIndex>
+  <LastItemIndex>1900</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>ABYSSECORP IBERIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM4TT6BNHCRG1XRRTP</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>JEFE/A DE VENTAS Sobre el Puesto AbysseCorp Iberia selecciona, en previsión de su importante desarrollo y expansión del mercado de los productos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indefinido</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM4TT6BNHCRG1XRRTP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM4TT6BNHCRG1XRRTP&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>MADRID</Location>
+      <DisplayCity>MADRID</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.466</LocationLatitude>
+      <LocationLongitude>-3.696</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:49 AM</PostedTime>
+      <Pay>18.000 € - 20.000 €/Año</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM4TT6BNHCRG1XRRTP</SimilarJobsURL>
+      <JobTitle>gerente de ventas</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS3GD6MGBWLRBGW4P4</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHS3GD6MGBWLRBGW4P4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS3GD6MGBWLRBGW4P4&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cáceres</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cáceres</City>
+      <State>CÁCERES</State>
+      <LocationLatitude>39.4745</LocationLatitude>
+      <LocationLongitude>-6.372</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS3GD6MGBWLRBGW4P4</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS57Q6X5TWC063CHMN</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHS57Q6X5TWC063CHMN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS57Q6X5TWC063CHMN&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Castellón de la Plana</Location>
+      <DisplayCity></DisplayCity>
+      <City>Castellón de la Plana</City>
+      <State>CASTELLÓN</State>
+      <LocationLatitude>39.98514</LocationLatitude>
+      <LocationLongitude>-0.04568</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS57Q6X5TWC063CHMN</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP66P64HZQ4V402QWM</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHP66P64HZQ4V402QWM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP66P64HZQ4V402QWM&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Badajoz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Badajoz</City>
+      <State>BADAJOZ</State>
+      <LocationLatitude>38.87483</LocationLatitude>
+      <LocationLongitude>-6.97262</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP66P64HZQ4V402QWM</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS1HW66954VG0QQ4N0</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHS1HW66954VG0QQ4N0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS1HW66954VG0QQ4N0&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ourense</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ourense</City>
+      <State>OURENSE</State>
+      <LocationLatitude>42.33894</LocationLatitude>
+      <LocationLongitude>-7.86611</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS1HW66954VG0QQ4N0</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS5ZK6ZBG8430PP53J</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHS5ZK6ZBG8430PP53J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS5ZK6ZBG8430PP53J&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valladolid</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valladolid</City>
+      <State>VALLADOLID</State>
+      <LocationLatitude>41.65419</LocationLatitude>
+      <LocationLongitude>-4.73212</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS5ZK6ZBG8430PP53J</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT6NF70V3PTHX5B3ZB</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT6NF70V3PTHX5B3ZB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6NF70V3PTHX5B3ZB&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitoria-Gasteiz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitoria-Gasteiz</City>
+      <State>ÁLAVA</State>
+      <LocationLatitude>42.84358</LocationLatitude>
+      <LocationLongitude>-2.68261</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6NF70V3PTHX5B3ZB</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT3Y96MHR4XYGQXQFX</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT3Y96MHR4XYGQXQFX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT3Y96MHR4XYGQXQFX&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ceuta</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ceuta</City>
+      <State>CEUTA</State>
+      <LocationLatitude>35.88833</LocationLatitude>
+      <LocationLongitude>-5.31555</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT3Y96MHR4XYGQXQFX</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV7RH6K78C96XQ5ZZ4</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHV7RH6K78C96XQ5ZZ4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV7RH6K78C96XQ5ZZ4&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cádiz</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cádiz</City>
+      <State>CÁDIZ</State>
+      <LocationLatitude>36.52986</LocationLatitude>
+      <LocationLongitude>-6.29024</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:10:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV7RH6K78C96XQ5ZZ4</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP6C26DW0KRRLKCHSH</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType></EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHP6C26DW0KRRLKCHSH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP6C26DW0KRRLKCHSH&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Palma de Mallorca</Location>
+      <DisplayCity></DisplayCity>
+      <City>Palma de Mallorca</City>
+      <State>ILLES BALEARS</State>
+      <LocationLatitude>39.57148</LocationLatitude>
+      <LocationLongitude>2.64694</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:09:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP6C26DW0KRRLKCHSH</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT5RH6QFHCS75V055K</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT5RH6QFHCS75V055K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5RH6QFHCS75V055K&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Málaga</Location>
+      <DisplayCity></DisplayCity>
+      <City>Málaga</City>
+      <State>MÁLAGA</State>
+      <LocationLatitude>36.71832</LocationLatitude>
+      <LocationLongitude>-4.42016</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:09:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5RH6QFHCS75V055K</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM1XZ683LTSD92VTN1</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM1XZ683LTSD92VTN1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM1XZ683LTSD92VTN1&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity></DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:09:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM1XZ683LTSD92VTN1</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM7ZY5YPGK3XCG1NGM</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM7ZY5YPGK3XCG1NGM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM7ZY5YPGK3XCG1NGM&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Soria</Location>
+      <DisplayCity></DisplayCity>
+      <City>Soria</City>
+      <State>SORIA</State>
+      <LocationLatitude>41.76464</LocationLatitude>
+      <LocationLongitude>-2.4692</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:09:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM7ZY5YPGK3XCG1NGM</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G7R66JDMVVJDLR93Z</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente, importante empresa de origen americano, selecciona consultor/a de formación. Las funciones que realizarás serán: - Preparación,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G7R66JDMVVJDLR93Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7R66JDMVVJDLR93Z&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7R66JDMVVJDLR93Z</SimilarJobsURL>
+      <JobTitle>Consultor/a de formacion</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J46F6K09DVXT0TBXQ</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Conocida empresa de sector tecnológico especializada en alojamiento web y registro de dominios busca un Product Owner de Sistemas para gestionar una...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J46F6K09DVXT0TBXQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J46F6K09DVXT0TBXQ&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J46F6K09DVXT0TBXQ</SimilarJobsURL>
+      <JobTitle>Product Owner - Hosting</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>cloud computing</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F85377L7PKFCJCWYN</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante compañía internacional del sector logistics healthcare busca incorporar para su delegación de Madrid a un técnico de calidad. Como técnico...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F85377L7PKFCJCWYN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F85377L7PKFCJCWYN&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F85377L7PKFCJCWYN</SimilarJobsURL>
+      <JobTitle>Técnico de calidad</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F1PY67G550HBWMNB6</DID>
+      <OnetCode>29-1021.00</OnetCode>
+      <ONetFriendlyTitle>Dentists, General</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante compañía importante del sector Dental tiene una oferta de empleo de Delegado/a Comercial Dental para las provincias de Alicante y Murcia....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F1PY67G550HBWMNB6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1PY67G550HBWMNB6&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Murcia</Location>
+      <DisplayCity>Murcia</DisplayCity>
+      <City>Murcia</City>
+      <State>MURCIA</State>
+      <LocationLatitude>37.98296</LocationLatitude>
+      <LocationLongitude>-1.13025</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1PY67G550HBWMNB6</SimilarJobsURL>
+      <JobTitle>Delegado Comercial Junior Implantes Alicante y Murcia</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F1W56MX9NHKZ79Z6K</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>A través de esta oferta de empleo, entra a formar parte de una empresa multinacional líder de su sector, que actualmente busca un Ingeniero de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F1W56MX9NHKZ79Z6K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1W56MX9NHKZ79Z6K&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1W56MX9NHKZ79Z6K</SimilarJobsURL>
+      <JobTitle>Ingeniero/a Producción</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3CK6YLM1NS5Z4Q2M</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante multinacional busca un Administrador de Bases de Datos con Inglés para incorporarse en sus oficinas de Valencia. Buscamos un Ingeniero en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H3CK6YLM1NS5Z4Q2M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3CK6YLM1NS5Z4Q2M&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valencia</Location>
+      <DisplayCity>Valencia</DisplayCity>
+      <City>Valencia</City>
+      <State>VALENCIA</State>
+      <LocationLatitude>39.46919</LocationLatitude>
+      <LocationLongitude>-0.37682</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3CK6YLM1NS5Z4Q2M</SimilarJobsURL>
+      <JobTitle>DBA SQL Server</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>windows server 2003</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>windows server</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H33W687CYS6PDSP9R</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Actualmente buscamos a un/a Jefe de Mantenimiento Preventivo para una planta ubicada en Galicia. Nuestro cliente es una importante compañía de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H33W687CYS6PDSP9R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H33W687CYS6PDSP9R&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H33W687CYS6PDSP9R</SimilarJobsURL>
+      <JobTitle>Jefe Mantenimiento Preventivo</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J52V6L2CKMQ557JSF</DID>
+      <OnetCode>11-9111.00</OnetCode>
+      <ONetFriendlyTitle>Medical and Health Services Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Empresa en proceso de expansión tiene una oferta de empleo Delegado Hospitalario Fungible en zona Norte, preferiblemente País Vasco. Reportando a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J52V6L2CKMQ557JSF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J52V6L2CKMQ557JSF&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J52V6L2CKMQ557JSF</SimilarJobsURL>
+      <JobTitle>Delegado Hospitalario Fungible Zona Norte</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5SJ6MBJ7BW70WW0F</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante multinacional del sector químico busca un/a técnico/a de calidad experto en colorimetría como tú. En dependencia del Responsable de Calidad...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H5SJ6MBJ7BW70WW0F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5SJ6MBJ7BW70WW0F&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5SJ6MBJ7BW70WW0F</SimilarJobsURL>
+      <JobTitle>TÉCNICO CALIDAD COLORIMETRÍA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F64D70YPF55S05S85</DID>
+      <OnetCode>41-9022.00</OnetCode>
+      <ONetFriendlyTitle>Real Estate Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente es una Inmobiliaria con buen posicionamiento y prestigio ubicada en diferentes puntos de España. Actualmente buscamos para su oficina...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F64D70YPF55S05S85</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F64D70YPF55S05S85&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Andalucía</Location>
+      <DisplayCity>Andalucía</DisplayCity>
+      <City>Sevilla</City>
+      <State>SEVILLA</State>
+      <LocationLatitude>37.38769</LocationLatitude>
+      <LocationLongitude>-6.00181</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F64D70YPF55S05S85</SimilarJobsURL>
+      <JobTitle>Captador de Inmuebles ALMERÃA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6FG74HJSH79FL7W8</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente, una importante empresa sector alimentación selecciona un Ingeniero de Procesos &amp; Lean Manufacrturing para su planta de producción en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J6FG74HJSH79FL7W8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6FG74HJSH79FL7W8&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity></DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6FG74HJSH79FL7W8</SimilarJobsURL>
+      <JobTitle>Ingeniero/a Senior de Procesos &amp; Lean Manufacturing</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Lean manufacturing</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1PV69KVYX5CR42YN</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Incorpórate como Senior Store Manager para una de las más importantes multinacionales del sector moda de gran reconocimiento y prestigo a nivel...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G1PV69KVYX5CR42YN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1PV69KVYX5CR42YN&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1PV69KVYX5CR42YN</SimilarJobsURL>
+      <JobTitle>Senior Store Manager Luxury Brand</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Visual merchandising</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1R46FFMGS9XVL4TC</DID>
+      <OnetCode>13-1199.00</OnetCode>
+      <ONetFriendlyTitle>Business Operations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>¿Vender soluciones de BI no tiene secreto para ti? ¿Quieres incorporarte a una empresa internacional en pleno crecimiento? Como bien sabes, el mercado...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H1R46FFMGS9XVL4TC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1R46FFMGS9XVL4TC&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1R46FFMGS9XVL4TC</SimilarJobsURL>
+      <JobTitle>IT Business Developer (BI Solutions)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Marketing</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G7FX67C13FRJZHRP0</DID>
+      <OnetCode>11-3031.01</OnetCode>
+      <ONetFriendlyTitle>Treasurers and Controllers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a multinational leading company, is seeking for a Business Controller for its office in Madrid. Reporting to the Controlling Manager, the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G7FX67C13FRJZHRP0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7FX67C13FRJZHRP0&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7FX67C13FRJZHRP0</SimilarJobsURL>
+      <JobTitle>Business Controller</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Budget</Skill>
+        <Skill>Economics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F81L749ZVMT7B8SKH</DID>
+      <OnetCode>11-2021.00</OnetCode>
+      <ONetFriendlyTitle>Marketing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Empresa consolidada dentro del sector gran consumo en Gipuzkoa, tiene una oferta de empleo para incorporar un/a Responsable Comercial de Nuevos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F81L749ZVMT7B8SKH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F81L749ZVMT7B8SKH&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:08:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F81L749ZVMT7B8SKH</SimilarJobsURL>
+      <JobTitle>Responsable Desarrollo Nuevos Canales</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN0S46BK1KCN6XR2S5</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHN0S46BK1KCN6XR2S5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN0S46BK1KCN6XR2S5&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Burgos</Location>
+      <DisplayCity></DisplayCity>
+      <City>Burgos</City>
+      <State>BURGOS</State>
+      <LocationLatitude>42.34108</LocationLatitude>
+      <LocationLongitude>-3.69981</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:03:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN0S46BK1KCN6XR2S5</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL5B473L5YN785QLYB</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHL5B473L5YN785QLYB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL5B473L5YN785QLYB&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lugo</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lugo</City>
+      <State>LUGO</State>
+      <LocationLatitude>43.00951</LocationLatitude>
+      <LocationLongitude>-7.56938</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:03:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL5B473L5YN785QLYB</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT6C06SGF5PB448NV4</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT6C06SGF5PB448NV4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6C06SGF5PB448NV4&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>León</Location>
+      <DisplayCity></DisplayCity>
+      <City>León</City>
+      <State>LEÓN</State>
+      <LocationLatitude>42.59813</LocationLatitude>
+      <LocationLongitude>-5.57166</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:02:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6C06SGF5PB448NV4</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP1DM6068JBZLC2CH3</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHP1DM6068JBZLC2CH3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP1DM6068JBZLC2CH3&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lleida</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lleida</City>
+      <State>LLEIDA</State>
+      <LocationLatitude>41.61451</LocationLatitude>
+      <LocationLongitude>0.62712</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:02:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP1DM6068JBZLC2CH3</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP2PM7168G5C4VWCCJ</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHP2PM7168G5C4VWCCJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP2PM7168G5C4VWCCJ&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Santa Cruz de Tenerife</Location>
+      <DisplayCity></DisplayCity>
+      <City>Santa Cruz de Tenerife</City>
+      <State>SANTA CRUZ DE TENERIFE</State>
+      <LocationLatitude>28.46039</LocationLatitude>
+      <LocationLongitude>-16.26452</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:02:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP2PM7168G5C4VWCCJ</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM3R06P48T7R5FWHC7</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM3R06P48T7R5FWHC7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM3R06P48T7R5FWHC7&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ávila</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ávila</City>
+      <State>ÁVILA</State>
+      <LocationLatitude>40.65785</LocationLatitude>
+      <LocationLongitude>-4.69215</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:02:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM3R06P48T7R5FWHC7</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS67W6JLHRFW1R58KF</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHS67W6JLHRFW1R58KF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS67W6JLHRFW1R58KF&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Jaén</Location>
+      <DisplayCity></DisplayCity>
+      <City>Jaén</City>
+      <State>JAÉN</State>
+      <LocationLatitude>37.7651</LocationLatitude>
+      <LocationLongitude>-3.79086</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:02:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS67W6JLHRFW1R58KF</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV88Z61RNTJ12X23X6</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHV88Z61RNTJ12X23X6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV88Z61RNTJ12X23X6&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Córdoba</Location>
+      <DisplayCity></DisplayCity>
+      <City>Córdoba</City>
+      <State>CÓRDOBA</State>
+      <LocationLatitude>37.87794</LocationLatitude>
+      <LocationLongitude>-4.7784</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV88Z61RNTJ12X23X6</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT3PG60NRM75SRRG4S</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT3PG60NRM75SRRG4S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT3PG60NRM75SRRG4S&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Murcia</Location>
+      <DisplayCity></DisplayCity>
+      <City>Murcia</City>
+      <State>MURCIA</State>
+      <LocationLatitude>37.98296</LocationLatitude>
+      <LocationLongitude>-1.13025</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT3PG60NRM75SRRG4S</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT21J5Y1FKW59ZF9WF</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT21J5Y1FKW59ZF9WF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT21J5Y1FKW59ZF9WF&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tarragona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tarragona</City>
+      <State>TARRAGONA</State>
+      <LocationLatitude>41.11693</LocationLatitude>
+      <LocationLongitude>1.2541</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT21J5Y1FKW59ZF9WF</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT6PN6VPPVJ680NL9Z</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHT6PN6VPPVJ680NL9Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6PN6VPPVJ680NL9Z&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Salamanca</Location>
+      <DisplayCity></DisplayCity>
+      <City>Salamanca</City>
+      <State>SALAMANCA</State>
+      <LocationLatitude>40.96422</LocationLatitude>
+      <LocationLongitude>-5.66385</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6PN6VPPVJ680NL9Z</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR5MV6HSYKX7CXNCGS</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR5MV6HSYKX7CXNCGS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR5MV6HSYKX7CXNCGS&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valencia</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valencia</City>
+      <State>VALENCIA</State>
+      <LocationLatitude>39.46919</LocationLatitude>
+      <LocationLongitude>-0.37682</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR5MV6HSYKX7CXNCGS</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR4FR5Z7Y172GN4PVV</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR4FR5Z7Y172GN4PVV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR4FR5Z7Y172GN4PVV&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cuenca</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cuenca</City>
+      <State>CUENCA</State>
+      <LocationLatitude>40.07202</LocationLatitude>
+      <LocationLongitude>-2.1363</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR4FR5Z7Y172GN4PVV</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0GG73FLLP900JZ6D</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR0GG73FLLP900JZ6D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0GG73FLLP900JZ6D&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Albacete</Location>
+      <DisplayCity></DisplayCity>
+      <City>Albacete</City>
+      <State>ALBACETE</State>
+      <LocationLatitude>38.99506</LocationLatitude>
+      <LocationLongitude>-1.85406</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0GG73FLLP900JZ6D</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR1J371WJ330RC6YB2</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR1J371WJ330RC6YB2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR1J371WJ330RC6YB2&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Palencia</Location>
+      <DisplayCity></DisplayCity>
+      <City>Palencia</City>
+      <State>PALENCIA</State>
+      <LocationLatitude>42.01043</LocationLatitude>
+      <LocationLongitude>-4.53926</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR1J371WJ330RC6YB2</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR6G75YZ6Z0335RRMD</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR6G75YZ6Z0335RRMD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR6G75YZ6Z0335RRMD&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>San Sebastián</Location>
+      <DisplayCity></DisplayCity>
+      <City>San Sebastián</City>
+      <State>GUIPÚZCOA</State>
+      <LocationLatitude>43.31738</LocationLatitude>
+      <LocationLongitude>-1.9794</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR6G75YZ6Z0335RRMD</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR48W6C640CTC7TLGH</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR48W6C640CTC7TLGH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR48W6C640CTC7TLGH&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pontevedra</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pontevedra</City>
+      <State>PONTEVEDRA</State>
+      <LocationLatitude>42.43046</LocationLatitude>
+      <LocationLongitude>-8.6428</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR48W6C640CTC7TLGH</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR39F74GD11ZSX0MH7</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHR39F74GD11ZSX0MH7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR39F74GD11ZSX0MH7&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>A Coruña</Location>
+      <DisplayCity></DisplayCity>
+      <City>A Coruña</City>
+      <State>A CORUÑA</State>
+      <LocationLatitude>43.37015</LocationLatitude>
+      <LocationLongitude>-8.39674</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR39F74GD11ZSX0MH7</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ3LG601HNV6C6TT6G</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indefinido</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHQ3LG601HNV6C6TT6G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ3LG601HNV6C6TT6G&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Santander</Location>
+      <DisplayCity></DisplayCity>
+      <City>Santander</City>
+      <State>CANTABRIA</State>
+      <LocationLatitude>43.4615</LocationLatitude>
+      <LocationLongitude>-3.81001</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ3LG601HNV6C6TT6G</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP7SN6DTVFK21TZ7RV</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHP7SN6DTVFK21TZ7RV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP7SN6DTVFK21TZ7RV&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zaragoza</Location>
+      <DisplayCity></DisplayCity>
+      <City>Zaragoza</City>
+      <State>ZARAGOZA</State>
+      <LocationLatitude>41.65173</LocationLatitude>
+      <LocationLongitude>-0.88132</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP7SN6DTVFK21TZ7RV</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP47V6YVLPY5VGP990</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHP47V6YVLPY5VGP990</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP47V6YVLPY5VGP990&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP47V6YVLPY5VGP990</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN82T6QZYYVW7BJZCD</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHN82T6QZYYVW7BJZCD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN82T6QZYYVW7BJZCD&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Alicante</Location>
+      <DisplayCity></DisplayCity>
+      <City>Alicante</City>
+      <State>ALICANTE</State>
+      <LocationLatitude>38.34408</LocationLatitude>
+      <LocationLongitude>-0.48047</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN82T6QZYYVW7BJZCD</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN61560KYXJGXQ54G3</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHN61560KYXJGXQ54G3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN61560KYXJGXQ54G3&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Las Palmas de Gran Canaria</Location>
+      <DisplayCity></DisplayCity>
+      <City>Las Palmas de Gran Canaria</City>
+      <State>LAS PALMAS</State>
+      <LocationLatitude>28.13022</LocationLatitude>
+      <LocationLongitude>-15.43971</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:19 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN61560KYXJGXQ54G3</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN5KB6B2FV4Q0VLRB5</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHN5KB6B2FV4Q0VLRB5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN5KB6B2FV4Q0VLRB5&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pamplona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pamplona</City>
+      <State>NAVARRA</State>
+      <LocationLatitude>42.81275</LocationLatitude>
+      <LocationLongitude>-1.64375</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN5KB6B2FV4Q0VLRB5</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN8CJ6MBBZ6W2JDWKG</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHN8CJ6MBBZ6W2JDWKG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN8CJ6MBBZ6W2JDWKG&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Segovia</Location>
+      <DisplayCity></DisplayCity>
+      <City>Segovia</City>
+      <State>SEGOVIA</State>
+      <LocationLatitude>40.94845</LocationLatitude>
+      <LocationLongitude>-4.11656</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN8CJ6MBBZ6W2JDWKG</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM6MZ6P0GTL4SCDF2K</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM6MZ6P0GTL4SCDF2K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM6MZ6P0GTL4SCDF2K&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Huesca</Location>
+      <DisplayCity></DisplayCity>
+      <City>Huesca</City>
+      <State>HUESCA</State>
+      <LocationLatitude>42.13656</LocationLatitude>
+      <LocationLongitude>-0.40831</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM6MZ6P0GTL4SCDF2K</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN55T72ZHHL8CKVK81</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHN55T72ZHHL8CKVK81</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN55T72ZHHL8CKVK81&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Oviedo</Location>
+      <DisplayCity></DisplayCity>
+      <City>Oviedo</City>
+      <State>ASTURIAS</State>
+      <LocationLatitude>43.36268</LocationLatitude>
+      <LocationLongitude>-5.84753</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN55T72ZHHL8CKVK81</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM7GB6QMFJ9D174RK6</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM7GB6QMFJ9D174RK6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM7GB6QMFJ9D174RK6&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM7GB6QMFJ9D174RK6</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM7HX6LYZBDK8MR32M</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM7HX6LYZBDK8MR32M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM7HX6LYZBDK8MR32M&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sevilla</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sevilla</City>
+      <State>SEVILLA</State>
+      <LocationLatitude>37.38769</LocationLatitude>
+      <LocationLongitude>-6.00181</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM7HX6LYZBDK8MR32M</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM2046M682N7S4TR79</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM2046M682N7S4TR79</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM2046M682N7S4TR79&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Girona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Girona</City>
+      <State>GERONA</State>
+      <LocationLatitude>41.98086</LocationLatitude>
+      <LocationLongitude>2.81874</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM2046M682N7S4TR79</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM2BH6PL75YS2770GX</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHM2BH6PL75YS2770GX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM2BH6PL75YS2770GX&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zamora</Location>
+      <DisplayCity></DisplayCity>
+      <City>Zamora</City>
+      <State>ZAMORA</State>
+      <LocationLatitude>41.50333</LocationLatitude>
+      <LocationLongitude>-5.74573</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:01:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM2BH6PL75YS2770GX</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mail Boxes Etc.</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV61C69PJ43326H9G1</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mail Boxes Etc. es la franquicia líder mundial en el campo de los servicios de envíos, de comunicación y de diseño gráfico dedicada a la pequeña y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Empleado a jornada completa</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=JHV61C69PJ43326H9G1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV61C69PJ43326H9G1&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Teruel</Location>
+      <DisplayCity></DisplayCity>
+      <City>Teruel</City>
+      <State>TERUEL</State>
+      <LocationLatitude>40.34204</LocationLatitude>
+      <LocationLongitude>-1.10455</LocationLongitude>
+      <PostedDate>1/19/2015</PostedDate>
+      <PostedTime>1/19/2015 1:00:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV61C69PJ43326H9G1</SimilarJobsURL>
+      <JobTitle>Gerente Comercial Franquicia</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2SM77C5GTTW881XG</DID>
+      <OnetCode>15-1099.12</OnetCode>
+      <ONetFriendlyTitle>Electronic Commerce Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Talent Search People es una consultoría internacional de selección de personal, ubicada en Barcelona, Madrid y Lisboa. Somos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F2SM77C5GTTW881XG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2SM77C5GTTW881XG&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:32:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2SM77C5GTTW881XG</SimilarJobsURL>
+      <JobTitle>Consultor/a de Selección - Inglés alto</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>skype</Skill>
+        <Skill>electronic commerce</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2V45Z5L1G6QHRCJC</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Nuestro cliente es una importante compañía tecnológica global especializada en equipamiento digital para la oficina. Function Como...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G2V45Z5L1G6QHRCJC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2V45Z5L1G6QHRCJC&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sant Cugat del Vallès</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sant Cugat del Vallès</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.46793</LocationLatitude>
+      <LocationLongitude>2.08424</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:32:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2V45Z5L1G6QHRCJC</SimilarJobsURL>
+      <JobTitle>Analista/Programador PHP y J2EE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2K15ZXWXF6WKBSSC</DID>
+      <OnetCode>11-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chief Executives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Agencia independiente de comunicación especializada en salud. Desarrollo de estrategias y proyectos de comunicación para marcas cuyo...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J2K15ZXWXF6WKBSSC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2K15ZXWXF6WKBSSC&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2K15ZXWXF6WKBSSC</SimilarJobsURL>
+      <JobTitle>Director/a de Cuentas</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F373751R03M0TRG8D</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Our client is a direct sales and marketing agency, which specialises in the IT Industry. They help with developing and growing the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F373751R03M0TRG8D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F373751R03M0TRG8D&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F373751R03M0TRG8D</SimilarJobsURL>
+      <JobTitle>Business Development Agent with a native level of French</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Direct selling</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Common sense</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5CV77YN3DMX8X15D</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Our client is a leading provider of IT products for businesses and consumers.The comapny offers young environment and development...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G5CV77YN3DMX8X15D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5CV77YN3DMX8X15D&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5CV77YN3DMX8X15D</SimilarJobsURL>
+      <JobTitle>Business Developer with Native Level of French and Flemish</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F59F6XF1BW1RLK7WD</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Nuestro cliente es una importante compañía tecnológica global especializada en equipamiento digital para la oficina. Function Buscamos un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F59F6XF1BW1RLK7WD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F59F6XF1BW1RLK7WD&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sant Cugat del Vallès</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sant Cugat del Vallès</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.46793</LocationLatitude>
+      <LocationLongitude>2.08424</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F59F6XF1BW1RLK7WD</SimilarJobsURL>
+      <JobTitle>Consultor Alfresco - Programador Java/J2EE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>web service</Skill>
+        <Skill>jsf</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>documentum</Skill>
+        <Skill>hibernate (java)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8DB6FVDLKTVQQ7LX</DID>
+      <OnetCode>13-1071.02</OnetCode>
+      <ONetFriendlyTitle>Personnel Recruiters</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Talent Search People is an international recruitment agency based in Barcelona and Madrid. We provide highly specialised recruitment...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G8DB6FVDLKTVQQ7LX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8DB6FVDLKTVQQ7LX&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8DB6FVDLKTVQQ7LX</SimilarJobsURL>
+      <JobTitle>International HR Recruitment Internship</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Interpersonal skills</Skill>
+        <Skill>Electronic commerce</Skill>
+      </Skills>
+      <JobLevel>1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H37T6HYPK9Q5JB3SQ</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization An IT and Telecommunication and Marketing agency that provides: - IT Telemarketing - Business opportunities - Outsourced Marketing and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H37T6HYPK9Q5JB3SQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H37T6HYPK9Q5JB3SQ&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H37T6HYPK9Q5JB3SQ</SimilarJobsURL>
+      <JobTitle>Business Development Agent with native level of English</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0TP75R8S207SNBLY</DID>
+      <OnetCode>11-3061.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Agencia independiente de comunicación especializada en salud. Desarrollo de estrategias y proyectos de comunicación para marcas cuyo...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J0TP75R8S207SNBLY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0TP75R8S207SNBLY&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0TP75R8S207SNBLY</SimilarJobsURL>
+      <JobTitle>Ejecutivo Cuentas</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6NQ63JTF6KRY2BR6</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Multinational company in IT sector with young environment and development opportunities. Function As a First Level Service Desk Agent,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F6NQ63JTF6KRY2BR6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6NQ63JTF6KRY2BR6&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6NQ63JTF6KRY2BR6</SimilarJobsURL>
+      <JobTitle>Customer Service Representative with Excellent Level of French, Spanish and English</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6Y478J97FN7WK3XP</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Multinacional consolidada del sector hotelero Function Como comercial de expansión reportarás a Dirección General. Serás responsable de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J6Y478J97FN7WK3XP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6Y478J97FN7WK3XP&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6Y478J97FN7WK3XP</SimilarJobsURL>
+      <JobTitle>Comercial Expansión</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALENT SEARCH PEOPLE</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4G364W01GRR3XTGV</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Organization Nuestro cliente es una empresa start-up en fase de crecimiento del sector Gaming. Function Como Mobile Game Developer, formarás parte del...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G4G364W01GRR3XTGV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4G364W01GRR3XTGV&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sant Joan Despi</Location>
+      <DisplayCity>Sant Joan Despi</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 5:31:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4G364W01GRR3XTGV</SimilarJobsURL>
+      <JobTitle>Mobile Game Developer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/1P/MVF1XX70FC4R6BL201P.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>Android</Skill>
+        <Skill>objective-c</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>ios</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K626724S23W4MKDC1</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente, una importante multinacional del sector packaging, selecciona para la región de Murcia un técnico comercial. La persona seleccionada...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3K626724S23W4MKDC1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K626724S23W4MKDC1&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Murcia</Location>
+      <DisplayCity>Murcia</DisplayCity>
+      <City>Murcia</City>
+      <State>MURCIA</State>
+      <LocationLatitude>37.98296</LocationLatitude>
+      <LocationLongitude>-1.13025</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K626724S23W4MKDC1</SimilarJobsURL>
+      <JobTitle>Técnico Comercial Pre-Print</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J70Z753L124T4CVWG</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Esta oportunidad de empleo te ofrece la oportunidad de incorporarte en importante empresa fabricante de maquinaria como Responsable del área de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J70Z753L124T4CVWG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J70Z753L124T4CVWG&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Navarra</Location>
+      <DisplayCity>Navarra</DisplayCity>
+      <City>Pamplona</City>
+      <State>NAVARRA</State>
+      <LocationLatitude>42.81275</LocationLatitude>
+      <LocationLongitude>-1.64375</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J70Z753L124T4CVWG</SimilarJobsURL>
+      <JobTitle>Responsable de Ingeniería</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International System of Units</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4PP72WNXGJPC54RS</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante compañía del sector alimentación ofrece un puesto de trabajo como Jefe de Tráfico. En dependencia directa de la Dirección Financiera de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F4PP72WNXGJPC54RS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4PP72WNXGJPC54RS&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valencia</Location>
+      <DisplayCity>Valencia</DisplayCity>
+      <City>Valencia</City>
+      <State>VALENCIA</State>
+      <LocationLatitude>39.46919</LocationLatitude>
+      <LocationLongitude>-0.37682</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:06 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4PP72WNXGJPC54RS</SimilarJobsURL>
+      <JobTitle>Jefe de Tráfico Sector Alimentación</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H30273RPVCS9G88NP</DID>
+      <OnetCode>19-3011.00</OnetCode>
+      <ONetFriendlyTitle>Economists</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante multinacional auxiliar de la construcción busca para sus oficinas de Madrid un Comercial Internacional Reportando al Manager del...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H30273RPVCS9G88NP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H30273RPVCS9G88NP&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H30273RPVCS9G88NP</SimilarJobsURL>
+      <JobTitle>Comercial Internacional</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G66568W0J8MWGBXGY</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante empresa de servicios, precisa incorporar en sus oficinas de Madrid un/a executive asistatn para reportar al alto directivo de la compañía....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G66568W0J8MWGBXGY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G66568W0J8MWGBXGY&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G66568W0J8MWGBXGY</SimilarJobsURL>
+      <JobTitle>Executive asistant con excelente nivel de inglés</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>5</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3SV6H2D7NFJMTQ60</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente importante empresa dedicada a la fabricación de piezas metálicas, desea incorporar a su área de IT un Técnico/a de Sistemas....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J3SV6H2D7NFJMTQ60</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3SV6H2D7NFJMTQ60&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3SV6H2D7NFJMTQ60</SimilarJobsURL>
+      <JobTitle>Técnico/a de sistemas</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4DJ66WBCMKTD9NNX</DID>
+      <OnetCode>13-1041.00</OnetCode>
+      <ONetFriendlyTitle>Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation</ONetFriendlyTitle>
+      <DescriptionTeaser>Multinacional del sector asegurador quiere reforzar su equipo con un Compliance Officer. Buscamos especialistas en el asesoramiento en cumplimiento...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J4DJ66WBCMKTD9NNX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4DJ66WBCMKTD9NNX&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4DJ66WBCMKTD9NNX</SimilarJobsURL>
+      <JobTitle>Compliance Officer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Regulatory compliance</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K6RG6KW6JW23GBNPB</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante consultora tecnológica (multinacional) selecciona para sus oficinas de Madrid, un Consultor Senior / Team Leader CRM SalesForce. Buscamos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3K6RG6KW6JW23GBNPB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K6RG6KW6JW23GBNPB&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K6RG6KW6JW23GBNPB</SimilarJobsURL>
+      <JobTitle>Senior Consultant CRM SalesForce (banca)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5XK72R6H7HPDC01B</DID>
+      <OnetCode>13-2011.02</OnetCode>
+      <ONetFriendlyTitle>Auditors</ONetFriendlyTitle>
+      <DescriptionTeaser>Desde Hays Response seleccionamos un Auditor/a Interno/a para importante multinacional del sector energético ubicada en Barcelona. La persona...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H5XK72R6H7HPDC01B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5XK72R6H7HPDC01B&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5XK72R6H7HPDC01B</SimilarJobsURL>
+      <JobTitle>Auditor/a Interno/a</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J5RD62TBQGJ62C6B1</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante multinacional líder en sector industrial, está en búsqueda de un/a Customer Service para sus oficinas en Zona Franca. Te responsabilizarás...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J5RD62TBQGJ62C6B1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5RD62TBQGJ62C6B1&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5RD62TBQGJ62C6B1</SimilarJobsURL>
+      <JobTitle>Customer Service Francés</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J85M797TXYR8XHTQH</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Seleccionamos para incorporarse en compañía internacional un perfil de Analista programador Perl / Python para dar soporte a una gran Operadora de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J85M797TXYR8XHTQH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J85M797TXYR8XHTQH&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J85M797TXYR8XHTQH</SimilarJobsURL>
+      <JobTitle>Analistas Programadores Perl / Python</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Linux</Skill>
+        <Skill>perl</Skill>
+        <Skill>python (programming language)</Skill>
+        <Skill>ruby on rails</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7DS6CPZN53PNLZDW</DID>
+      <OnetCode>27-1024.00</OnetCode>
+      <ONetFriendlyTitle>Graphic Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente, importante multinacional del sector moda precisa incorporar para su departamento de comunicación, un/a diseñador/a gráfico para el...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H7DS6CPZN53PNLZDW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7DS6CPZN53PNLZDW&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7DS6CPZN53PNLZDW</SimilarJobsURL>
+      <JobTitle>Diseñador/a gráfico e-commerce moda</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2W071M1ZDFY0S030</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente, importante Ingeniería, con una sólida línea de negocio en automatización de procesos productivos para sector automoción, selecciona...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F2W071M1ZDFY0S030</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2W071M1ZDFY0S030&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity></DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2W071M1ZDFY0S030</SimilarJobsURL>
+      <JobTitle>Jefe de Proyecto (industrialización de procesos)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1GK6SD9C56FVV467</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante firma de moda multinacional precisa incorporar para su tienda de Mallorca (Marratxí), adjunto/a a Responsable de Tienda. Deberás aportar...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G1GK6SD9C56FVV467</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1GK6SD9C56FVV467&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity></DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1GK6SD9C56FVV467</SimilarJobsURL>
+      <JobTitle>Adjunta/o Responsable de Tienda</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Key Performance Indicators</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G7G170WR026F898JP</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Leading multinational company – end client – is looking for a SAP Authorizations Solutions Analyst for their office in Madrid. Mission To execute the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G7G170WR026F898JP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7G170WR026F898JP&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7G170WR026F898JP</SimilarJobsURL>
+      <JobTitle>SAP Authorizations Solutions Analyst</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>quality assurance</Skill>
+        <Skill>SAP</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6P068YW9QG3KWHQJ</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Hays Response selecciona un Programador junior para importante cliente ubicado en la zona de Hospitalet de Llobregat. Se trata de una compañía...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J6P068YW9QG3KWHQJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6P068YW9QG3KWHQJ&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6P068YW9QG3KWHQJ</SimilarJobsURL>
+      <JobTitle>Programador jr VB.net</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ado.net</Skill>
+        <Skill>visual basic</Skill>
+        <Skill>vb</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8FG6KG61SZ6JF16X</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Seleccionamos un Desarrollador J2EE par trabajar en A Coruña. La persona seleccionada llevará a cabo el mantenimiento y nuevos desarrollo de los...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G8FG6KG61SZ6JF16X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8FG6KG61SZ6JF16X&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8FG6KG61SZ6JF16X</SimilarJobsURL>
+      <JobTitle>Desarrollador J2EE. A Coruña</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java (programming language)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K71S5VPX3FJ4DMSQS</DID>
+      <OnetCode>13-2011.02</OnetCode>
+      <ONetFriendlyTitle>Auditors</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante Firma de Auditoría y Consultoría precisa incorporar perfiles de Auditor Externo. Se valora: Experiencia entre 2 y 4 años auditando cuentas...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3K71S5VPX3FJ4DMSQS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K71S5VPX3FJ4DMSQS&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K71S5VPX3FJ4DMSQS</SimilarJobsURL>
+      <JobTitle>Auditor Externo</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3L8G96J885K6Q716QX</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante compañía del sector logístico busca para sus oficinas de Madrid un Director BPO Buscamos un sólido profesional que reportando a Dirección...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3L8G96J885K6Q716QX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8G96J885K6Q716QX&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:10:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8G96J885K6Q716QX</SimilarJobsURL>
+      <JobTitle>Director BPO</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J0LC675XY1Y6978SH</DID>
+      <OnetCode>13-1022.00</OnetCode>
+      <ONetFriendlyTitle>Wholesale and Retail Buyers, Except Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Hays te ofrece una excelente oportunidad profesional como Estilista para una importante multinacional sector moda en pleno proceso de expansión...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J0LC675XY1Y6978SH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0LC675XY1Y6978SH&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0LC675XY1Y6978SH</SimilarJobsURL>
+      <JobTitle>Estilista Multinacional Retail</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Electronic commerce</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3K0DJ6CM7K6F9X77GV</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante compañía del sector seguridad precisa incorporar de forma inmediata un/a Key Account Manager para su departamento comercial. Buscamos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3K0DJ6CM7K6F9X77GV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0DJ6CM7K6F9X77GV&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0DJ6CM7K6F9X77GV</SimilarJobsURL>
+      <JobTitle>Key Account Manager</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H1FV6708DRHX7P5RP</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Hays Life Sciences has a fantastic new opportunity in Barcelona. Our client, a privately owned company that specializes in the development and GMP...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H1FV6708DRHX7P5RP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1FV6708DRHX7P5RP&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1FV6708DRHX7P5RP</SimilarJobsURL>
+      <JobTitle>Head of New R&amp;D Projects</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Process simulation</Skill>
+        <Skill>Application programming interface</Skill>
+        <Skill>Existential quantification</Skill>
+        <Skill>Resource management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J8FQ698KPJ08F7896</DID>
+      <OnetCode>11-3031.01</OnetCode>
+      <ONetFriendlyTitle>Treasurers and Controllers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a multinational leading company, is seeking for a Senior Corporate Controller for its offices in Madrid. Reporting to the Iberia Finance...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3J8FQ698KPJ08F7896</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J8FQ698KPJ08F7896&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J8FQ698KPJ08F7896</SimilarJobsURL>
+      <JobTitle>Corporate Controller</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Economics</Skill>
+        <Skill>Financial statement</Skill>
+        <Skill>SOX</Skill>
+        <Skill>financial analysis</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F15Q6QHGH90F2ZMN4</DID>
+      <OnetCode>41-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Retail Sales Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Si buscas empleo como Responsable de tienda en una firma de moda y calzado, esta es tu oportunidad. Nuestro cliente cuenta con puntos de venta en toda...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3F15Q6QHGH90F2ZMN4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F15Q6QHGH90F2ZMN4&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Madrid</Location>
+      <DisplayCity>Madrid</DisplayCity>
+      <City>Madrid</City>
+      <State>MADRID</State>
+      <LocationLatitude>40.4203</LocationLatitude>
+      <LocationLongitude>-3.70577</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F15Q6QHGH90F2ZMN4</SimilarJobsURL>
+      <JobTitle>Responsable de Tienda.Moda y Calzado. Noreste Madrid</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7B75XZ1Y7T9S08S9</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Importante empresa multinacional busca un Responsable de Procesos e Industrialización de componentes eléctricos a nivel global. En dependencia del...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H7B75XZ1Y7T9S08S9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7B75XZ1Y7T9S08S9&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7B75XZ1Y7T9S08S9</SimilarJobsURL>
+      <JobTitle>Systems Process Engineer (converter)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Chemical engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H66D6SJQBR1D7KFNB</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Desde Hays buscamos incorporar para una importante multinacional con oficinas en Barcelona a un/a System Support Engineer con alto nivel de inglés y...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H66D6SJQBR1D7KFNB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H66D6SJQBR1D7KFNB&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barcelona</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barcelona</City>
+      <State>BARCELONA</State>
+      <LocationLatitude>41.38558</LocationLatitude>
+      <LocationLongitude>2.16874</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H66D6SJQBR1D7KFNB</SimilarJobsURL>
+      <JobTitle>System Support Engineer</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Web Services Discovery</Skill>
+        <Skill>windows server</Skill>
+        <Skill>Linux</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>shell script</Skill>
+        <Skill>red hat</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6M06FM0RQ43W13P6</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nuestro cliente es una sólida bodega de la zona Alicante - Murcia con una oferta de empleo de Export Area Manager. Como export area manager,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3G6M06FM0RQ43W13P6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6M06FM0RQ43W13P6&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Alicante</Location>
+      <DisplayCity>Alicante</DisplayCity>
+      <City>Alicante</City>
+      <State>ALICANTE</State>
+      <LocationLatitude>38.34408</LocationLatitude>
+      <LocationLongitude>-0.48047</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6M06FM0RQ43W13P6</SimilarJobsURL>
+      <JobTitle>Export Area Manager Bodega</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays</Company>
+      <CompanyDID>c8d80772fns3309xl1v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.es/ofertas/empresa/c8d80772fns3309xl1v/hays/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0126VRTWL5BZHF66</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Este proyecto te ofrece la oportunidad de incorporarte a una gran compañía, tener posibilidades de desarrollo profesional en un ambiente internacional...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Sin Especificar</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=ES&amp;DID=J3H0126VRTWL5BZHF66</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0126VRTWL5BZHF66&amp;HostSite=ES&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bilbao</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bilbao</City>
+      <State>VIZCAYA</State>
+      <LocationLatitude>43.26865</LocationLatitude>
+      <LocationLongitude>-2.94612</LocationLongitude>
+      <PostedDate>1/18/2015</PostedDate>
+      <PostedTime>1/18/2015 2:09:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.es/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0126VRTWL5BZHF66</SimilarJobsURL>
+      <JobTitle>Jefe/a de proyectos automoción Tier1 con Alemán</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/2y/mxa0tx64npp0fwtjp2y.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>ES</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

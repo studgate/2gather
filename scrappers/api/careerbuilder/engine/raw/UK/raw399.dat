@@ -1,0 +1,3660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 7:34:04 AM</TimeResponseSent>
+  <TimeElapsed>0.5304</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>42579</TotalCount>
+  <FirstItemIndex>39801</FirstItemIndex>
+  <LastItemIndex>39900</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>NES Global Talent</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7NP66VZPNMTZF3RC</DID>
+      <OnetCode>17-2041.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>PROCESS ENGINEER-London This is an excellent opportunity to join the process team of a Leading UK firm with an envious portfolio of clients and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H7NP66VZPNMTZF3RC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7NP66VZPNMTZF3RC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:06 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7NP66VZPNMTZF3RC</SimilarJobsURL>
+      <JobTitle>Process Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Process simulation</Skill>
+        <Skill>Piping and instrumentation diagram</Skill>
+        <Skill>Chemical engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L451627XN89M3VHTN</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>We are recruiting for a Principal Mechanical engineer who has a vast amount of experience within the nuclear industry. This is a key strategic role...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L451627XN89M3VHTN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L451627XN89M3VHTN&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:05 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L451627XN89M3VHTN</SimilarJobsURL>
+      <JobTitle>Principle Mechanical Engineer (Nuclear) - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Nuclear power</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>HVAC</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Conveyor system</Skill>
+        <Skill>Robotics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7G970HWKCQRT04WY</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Subsea Installation Project Engineer Salary Negotiable Job Description Perform installation engineering support activities on behalf of the client....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L7G970HWKCQRT04WY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7G970HWKCQRT04WY&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:05 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7G970HWKCQRT04WY</SimilarJobsURL>
+      <JobTitle>SUBSEA PROJECT ENGINEER - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NES Global Talent</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5NF6HGRPDNT82Q8N</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>System Engineer – North West – Great salary/benefits – Permanent A globally established and recognised supplying organisation are looking to add to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G5NF6HGRPDNT82Q8N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5NF6HGRPDNT82Q8N&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>North West England</Location>
+      <DisplayCity>North West England</DisplayCity>
+      <City>Leigh</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4977</LocationLatitude>
+      <LocationLongitude>-2.51874</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:04 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5NF6HGRPDNT82Q8N</SimilarJobsURL>
+      <JobTitle>System Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Systems engineering</Skill>
+        <Skill>Existential quantification</Skill>
+        <Skill>Systems design</Skill>
+        <Skill>System integrity</Skill>
+        <Skill>Functional Safety</Skill>
+        <Skill>Automation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Antal International</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L28G66CVW3WM64NMR</DID>
+      <OnetCode>29-9011.00</OnetCode>
+      <ONetFriendlyTitle>Occupational Health and Safety Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Process Safety Technologist/Engineer My client, a global leading Energy Group is looking for an experienced Process Safety Technologist to join their...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L28G66CVW3WM64NMR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L28G66CVW3WM64NMR&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>North West England</Location>
+      <DisplayCity>North West England</DisplayCity>
+      <City>Leigh</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4977</LocationLatitude>
+      <LocationLongitude>-2.51874</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:04 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L28G66CVW3WM64NMR</SimilarJobsURL>
+      <JobTitle>Process Safety Technologist - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>hazard analysis</Skill>
+        <Skill>occupational safety and health</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CDS Recruitment Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3VD77S8487G9V83K</DID>
+      <OnetCode>17-2121.01</OnetCode>
+      <ONetFriendlyTitle>Marine Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Marine Lead Engineer CDS Recruitment Ltd have a PMC Client who have a contract working out of Reading Uk. We require an experienced Marine Lead...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H3VD77S8487G9V83K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3VD77S8487G9V83K&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reading</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reading</City>
+      <State>BERKSHIRE</State>
+      <LocationLatitude>51.45352</LocationLatitude>
+      <LocationLongitude>-0.96301</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:04 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3VD77S8487G9V83K</SimilarJobsURL>
+      <JobTitle>Marine Lead Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality of service</Skill>
+        <Skill>Engineering design process</Skill>
+        <Skill>Engineering management</Skill>
+        <Skill>Process engineering</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0656BGB76XWP01HV</DID>
+      <OnetCode>17-2121.01</OnetCode>
+      <ONetFriendlyTitle>Marine Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My client are a specialist marine consultancy looking for a capable marine engineer to join to the team.  Vessel design development – LNG, LPG,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L0656BGB76XWP01HV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0656BGB76XWP01HV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chelmsford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chelmsford</City>
+      <State>ESSEX</State>
+      <LocationLatitude>51.73211</LocationLatitude>
+      <LocationLongitude>0.47798</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:04 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0656BGB76XWP01HV</SimilarJobsURL>
+      <JobTitle>Marine Engineer - Ship Consultancy - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Acceptance testing</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Global Edge</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4846274MWQHVBNZW</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>For one of our clients, Global Edge are currently looking for experienced Design Engineers. You will work as staff employee within the company's...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4846274MWQHVBNZW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4846274MWQHVBNZW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4846274MWQHVBNZW</SimilarJobsURL>
+      <JobTitle>Senior Design Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Finite element method</Skill>
+        <Skill>Hydraulics</Skill>
+        <Skill>Solid modeling</Skill>
+        <Skill>Pneumatics</Skill>
+        <Skill>Project management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AMEC Brownfield Aberdeen</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5VM5WM33VJMPVN3C</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Job title : Process Engineering Discipline Manager Ref No : 22312BR Salary: COMPETITIVE Closing Dates: 13th February 2015 Location : Aberdeen Project...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J5VM5WM33VJMPVN3C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5VM5WM33VJMPVN3C&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5VM5WM33VJMPVN3C</SimilarJobsURL>
+      <JobTitle>Process Engineering Discipline Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Development aid</Skill>
+        <Skill>Quality assurance</Skill>
+        <Skill>AMEC</Skill>
+        <Skill>Sustainable energy</Skill>
+        <Skill>Overhead (business)</Skill>
+        <Skill>Process engineering</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L0SV6F3Y7H1BZL0M0</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>We are looking for a process commissioning engineer to work on a contract basis on the South Coast near Portsmouth. You must have a knowledge of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L0SV6F3Y7H1BZL0M0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L0SV6F3Y7H1BZL0M0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Portsmouth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Portsmouth</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>50.80401</LocationLatitude>
+      <LocationLongitude>-1.08728</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L0SV6F3Y7H1BZL0M0</SimilarJobsURL>
+      <JobTitle>Process Commissioning Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Application programming interface</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Samuel Knight International</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3X870WVXL1GSX6SD</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Engineering Manager North West, North East, London £80,000 plus benefits Key words Consultancy, Substation, Design, FEED, Detailed design, DNO, system...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L3X870WVXL1GSX6SD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3X870WVXL1GSX6SD&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>North West England</Location>
+      <DisplayCity>North West England</DisplayCity>
+      <City>Leigh</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4977</LocationLatitude>
+      <LocationLongitude>-2.51874</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3X870WVXL1GSX6SD</SimilarJobsURL>
+      <JobTitle>Engineering Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Electric power system</Skill>
+        <Skill>Engineering management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Prodrill ERS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3LK63PFVX7JMKJ1D</DID>
+      <OnetCode>29-9011.00</OnetCode>
+      <ONetFriendlyTitle>Occupational Health and Safety Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Our Client who is a leading energy player on the international stage is currently seeking a Drilling HSE Safety Advisor of the highest calibre for a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H3LK63PFVX7JMKJ1D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3LK63PFVX7JMKJ1D&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:03 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3LK63PFVX7JMKJ1D</SimilarJobsURL>
+      <JobTitle>Drilling HSE Safety Advisor - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L74Z6WVZ1HRKYJQ13</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>The company… My client, one of the largest towage and salvage companies in the world are actively seeking a Technical Superintendent to join their...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L74Z6WVZ1HRKYJQ13</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L74Z6WVZ1HRKYJQ13&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L74Z6WVZ1HRKYJQ13</SimilarJobsURL>
+      <JobTitle>Technical Superintendent - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Progressive Global Energy &amp; Natural Resources</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L13Y77SS5K6FBFY2P</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Progressive Global Energy are looking for a Senior Business Development Manager to join our client based in Aberdeen. Our client specialises in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L13Y77SS5K6FBFY2P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L13Y77SS5K6FBFY2P&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L13Y77SS5K6FBFY2P</SimilarJobsURL>
+      <JobTitle>Sales Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales management</Skill>
+        <Skill>Business development</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0HB6BYP1DTBHMQ26</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Due to expansion and the on boarding of new automation projects my client is now looking for a highly skilled lead automation engineer. The position...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G0HB6BYP1DTBHMQ26</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0HB6BYP1DTBHMQ26&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Barnsley</Location>
+      <DisplayCity></DisplayCity>
+      <City>Barnsley</City>
+      <State>SOUTH YORKSHIRE</State>
+      <LocationLatitude>53.5524</LocationLatitude>
+      <LocationLongitude>-1.4782</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0HB6BYP1DTBHMQ26</SimilarJobsURL>
+      <JobTitle>Lead Automation Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Systems engineering</Skill>
+        <Skill>Automation</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS Tech Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7CQ6Z6HKRPGV1B4X</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a leading UK engineering support service is currently looking for a CI&amp;E Engineer to start in January, due to expansion within their...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J7CQ6Z6HKRPGV1B4X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7CQ6Z6HKRPGV1B4X&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Edinburgh</Location>
+      <DisplayCity></DisplayCity>
+      <City>Edinburgh</City>
+      <State>MIDLOTHIAN</State>
+      <LocationLatitude>55.94358</LocationLatitude>
+      <LocationLongitude>-3.21068</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:02 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7CQ6Z6HKRPGV1B4X</SimilarJobsURL>
+      <JobTitle>Controls &amp; Instrumentation Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Acceptance testing</Skill>
+        <Skill>Wiring diagram</Skill>
+        <Skill>Electrical wiring</Skill>
+        <Skill>Public services</Skill>
+        <Skill>Systems architecture</Skill>
+        <Skill>Continuous improvement process</Skill>
+        <Skill>Wastewater</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Executive Recruitment Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F39J6249HR8J7SDTC</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Shore Integration Ship Weapon Systems Engineering Technician Portsmouth ££Competitive A fantastic opportunity has arisen for the appropriate Ship...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F39J6249HR8J7SDTC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F39J6249HR8J7SDTC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Portsmouth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Portsmouth</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>50.80401</LocationLatitude>
+      <LocationLongitude>-1.08728</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:01 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F39J6249HR8J7SDTC</SimilarJobsURL>
+      <JobTitle>Ship Weapon Systems Engineering Technician - Shore Integration - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Electric power distribution</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Systems engineering</Skill>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6VL5YTP0NL58YHCW</DID>
+      <OnetCode>11-3071.01</OnetCode>
+      <ONetFriendlyTitle>Transportation Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>My client are a leading LNG ship owner and due to expansion require a Marine &amp; HSEQ Superintendent for their office in London. You will oversee the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L6VL5YTP0NL58YHCW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6VL5YTP0NL58YHCW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:01 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6VL5YTP0NL58YHCW</SimilarJobsURL>
+      <JobTitle>Marine &amp; HSEQ Superintendent - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7VZ6MGNN0C4HJ7C7</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is a global Consultancy company based in the North west who are currently looking for a Senior Process Engineer to work on a number of...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7VZ6MGNN0C4HJ7C7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7VZ6MGNN0C4HJ7C7&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>United Kingdom</Location>
+      <DisplayCity>United Kingdom</DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:00 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7VZ6MGNN0C4HJ7C7</SimilarJobsURL>
+      <JobTitle>Senior Process Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Process simulation</Skill>
+        <Skill>ATEX directive</Skill>
+        <Skill>Engineering design process</Skill>
+        <Skill>Process engineering</Skill>
+        <Skill>Chemical engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1RR5X8RGX0HFLJ9S</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client is a Global Oil &amp; Gas EPC Contractor based in Glasgow. They are looking for a Site Buyer. Key Tasks &amp; Responsibilities: " Procurement in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G1RR5X8RGX0HFLJ9S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1RR5X8RGX0HFLJ9S&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Glasgow</Location>
+      <DisplayCity></DisplayCity>
+      <City>Glasgow</City>
+      <State>LANARKSHIRE</State>
+      <LocationLatitude>55.8578</LocationLatitude>
+      <LocationLongitude>-4.24251</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:30:00 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1RR5X8RGX0HFLJ9S</SimilarJobsURL>
+      <JobTitle>Site Buyer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Performance measurement</Skill>
+        <Skill>Audit</Skill>
+        <Skill>Financial audit</Skill>
+        <Skill>Purchasing</Skill>
+        <Skill>Procurement</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Power Jacks Limited</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4TK6RTVS4BLPN7NK</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>BRIEF OVERVIEW OF ROLE: Working as part of the inside sales team, the purpose of this role is to effectively manage key customer accounts globally to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J4TK6RTVS4BLPN7NK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4TK6RTVS4BLPN7NK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ellon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ellon</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.36413</LocationLatitude>
+      <LocationLongitude>-2.07281</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4TK6RTVS4BLPN7NK</SimilarJobsURL>
+      <JobTitle>Account Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business To Business</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Sales process</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Technicad Recruitment Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1TP6PFW3BJQX4NK6</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our Client is urgently looking for a Mechanical Building Services Designer to work in their Aldershot offices on a 4-5 month contract with a possible...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K1TP6PFW3BJQX4NK6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1TP6PFW3BJQX4NK6&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aldershot</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aldershot</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.2496</LocationLatitude>
+      <LocationLongitude>-0.75934</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1TP6PFW3BJQX4NK6</SimilarJobsURL>
+      <JobTitle>Mechanical Building Services Design Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Building services engineering</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Key People ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7SN71FTB7W3N3CW4</DID>
+      <OnetCode>29-9011.00</OnetCode>
+      <ONetFriendlyTitle>Occupational Health and Safety Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is a leading Environmental and Occupational Hygiene &amp; Safety Consultancy. They offer monitoring and consultancy services to industrial and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G7SN71FTB7W3N3CW4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7SN71FTB7W3N3CW4&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leeds</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leeds</City>
+      <State>WEST YORKSHIRE</State>
+      <LocationLatitude>53.8011</LocationLatitude>
+      <LocationLongitude>-1.54704</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7SN71FTB7W3N3CW4</SimilarJobsURL>
+      <JobTitle>Occupational Hygienist - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>occupational safety and health</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Laking Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1CT6VRM4Q8JQDTWQ</DID>
+      <OnetCode>17-2121.02</OnetCode>
+      <ONetFriendlyTitle>Marine Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>Our leading design consultancy is looking for a Naval Architect, for their London based office. The right candidate would require; 5+ Years experience...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K1CT6VRM4Q8JQDTWQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1CT6VRM4Q8JQDTWQ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ipswich</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ipswich</City>
+      <State>SUFFOLK</State>
+      <LocationLatitude>52.05777</LocationLatitude>
+      <LocationLongitude>1.14378</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1CT6VRM4Q8JQDTWQ</SimilarJobsURL>
+      <JobTitle>Senior Naval Architect - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Naval architecture</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays Specialist Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4LF74GK7DW8454RM</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Due to major project wins, we are looking to hire a Senior Mechanical Engineer with a specialism in HVAC to join our multi-discipline team. The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J4LF74GK7DW8454RM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4LF74GK7DW8454RM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Warrington</Location>
+      <DisplayCity></DisplayCity>
+      <City>Warrington</City>
+      <State>CHESHIRE</State>
+      <LocationLatitude>53.40664</LocationLatitude>
+      <LocationLongitude>-2.58188</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4LF74GK7DW8454RM</SimilarJobsURL>
+      <JobTitle>Senior Mechanical HVAC Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Nuclear power</Skill>
+        <Skill>Mold growth</Skill>
+        <Skill>Safety standards</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>HVAC</Skill>
+        <Skill>Piping and instrumentation diagram</Skill>
+        <Skill>Nuclear safety</Skill>
+        <Skill>Engineering design process</Skill>
+        <Skill>Engineering management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orion Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0LC5ZDN6525PPB7H</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>901207 - Planner Our client is currently recruiting for the position of Planner, based in Manchester, UK. Job Description Preconstruction Take a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G0LC5ZDN6525PPB7H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0LC5ZDN6525PPB7H&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0LC5ZDN6525PPB7H</SimilarJobsURL>
+      <JobTitle>Planner - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>autocad</Skill>
+        <Skill>Revit</Skill>
+        <Skill>R</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>frame (networking)</Skill>
+        <Skill>document management system</Skill>
+        <Skill>c (programming language)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3RC6S8VCP6P2XCY3</DID>
+      <OnetCode>19-2042.00</OnetCode>
+      <ONetFriendlyTitle>Geoscientists, Except Hydrologists and Geographers</ONetFriendlyTitle>
+      <DescriptionTeaser>Reservoir Characterisation Geophysicist My client - one of the major international geophysical service companies - is wanting to identify a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J3RC6S8VCP6P2XCY3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3RC6S8VCP6P2XCY3&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Guildford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:59 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3RC6S8VCP6P2XCY3</SimilarJobsURL>
+      <JobTitle>Geophysicist - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1LJ6BM8M3F2XVF6N</DID>
+      <OnetCode>53-5021.01</OnetCode>
+      <ONetFriendlyTitle>Ship and Boat Captains</ONetFriendlyTitle>
+      <DescriptionTeaser>WRS are currently seeking a Master for a DP2 PSV working in the North Sea on a 4 weeks on/off rotation. This is a permanent job starting w/b 16th...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K1LJ6BM8M3F2XVF6N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1LJ6BM8M3F2XVF6N&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1LJ6BM8M3F2XVF6N</SimilarJobsURL>
+      <JobTitle>PSV Master - Permanent - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Blue Orb Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2WN6K4654RG6XC9V</DID>
+      <OnetCode>17-2121.02</OnetCode>
+      <ONetFriendlyTitle>Marine Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>A key client of mine is looking to bring on a Naval Architect to replace there current one who is relocating. The Position is permanant and the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G2WN6K4654RG6XC9V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2WN6K4654RG6XC9V&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dundee</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dundee</City>
+      <State>ANGUS</State>
+      <LocationLatitude>56.46137</LocationLatitude>
+      <LocationLongitude>-2.96761</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2WN6K4654RG6XC9V</SimilarJobsURL>
+      <JobTitle>Naval Architect - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Naval architecture</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Velosi Intec</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K21M74ZSTLWJ4D9Q3</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Mechanical Tank Engineer (LNG / Cryogenic) £Negotiable Darlington 12 Months+ Our client is a world leading technology &amp; engineering firm, who...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K21M74ZSTLWJ4D9Q3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K21M74ZSTLWJ4D9Q3&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Darlington</Location>
+      <DisplayCity></DisplayCity>
+      <City>Darlington</City>
+      <State>DURHAM</State>
+      <LocationLatitude>54.5245</LocationLatitude>
+      <LocationLongitude>-1.54889</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K21M74ZSTLWJ4D9Q3</SimilarJobsURL>
+      <JobTitle>Senior Mechanical Tank Engineer (LNG / Cryogenic) - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Material selection</Skill>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Design code</Skill>
+        <Skill>Engineering analysis</Skill>
+        <Skill>Cryogenics</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Continuous improvement process</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Samuel Knight International</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1V161MQNRWZKK7D5</DID>
+      <OnetCode>99-9999.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Authorised Person Senior Authorised Person, SAP, 132kV, EHV, DNO, Distribution Network Operator, Samuel Knight, Energy, Distribution, OHL,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J1V161MQNRWZKK7D5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1V161MQNRWZKK7D5&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1V161MQNRWZKK7D5</SimilarJobsURL>
+      <JobTitle>Senior Authorised Person - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G15Q6V166P2NDK9DL</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is looking for a Senior Flexible and Umbilical Engineer. The position is based in London and will be on a permanent basis. Salary is...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G15Q6V166P2NDK9DL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G15Q6V166P2NDK9DL&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:58 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G15Q6V166P2NDK9DL</SimilarJobsURL>
+      <JobTitle>SENIOR FLEXIBLE AND UMBILICAL ENGINEER - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Systems design</Skill>
+        <Skill>Systems architecture</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2WW6P60WRBV47NH0</DID>
+      <OnetCode>17-2121.01</OnetCode>
+      <ONetFriendlyTitle>Marine Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Design/Project Engineer Reporting to:Project Manager Overall Purpose of Role To assist Project Managers with operational element of engineering,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L2WW6P60WRBV47NH0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2WW6P60WRBV47NH0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Glasgow</Location>
+      <DisplayCity></DisplayCity>
+      <City>Glasgow</City>
+      <State>LANARKSHIRE</State>
+      <LocationLatitude>55.8578</LocationLatitude>
+      <LocationLongitude>-4.24251</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2WW6P60WRBV47NH0</SimilarJobsURL>
+      <JobTitle>Naval Architect and Marine Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Cost accounting</Skill>
+        <Skill>Naval architecture</Skill>
+        <Skill>Technical drawing</Skill>
+        <Skill>Marine engineering</Skill>
+        <Skill>Engineering design process</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F62G63DY9MB54K2LG</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Coming in to this New Year are you one of many that is looking to improve your career? Or simply looking for a change? Or maybe even just exploring...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F62G63DY9MB54K2LG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F62G63DY9MB54K2LG&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Worcester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Worcester</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.19106</LocationLatitude>
+      <LocationLongitude>-2.22227</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F62G63DY9MB54K2LG</SimilarJobsURL>
+      <JobTitle>Mechanical Engineer - Worcester - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Mass customization</Skill>
+        <Skill>Engineering drawing</Skill>
+        <Skill>Functional design</Skill>
+        <Skill>Structural engineering</Skill>
+        <Skill>Process improvement</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hales Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K08462XJR19GB3YVV</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>We are seeking an experienced Proposals Engineer to join a specialist provider of products and services to the energy industry based in Great Yarmouth...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K08462XJR19GB3YVV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K08462XJR19GB3YVV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Great Yarmouth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Great Yarmouth</City>
+      <State>NORFOLK</State>
+      <LocationLatitude>52.61265</LocationLatitude>
+      <LocationLongitude>1.72408</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K08462XJR19GB3YVV</SimilarJobsURL>
+      <JobTitle>Proposals Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Technical drawing</Skill>
+        <Skill>Project management</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Oldbury Howard</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2XR5XWFR1S0XM95R</DID>
+      <OnetCode>17-2171.00</OnetCode>
+      <ONetFriendlyTitle>Petroleum Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Project Engineer, Decommissioning, De-construction, Offshore structures. My client has recently won a new project which has a multi-year duration and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K2XR5XWFR1S0XM95R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2XR5XWFR1S0XM95R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:57 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2XR5XWFR1S0XM95R</SimilarJobsURL>
+      <JobTitle>Project Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0W46J0NYH9QD5RYK</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Riser Engineer Surrey Staff - Permanent Excellent Salary I am currently seeking an experienced Offshore Riser Engineer, with experience particular in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G0W46J0NYH9QD5RYK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0W46J0NYH9QD5RYK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Guildford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0W46J0NYH9QD5RYK</SimilarJobsURL>
+      <JobTitle>Principal Riser Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Woodland Consultancy Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0LJ77BL224D4N2Y0</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>MECHANICAL BUILDING SERVICES DESIGNER ENGINEER (HV/AC EXPERIENCE) – CONTRACT – HAMPSHIRE * * * Must have HV/AC Building Services Design experience -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J0LJ77BL224D4N2Y0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0LJ77BL224D4N2Y0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0LJ77BL224D4N2Y0</SimilarJobsURL>
+      <JobTitle>Mechanical Bldg Services Design Engineer (HVAC) - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Building services engineering</Skill>
+        <Skill>Existential quantification</Skill>
+        <Skill>HVAC</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Oscar Associates</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7KT74VR2GKZYLCDJ</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Principal Electrical Engineer Oscar Associates are working alongside an international engineering company who are looking to add a Principal...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H7KT74VR2GKZYLCDJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7KT74VR2GKZYLCDJ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7KT74VR2GKZYLCDJ</SimilarJobsURL>
+      <JobTitle>Principal Electrical Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>EPCM</Skill>
+        <Skill>Computer-aided design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F84T62S7PPB1Y3Q0J</DID>
+      <OnetCode>11-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chief Executives</ONetFriendlyTitle>
+      <DescriptionTeaser>The company… On behalf of a PSV owner, based in Aberdeen, I am recruiting for a temporary Chief Officer's position on a North Sea based vessel. The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F84T62S7PPB1Y3Q0J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F84T62S7PPB1Y3Q0J&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F84T62S7PPB1Y3Q0J</SimilarJobsURL>
+      <JobTitle>Chief Officer - PSV - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>5</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6JL6JN3P1N7D4GDQ</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My EPC client based in Aberdeen are currently looking for a Senior Electrical Engineer on a long term contract basis. Essential Experience/Quals:...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G6JL6JN3P1N7D4GDQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6JL6JN3P1N7D4GDQ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6JL6JN3P1N7D4GDQ</SimilarJobsURL>
+      <JobTitle>Senior Electrical Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0KS6N7PK3T53N1ZC</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>We are recruiting on a staff basis for Heysham Nuclear power Plant if you have the following and are keen to discuss the role in more details then...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J0KS6N7PK3T53N1ZC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0KS6N7PK3T53N1ZC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sizewell</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sizewell</City>
+      <State>SUFFOLK</State>
+      <LocationLatitude>52.20732</LocationLatitude>
+      <LocationLongitude>1.62024</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0KS6N7PK3T53N1ZC</SimilarJobsURL>
+      <JobTitle>Project Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K7GT75FR68WGRWSR9</DID>
+      <OnetCode>17-1022.00</OnetCode>
+      <ONetFriendlyTitle>Surveyors</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is looking for an ambitious Quantity Surveyor to join their team on a permanent basis. The role will be based in Staffordshire, and working...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K7GT75FR68WGRWSR9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K7GT75FR68WGRWSR9&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Stafford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Stafford</City>
+      <State>STAFFORDSHIRE</State>
+      <LocationLatitude>52.80409</LocationLatitude>
+      <LocationLongitude>-2.12198</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:56 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K7GT75FR68WGRWSR9</SimilarJobsURL>
+      <JobTitle>Quantity Surveyor - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Surveying</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J10Q68W5461M28QZV</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Due to expansion my client is looking to recruit an automation service engineer to be based from their Office in Warrington or Hampshire. This is an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J10Q68W5461M28QZV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J10Q68W5461M28QZV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Warrington</Location>
+      <DisplayCity></DisplayCity>
+      <City>Warrington</City>
+      <State>CHESHIRE</State>
+      <LocationLatitude>53.40664</LocationLatitude>
+      <LocationLongitude>-2.58188</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:55 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J10Q68W5461M28QZV</SimilarJobsURL>
+      <JobTitle>Automation Service Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SCADA</Skill>
+        <Skill>Automation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Thomas Telford Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7V56S369YW088FHY</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client is a major blue chip developer and provider of proprietary process software covering numerous applications, processes and design needs such...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G7V56S369YW088FHY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7V56S369YW088FHY&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:55 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7V56S369YW088FHY</SimilarJobsURL>
+      <JobTitle>Principal Technical Support Consultant - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Blue (queue management algorithm)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NES Global Talent</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K78X681T8XLRMYW9Y</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Pipelines Designer (CAD) - Onshore Pipelines Oil and Gas FEED We are currently sourcing a Senior Pipelines Designer (CAD) - Onshore Pipelines...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K78X681T8XLRMYW9Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K78X681T8XLRMYW9Y&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K78X681T8XLRMYW9Y</SimilarJobsURL>
+      <JobTitle>Senior Pipelines Designer (CAD) - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Design code</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Technical communication</Skill>
+        <Skill>Engineering design process</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>G2 Recruitment Solutions</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3X374C854T9CKF7H</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My Penrith based client is urgently seeking a Structural Design Engineer on a 9 month contract. You will be working on the design of highways...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F3X374C854T9CKF7H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3X374C854T9CKF7H&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Penrith</Location>
+      <DisplayCity></DisplayCity>
+      <City>Penrith</City>
+      <State>CUMBRIA</State>
+      <LocationLatitude>54.6643</LocationLatitude>
+      <LocationLongitude>-2.75747</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3X374C854T9CKF7H</SimilarJobsURL>
+      <JobTitle>Structural Design Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Structural engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4KB6RNFFKCXZ355S</DID>
+      <OnetCode>17-2081.00</OnetCode>
+      <ONetFriendlyTitle>Environmental Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Cathodic Protection Engineer Contract basis South West London Rate flexible I am looking for a Cathodic Protection Engineer to work my client based in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L4KB6RNFFKCXZ355S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4KB6RNFFKCXZ355S&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brentford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brentford</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.48413</LocationLatitude>
+      <LocationLongitude>-0.30672</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:54 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4KB6RNFFKCXZ355S</SimilarJobsURL>
+      <JobTitle>Cathodic Protection Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>JCW Resourcing</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5RQ7213C5S1WVKMH</DID>
+      <OnetCode>13-2011.02</OnetCode>
+      <ONetFriendlyTitle>Auditors</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is looking for a strong Compliance Advisor to join their team of 20 in the westend. Extensive knowledge within: Mifid EMIR Capital...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K5RQ7213C5S1WVKMH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5RQ7213C5S1WVKMH&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:53 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5RQ7213C5S1WVKMH</SimilarJobsURL>
+      <JobTitle>Compliance Advisory - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6TD6R5QT2GJXVCKH</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Exciting new vacancy from an established global business, an innovative leader in their field. Welcoming applications from experienced engineers who...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H6TD6R5QT2GJXVCKH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6TD6R5QT2GJXVCKH&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beverley</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beverley</City>
+      <State>NORTH HUMBERSIDE</State>
+      <LocationLatitude>53.84281</LocationLatitude>
+      <LocationLongitude>-0.43245</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:53 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6TD6R5QT2GJXVCKH</SimilarJobsURL>
+      <JobTitle>Complex Design Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>3D modeling</Skill>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Building services engineering</Skill>
+        <Skill>Technical documentation</Skill>
+        <Skill>AutoCAD</Skill>
+        <Skill>Fabrication (metal)</Skill>
+        <Skill>Engineering drawing</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G31V730X44CV0RG3J</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our Client is a Global Oil and Gas EPC Contractor based in the North West. They are looking for a Lead Mechanical Engineer with Nuclear experience....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G31V730X44CV0RG3J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G31V730X44CV0RG3J&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:53 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G31V730X44CV0RG3J</SimilarJobsURL>
+      <JobTitle>Lead Mechanical Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Mechanical engineering</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orion Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6PY6W44C019Z4TDW</DID>
+      <OnetCode>17-2171.00</OnetCode>
+      <ONetFriendlyTitle>Petroleum Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>899766 - Subsea Field Development Engineer Orion Engineering have been asked by an oil and gas subsea technology company to recruit a Subsea Field...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H6PY6W44C019Z4TDW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6PY6W44C019Z4TDW&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Woking</Location>
+      <DisplayCity></DisplayCity>
+      <City>Woking</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.32207</LocationLatitude>
+      <LocationLongitude>-0.55855</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:53 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6PY6W44C019Z4TDW</SimilarJobsURL>
+      <JobTitle>Subsea Field Development Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Product lining</Skill>
+        <Skill>Telecommunication</Skill>
+        <Skill>Renewable energy</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Technicad Recruitment Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1F96WR2603J8GNDM</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Long term contract vacancy based in Hampshire: Purpose: The Data Management Coordinator manages the delivery of the Data Management scope for a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G1F96WR2603J8GNDM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1F96WR2603J8GNDM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1F96WR2603J8GNDM</SimilarJobsURL>
+      <JobTitle>Data Management Coordinator - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>microsoft access</Skill>
+        <Skill>database</Skill>
+        <Skill>data management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NES Global Talent</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J81574L02717JB17L</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Due to continued department growth and internal promotions a leading Oil &amp; Gas EPC are looking for a Piping &amp; Plant Layout Discipline Manager to join...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J81574L02717JB17L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J81574L02717JB17L&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Guildford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J81574L02717JB17L</SimilarJobsURL>
+      <JobTitle>Piping &amp; Plant Layout Discipline Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Plant layout study</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Vivid Resourcing</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5H077XZ43HT0NXB2</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>E&amp;I Technician- Pharmaceutical- Kent - 2 months- Shift work - rate negotiable - Urgent start   My pharmaceutical manufacturing client in Kent requires...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J5H077XZ43HT0NXB2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5H077XZ43HT0NXB2&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Maidstone</Location>
+      <DisplayCity></DisplayCity>
+      <City>Maidstone</City>
+      <State>KENT</State>
+      <LocationLatitude>51.2738</LocationLatitude>
+      <LocationLongitude>0.52508</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5H077XZ43HT0NXB2</SimilarJobsURL>
+      <JobTitle>E&amp;I Technician - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5Z56TFF5DS1N80MK</DID>
+      <OnetCode>17-2121.02</OnetCode>
+      <ONetFriendlyTitle>Marine Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>My client are a dynamic consultancy who provide design support services to ship owners/operators in the passenger ship and offshore vessels sector....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H5Z56TFF5DS1N80MK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5Z56TFF5DS1N80MK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Glasgow</Location>
+      <DisplayCity></DisplayCity>
+      <City>Glasgow</City>
+      <State>LANARKSHIRE</State>
+      <LocationLatitude>55.8578</LocationLatitude>
+      <LocationLongitude>-4.24251</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5Z56TFF5DS1N80MK</SimilarJobsURL>
+      <JobTitle>Senior Naval Architect - Marine Safety Engineering - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Naval architecture</Skill>
+        <Skill>Surveying</Skill>
+        <Skill>FMECA</Skill>
+        <Skill>Microsoft PowerPoint</Skill>
+        <Skill>Safety engineering</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Accident analysis</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1BT6WH7BVT6266XJ</DID>
+      <OnetCode>29-9011.00</OnetCode>
+      <ONetFriendlyTitle>Occupational Health and Safety Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>A major Offshore E&amp;P Operator is currently seeking an HSE Advisor for a Drilling Campaign in the UK North Sea Sector. The ideal candidate will...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J1BT6WH7BVT6266XJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1BT6WH7BVT6266XJ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:52 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1BT6WH7BVT6266XJ</SimilarJobsURL>
+      <JobTitle>HSE ADVISOR - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>emergency service</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Velosi Intec</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4466NL1FH1QBY19Z</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Crane Driver/Slinger Sheffield Contract £Negotiable We are currently seeking a Crane driver for a contract role based in Sheffield on shift work. Day...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G4466NL1FH1QBY19Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4466NL1FH1QBY19Z&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sheffield</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sheffield</City>
+      <State>SOUTH YORKSHIRE</State>
+      <LocationLatitude>53.38311</LocationLatitude>
+      <LocationLongitude>-1.46454</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4466NL1FH1QBY19Z</SimilarJobsURL>
+      <JobTitle>Crane Driver/Slinger - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Progressive Global Energy &amp; Natural Resources</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5M66NLPDF0WM0MKC</DID>
+      <OnetCode>17-1022.00</OnetCode>
+      <ONetFriendlyTitle>Surveyors</ONetFriendlyTitle>
+      <DescriptionTeaser>A well renowned engineering &amp; construction consultancy in the Energy, Power, Defence and Infrastructure sectors is currently recruiting for quantity...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L5M66NLPDF0WM0MKC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5M66NLPDF0WM0MKC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manchester</City>
+      <State>LANCASHIRE</State>
+      <LocationLatitude>53.4796</LocationLatitude>
+      <LocationLongitude>-2.24881</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5M66NLPDF0WM0MKC</SimilarJobsURL>
+      <JobTitle>Major Consultancy: Quantity Surveyor - National Work - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Surveying</Skill>
+        <Skill>Civil engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0FS6V2J0NQ3X8X4G</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>My client in Bristol is looking for a Subsea Control Systems Engineer on a contract basis. Rates negotiable, contract ongoing. Send all applications...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F0FS6V2J0NQ3X8X4G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0FS6V2J0NQ3X8X4G&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bristol</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bristol</City>
+      <State>AVON</State>
+      <LocationLatitude>51.45373</LocationLatitude>
+      <LocationLongitude>-2.59156</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0FS6V2J0NQ3X8X4G</SimilarJobsURL>
+      <JobTitle>Subsea Control Systems Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Control engineering</Skill>
+        <Skill>Systems engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orion Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7WP6TZT18SFVQTL4</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>893027 - Instrument Engineer Our client is currently recruiting for the position of a Instrument Engineer, based in Great Yarmouth. Job Description...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G7WP6TZT18SFVQTL4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7WP6TZT18SFVQTL4&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Great Yarmouth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Great Yarmouth</City>
+      <State>NORFOLK</State>
+      <LocationLatitude>52.61265</LocationLatitude>
+      <LocationLongitude>1.72408</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:51 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7WP6TZT18SFVQTL4</SimilarJobsURL>
+      <JobTitle>Instrument Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Environmental law</Skill>
+        <Skill>Telecommunication</Skill>
+        <Skill>Renewable energy</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>List Project Engineering Consultants (UK) Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F68W65Y7KQ98SNWXM</DID>
+      <OnetCode>47-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Construction Trades and Extraction Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently seeking an E&amp;I Field Supervisor for our client based near Immingham, North East Lincolnshire. This is a long term contract position...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F68W65Y7KQ98SNWXM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F68W65Y7KQ98SNWXM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Immingham</Location>
+      <DisplayCity></DisplayCity>
+      <City>Immingham</City>
+      <State>SOUTH HUMBERSIDE</State>
+      <LocationLatitude>53.61148</LocationLatitude>
+      <LocationLongitude>-0.22397</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:50 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F68W65Y7KQ98SNWXM</SimilarJobsURL>
+      <JobTitle>E &amp; I Field Supervisor - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G88C6Y0GXJY45GCV0</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Coming in to this New Year are you one of many that is looking to improve your career? Or simply looking for a change? Or maybe even just exploring...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G88C6Y0GXJY45GCV0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G88C6Y0GXJY45GCV0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Worcester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Worcester</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.19106</LocationLatitude>
+      <LocationLongitude>-2.22227</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:50 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G88C6Y0GXJY45GCV0</SimilarJobsURL>
+      <JobTitle>Machinery Design Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>3D modeling</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Engineering drawing</Skill>
+        <Skill>Functional design</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CCN Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4KY5WQFPRY7TQMYH</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>CCN Recruitment are currently looking to fill the job of Shift Leader with a client of ours based in Montrose, Scotland. The job of Shift Leader is...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4KY5WQFPRY7TQMYH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4KY5WQFPRY7TQMYH&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montrose</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montrose</City>
+      <State>ANGUS</State>
+      <LocationLatitude>56.72144</LocationLatitude>
+      <LocationLongitude>-2.46618</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:50 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4KY5WQFPRY7TQMYH</SimilarJobsURL>
+      <JobTitle>Shift Leader - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H85W66LSMTDQGLV5J</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Instrumentation Engineer Hampshire Contract Opportunity - 12months+ Rates flexible. I am looking for an Instrumentation Engineer to work on a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H85W66LSMTDQGLV5J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H85W66LSMTDQGLV5J&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:50 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H85W66LSMTDQGLV5J</SimilarJobsURL>
+      <JobTitle>Senior Instrumentation Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Safety standards</Skill>
+        <Skill>Design code</Skill>
+        <Skill>Electronic engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2H8720TCT4HM7DG7</DID>
+      <OnetCode>11-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chief Executives</ONetFriendlyTitle>
+      <DescriptionTeaser>The company… On behalf of a PSV owner, based in Aberdeen, I am recruiting for a temporary Chief Officer's position on a North Sea based vessel. The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G2H8720TCT4HM7DG7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2H8720TCT4HM7DG7&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2H8720TCT4HM7DG7</SimilarJobsURL>
+      <JobTitle>Chief Officer - PSV - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>5</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2NJ6P6QSW78NG1V5</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Exciting new vacancy from an established global business, an innovative leader in their field. Welcoming applications from experienced engineers who...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K2NJ6P6QSW78NG1V5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2NJ6P6QSW78NG1V5&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>SOUTHEND-ON-SEA</Location>
+      <DisplayCity></DisplayCity>
+      <City>SOUTHEND-ON-SEA</City>
+      <State>ESSEX</State>
+      <LocationLatitude>51.54038</LocationLatitude>
+      <LocationLongitude>0.70516</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2NJ6P6QSW78NG1V5</SimilarJobsURL>
+      <JobTitle>Mechanical Engineer - Medical Devices - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Injection molding</Skill>
+        <Skill>Product data management</Skill>
+        <Skill>Technical documentation</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Project management</Skill>
+        <Skill>Thermal analysis</Skill>
+        <Skill>Product design</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>New product development</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays Specialist Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4XN6YN369CWHC852</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Hays are currently recruiting for a Mechanical Design Engineer on behalf of a market-leading manufacturer of bespoke mechanical equipment. Our client...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K4XN6YN369CWHC852</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4XN6YN369CWHC852&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Birmingham</Location>
+      <DisplayCity></DisplayCity>
+      <City>Birmingham</City>
+      <State>WEST MIDLANDS</State>
+      <LocationLatitude>52.47859</LocationLatitude>
+      <LocationLongitude>-1.9086</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4XN6YN369CWHC852</SimilarJobsURL>
+      <JobTitle>Design Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Life-critical system</Skill>
+        <Skill>Autodesk</Skill>
+        <Skill>Autodesk Inventor</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Mentor IMC Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2RG6FSCNB2CV0118</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>LEAD MECHANICAL ENGINEER required by our Client, an International Oil &amp; Gas Operator, to be based in London, UK on a contract hire basis. DURATION:13...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J2RG6FSCNB2CV0118</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2RG6FSCNB2CV0118&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2RG6FSCNB2CV0118</SimilarJobsURL>
+      <JobTitle>Lead Mechanical Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Engineering management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3KG74GLJL93JGK11</DID>
+      <OnetCode>13-1051.00</OnetCode>
+      <ONetFriendlyTitle>Cost Estimators</ONetFriendlyTitle>
+      <DescriptionTeaser>Quantity Surveyor Whitehaven, Cumbria Staff Nuclear Sector Looking for experienced Project Quantity Surveyors on a staff basis. - Degree qualified...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G3KG74GLJL93JGK11</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3KG74GLJL93JGK11&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Whitehaven</Location>
+      <DisplayCity></DisplayCity>
+      <City>Whitehaven</City>
+      <State>CUMBRIA</State>
+      <LocationLatitude>54.5469</LocationLatitude>
+      <LocationLongitude>-3.58573</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:49 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3KG74GLJL93JGK11</SimilarJobsURL>
+      <JobTitle>Project Quantity Surveyor - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Faststream</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7NK62QBCJVZSY4PY</DID>
+      <OnetCode>11-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chief Executives</ONetFriendlyTitle>
+      <DescriptionTeaser>The company… On behalf of a PSV owner, based in Aberdeen, I am recruiting for a temporary Chief Officer DPO position on a North Sea based vessel. The...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F7NK62QBCJVZSY4PY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7NK62QBCJVZSY4PY&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Great Yarmouth</Location>
+      <DisplayCity></DisplayCity>
+      <City>Great Yarmouth</City>
+      <State>NORFOLK</State>
+      <LocationLatitude>52.61265</LocationLatitude>
+      <LocationLongitude>1.72408</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7NK62QBCJVZSY4PY</SimilarJobsURL>
+      <JobTitle>Chief Officer DPO - PSV 26/01 - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>5</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6ZQ602W4WLYJBYRF</DID>
+      <OnetCode>17-2041.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>We are currently looking for a Process Engineer / Chemical Engineer to work on a staff basis in the North West In order to carry this role out...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F6ZQ602W4WLYJBYRF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6ZQ602W4WLYJBYRF&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chester</City>
+      <State>CHESHIRE</State>
+      <LocationLatitude>53.18813</LocationLatitude>
+      <LocationLongitude>-2.89437</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6ZQ602W4WLYJBYRF</SimilarJobsURL>
+      <JobTitle>Process Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Structuring</Skill>
+        <Skill>Process simulation</Skill>
+        <Skill>Quality management</Skill>
+        <Skill>Project management</Skill>
+        <Skill>Good engineering practice</Skill>
+        <Skill>Process engineering</Skill>
+        <Skill>Chemical engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CCN Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3Q46X1Y3MTB6FPPQ</DID>
+      <OnetCode>29-9011.00</OnetCode>
+      <ONetFriendlyTitle>Occupational Health and Safety Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a global pharmaceutical company with local offices UK wide are currently seeking an EHS Advisor to join the team at their Montrose...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K3Q46X1Y3MTB6FPPQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3Q46X1Y3MTB6FPPQ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montrose</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montrose</City>
+      <State>ANGUS</State>
+      <LocationLatitude>56.72144</LocationLatitude>
+      <LocationLongitude>-2.46618</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3Q46X1Y3MTB6FPPQ</SimilarJobsURL>
+      <JobTitle>EHS Advisor - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>occupational safety and health</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6HR6G8QQMJN21NDM</DID>
+      <OnetCode>17-2111.00</OnetCode>
+      <ONetFriendlyTitle>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors</ONetFriendlyTitle>
+      <DescriptionTeaser>We require a Senior Safety Engineer to work on a contract basis in the London area.</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F6HR6G8QQMJN21NDM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6HR6G8QQMJN21NDM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Leatherhead</Location>
+      <DisplayCity></DisplayCity>
+      <City>Leatherhead</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.29636</LocationLatitude>
+      <LocationLongitude>-0.32942</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6HR6G8QQMJN21NDM</SimilarJobsURL>
+      <JobTitle>Senior Safety Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>KMC International Resources</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0MN6BZGKNT63MGZV</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Process Engineer KMC are excited to be assisting a leading Operator with their search for a Senior Process Engineer, this role could either be...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H0MN6BZGKNT63MGZV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0MN6BZGKNT63MGZV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:48 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0MN6BZGKNT63MGZV</SimilarJobsURL>
+      <JobTitle>Senior Process Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrial engineering</Skill>
+        <Skill>Process simulation</Skill>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Process optimization</Skill>
+        <Skill>Risk assessment</Skill>
+        <Skill>Safety engineering</Skill>
+        <Skill>Process safety</Skill>
+        <Skill>Operational risk</Skill>
+        <Skill>Continuous improvement process</Skill>
+        <Skill>Process improvement</Skill>
+        <Skill>Process engineering</Skill>
+        <Skill>Chemical engineering</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6BV6GGPF9PRPWQ42</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Site Supervisor - Civils Glasgow Contract basis - 6months Rate flexible I am looking for a Site Supervisor (Civils) to work with my client based in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G6BV6GGPF9PRPWQ42</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6BV6GGPF9PRPWQ42&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Glasgow</Location>
+      <DisplayCity></DisplayCity>
+      <City>Glasgow</City>
+      <State>LANARKSHIRE</State>
+      <LocationLatitude>55.8578</LocationLatitude>
+      <LocationLongitude>-4.24251</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:47 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6BV6GGPF9PRPWQ42</SimilarJobsURL>
+      <JobTitle>Civil Engineering Management - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Civil engineering</Skill>
+        <Skill>Engineering management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>The Highfield Company</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4GL6VGQZ0DPZ81BZ</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>My client is one of the top construction companies who are currently looking for a Works Manager to join a new project within Rail in the South East...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4GL6VGQZ0DPZ81BZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4GL6VGQZ0DPZ81BZ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Welling</Location>
+      <DisplayCity></DisplayCity>
+      <City>Welling</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.462</LocationLatitude>
+      <LocationLongitude>0.11171</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:47 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4GL6VGQZ0DPZ81BZ</SimilarJobsURL>
+      <JobTitle>Works Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Occupational safety and health</Skill>
+        <Skill>Civil engineering</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Progressive Global Energy &amp; Natural Resources</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2DW66TG72BNQX00K</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Progressive Global Energy is looking for a Sales Manager to join our client based in Aberdeen specialising in Tubulars, Recycling Services and Asset...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H2DW66TG72BNQX00K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2DW66TG72BNQX00K&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:47 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2DW66TG72BNQX00K</SimilarJobsURL>
+      <JobTitle>Sales Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Sales management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS Tech Ltd</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1D26X96MH77LCPG1</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>This opportunity has arisen for a pipe stress engineer with excellent technical and analytical skills in the oil and gas industries to develop a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F1D26X96MH77LCPG1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1D26X96MH77LCPG1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Glasgow</Location>
+      <DisplayCity></DisplayCity>
+      <City>Glasgow</City>
+      <State>LANARKSHIRE</State>
+      <LocationLatitude>55.8578</LocationLatitude>
+      <LocationLongitude>-4.24251</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:47 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1D26X96MH77LCPG1</SimilarJobsURL>
+      <JobTitle>Pipe Stress Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Finite element method</Skill>
+        <Skill>Heat transfer</Skill>
+        <Skill>Stress analysis</Skill>
+        <Skill>ATEX directive</Skill>
+        <Skill>Mathematics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Petroplan Aberdeen</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4H85YP5Y5HF2YY2J</DID>
+      <OnetCode>17-3029.01</OnetCode>
+      <ONetFriendlyTitle>Non-Destructive Testing Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Petroplan currently have the following requirement for an NDT Technician to join our client on a contract basis in the North Sea. Key responsibilities...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J4H85YP5Y5HF2YY2J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4H85YP5Y5HF2YY2J&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:46 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4H85YP5Y5HF2YY2J</SimilarJobsURL>
+      <JobTitle>NDT Technician - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Contractor management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L41674PPVY90GDD3R</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our Client is a Global Oil and Gas EPC contractor based in Central London. They are looking for a Lead Piping Engineer. Prime responsibilities and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L41674PPVY90GDD3R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L41674PPVY90GDD3R&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:46 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L41674PPVY90GDD3R</SimilarJobsURL>
+      <JobTitle>Chief Piping Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Dependent and independent variables</Skill>
+        <Skill>Quality assurance</Skill>
+        <Skill>Safety standards</Skill>
+        <Skill>International standard</Skill>
+        <Skill>Plant layout study</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Woodland Consultancy Services</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0PH7904X24X8ZDC0</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>SUBSEA FIELD DEVELOPMENT METHODS MANAGER PERMANENT - SURREY Our Client is one of the largest turnkey E &amp; C contractors in the Oil and Gas industry....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K0PH7904X24X8ZDC0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0PH7904X24X8ZDC0&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Guildford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:46 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0PH7904X24X8ZDC0</SimilarJobsURL>
+      <JobTitle>Subsea Field Development Methods Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Project management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays Oil &amp; Gas</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H30Z6LW9KK3V60KYK</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Senior Technical Consultant – Mechanical Oil &amp; Gas Consultancy Type: Permanent Staff Opportunity Salary: Competitive Base Salary (+ Excellent Benefits...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H30Z6LW9KK3V60KYK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H30Z6LW9KK3V60KYK&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:46 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H30Z6LW9KK3V60KYK</SimilarJobsURL>
+      <JobTitle>Senior Technical Consultant - Mechanical - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Engineering design process</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Progressive Global Energy &amp; Natural Resources</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H39K6VC0KVL7ZDQRQ</DID>
+      <OnetCode>11-1021.00</OnetCode>
+      <ONetFriendlyTitle>Operations Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Progressive Global Energy has been tasked by a key account in Aberdeen to source an experienced Operations Manager to join their team on a Permanent...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H39K6VC0KVL7ZDQRQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H39K6VC0KVL7ZDQRQ&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:46 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H39K6VC0KVL7ZDQRQ</SimilarJobsURL>
+      <JobTitle>Operations Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Budget</Skill>
+        <Skill>Pension</Skill>
+        <Skill>Operations management</Skill>
+        <Skill>Forecasting</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Blue Print Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J40C72PPMN9C23M7X</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Thermal Process Engineering Team Leader Warwickshire Staff (Salaries are negotiable dependent on experience) Due to an increased workload, our client...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J40C72PPMN9C23M7X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J40C72PPMN9C23M7X&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Warwick</Location>
+      <DisplayCity></DisplayCity>
+      <City>Warwick</City>
+      <State>WARWICKSHIRE</State>
+      <LocationLatitude>52.28175</LocationLatitude>
+      <LocationLongitude>-1.59103</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J40C72PPMN9C23M7X</SimilarJobsURL>
+      <JobTitle>Thermal Process Engineering Team Leader - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Heat transfer</Skill>
+        <Skill>Technical documentation</Skill>
+        <Skill>Process engineering</Skill>
+        <Skill>Chemical engineering</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7Z475V2S8PZP4CWC</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Project Quality Manager London My Oil &amp; Gas Client, based in West London, are undertaking detailed Engineering and procurement support services for a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F7Z475V2S8PZP4CWC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7Z475V2S8PZP4CWC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7Z475V2S8PZP4CWC</SimilarJobsURL>
+      <JobTitle>Project Quality Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Risk management</Skill>
+        <Skill>Quality management system</Skill>
+        <Skill>Quality management</Skill>
+        <Skill>ISO 9000</Skill>
+        <Skill>Project management</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CCN Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4T8788BXW4KG39FC</DID>
+      <OnetCode>17-2199.04</OnetCode>
+      <ONetFriendlyTitle>Manufacturing Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, specialists in the design and manufacture of technically advanced quality products are currently seeking a Manufacturing Engineer to join...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4T8788BXW4KG39FC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4T8788BXW4KG39FC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dundee</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dundee</City>
+      <State>ANGUS</State>
+      <LocationLatitude>56.46137</LocationLatitude>
+      <LocationLongitude>-2.96761</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4T8788BXW4KG39FC</SimilarJobsURL>
+      <JobTitle>Manufacturing Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L13K6116MNGHBHMLB</DID>
+      <OnetCode>17-2121.01</OnetCode>
+      <ONetFriendlyTitle>Marine Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My EPC client based in Berkshire is looking for a Lead Marine Engineer for a Middle Eastern project. Candidates will ideally have previous Marine...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L13K6116MNGHBHMLB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L13K6116MNGHBHMLB&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reading</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reading</City>
+      <State>BERKSHIRE</State>
+      <LocationLatitude>51.45352</LocationLatitude>
+      <LocationLongitude>-0.96301</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L13K6116MNGHBHMLB</SimilarJobsURL>
+      <JobTitle>Lead Marine Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CCN Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2Z46XMW0Y737686V</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Our client, a well-established Oil &amp; Gas Training company is currently seeking a Electrical Trainer/Assessor to join their team based in Aberdeen. As...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3L2Z46XMW0Y737686V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2Z46XMW0Y737686V&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aberdeen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aberdeen</City>
+      <State>ABERDEENSHIRE</State>
+      <LocationLatitude>57.15382</LocationLatitude>
+      <LocationLongitude>-2.10679</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2Z46XMW0Y737686V</SimilarJobsURL>
+      <JobTitle>Electrical Trainer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6166BH8KM2BLXNBM</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My Client is a global Operating company based in South &amp; they're currently looking for a Senior Instrument Engineer on a staff basis to work on a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H6166BH8KM2BLXNBM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6166BH8KM2BLXNBM&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Southampton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Southampton</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>50.90994</LocationLatitude>
+      <LocationLongitude>-1.40732</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6166BH8KM2BLXNBM</SimilarJobsURL>
+      <JobTitle>Senior Instrument Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International standard</Skill>
+        <Skill>Engineering drawing</Skill>
+        <Skill>Engineering design process</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1JG6QL5STNPMYJKG</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>My client, a lead Oil &amp; Gas EPC; are looking for a Smartplant Administrator to work on a long-term contract basis in Hampshire. This role will be...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J1JG6QL5STNPMYJKG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1JG6QL5STNPMYJKG&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1JG6QL5STNPMYJKG</SimilarJobsURL>
+      <JobTitle>SpF (SmartPant) Administrator (Contruction) - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>application programming interface</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6J76WNQ2WGMWMZ09</DID>
+      <OnetCode>19-2042.00</OnetCode>
+      <ONetFriendlyTitle>Geoscientists, Except Hydrologists and Geographers</ONetFriendlyTitle>
+      <DescriptionTeaser>Principal / Senior Geoscientist, London WRS are currently working on behalf of an international oil company, to identify a Principal or Senior level...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G6J76WNQ2WGMWMZ09</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6J76WNQ2WGMWMZ09&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6J76WNQ2WGMWMZ09</SimilarJobsURL>
+      <JobTitle>Principal / Senior Exploration Geoscientist - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>WRS</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2NR5Z1KXJPZP9H7B</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>WRS are representing a consultancy that specialise in the design for the offshore marine industry. Due to growth they need to employ a talented design...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J2NR5Z1KXJPZP9H7B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2NR5Z1KXJPZP9H7B&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Southampton</Location>
+      <DisplayCity></DisplayCity>
+      <City>Southampton</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>50.90994</LocationLatitude>
+      <LocationLongitude>-1.40732</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:45 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2NR5Z1KXJPZP9H7B</SimilarJobsURL>
+      <JobTitle>Design Engineer Manager - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Quality assurance</Skill>
+        <Skill>Marine engineering</Skill>
+        <Skill>Technical report</Skill>
+        <Skill>Computer-aided design</Skill>
+        <Skill>AutoCAD</Skill>
+        <Skill>MicroStation</Skill>
+        <Skill>Systems design</Skill>
+        <Skill>Microsoft Excel</Skill>
+        <Skill>Engineering management</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Orion Group</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3SZ754VHVQB09625</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>901722 - Electrical Services &amp; Controls Installation Supervisor Our client is currently recruiting for the position of Electrical Services &amp; Controls...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3G3SZ754VHVQB09625</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3SZ754VHVQB09625&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gateshead</Location>
+      <DisplayCity></DisplayCity>
+      <City>Gateshead</City>
+      <State>TYNE AND WEAR</State>
+      <LocationLatitude>54.96113</LocationLatitude>
+      <LocationLongitude>-1.60169</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:44 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3SZ754VHVQB09625</SimilarJobsURL>
+      <JobTitle>Electrical Services &amp; Controls Installation Supervisor - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>First Technical Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1266CJNWV1F4V087</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>My Oil and Gas Client are looking for a Tax Assistant for a contract at their Surrey office. The Client are currently looking for a Tax Assistant who...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3K1266CJNWV1F4V087</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1266CJNWV1F4V087&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Guildford</Location>
+      <DisplayCity></DisplayCity>
+      <City>Guildford</City>
+      <State>SURREY</State>
+      <LocationLatitude>51.23708</LocationLatitude>
+      <LocationLongitude>-0.57051</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:44 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1266CJNWV1F4V087</SimilarJobsURL>
+      <JobTitle>Tax Assistant - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NuParc</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7WK6BWRP652MHHQ5</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>NUPARC ARE HIRING! Bid Team and Resource Planner Required. PERM ROLE Our Business partner, based in Renfrew require a new team member for the Bid team...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J7WK6BWRP652MHHQ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7WK6BWRP652MHHQ5&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Renfrew</Location>
+      <DisplayCity></DisplayCity>
+      <City>Renfrew</City>
+      <State>RENFREWSHIRE</State>
+      <LocationLatitude>55.87446</LocationLatitude>
+      <LocationLongitude>-4.39394</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:44 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7WK6BWRP652MHHQ5</SimilarJobsURL>
+      <JobTitle>Bid Team Co-ordinator - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+      </Skills>
+      <JobLevel>1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Kintec Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6GC6YY2TJQ4RFPFV</DID>
+      <OnetCode>17-2041.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>My EPC client in Hampshire is looking for a Senior Instrumentation / Fire and Gas Engineer on a contract basis to work on a large oil &amp; gas project....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Contract</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3F6GC6YY2TJQ4RFPFV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6GC6YY2TJQ4RFPFV&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Winchester</Location>
+      <DisplayCity></DisplayCity>
+      <City>Winchester</City>
+      <State>HAMPSHIRE</State>
+      <LocationLatitude>51.06307</LocationLatitude>
+      <LocationLongitude>-1.31681</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:43 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6GC6YY2TJQ4RFPFV</SimilarJobsURL>
+      <JobTitle>Senior Instrument / F&amp;G Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NRL Limited</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4NV6KR6Z2Z1ZR3GB</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>NRL's client based on the Central Belt is looking to recruit an expereinced Lead Machinery Engineer on a staff basis. As part of our Asset Engineering...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H4NV6KR6Z2Z1ZR3GB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4NV6KR6Z2Z1ZR3GB&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Central Belt</Location>
+      <DisplayCity>Central Belt</DisplayCity>
+      <City>Stirling</City>
+      <State>STIRLINGSHIRE</State>
+      <LocationLatitude>56.11735</LocationLatitude>
+      <LocationLongitude>-3.93952</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:43 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4NV6KR6Z2Z1ZR3GB</SimilarJobsURL>
+      <JobTitle>Lead Machinery Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Condition monitoring</Skill>
+        <Skill>Mechanical engineering</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NES Global Talent</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6TV673LY3Z6B3WQ1</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>A global and world renowned EPC are continuing their success and winning major contracts and are therefore looking to recruit a Principal Piping...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3H6TV673LY3Z6B3WQ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6TV673LY3Z6B3WQ1&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>London</Location>
+      <DisplayCity></DisplayCity>
+      <City>London</City>
+      <State>LONDON</State>
+      <LocationLatitude>51.50632</LocationLatitude>
+      <LocationLongitude>-0.12714</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:43 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6TV673LY3Z6B3WQ1</SimilarJobsURL>
+      <JobTitle>Principal Piping Designer (PDMS) - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>AutoCAD</Skill>
+        <Skill>MicroStation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Huxley URL Broadbean</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J829708KN3CZRSWLC</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Coming in to this New Year are you one of many that is looking to improve your career? Or simply looking for a change? Or maybe even just exploring...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Permanent</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=UK&amp;DID=J3J829708KN3CZRSWLC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J829708KN3CZRSWLC&amp;HostSite=UK&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Droitwich</Location>
+      <DisplayCity></DisplayCity>
+      <City>Droitwich</City>
+      <State>WORCESTERSHIRE</State>
+      <LocationLatitude>52.26807</LocationLatitude>
+      <LocationLongitude>-2.15648</LocationLongitude>
+      <PostedDate>1/16/2015</PostedDate>
+      <PostedTime>1/16/2015 3:29:42 PM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.co.uk/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J829708KN3CZRSWLC</SimilarJobsURL>
+      <JobTitle>Mechanical Engineer - UK</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer-aided design</Skill>
+        <Skill>Mechanical engineering</Skill>
+        <Skill>Mass customization</Skill>
+        <Skill>Engineering drawing</Skill>
+        <Skill>Functional design</Skill>
+        <Skill>Structural engineering</Skill>
+        <Skill>Process improvement</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>UK</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

@@ -1,0 +1,3461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:56:39 AM</TimeResponseSent>
+  <TimeElapsed>0.3432</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>6516</TotalCount>
+  <FirstItemIndex>3201</FirstItemIndex>
+  <LastItemIndex>3300</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7F06R5N2WWVL4218</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Oracle Developer PE Global requires an Oracle Developer on a contract basis for of our clients in Cork.This will be a technically challenging position...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J7F06R5N2WWVL4218</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7F06R5N2WWVL4218&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:42:14 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7F06R5N2WWVL4218</SimilarJobsURL>
+      <JobTitle>PE Global - Oracle Developer - Daily Rate Contract</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8DW6004KNTQ70T1D</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in internet related services and product. You will be in charge of checking information,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H8DW6004KNTQ70T1D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8DW6004KNTQ70T1D&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:42:13 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8DW6004KNTQ70T1D</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Local Data Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4LJ74C9C04H3CC6L</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in internet related services and product. You will be in charge of checking information,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K4LJ74C9C04H3CC6L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4LJ74C9C04H3CC6L&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:42:13 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4LJ74C9C04H3CC6L</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Local Data Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4GX65479TF4X3Q17</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in internet related services and product. You will be in charge of checking information,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L4GX65479TF4X3Q17</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4GX65479TF4X3Q17&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:42:13 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4GX65479TF4X3Q17</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Local Data Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G57Z6VPGQ1MWPR9N3</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International company based in the Hague area Job Description For an international company in the Hague Area, we are looking for a System...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G57Z6VPGQ1MWPR9N3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G57Z6VPGQ1MWPR9N3&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:42:06 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G57Z6VPGQ1MWPR9N3</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - SQL System Business Administrator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J64D6LX075RLXXW1K</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Our client is an innovative international technology company situated in Amsterdam. Job Description Are you a native speaker of German and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J64D6LX075RLXXW1K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J64D6LX075RLXXW1K&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:57 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J64D6LX075RLXXW1K</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - German Inside Sales/ Commercial Advisor</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2BB70M0103WLQ1MN</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in IT services and product. You will provide the customer with a solution through...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F2BB70M0103WLQ1MN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2BB70M0103WLQ1MN&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kildare - Mid-East, Ireland</Location>
+      <DisplayCity>Kildare - Mid-East, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:51 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2BB70M0103WLQ1MN</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - No experience Technical Support Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7L164JLV8C0GJK94</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in IT services and product. You will provide the customer with a solution through...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H7L164JLV8C0GJK94</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7L164JLV8C0GJK94&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kildare - Mid-East, Ireland</Location>
+      <DisplayCity>Kildare - Mid-East, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:51 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7L164JLV8C0GJK94</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - No experience Technical Support Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4KR6C391F9R2F653</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in IT services and product. You will provide the customer with a solution through...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L4KR6C391F9R2F653</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4KR6C391F9R2F653&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Kildare - Mid-East, Ireland</Location>
+      <DisplayCity>Kildare - Mid-East, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:51 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4KR6C391F9R2F653</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - No experience Technical Support Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J052748MHLH104YNG</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International publishing company in tourism industry. Job Description In this role you will be working according to the seasons of the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J052748MHLH104YNG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J052748MHLH104YNG&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:44 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J052748MHLH104YNG</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Sales Executive, French &amp; English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G31C63PFZP50Q96RB</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International publishing company in tourism industry. Job Description In this role you will be working according to the seasons of the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G31C63PFZP50Q96RB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G31C63PFZP50Q96RB&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:44 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G31C63PFZP50Q96RB</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Sales Executive, French &amp; English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L81M6KHR03HSLBZ44</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International publishing company in tourism industry. Job Description In this role you will be working according to the seasons of the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L81M6KHR03HSLBZ44</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L81M6KHR03HSLBZ44&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:44 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L81M6KHR03HSLBZ44</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Sales Executive, French &amp; English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3GK6S3FQN9GTR0Y4</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International publishing company in tourism industry. Job Description In this role you will be working according to the seasons of the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J3GK6S3FQN9GTR0Y4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3GK6S3FQN9GTR0Y4&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Utrecht</City>
+      <State>UTRECHT</State>
+      <LocationLatitude>52.08893</LocationLatitude>
+      <LocationLongitude>5.1154</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:43 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3GK6S3FQN9GTR0Y4</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Sales Executive, French &amp; English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2SD6920NJTCPJ343</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in internet related services and product. You will be in charge of checking information,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J2SD6920NJTCPJ343</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2SD6920NJTCPJ343&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:42 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2SD6920NJTCPJ343</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Local Data Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H71V6J5GMH88HQ1PV</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for Sales Jobs We are currently recruiting Dutch speakers for positions within the following fields: • Sales • Graduates We...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H71V6J5GMH88HQ1PV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H71V6J5GMH88HQ1PV&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:42 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H71V6J5GMH88HQ1PV</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Calling All Flemish Speakers for Sales Jobs</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0906KFVN8CHML74C</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in internet related services and product. You will be in charge of checking information,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H0906KFVN8CHML74C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0906KFVN8CHML74C&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:42 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0906KFVN8CHML74C</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Local Data Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5S56YBW0FQH86577</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>You will work for an international organisation specialising in internet related services and product. You will be in charge of checking information,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K5S56YBW0FQH86577</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5S56YBW0FQH86577&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:42 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5S56YBW0FQH86577</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Local Data Analyst with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>database</Skill>
+        <Skill>microsoft office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2MC5W33VDR5ZMVG4</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for Sales Jobs We are currently recruiting Dutch speakers for positions within the following fields: • Sales • Graduates We...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G2MC5W33VDR5ZMVG4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2MC5W33VDR5ZMVG4&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:42 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2MC5W33VDR5ZMVG4</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Calling All Flemish Speakers for Sales Jobs</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J48S5VJ3WKKX2SY74</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for Sales Jobs We are currently recruiting Dutch speakers for positions within the following fields: • Sales • Graduates We...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J48S5VJ3WKKX2SY74</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J48S5VJ3WKKX2SY74&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:41 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J48S5VJ3WKKX2SY74</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Calling All Flemish Speakers for Sales Jobs</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5976KVHHCQZG430B</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch speaking Services Technical Sales Specialist required for the world's biggest technology company based in Dublin 15 - Contact Franziska Wust on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H5976KVHHCQZG430B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5976KVHHCQZG430B&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:39 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5976KVHHCQZG430B</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Technical Sales Job - Dublin 15</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+        <Skill>Technical Sales</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4SN77821CC4D5VBH</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch speaking Services Technical Sales Specialist required for the world's biggest technology company based in Dublin 15 - Contact Franziska Wust on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L4SN77821CC4D5VBH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4SN77821CC4D5VBH&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:38 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4SN77821CC4D5VBH</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Technical Sales Job - Dublin 15</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+        <Skill>Technical Sales</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K8F06DRHJK28NGDPS</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch speaking Services Technical Sales Specialist required for the world's biggest technology company based in Dublin 15 - Contact Franziska Wust on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K8F06DRHJK28NGDPS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K8F06DRHJK28NGDPS&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:38 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K8F06DRHJK28NGDPS</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Technical Sales Job - Dublin 15</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3NK646C26D37L556</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International oil and gas company Job Description For a multinational company in oil and gas located in The Hague we are looking for an...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G3NK646C26D37L556</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3NK646C26D37L556&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:37 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3NK646C26D37L556</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - English speaking Treasury Assistant</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L00077TJLVC3GVF7C</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>We require Dutch (Nederlands) speakers with a good level of English to work as Technical Support Representative. This role will require you to take...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L00077TJLVC3GVF7C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L00077TJLVC3GVF7C&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:36 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L00077TJLVC3GVF7C</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Customer Service, No Experience, Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1466PWD1CS9NDDXC</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>We require Dutch (Nederlands) speakers with a good level of English to work as Technical Support Representative. This role will require you to take...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K1466PWD1CS9NDDXC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1466PWD1CS9NDDXC&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:35 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1466PWD1CS9NDDXC</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Customer Service, No Experience, Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F56S6TJ90MPTJTZV8</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>We require Dutch (Nederlands) speakers with a good level of English to work as Technical Support Representative. This role will require you to take...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F56S6TJ90MPTJTZV8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F56S6TJ90MPTJTZV8&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:35 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F56S6TJ90MPTJTZV8</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Customer Service, No Experience, Dublin</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L06Z5WJKZ36F1N3RC</DID>
+      <OnetCode>19-3051.00</OnetCode>
+      <ONetFriendlyTitle>Urban and Regional Planners</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International operating organisation Job Description For our client located in the south of the Netherlands we are looking for a native...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L06Z5WJKZ36F1N3RC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L06Z5WJKZ36F1N3RC&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Brabant, The Netherlands</Location>
+      <DisplayCity>Noord-Brabant, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L06Z5WJKZ36F1N3RC</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - French and Dutch Transport planner</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2JR70W4ZTR2KZJ0G</DID>
+      <OnetCode>19-3051.00</OnetCode>
+      <ONetFriendlyTitle>Urban and Regional Planners</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International operating organisation Job Description For our client located in the south of the Netherlands we are looking for a native...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H2JR70W4ZTR2KZJ0G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2JR70W4ZTR2KZJ0G&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Brabant, The Netherlands</Location>
+      <DisplayCity>Noord-Brabant, The Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2JR70W4ZTR2KZJ0G</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - French and Dutch Transport planner</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J86Y6V793SG5JLXBH</DID>
+      <OnetCode>19-3051.00</OnetCode>
+      <ONetFriendlyTitle>Urban and Regional Planners</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International operating organisation Job Description For our client located in the south of the Netherlands we are looking for a native...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J86Y6V793SG5JLXBH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J86Y6V793SG5JLXBH&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Brabant, The Netherlands</Location>
+      <DisplayCity>Noord-Brabant, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J86Y6V793SG5JLXBH</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - French and Dutch Transport planner</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G20H5WM1GPSWZTQ1G</DID>
+      <OnetCode>19-3051.00</OnetCode>
+      <ONetFriendlyTitle>Urban and Regional Planners</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International operating organisation Job Description For our client located in the south of the Netherlands we are looking for a native...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G20H5WM1GPSWZTQ1G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G20H5WM1GPSWZTQ1G&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Brabant, The Netherlands</Location>
+      <DisplayCity>Noord-Brabant, The Netherlands</DisplayCity>
+      <City>'s-Hertogenbosch</City>
+      <State>NOORD-BRABANT</State>
+      <LocationLatitude>51.69075</LocationLatitude>
+      <LocationLongitude>5.29824</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G20H5WM1GPSWZTQ1G</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - French and Dutch Transport planner</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K03F6RNBPV3DRKN2W</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Quality Assurance Manager-Platform To Grow-Netherlands This is a fantastic opportunity for a Quality professional to step into a managerial role where...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K03F6RNBPV3DRKN2W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K03F6RNBPV3DRKN2W&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</Location>
+      <DisplayCity>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:31 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K03F6RNBPV3DRKN2W</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - Quality Assurance Manager-Platform To Grow-Netherlands</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1HK6ND6X3574NHJZ</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Quality Assurance Manager-Platform To Grow-Netherlands This is a fantastic opportunity for a Quality professional to step into a managerial role where...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L1HK6ND6X3574NHJZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1HK6ND6X3574NHJZ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</Location>
+      <DisplayCity>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:31 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1HK6ND6X3574NHJZ</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - Quality Assurance Manager-Platform To Grow-Netherlands</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>quality assurance</Skill>
+        <Skill>microsoft word</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G76K6721GXM69NRBJ</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Quality Assurance Manager-Platform To Grow-Netherlands This is a fantastic opportunity for a Quality professional to step into a managerial role where...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G76K6721GXM69NRBJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G76K6721GXM69NRBJ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</Location>
+      <DisplayCity>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:31 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G76K6721GXM69NRBJ</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - Quality Assurance Manager-Platform To Grow-Netherlands</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>quality assurance</Skill>
+        <Skill>microsoft word</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Adams' Multilingual Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3WC6SY4DRMVWWS9K</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Job description Sales Advisor - French The main responsibilities of this position will involve: • To achieve and exceed targets • Follow up on warm...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H3WC6SY4DRMVWWS9K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3WC6SY4DRMVWWS9K&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amsterdam - Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Amsterdam - Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:31 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3WC6SY4DRMVWWS9K</SimilarJobsURL>
+      <JobTitle>Adams' Multilingual Recruitment - Sales Advisor - French</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Phone Skills</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Account Management</Skill>
+        <Skill>Sales process</Skill>
+        <Skill>Microsoft Office</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K49M6MY4Y0W399739</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Quality Assurance Manager-Platform To Grow-Netherlands This is a fantastic opportunity for a Quality professional to step into a managerial role where...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K49M6MY4Y0W399739</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K49M6MY4Y0W399739&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</Location>
+      <DisplayCity>Den Bosch - Noord-Brabant, The Netherlands, Netherlands</DisplayCity>
+      <City>Den Bosch</City>
+      <State>NOORD-BRABANT</State>
+      <LocationLatitude>51.7004</LocationLatitude>
+      <LocationLongitude>5.31383</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:31 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K49M6MY4Y0W399739</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - Quality Assurance Manager-Platform To Grow-Netherlands</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>quality assurance</Skill>
+        <Skill>microsoft word</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0G27823WPDHNX2K1</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie a dynamic company with exciting benifits. Their focus lies on quality, excellence and professionalism. Overall a stimulating company to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J0G27823WPDHNX2K1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0G27823WPDHNX2K1&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gelderland, The Netherlands</Location>
+      <DisplayCity>Gelderland, The Netherlands</DisplayCity>
+      <City>Arnhem</City>
+      <State>GELDERLAND</State>
+      <LocationLatitude>51.98015</LocationLatitude>
+      <LocationLongitude>5.90364</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:29 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0G27823WPDHNX2K1</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Credit Manager, German &amp; English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8H471K2GDB9N9K4Y</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Internal Channel Account Manager French and Dutch Start Date: ASAP Location: Cork Salary: €DOE Our client is one of the world's largest software...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G8H471K2GDB9N9K4Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8H471K2GDB9N9K4Y&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland, Cork</Location>
+      <DisplayCity>Cork - South-West, Ireland, Cork</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:27 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8H471K2GDB9N9K4Y</SimilarJobsURL>
+      <JobTitle>Manpower Ireland - Internal Channel Account Manager French and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Reasoning</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Cross-selling</Skill>
+        <Skill>Deductive reasoning</Skill>
+        <Skill>Solution Sales</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2WL6GMS7MPF0FH4F</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Internal Channel Account Manager French and Dutch Start Date: ASAP Location: Cork Salary: €DOE Our client is one of the world's largest software...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F2WL6GMS7MPF0FH4F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2WL6GMS7MPF0FH4F&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland, Cork</Location>
+      <DisplayCity>Cork - South-West, Ireland, Cork</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:27 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2WL6GMS7MPF0FH4F</SimilarJobsURL>
+      <JobTitle>Manpower Ireland - Internal Channel Account Manager French and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Reasoning</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Cross-selling</Skill>
+        <Skill>Deductive reasoning</Skill>
+        <Skill>Solution Sales</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2FY5Z0HGX0TMKV6R</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Internal Channel Account Manager French and Dutch Start Date: ASAP Location: Cork Salary: €DOE Our client is one of the world's largest software...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H2FY5Z0HGX0TMKV6R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2FY5Z0HGX0TMKV6R&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland, Cork</Location>
+      <DisplayCity>Cork - South-West, Ireland, Cork</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:27 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2FY5Z0HGX0TMKV6R</SimilarJobsURL>
+      <JobTitle>Manpower Ireland - Internal Channel Account Manager French and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business development</Skill>
+        <Skill>Reasoning</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Cross-selling</Skill>
+        <Skill>Deductive reasoning</Skill>
+        <Skill>Solution Sales</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K81Q6TSBFSTFJXCWG</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Inside Sales Specialist This position is with a world leader in the telecommunication sector, which is based in Dublin 12 Role • The world's...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K81Q6TSBFSTFJXCWG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K81Q6TSBFSTFJXCWG&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:26 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K81Q6TSBFSTFJXCWG</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Inside Sales - Nederlands Verkoop - Dublin12</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L1X65YRMRS9ZS5FSP</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Inside Sales Specialist This position is with a world leader in the telecommunication sector, which is based in Dublin 12 Role • The world's...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L1X65YRMRS9ZS5FSP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L1X65YRMRS9ZS5FSP&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:25 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L1X65YRMRS9ZS5FSP</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Inside Sales - Nederlands Verkoop - Dublin12</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer satisfaction</Skill>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Germany</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2TV6SBLMDK71G2QQ</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Inside Sales Specialist This position is with a world leader in the telecommunication sector, which is based in Dublin 12 Role • The world's...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J2TV6SBLMDK71G2QQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2TV6SBLMDK71G2QQ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:25 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2TV6SBLMDK71G2QQ</SimilarJobsURL>
+      <JobTitle>CPL Germany - Dutch Inside Sales - Nederlands Verkoop - Dublin12</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer satisfaction</Skill>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MGI Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7JK71G3Y22GMF4N5</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Boxtel is a town in the southern Netherlands (Province: North Brabant), very close to Eindhoven. The city where the past meets the future… a perfect...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F7JK71G3Y22GMF4N5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7JK71G3Y22GMF4N5&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Eindhoven - Noord-Brabant, The Netherlands, Boxtel</Location>
+      <DisplayCity>Eindhoven - Noord-Brabant, The Netherlands, Boxtel</DisplayCity>
+      <City>Eindhoven</City>
+      <State>NOORD-BRABANT</State>
+      <LocationLatitude>51.4351</LocationLatitude>
+      <LocationLongitude>5.47526</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:24 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7JK71G3Y22GMF4N5</SimilarJobsURL>
+      <JobTitle>MGI Recruitment - DU SUCHST EINEN NEUEN JOB? Werde Network Spezialist in den Niederlanden</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>computer security</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G48N6YZLYKLQ7ZDW7</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A global leader providing solutions and services to the marine industry. Job Description The department consists at a team of 4...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G48N6YZLYKLQ7ZDW7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G48N6YZLYKLQ7ZDW7&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:22 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G48N6YZLYKLQ7ZDW7</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - English, Dutch and Turkish Logistics Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3GW71KH2VFW4TMV6</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A global leader providing solutions and services to the marine industry. Job Description The department consists at a team of 4...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K3GW71KH2VFW4TMV6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3GW71KH2VFW4TMV6&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:22 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3GW71KH2VFW4TMV6</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - English, Dutch and Turkish Logistics Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4176F4XBCQP5XTDB</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A global leader providing solutions and services to the marine industry. Job Description The department consists at a team of 4...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F4176F4XBCQP5XTDB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4176F4XBCQP5XTDB&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:22 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4176F4XBCQP5XTDB</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - English, Dutch and Turkish Logistics Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H35C78PGL0B06LR4M</DID>
+      <OnetCode>13-1081.00</OnetCode>
+      <ONetFriendlyTitle>Logisticians</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A global leader providing solutions and services to the marine industry. Job Description The department consists at a team of 4...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H35C78PGL0B06LR4M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H35C78PGL0B06LR4M&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:22 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H35C78PGL0B06LR4M</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - English, Dutch and Turkish Logistics Coordinator</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0GX788T0JV3NGQW7</DID>
+      <OnetCode>41-3041.00</OnetCode>
+      <ONetFriendlyTitle>Travel Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International company in the travel industry. Job Description What will you be doing on a daily basis? As an Account Manager Travel you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G0GX788T0JV3NGQW7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0GX788T0JV3NGQW7&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:20 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0GX788T0JV3NGQW7</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Native Italian and Dutch speaking Account Manager Travel</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Computer skills</Skill>
+        <Skill>Communication</Skill>
+        <Skill>Microsoft Word</Skill>
+        <Skill>Account Management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1NT5Z10GYPT5ZYVK</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Our client is a global leading international company in the Greater Amsterdam Area. Job Description For one of our clients in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K1NT5Z10GYPT5ZYVK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1NT5Z10GYPT5ZYVK&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:18 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1NT5Z10GYPT5ZYVK</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - German Customer Service Representative</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3LS677X9GZ5NS1MV</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie An international company in the city center of Amsterdam Job Description In this role you will provide support to the customers for the...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K3LS677X9GZ5NS1MV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3LS677X9GZ5NS1MV&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:18 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3LS677X9GZ5NS1MV</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Turkish Customer Service Representative</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L8FZ5W981BZC7NV7Y</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Our client is a global leading international company in the Greater Amsterdam Area. Job Description For one of our clients in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L8FZ5W981BZC7NV7Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L8FZ5W981BZC7NV7Y&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:18 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L8FZ5W981BZC7NV7Y</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - German Customer Service Representative</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4QH6YCRG78SGHMFZ</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Our client is a global leading international company in the Greater Amsterdam Area. Job Description For one of our clients in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F4QH6YCRG78SGHMFZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4QH6YCRG78SGHMFZ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:17 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4QH6YCRG78SGHMFZ</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - German Customer Service Representative</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J32K67XMKW5CRN3H6</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Our client is a global leading international company in the Greater Amsterdam Area. Job Description For one of our clients in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J32K67XMKW5CRN3H6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J32K67XMKW5CRN3H6&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:17 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J32K67XMKW5CRN3H6</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - German Customer Service Representative</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L20C6TV2DGSFHKH8P</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Brandmanagement for a high end luxury brand. Job Description Are you native German, fluent in Dutch and English, also experienced in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L20C6TV2DGSFHKH8P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L20C6TV2DGSFHKH8P&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:14 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L20C6TV2DGSFHKH8P</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Contact Center Ambassador fluent in German, Dutch and English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3545VPTVYT5580X9</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Brandmanagement for a high end luxury brand. Job Description Are you native German, fluent in Dutch and English, also experienced in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L3545VPTVYT5580X9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3545VPTVYT5580X9&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:14 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3545VPTVYT5580X9</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Contact Center Ambassador fluent in German, Dutch and English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F72B71MKGMXM6SK3Y</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Brandmanagement for a high end luxury brand. Job Description Are you native German, fluent in Dutch and English, also experienced in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F72B71MKGMXM6SK3Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F72B71MKGMXM6SK3Y&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:14 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F72B71MKGMXM6SK3Y</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Contact Center Ambassador fluent in German, Dutch and English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1VG607CG2GYG1D0R</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Brandmanagement for a high end luxury brand. Job Description Are you native German, fluent in Dutch and English, also experienced in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H1VG607CG2GYG1D0R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1VG607CG2GYG1D0R&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Holland, The Netherlands</Location>
+      <DisplayCity>Noord-Holland, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:14 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1VG607CG2GYG1D0R</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Contact Center Ambassador fluent in German, Dutch and English</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Canduco Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H04C6QP55HRDP1LTQ</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Position: Bilingual Telesales Agent (Current / Existing Customers) [Norwegian, Finnish, Danish, Swedish, Flemish/Dutch – one of these languages on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H04C6QP55HRDP1LTQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H04C6QP55HRDP1LTQ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland, Dundalk</Location>
+      <DisplayCity>Louth - Border, Ireland, Dundalk</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:14 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H04C6QP55HRDP1LTQ</SimilarJobsURL>
+      <JobTitle>Canduco Recruitment -  Bilingual Telesales Agent (Current / Existing Customers)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Call Center</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Canduco Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J12K76VZY7FLWBDZC</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Position: Bilingual Telesales Agent (Current / Existing Customers) [Norwegian, Finnish, Danish, Swedish, Flemish/Dutch – one of these languages on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J12K76VZY7FLWBDZC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J12K76VZY7FLWBDZC&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland, Dundalk</Location>
+      <DisplayCity>Louth - Border, Ireland, Dundalk</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:13 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J12K76VZY7FLWBDZC</SimilarJobsURL>
+      <JobTitle>Canduco Recruitment -  Bilingual Telesales Agent (Current / Existing Customers)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Call Center</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Canduco Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6GC5Y086HK0TRWPX</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Position: Bilingual Telesales Agent (Current / Existing Customers) [Norwegian, Finnish, Danish, Swedish, Flemish/Dutch – one of these languages on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J6GC5Y086HK0TRWPX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6GC5Y086HK0TRWPX&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Louth - Border, Ireland, Dundalk</Location>
+      <DisplayCity>Louth - Border, Ireland, Dundalk</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:12 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6GC5Y086HK0TRWPX</SimilarJobsURL>
+      <JobTitle>Canduco Recruitment -  Bilingual Telesales Agent (Current / Existing Customers)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+        <Skill>Telemarketing</Skill>
+        <Skill>Business To Business</Skill>
+        <Skill>Call Center</Skill>
+        <Skill>Cold calling</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0CZ6PRBSDBVGVJ8R</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>I am currently looking for Dutch candidates for Telemarketing roles based in Dublin City Centre. Those roles can be permanent or temporary (depending...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F0CZ6PRBSDBVGVJ8R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0CZ6PRBSDBVGVJ8R&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:04 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0CZ6PRBSDBVGVJ8R</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Dutch Telesales Dublin City Centre 19K   bonus</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2M46T45MWBZFLD35</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>I am currently looking for Dutch candidates for Telemarketing roles based in Dublin City Centre. Those roles can be permanent or temporary (depending...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K2M46T45MWBZFLD35</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2M46T45MWBZFLD35&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:04 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2M46T45MWBZFLD35</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Dutch Telesales Dublin City Centre 19K   bonus</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H62D72MS82NQV6V93</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>I am currently looking for Dutch candidates for Telemarketing roles based in Dublin City Centre. Those roles can be permanent or temporary (depending...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H62D72MS82NQV6V93</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H62D72MS82NQV6V93&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:41:04 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H62D72MS82NQV6V93</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Dutch Telesales Dublin City Centre 19K   bonus</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G42B72B2R6CL9BFH4</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Das Firmenprofil: Die Mercedes Benz Niederlassung in Maastricht wurde 1998 gegründet und ist der zentrale Ansprechpartner aller Kunden in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G42B72B2R6CL9BFH4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G42B72B2R6CL9BFH4&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Limburg, The Netherlands</Location>
+      <DisplayCity>Limburg, The Netherlands</DisplayCity>
+      <City>Maastricht</City>
+      <State>LIMBURG</State>
+      <LocationLatitude>50.84983</LocationLatitude>
+      <LocationLongitude>5.68827</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:57 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G42B72B2R6CL9BFH4</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Studenten Nebenjob bei Mercedes Benz - German Helpdesk Mitarbeiter(in)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2576Y5K58VC9D46K</DID>
+      <OnetCode>13-1072.00</OnetCode>
+      <ONetFriendlyTitle>Compensation, Benefits, and Job Analysis Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A large international company in the retail industry. Job Description In this role as a Salary Administrator you will correct, accumulate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L2576Y5K58VC9D46K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2576Y5K58VC9D46K&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:56 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2576Y5K58VC9D46K</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Salary Administrator, French, English and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Payroll</Skill>
+        <Skill>Remuneration</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0VX617YNH9MGVQP0</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A large international company in the retail industry. Job Description In this role as a Salary Administrator you will correct, accumulate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F0VX617YNH9MGVQP0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0VX617YNH9MGVQP0&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:56 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0VX617YNH9MGVQP0</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Salary Administrator, French, English and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K75G6QJ1792PKR13B</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A large international company in the retail industry. Job Description In this role as a Salary Administrator you will correct, accumulate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K75G6QJ1792PKR13B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K75G6QJ1792PKR13B&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:56 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K75G6QJ1792PKR13B</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Salary Administrator, French, English and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8H85YB0SJRQVHXL5</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Lead Generation Agent - Dublin City Centre! Are you looking for an exciting new opportunity to build your career and meet new people? Are you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G8H85YB0SJRQVHXL5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8H85YB0SJRQVHXL5&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:55 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8H85YB0SJRQVHXL5</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Dutch Pre Sales - Dublin City Centre!!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Lead generation</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5YH6QSXR3TYPQPGX</DID>
+      <OnetCode>13-1072.00</OnetCode>
+      <ONetFriendlyTitle>Compensation, Benefits, and Job Analysis Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie A large international company in the retail industry. Job Description In this role as a Salary Administrator you will correct, accumulate...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F5YH6QSXR3TYPQPGX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5YH6QSXR3TYPQPGX&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Utrecht</City>
+      <State>UTRECHT</State>
+      <LocationLatitude>52.08893</LocationLatitude>
+      <LocationLongitude>5.1154</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:55 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5YH6QSXR3TYPQPGX</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Salary Administrator, French, English and Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K54F6K99C0V0XH0GH</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Lead Generation Agent - Dublin City Centre! Are you looking for an exciting new opportunity to build your career and meet new people? Are you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K54F6K99C0V0XH0GH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K54F6K99C0V0XH0GH&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:55 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K54F6K99C0V0XH0GH</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Dutch Pre Sales - Dublin City Centre!!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Lead generation</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3JQ67L3XJ8XGV3MN</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Lead Generation Agent - Dublin City Centre! Are you looking for an exciting new opportunity to build your career and meet new people? Are you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J3JQ67L3XJ8XGV3MN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3JQ67L3XJ8XGV3MN&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:54 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3JQ67L3XJ8XGV3MN</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Dutch Pre Sales - Dublin City Centre!!</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Outlook</Skill>
+        <Skill>Microsoft Office</Skill>
+        <Skill>Lead generation</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6P76F6GZR0CVHR3Q</DID>
+      <OnetCode>99-9999.09</OnetCode>
+      <ONetFriendlyTitle>Services Offered</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie The branch of Mercedes Benz, located in Maastricht has been established in 1998 and is the central point of contact in Europe. More than...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F6P76F6GZR0CVHR3Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6P76F6GZR0CVHR3Q&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Limburg, The Netherlands</Location>
+      <DisplayCity>Limburg, The Netherlands</DisplayCity>
+      <City>Maastricht</City>
+      <State>LIMBURG</State>
+      <LocationLatitude>50.84983</LocationLatitude>
+      <LocationLongitude>5.68827</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:49 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6P76F6GZR0CVHR3Q</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - English speaking student job at Mercedes Benz</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G70T72787NT3BF8F0</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for a Range of Positions We are currently recruiting Dutch speakers for positions within the following fields: • Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G70T72787NT3BF8F0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G70T72787NT3BF8F0&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G70T72787NT3BF8F0</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Calling All Dutch (Nederlands) Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H44S63VNM68DG0Q1C</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for a Range of Positions We are currently recruiting Dutch speakers for positions within the following fields: • Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H44S63VNM68DG0Q1C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H44S63VNM68DG0Q1C&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H44S63VNM68DG0Q1C</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Calling All Dutch (Nederlands) Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Ireland</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J45K799BJ485T6PYC</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for a Range of Positions We are currently recruiting Dutch speakers for positions within the following fields: • Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J45K799BJ485T6PYC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J45K799BJ485T6PYC&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:34 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J45K799BJ485T6PYC</SimilarJobsURL>
+      <JobTitle>CPL Ireland - Calling All Dutch (Nederlands) Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Customer service</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3RG769STQMQNJF72</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch speaking Services Technical Sales Specialist required for the world's biggest technology company based in Dublin 15 - Contact Franziska Wust on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L3RG769STQMQNJF72</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3RG769STQMQNJF72&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:30 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3RG769STQMQNJF72</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Dutch Technical Sales Job - Dublin 15</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4WY60MGW0T48D16B</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch speaking Services Technical Sales Specialist required for the world's biggest technology company based in Dublin 15 - Contact Franziska Wust on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J4WY60MGW0T48D16B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4WY60MGW0T48D16B&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:29 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4WY60MGW0T48D16B</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Dutch Technical Sales Job - Dublin 15</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2X267NHYKGRCKLGH</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch speaking Services Technical Sales Specialist required for the world's biggest technology company based in Dublin 15 - Contact Franziska Wust on...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F2X267NHYKGRCKLGH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2X267NHYKGRCKLGH&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:29 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2X267NHYKGRCKLGH</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Dutch Technical Sales Job - Dublin 15</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5C36LGGZ251HNP2Q</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Graduate Jobs - Languages A leading US Multinational who have just opened brand new offices in Ireland, located in Dublin City Centre is looking to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K5C36LGGZ251HNP2Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5C36LGGZ251HNP2Q&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:25 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5C36LGGZ251HNP2Q</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Graduate Jobs - Languages</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0NV74467VV7BK7QM</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Graduate Jobs - Languages A leading US Multinational who have just opened brand new offices in Ireland, located in Dublin City Centre is looking to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F0NV74467VV7BK7QM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0NV74467VV7BK7QM&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:25 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0NV74467VV7BK7QM</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Graduate Jobs - Languages</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sigmar Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1QY6DRF0FY8X7VWF</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Graduate Jobs - Languages A leading US Multinational who have just opened brand new offices in Ireland, located in Dublin City Centre is looking to...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H1QY6DRF0FY8X7VWF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1QY6DRF0FY8X7VWF&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:25 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1QY6DRF0FY8X7VWF</SimilarJobsURL>
+      <JobTitle>Sigmar Recruitment - Graduate Jobs - Languages</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MGI Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G64X789191808G8SX</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Your Profile: - Fluent in Dutch AND French - Good level of English (minimum B1/B2) - Passionate about traveling - Contact Center experience is a plus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G64X789191808G8SX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G64X789191808G8SX&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lisboa - Grande Lisboa, Portugal, Lisbon</Location>
+      <DisplayCity>Lisboa - Grande Lisboa, Portugal, Lisbon</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:24 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G64X789191808G8SX</SimilarJobsURL>
+      <JobTitle>MGI Recruitment - Dutch+English Customer Service Speakers, Lisbon</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MGI Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0D16L1G7JP34YQHW</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Your Profile: - Fluent in Dutch AND French - Good level of English (minimum B1/B2) - Passionate about traveling - Contact Center experience is a plus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K0D16L1G7JP34YQHW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0D16L1G7JP34YQHW&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lisboa - Grande Lisboa, Portugal, Lisbon</Location>
+      <DisplayCity>Lisboa - Grande Lisboa, Portugal, Lisbon</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:23 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0D16L1G7JP34YQHW</SimilarJobsURL>
+      <JobTitle>MGI Recruitment - Dutch+English Customer Service Speakers, Lisbon</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MGI Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L19K6QYW44QQJ9MD5</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Your Profile: - Fluent in Dutch AND French - Good level of English (minimum B1/B2) - Passionate about traveling - Contact Center experience is a plus...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L19K6QYW44QQJ9MD5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L19K6QYW44QQJ9MD5&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lisboa - Grande Lisboa, Portugal, Lisbon</Location>
+      <DisplayCity>Lisboa - Grande Lisboa, Portugal, Lisbon</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:23 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L19K6QYW44QQJ9MD5</SimilarJobsURL>
+      <JobTitle>MGI Recruitment - Dutch+English Customer Service Speakers, Lisbon</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Jobs s.r.o</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5K76MFHCND5N4TZS</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Key Responsibilities • Receive and respond to all incoming AP and / or Procurement queries via phone call and email from external suppliers and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3G5K76MFHCND5N4TZS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5K76MFHCND5N4TZS&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Praha, Czech Republic</Location>
+      <DisplayCity>Praha, Czech Republic</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:21 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5K76MFHCND5N4TZS</SimilarJobsURL>
+      <JobTitle>CPL Jobs s.r.o - Customer Service Representative with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Jobs s.r.o</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0HZ732DQ0BS8ZJ0Z</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Key Responsibilities • Receive and respond to all incoming AP and / or Procurement queries via phone call and email from external suppliers and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F0HZ732DQ0BS8ZJ0Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0HZ732DQ0BS8ZJ0Z&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Praha, Czech Republic</Location>
+      <DisplayCity>Praha, Czech Republic</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:20 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0HZ732DQ0BS8ZJ0Z</SimilarJobsURL>
+      <JobTitle>CPL Jobs s.r.o - Customer Service Representative with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL Jobs s.r.o</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L5Q660WW7NZK3HNJ6</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Key Responsibilities • Receive and respond to all incoming AP and / or Procurement queries via phone call and email from external suppliers and...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L5Q660WW7NZK3HNJ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L5Q660WW7NZK3HNJ6&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Praha, Czech Republic</Location>
+      <DisplayCity>Praha, Czech Republic</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:20 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L5Q660WW7NZK3HNJ6</SimilarJobsURL>
+      <JobTitle>CPL Jobs s.r.o - Customer Service Representative with Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3TW6MZCL3PFCP9KR</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International legal company in the centre of Rotterdam Job Description About the job: As a parttime native English Legal Secretary you...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J3TW6MZCL3PFCP9KR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3TW6MZCL3PFCP9KR&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Zuid-Holland, The Netherlands</Location>
+      <DisplayCity>Zuid-Holland, The Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:19 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3TW6MZCL3PFCP9KR</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Parttime native English Legal Secretary and fluent in Dutch</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2HN5VJWRNM8NTLW5</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for a Range of Positions We are currently recruiting Dutch speakers for positions within the following fields: • Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H2HN5VJWRNM8NTLW5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2HN5VJWRNM8NTLW5&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:18 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2HN5VJWRNM8NTLW5</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Calling All Dutch (Nederlands) Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K4HM6Q26CJ62T7QQG</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for a Range of Positions We are currently recruiting Dutch speakers for positions within the following fields: • Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K4HM6Q26CJ62T7QQG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K4HM6Q26CJ62T7QQG&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:18 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K4HM6Q26CJ62T7QQG</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Calling All Dutch (Nederlands) Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6XS6SLH6VW41J9XZ</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Dutch Speakers Required for a Range of Positions We are currently recruiting Dutch speakers for positions within the following fields: • Customer...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J6XS6SLH6VW41J9XZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6XS6SLH6VW41J9XZ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:17 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6XS6SLH6VW41J9XZ</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Calling All Dutch (Nederlands) Speakers</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K31Q63FQR8J7NHV1F</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global is looking to recruit a .Net Developer for a contract position in Cork. • ASP.NET experience required. • Minimum 3 years’ experience in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K31Q63FQR8J7NHV1F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K31Q63FQR8J7NHV1F&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:11 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K31Q63FQR8J7NHV1F</SimilarJobsURL>
+      <JobTitle>PE Global - .NET / SQL Developer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>jquery</Skill>
+        <Skill>vb</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5KQ739JQV9MSJCQS</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global is looking to recruit a .Net Developer for a contract position in Cork. • ASP.NET experience required. • Minimum 3 years’ experience in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3H5KQ739JQV9MSJCQS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5KQ739JQV9MSJCQS&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:11 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5KQ739JQV9MSJCQS</SimilarJobsURL>
+      <JobTitle>PE Global - .NET / SQL Developer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>jquery</Skill>
+        <Skill>vb</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PE Global</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3BT6VMJFPSWQJW0P</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>PE Global is looking to recruit a .Net Developer for a contract position in Cork. • ASP.NET experience required. • Minimum 3 years’ experience in...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L3BT6VMJFPSWQJW0P</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3BT6VMJFPSWQJW0P&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cork - South-West, Ireland</Location>
+      <DisplayCity>Cork - South-West, Ireland</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:11 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3BT6VMJFPSWQJW0P</SimilarJobsURL>
+      <JobTitle>PE Global - .NET / SQL Developer</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>jquery</Skill>
+        <Skill>vb</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L40C63KK0KW1N6HNQ</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie International renowned organisation in Eindhoven active in a niche market. Job Description As Key account specialist you will be...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L40C63KK0KW1N6HNQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L40C63KK0KW1N6HNQ&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noord-Brabant, The Netherlands</Location>
+      <DisplayCity>Noord-Brabant, The Netherlands</DisplayCity>
+      <City>'s-Hertogenbosch</City>
+      <State>NOORD-BRABANT</State>
+      <LocationLatitude>51.69075</LocationLatitude>
+      <LocationLongitude>5.29824</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:09 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L40C63KK0KW1N6HNQ</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Key Account Specialist Western Europe</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Unique Multilingual</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F60M6CJ4SFMQFR192</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Organisatie Our client is a leading manufacturer in professional electronics. Job Description We are looking for technically oriented customer service...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3F60M6CJ4SFMQFR192</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F60M6CJ4SFMQFR192&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht, The Netherlands</Location>
+      <DisplayCity>Utrecht, The Netherlands</DisplayCity>
+      <City>Utrecht</City>
+      <State>UTRECHT</State>
+      <LocationLatitude>52.08893</LocationLatitude>
+      <LocationLongitude>5.1154</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:05 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F60M6CJ4SFMQFR192</SimilarJobsURL>
+      <JobTitle>Unique Multilingual - Technical Customer Support,German &amp; English, Amersfoort</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K1SY6Y0MSZB8ZSXN5</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Inside Sales Agent - Danish/Dutch/German CPL are recruiting for an Inside Sales Agent to work at supporting a growing sales organisation. It is a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K1SY6Y0MSZB8ZSXN5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K1SY6Y0MSZB8ZSXN5&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:02 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K1SY6Y0MSZB8ZSXN5</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Inside Sales Agent - Danish/Dutch/German</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L4F362ZGKVH09NB7D</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>For a Global medical devices company located in the Netherlands, we are currently looking for an enthusiastic Sales Representative in the Netherlands...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3L4F362ZGKVH09NB7D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L4F362ZGKVH09NB7D&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht - Utrecht, The Netherlands, Netherlands</Location>
+      <DisplayCity>Utrecht - Utrecht, The Netherlands, Netherlands</DisplayCity>
+      <City>Amsterdam</City>
+      <State>NOORD-HOLLAND</State>
+      <LocationLatitude>52.37312</LocationLatitude>
+      <LocationLongitude>4.89319</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:01 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L4F362ZGKVH09NB7D</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - Sales Specialist, Anaesthesia : the Netherlands</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Non Stop Recruitment</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K2FQ607F40XZGX6C0</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>For a Global medical devices company located in the Netherlands, we are currently looking for an enthusiastic Sales Representative in the Netherlands...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3K2FQ607F40XZGX6C0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K2FQ607F40XZGX6C0&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Utrecht - Utrecht, The Netherlands, Netherlands</Location>
+      <DisplayCity>Utrecht - Utrecht, The Netherlands, Netherlands</DisplayCity>
+      <City>Den Haag</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>52.08399</LocationLatitude>
+      <LocationLongitude>4.31741</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:01 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K2FQ607F40XZGX6C0</SimilarJobsURL>
+      <JobTitle>Non Stop Recruitment - Sales Specialist, Anaesthesia : the Netherlands</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CPL - The Netherlands</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J37M60BM7D2XL6MS6</DID>
+      <OnetCode>00-0000.00</OnetCode>
+      <ONetFriendlyTitle>Unclassified</ONetFriendlyTitle>
+      <DescriptionTeaser>Inside Sales Agent - Danish/Dutch/German CPL are recruiting for an Inside Sales Agent to work at supporting a growing sales organisation. It is a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Fulltime werknemer</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=NL&amp;DID=J3J37M60BM7D2XL6MS6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J37M60BM7D2XL6MS6&amp;HostSite=NL&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dublin - Dublin Region, Ireland</Location>
+      <DisplayCity>Dublin - Dublin Region, Ireland</DisplayCity>
+      <City>Rotterdam</City>
+      <State>ZUID-HOLLAND</State>
+      <LocationLatitude>51.92283</LocationLatitude>
+      <LocationLongitude>4.47845</LocationLongitude>
+      <PostedDate>1/28/2015</PostedDate>
+      <PostedTime>1/28/2015 3:40:01 PM</PostedTime>
+      <Pay>N.v.t.</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.nl/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J37M60BM7D2XL6MS6</SimilarJobsURL>
+      <JobTitle>CPL - The Netherlands - Inside Sales Agent - Danish/Dutch/German</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>NL</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

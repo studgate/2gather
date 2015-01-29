@@ -1,0 +1,3489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:48:41 AM</TimeResponseSent>
+  <TimeElapsed>0.3588023</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13259</TotalCount>
+  <FirstItemIndex>8201</FirstItemIndex>
+  <LastItemIndex>8300</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>EASY'S</Company>
+      <CompanyDID>c8a8g56lzp3zgkp2fny</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8a8g56lzp3zgkp2fny/easys/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHN2LY61W15ZB7Q1XBS</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>L’entreprise : Notre client est une société implantée sur l’Ile de France, spécialisée dans les études et les travaux en électricité industrielle ,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN2LY61W15ZB7Q1XBS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN2LY61W15ZB7Q1XBS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montrouge</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montrouge</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.81842</LocationLatitude>
+      <LocationLongitude>2.32009</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:14:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN2LY61W15ZB7Q1XBS</SimilarJobsURL>
+      <JobTitle>PROJETEUR ÉLECTRICITÉ INDUSTRIELLE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TIM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT4YZ79NRZ04SF5F6V</DID>
+      <OnetCode>17-2199.03</OnetCode>
+      <ONetFriendlyTitle>Energy Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>TIM recrute pour son client, Bureau d'étude en mécanique, un Chef de projet Electricité. Dans le cadre de conceptions de collecteurs électriques...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Bachelor's Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT4YZ79NRZ04SF5F6V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT4YZ79NRZ04SF5F6V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Le Plessis-Robinson-92350</Location>
+      <DisplayCity></DisplayCity>
+      <City>Le Plessis-Robinson</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7835</LocationLatitude>
+      <LocationLongitude>2.26978</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:12:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT4YZ79NRZ04SF5F6V</SimilarJobsURL>
+      <JobTitle>Chef de Projet Electricité H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Excel</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Casino</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6336S6T3M31CJ5H7</DID>
+      <OnetCode>43-4161.00</OnetCode>
+      <ONetFriendlyTitle>Human Resource Assistants (not Payroll and Timekeeping)</ONetFriendlyTitle>
+      <DescriptionTeaser>Casino, Groupe de distribution, occupe en France une position de leader grâce à la diversité de ses enseignes : Géant Casino, Monoprix, Supermarchés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6336S6T3M31CJ5H7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6336S6T3M31CJ5H7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Castelnau d'Estretefonds</Location>
+      <DisplayCity>Castelnau d'Estretefonds</DisplayCity>
+      <City>Bouloc</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.7959</LocationLatitude>
+      <LocationLongitude>1.4181</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:03:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6336S6T3M31CJ5H7</SimilarJobsURL>
+      <JobTitle>STAGE assistant chargé de recrutement (31) CASINO PROXIMITE  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XC/M0X09772PL04P5BCQXC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3PB6M63HXRYKV115</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recherche, pour l'un de ses clients, un(e) Comptable Fournisseurs. Au sein du Service Comptable, vos responsabilités seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3PB6M63HXRYKV115</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3PB6M63HXRYKV115&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hauts-de-Seine</Location>
+      <DisplayCity>Hauts-de-Seine</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:03:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3PB6M63HXRYKV115</SimilarJobsURL>
+      <JobTitle>COMPTABLE FOURNISSEURS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G43J798X4K80ZXYGV</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Société de prestations de services. Vous prenez en charge l'ensemble des activités administratives de la gestion ADV à la facturation. Vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G43J798X4K80ZXYGV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G43J798X4K80ZXYGV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne</Location>
+      <DisplayCity>Val-de-Marne</DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.6289</LocationLatitude>
+      <LocationLongitude>2.44567</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:02:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G43J798X4K80ZXYGV</SimilarJobsURL>
+      <JobTitle>RESPONSABLE ADV</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H55367FJYJ77XD8V1</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est le premier distributeur de produits d'électroménager, d'art de la cuisine et d'ustensiles auprès des magasins de proximité. Cette...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H55367FJYJ77XD8V1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H55367FJYJ77XD8V1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vendée / Deux-Sèvres (85, 79)</Location>
+      <DisplayCity>Vendée / Deux-Sèvres (85, 79)</DisplayCity>
+      <City>Roche-sur-Yon</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>46.6704</LocationLatitude>
+      <LocationLongitude>-1.43141</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:02:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H55367FJYJ77XD8V1</SimilarJobsURL>
+      <JobTitle>RESPONSABLE DE SECTEUR (CUISINE/ELECTROMÉNAGER)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Traceone</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS7KQ6GG91LWJ9DX8D</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Trace One est le leader européen des solutions e-collaboratives pour les distributeurs et industriels du secteur des PGC (Produits de Grande...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS7KQ6GG91LWJ9DX8D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS7KQ6GG91LWJ9DX8D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 11:01:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS7KQ6GG91LWJ9DX8D</SimilarJobsURL>
+      <JobTitle>Team Leader Web .Net (H/F)- EDITEUR - Management d’équipe – Pôle Innovation</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>nunit</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>windows server 2008 r2</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>mvc</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>ajax</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Traceone</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN3MS786BDGL86HF1M</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Trace One est le leader européen des solutions e-collaboratives pour les distributeurs et industriels du secteur des PGC (Produits de Grande...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN3MS786BDGL86HF1M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN3MS786BDGL86HF1M&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:57:04 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN3MS786BDGL86HF1M</SimilarJobsURL>
+      <JobTitle>Senior Software Engineer Web .Net (H/F) - Pôle Innovation - Projets à dimension internationale</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>c-sharp</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>nunit</Skill>
+        <Skill>database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>software development</Skill>
+        <Skill>windows server 2008 r2</Skill>
+        <Skill>User Interface design</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>mvc</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+        <Skill>ajax</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ITS GROUP</Company>
+      <CompanyDID>cht35475rt7vq2pwcr9</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht35475rt7vq2pwcr9/its-group/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G6HM6WBPJ5B293JLC</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Créée en 2001, IBELEM est la filiale mobilité de ITS Group, groupe spécialisé en infrastructure IT. IBELEM est une société experte dans le conseil, l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6HM6WBPJ5B293JLC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6HM6WBPJ5B293JLC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>NANTES</Location>
+      <DisplayCity>NANTES</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:47:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6HM6WBPJ5B293JLC</SimilarJobsURL>
+      <JobTitle>Développeur web H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/wx/m0x75r6twdm1htcvkwx.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>jquery</Skill>
+        <Skill>Android</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>sql</Skill>
+        <Skill>windows phone 7</Skill>
+        <Skill>ios</Skill>
+        <Skill>php</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT2MJ6DCP1K8YWZGG6</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour l’un de ses clients, un(e): Documentaliste Cabinet d’avocats international, au sein du bureau de Paris...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT2MJ6DCP1K8YWZGG6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT2MJ6DCP1K8YWZGG6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:46:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT2MJ6DCP1K8YWZGG6</SimilarJobsURL>
+      <JobTitle>Documentaliste</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DELSOL Avocats</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR2ZV61N4S38PHZFQB</DID>
+      <OnetCode>21-1021.00</OnetCode>
+      <ONetFriendlyTitle>Child, Family, and School Social Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet DELSOL Avocats, cabinet de droit des affaires pluridisciplinaire implanté à Paris et Lyon comportant 90 avocats recherche pour son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR2ZV61N4S38PHZFQB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR2ZV61N4S38PHZFQB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris-75000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:41:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR2ZV61N4S38PHZFQB</SimilarJobsURL>
+      <JobTitle>STAGIAIRE EN DROIT SOCIAL H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/86/MKH6LH6HL1S2DDSR086.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5TT6FWG7LH2JH9J3</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>PROJETEUR ELECTRICITE SEE ELECTRICAL OU XELEC Entreprise spécialisée en électricité industrielle Nous recherchons pour une longue mission de 1 an un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5TT6FWG7LH2JH9J3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5TT6FWG7LH2JH9J3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Essonne</Location>
+      <DisplayCity>Essonne</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:33:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5TT6FWG7LH2JH9J3</SimilarJobsURL>
+      <JobTitle>PROJETEUR ELECTRICITE SEE ELECTRICAL OU XELEC</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Konica Minolta</Company>
+      <CompanyDID>chq6mk6hvkqqq00bfrj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq6mk6hvkqqq00bfrj/konica-minolta/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3M35W2NVRRG0F2XC</DID>
+      <OnetCode>11-3011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Services Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Konica Minolta représentée en France par 1 500 collaborateurs a concentré ses forces de développement sur le secteur de l'impression et des services...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3M35W2NVRRG0F2XC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3M35W2NVRRG0F2XC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>carrières sur seine</Location>
+      <DisplayCity>carrières sur seine</DisplayCity>
+      <City>Carrières-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9094</LocationLatitude>
+      <LocationLongitude>2.1777</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:33:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3M35W2NVRRG0F2XC</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE ADMINISTRATION COMMERCIALE - 78 - CDI - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3D/M0V4GP604L5K6F8923D.gif</CompanyImageURL>
+      <JobBrandingIcons>VIcon,PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>flux (software)</Skill>
+        <Skill>SAP</Skill>
+        <Skill>microsoft word</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>PAYJOB</Company>
+      <CompanyDID>chr34j5yh3blt2544c8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr34j5yh3blt2544c8/payjob/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT53J6D2LPL7BQQQDD</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>PAY JOB, cabinet de recrutement dédié aux professionnels de la paie, recherche pour l’un de ses clients, un Gestionnaire paie (H/F) en CDD (7 mois)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT53J6D2LPL7BQQQDD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT53J6D2LPL7BQQQDD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Argenteuil-95100</Location>
+      <DisplayCity></DisplayCity>
+      <City>Argenteuil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9505</LocationLatitude>
+      <LocationLongitude>2.25414</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:12:53 AM</PostedTime>
+      <Pay>24 000 € - 25 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT53J6D2LPL7BQQQDD</SimilarJobsURL>
+      <JobTitle>Gestionnaire paie H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DN/MRN0RJ6FDM00WSZPXDN.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TALEA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT0SW77LMW9XKSS9QN</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>TALEA, ESN de 130 collaborateurs en Ile de France est en croissance depuis sa création. Le groupe intervient sur les secteurs des marchés financiers,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT0SW77LMW9XKSS9QN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT0SW77LMW9XKSS9QN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Compiègne-60200</Location>
+      <DisplayCity></DisplayCity>
+      <City>Compiègne</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.395</LocationLatitude>
+      <LocationLongitude>2.84781</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:12:36 AM</PostedTime>
+      <Pay>2 000 € - 22 800 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT0SW77LMW9XKSS9QN</SimilarJobsURL>
+      <JobTitle>H/F Technicien helpdesk</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/LP/Mwr24L64RRC2W9Z3LLP.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>dynamic host configuration protocol</Skill>
+        <Skill>firewall (computing)</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>windows xp</Skill>
+        <Skill>simple mail transfer protocol</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>DNS</Skill>
+        <Skill>http secure</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AMD CONSULTING</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS2V76WX7WZKNM2654</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Ingénieur C - C++ - SQL AMD consulting, est un acteur reconnu dans le conseil informatique qui s’est spécialisé depuis sa création dans des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS2V76WX7WZKNM2654</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS2V76WX7WZKNM2654&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>PARIS</Location>
+      <DisplayCity>PARIS</DisplayCity>
+      <City>Paris XII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8337</LocationLatitude>
+      <LocationLongitude>2.4268</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:07:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS2V76WX7WZKNM2654</SimilarJobsURL>
+      <JobTitle>Ingénieur C - C++ - SQL (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/NZ/MWJ2RC6JZD1T69SNRNZ.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>transact-sql</Skill>
+        <Skill>sql</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Casino</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6ZS75LPYHFHCN7N7</DID>
+      <OnetCode>43-4161.00</OnetCode>
+      <ONetFriendlyTitle>Human Resource Assistants (not Payroll and Timekeeping)</ONetFriendlyTitle>
+      <DescriptionTeaser>Casino, Groupe de distribution, occupe en France une position de leader grâce à la diversité de ses enseignes : Géant Casino, Monoprix, Supermarchés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Stage</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6ZS75LPYHFHCN7N7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6ZS75LPYHFHCN7N7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>AIX EN PROVENCE</Location>
+      <DisplayCity>AIX EN PROVENCE</DisplayCity>
+      <City>Aix-en-Provence</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.5281</LocationLatitude>
+      <LocationLongitude>5.42451</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 10:00:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6ZS75LPYHFHCN7N7</SimilarJobsURL>
+      <JobTitle>STAGE assistant chargé de recrutement (13) CASINO PROXIMITE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XC/M0X09772PL04P5BCQXC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G37Z70WVNC63PKSHW</DID>
+      <OnetCode>13-1199.00</OnetCode>
+      <ONetFriendlyTitle>Business Operations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS recrute pour son client, un Coordinateur des Opérations Site Client H/F, dans le cadre d’une embauche CDI. Poste basé à La Ciotat. Rattaché au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G37Z70WVNC63PKSHW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G37Z70WVNC63PKSHW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Ciotat</Location>
+      <DisplayCity></DisplayCity>
+      <City>La Ciotat</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.17418</LocationLatitude>
+      <LocationLongitude>5.61036</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G37Z70WVNC63PKSHW</SimilarJobsURL>
+      <JobTitle>Coordinateur des Opérations Site Client H/F - offre d'emploi à La Ciotat - ANCR5413MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3816L9QG08RRV39V</DID>
+      <OnetCode>49-2022.00</OnetCode>
+      <ONetFriendlyTitle>Telecommunications Equipment Installers and Repairers, Except Line Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Technicien Telecom dans le cadre d’une mission de 6 mois renouvelable. Poste basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3816L9QG08RRV39V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3816L9QG08RRV39V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3816L9QG08RRV39V</SimilarJobsURL>
+      <JobTitle>Technicien Telecom H/F Offre d'emploi sur Marseille - 13 FDLB5459MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6346VHJCV2ZX82ZS</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass agence de recrutement recherche pour son client un chargé d’affaires installations générales dans le cadre d’un CDI. Le poste est basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6346VHJCV2ZX82ZS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6346VHJCV2ZX82ZS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitrolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitrolles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.44994</LocationLatitude>
+      <LocationLongitude>5.253</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6346VHJCV2ZX82ZS</SimilarJobsURL>
+      <JobTitle>Chargé d’affaires installations générales H/F Offre d'emploi sur Vitrolles ACJS5443MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F15G6GVG1LRD3XQD0</DID>
+      <OnetCode>49-9099.00</OnetCode>
+      <ONetFriendlyTitle>Installation, Maintenance, and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour l’un de ses clients un Technicien de Maintenance Désenfumage H/F. Poste sur Lyon - 69 Rattaché au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F15G6GVG1LRD3XQD0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F15G6GVG1LRD3XQD0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F15G6GVG1LRD3XQD0</SimilarJobsURL>
+      <JobTitle>Technicien de Maintenance Désenfumage H/F Offre d'emploi à Lyon - 69 - LULU1498LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0JN61532W60NSLR9</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche un Technicien de Maintenance CVC H/F dans le cadre d'une mission temporaire de quatre mois, renouvelable. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0JN61532W60NSLR9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0JN61532W60NSLR9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>St Priest</Location>
+      <DisplayCity>St Priest</DisplayCity>
+      <City>Saint-Priest</City>
+      <State>LIMOUSIN</State>
+      <LocationLatitude>46.0874</LocationLatitude>
+      <LocationLongitude>2.36095</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0JN61532W60NSLR9</SimilarJobsURL>
+      <JobTitle>Technicien de Maintenance CVC H/F Offre d'emploi à Lyon - 69 - LULU1438LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6RC68XVN0C0MCYV4</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Technicien de maintenance industrielle agroalimentaire H/F dans le cadre d'une mission...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6RC68XVN0C0MCYV4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6RC68XVN0C0MCYV4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>St Priest</Location>
+      <DisplayCity>St Priest</DisplayCity>
+      <City>Saint-Priest</City>
+      <State>LIMOUSIN</State>
+      <LocationLatitude>46.0874</LocationLatitude>
+      <LocationLongitude>2.36095</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6RC68XVN0C0MCYV4</SimilarJobsURL>
+      <JobTitle>Technicien de maintenance industrielle agroalimentaire H/F offre d'emploi sur St Priest - 69 SCNB1528LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F05S72SWW1NB08QDD</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Technicien de maintenance H/F dans le cadre d’un CDI. Poste basé à l’Arbresle (69),...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F05S72SWW1NB08QDD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F05S72SWW1NB08QDD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Arbresle</Location>
+      <DisplayCity></DisplayCity>
+      <City>Arbresle</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.8348</LocationLatitude>
+      <LocationLongitude>4.61013</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F05S72SWW1NB08QDD</SimilarJobsURL>
+      <JobTitle>Technicien de maintenance industrielle H/F Offre d'emploi à l'Arbresle - 69 SCNB1509LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1MV6JDMF285Q997S</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche, pour son client un(e) Projeteur Tuyauterie H/F dans le cadre d’une mission d'intérim de 6 mois renouvelables...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1MV6JDMF285Q997S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1MV6JDMF285Q997S&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint Paul lez Durance – 13</Location>
+      <DisplayCity>Saint Paul lez Durance – 13</DisplayCity>
+      <City>Saint-Paul-lès-Durance</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.68563</LocationLatitude>
+      <LocationLongitude>5.70941</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1MV6JDMF285Q997S</SimilarJobsURL>
+      <JobTitle>Projeteur Tuyauterie H/F offre d'emploi sur Saint Paul lez Durance - 13 ANAN5179MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3L274KS6932W6BJJ</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Conducteur de Travaux Telecom dans le cadre d’une mission de 6 mois renouvelable. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3L274KS6932W6BJJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3L274KS6932W6BJJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3L274KS6932W6BJJ</SimilarJobsURL>
+      <JobTitle>Conducteur de travaux Telecom H/F Offre d'emploi sur Marseille - 13 FDLB5458MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7NC75BBWWZ7VV4V0</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un responsable méthode usinage dans le cadre d’un CDI. Le poste est basé à Toulon. Vous êtes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7NC75BBWWZ7VV4V0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7NC75BBWWZ7VV4V0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.12534</LocationLatitude>
+      <LocationLongitude>5.93029</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7NC75BBWWZ7VV4V0</SimilarJobsURL>
+      <JobTitle>Responsable méthode usinage H/F offre d'emploi sur Toulon - 83 ACJS5223MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2FC6VJGT4Q6TCHVD</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un(e) Technicien Frigoriste GMS dans le cadre d’un CDI. Poste basé à Manosque – 04. Au sein de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2FC6VJGT4Q6TCHVD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2FC6VJGT4Q6TCHVD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manosque</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manosque</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.83144</LocationLatitude>
+      <LocationLongitude>5.78426</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2FC6VJGT4Q6TCHVD</SimilarJobsURL>
+      <JobTitle>Technicien Frigoriste GMS H/F offre d'emploi sur Manosque- 04 - FDCR5425MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4V0692ST9F9N75KH</DID>
+      <OnetCode>27-3041.00</OnetCode>
+      <ONetFriendlyTitle>Editors</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Monteur GSM dans le cadre d’une mission de 6 mois renouvelable. Poste basé à Marseille...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4V0692ST9F9N75KH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4V0692ST9F9N75KH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4V0692ST9F9N75KH</SimilarJobsURL>
+      <JobTitle>Monteur GSM H/F Offre d'emploi sur Marseille - 13 FDLB5460MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F24W6LHB72T6163T1</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Dessinateur en mécanique dans le cadre d’une mission de trois mois renouvelables. Poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F24W6LHB72T6163T1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F24W6LHB72T6163T1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.12534</LocationLatitude>
+      <LocationLongitude>5.93029</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F24W6LHB72T6163T1</SimilarJobsURL>
+      <JobTitle>Dessinateur Mécanique H/F Offre d'emploir a proximité de Toulon - 83 ANLB5464MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1QJ6JPRLJM1F5BGK</DID>
+      <OnetCode>19-3093.00</OnetCode>
+      <ONetFriendlyTitle>Historians</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour l’un de ses clients spécialisé en charpente, couverture et zinguerie, un Chef d’Equipe Monuments...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1QJ6JPRLJM1F5BGK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1QJ6JPRLJM1F5BGK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1QJ6JPRLJM1F5BGK</SimilarJobsURL>
+      <JobTitle>Chef d'Equipe Couverture Monuments Historiques H/F Offre d'emploi sur Lyon - 69 - LULU1422LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3FH6Q6XS4WZVGWF3</DID>
+      <OnetCode>51-9032.00</OnetCode>
+      <ONetFriendlyTitle>Cutting and Slicing Machine Setters, Operators, and Tenders</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Technicien de production agroalimentaire H/F dans le cadre d’un CDI Poste basé sur l’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3FH6Q6XS4WZVGWF3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3FH6Q6XS4WZVGWF3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3FH6Q6XS4WZVGWF3</SimilarJobsURL>
+      <JobTitle>Conducteur Machines Tranchage H/F - Poste basé à Lyon (69) LULU1483LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F79R6M56P81JPML3N</DID>
+      <OnetCode>15-1032.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Systems Software</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Ingénieur en Informatique Industrielle dans le cadre d’une mission de 6 mois (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F79R6M56P81JPML3N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F79R6M56P81JPML3N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitrolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitrolles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.44994</LocationLatitude>
+      <LocationLongitude>5.253</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F79R6M56P81JPML3N</SimilarJobsURL>
+      <JobTitle>Ingénieur en Informatique Industrielle H/F offre d'emploi sur Bollène - 84 -ANCR5422MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>vb</Skill>
+        <Skill>iso/iec 27001</Skill>
+        <Skill>sql</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6TH75ZZG67HC2G13</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour l’un de ses clients un Technicien de Maintenance en Froid Industriel H/F dans le cadre d’une mission...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6TH75ZZG67HC2G13</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6TH75ZZG67HC2G13&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6TH75ZZG67HC2G13</SimilarJobsURL>
+      <JobTitle>Technicien Froid Industriel H/F - Offre d'emploi sur Lyon (69) - LULU1505LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G63H66KFGWF8JVS0J</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Technicien frigoriste itinérant dans le cadre d’une mission de 6 mois (renouvelable)....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G63H66KFGWF8JVS0J</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G63H66KFGWF8JVS0J&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sorgues</Location>
+      <DisplayCity></DisplayCity>
+      <City>Sorgues</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>44.00826</LocationLatitude>
+      <LocationLongitude>4.87348</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G63H66KFGWF8JVS0J</SimilarJobsURL>
+      <JobTitle>Technicien frigoriste itinérant H/F - offre d'emploi sur Sorgues - 84 FDCR5166MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6PG753S36K4HC6HZ</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un Contrôleur Non Destructif dans le cadre d’un CDI. Le poste est basé à Toulon. Vous êtes en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6PG753S36K4HC6HZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6PG753S36K4HC6HZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.12534</LocationLatitude>
+      <LocationLongitude>5.93029</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6PG753S36K4HC6HZ</SimilarJobsURL>
+      <JobTitle>Contrôleur Non Destructif H/F Offre d'emploi Toulon - 83 ACJS5225MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4H7735DBJ9MW25RT</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, 1 technicien de maintenance multi technique dans le cadre d’un CDI Le poste est basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4H7735DBJ9MW25RT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4H7735DBJ9MW25RT&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Antibes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Antibes</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.58015</LocationLatitude>
+      <LocationLongitude>7.12123</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4H7735DBJ9MW25RT</SimilarJobsURL>
+      <JobTitle>Technicien de maintenance multi-technique H/F Offre d'emploi sur Antibes _ 06 ACJS5415MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4SX76386PGDKMD2W</DID>
+      <OnetCode>17-3024.00</OnetCode>
+      <ONetFriendlyTitle>Electro-Mechanical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un Technicien Automatisme H/F. Mission de dix huit mois renouvelable. Poste basé à Chassieu (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4SX76386PGDKMD2W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4SX76386PGDKMD2W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4SX76386PGDKMD2W</SimilarJobsURL>
+      <JobTitle>Technicien Automatisme H/F Offre d'emploi à Lyon - 69 - LULU1467LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J40R73R6Z3KHG69BW</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Conducteur de ligne de production H/F dans le cadre d’un CDI. Poste basé à Pusignan (69...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J40R73R6Z3KHG69BW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J40R73R6Z3KHG69BW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pusignan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pusignan</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75765</LocationLatitude>
+      <LocationLongitude>5.06973</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J40R73R6Z3KHG69BW</SimilarJobsURL>
+      <JobTitle>Conducteur de ligne de production H/F offre d'emploi sur Pusignan (69) SCCV1519LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J33N5WF2SNT00S6SY</DID>
+      <OnetCode>17-3013.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un Projeteur Mécanique H/F en CDI. Poste basé à St Priest (69) Au sein d'une entreprise qui...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J33N5WF2SNT00S6SY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J33N5WF2SNT00S6SY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint Priest</Location>
+      <DisplayCity>Saint Priest</DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J33N5WF2SNT00S6SY</SimilarJobsURL>
+      <JobTitle>Projeteur Mécanique H/F - Poste basé à St-Priest (69) - LULU1476LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J86K62GSYD429T0JV</DID>
+      <OnetCode>51-4011.00</OnetCode>
+      <ONetFriendlyTitle>Computer-Controlled Machine Tool Operators, Metal and Plastic</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement recherche pour son client, 2 opérateurs de fabrication industrie chimie dans le cadre d’une mission de 18 mois. Le poste...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J86K62GSYD429T0JV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J86K62GSYD429T0JV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J86K62GSYD429T0JV</SimilarJobsURL>
+      <JobTitle>Opérateur de fabrication industrie chimie H/F offre d'emploi Marseille - 13 ACJS5215MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1NW72YMDNPXKP0MF</DID>
+      <OnetCode>17-3024.01</OnetCode>
+      <ONetFriendlyTitle>Robotics Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour l’un de ses clients un Automaticien/Roboticien H/F en CDI. Rattaché Responsable de Site, vous assurez la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1NW72YMDNPXKP0MF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1NW72YMDNPXKP0MF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1NW72YMDNPXKP0MF</SimilarJobsURL>
+      <JobTitle>Automaticien/Roboticien H/F Offre d'emploi à Lyon - 69 - LULU1487LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7WM6HWNC0SQQ77JN</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement recherche pour son client un chef de projet CVC dans le cadre d’un CDI. Poste basé à Aix-en-Provence. Directement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F7WM6HWNC0SQQ77JN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7WM6HWNC0SQQ77JN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitrolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitrolles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.44994</LocationLatitude>
+      <LocationLongitude>5.253</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7WM6HWNC0SQQ77JN</SimilarJobsURL>
+      <JobTitle>Chef de projet / ingenieur Genie climatique CVC chauffage ventilation climatisation H/F Offre d'emploi sur Aix en Provence - 13</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5ST6G3NB9S7HLN6H</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement recherche pour son client, un(e) Projeteur CVC dans le cadre d'une mission d'intérim de 6 mois renouvelables. Poste basé...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G5ST6G3NB9S7HLN6H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5ST6G3NB9S7HLN6H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5ST6G3NB9S7HLN6H</SimilarJobsURL>
+      <JobTitle>Projeteur CVC H/F offre d'emploi sur Marseille - 13 - ANAN5378MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F4ZP74061S1VXPV27</DID>
+      <OnetCode>13-1023.00</OnetCode>
+      <ONetFriendlyTitle>Purchasing Agents, Except Wholesale, Retail, and Farm Products</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un acheteur pièces mécaniques dans le cadre d’un CDI. Le poste est basé à Toulon. Vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4ZP74061S1VXPV27</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4ZP74061S1VXPV27&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.12534</LocationLatitude>
+      <LocationLongitude>5.93029</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:24 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4ZP74061S1VXPV27</SimilarJobsURL>
+      <JobTitle>Acheteur pièces mécaniques H/F offre d'emploi sur Toulon - 83 ACJS5221MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1RY650LDJ10ZL6CQ</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour l’un de ses clients un Technicien de Maintenance Monétique H/F. Poste à pourvoir en CDD d’un an. Vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1RY650LDJ10ZL6CQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1RY650LDJ10ZL6CQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1RY650LDJ10ZL6CQ</SimilarJobsURL>
+      <JobTitle>Technicien de Maintenance Monétique H/F Offre d'emploi à Lyon - 69 - LULU1485LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6DQ6683JQJCS39SR</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un(e) Technicien de Maintenance Multi-technique H/F dans le cadre d’un CDI. Poste en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6DQ6683JQJCS39SR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6DQ6683JQJCS39SR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Genis-les-Ollières</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Genis-les-Ollières</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75693</LocationLatitude>
+      <LocationLongitude>4.72522</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6DQ6683JQJCS39SR</SimilarJobsURL>
+      <JobTitle>Technicien de Maintenance Multi-technique H/F Offre d'emploi à St Génis les Ollières - 69 SCNB1510LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3PX6WTK5N7DHNM1R</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Administrateur Réseaux Junior H/F dans le cadre d'une mission de 6 mois renouvelables....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3PX6WTK5N7DHNM1R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3PX6WTK5N7DHNM1R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aix en Provence</Location>
+      <DisplayCity>Aix en Provence</DisplayCity>
+      <City>Aix En Provence Armees</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.683</LocationLatitude>
+      <LocationLongitude>4.867</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:23 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3PX6WTK5N7DHNM1R</SimilarJobsURL>
+      <JobTitle>Administrateur Réseaux H/F offre d'emploi sur Aix en Provence - ANAN5400MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>cisco systems</Skill>
+        <Skill>local area network</Skill>
+        <Skill>Linux</Skill>
+        <Skill>ibm aix</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>virtual private network</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5M56SZ1Q4VYHJ0TM</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour son client un chef d’équipe H/F en CDI chez un équipementier automobile. Vous êtes en charge d’assurer la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5M56SZ1Q4VYHJ0TM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5M56SZ1Q4VYHJ0TM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5M56SZ1Q4VYHJ0TM</SimilarJobsURL>
+      <JobTitle>Chef d'Equipe H/F - Offre d'emploi à 20 mn Sud Lyon - 69 LULU1484LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0B15WT9B42J7TNLX</DID>
+      <OnetCode>11-9021.00</OnetCode>
+      <ONetFriendlyTitle>Construction Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour l’un de ses clients un Conducteur de Travaux Nucléaire H/F dans le cadre d’un CDI. Notre client est un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0B15WT9B42J7TNLX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0B15WT9B42J7TNLX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0B15WT9B42J7TNLX</SimilarJobsURL>
+      <JobTitle>Conducteur de Travaux Nucléaire H/F - Offre d'emploi sur Lyon - 69 LULU1508LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F68S6RFCKGD4H4CHQ</DID>
+      <OnetCode>49-9041.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Machinery Mechanics</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, Agence de recrutement, recherche pour son client un(e) Technicien de maintenance industrielle H/F dans le cadre d’un CDI. Poste basé à Pusignan...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F68S6RFCKGD4H4CHQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F68S6RFCKGD4H4CHQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pusignan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pusignan</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75765</LocationLatitude>
+      <LocationLongitude>5.06973</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F68S6RFCKGD4H4CHQ</SimilarJobsURL>
+      <JobTitle>Technicien de maintenance industrielle H/F offre d'emploi à Pusignan SCNB1486LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J24K6T0YSCN7F5WSS</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un Technicien Topographe réseaux aériens H/F dans le cadre d’une mission de 6 mois...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J24K6T0YSCN7F5WSS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J24K6T0YSCN7F5WSS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Étienne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Étienne</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.4344</LocationLatitude>
+      <LocationLongitude>4.38848</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J24K6T0YSCN7F5WSS</SimilarJobsURL>
+      <JobTitle>Technicien Topographe réseaux aériens H/F offre d'emploi sur Saint Etienne - 42 SCCV1515LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8FY5YLT9FNH95XJF</DID>
+      <OnetCode>51-9061.00</OnetCode>
+      <ONetFriendlyTitle>Inspectors, Testers, Sorters, Samplers, and Weighers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un Contrôleur dimensionnel dans le cadre d’un CDI. Le poste est basé à Toulon. Rattaché au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F8FY5YLT9FNH95XJF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8FY5YLT9FNH95XJF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.12534</LocationLatitude>
+      <LocationLongitude>5.93029</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8FY5YLT9FNH95XJF</SimilarJobsURL>
+      <JobTitle>Contrôleur dimensionnel H/F offre d'emploi Toulon - 83 ACJS5224MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G85N5VJS2LPTCQM8T</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, 1 dessinateur projeteur étude tuyauterie chaudronnerie, dans le cadre d’une mission de 3 mois...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G85N5VJS2LPTCQM8T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G85N5VJS2LPTCQM8T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G85N5VJS2LPTCQM8T</SimilarJobsURL>
+      <JobTitle>Dessinateur projeteur étude tuyauterie chaudronnerie sur Pro Engineer et Autocad HF offre d'emploi sur Marseille _ 13</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0YH6HT3LWC317MVD</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Dessinateur télécom dans le cadre d’une mission de 3 mois renouvelable. Poste basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0YH6HT3LWC317MVD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0YH6HT3LWC317MVD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0YH6HT3LWC317MVD</SimilarJobsURL>
+      <JobTitle>Dessinateur Telecom H/F Offre d'emploi sur Marseille - 13 FDLB5461MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J06S79MQ3B7V495GS</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client un Référent technique usinage dans le cadre d’un CDI. Le poste est basé à La Seyne sur Mer. Au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J06S79MQ3B7V495GS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J06S79MQ3B7V495GS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Seyne-sur-Mer</Location>
+      <DisplayCity></DisplayCity>
+      <City>La Seyne-sur-Mer</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.10157</LocationLatitude>
+      <LocationLongitude>5.88173</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J06S79MQ3B7V495GS</SimilarJobsURL>
+      <JobTitle>Référent technique usinage H/F offre d'emploi sur La Seyne sur Mer - 83 ACJS5001MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H6S66CHW1X252H43T</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Chargé d’études mécanique dans le cadre d’un CDI. Poste basé à Pertuis. Au sein du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H6S66CHW1X252H43T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H6S66CHW1X252H43T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pertuis</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pertuis</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.69365</LocationLatitude>
+      <LocationLongitude>5.50137</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H6S66CHW1X252H43T</SimilarJobsURL>
+      <JobTitle>Chargé d’études mécanique H/F offre d'emploi sur Pertuis - 84 FDCR5169MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Composite material</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6FZ6ZLJJ2NJ35RS1</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Conducteur de travaux Fibre Optique H/F dans le cadre d’une mission de 12 mois...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6FZ6ZLJJ2NJ35RS1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6FZ6ZLJJ2NJ35RS1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6FZ6ZLJJ2NJ35RS1</SimilarJobsURL>
+      <JobTitle>Conducteur de travaux Fibre Optique H/F offre d'emploi sur Lyon - 69 - SCCV1458LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4HF626F04N3WYX46</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un(e) Technicien Frigoriste GMS dans le cadre d’un CDI. Poste basé à Nice – 06. Au sein de l’...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4HF626F04N3WYX46</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4HF626F04N3WYX46&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nice</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nice</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.70153</LocationLatitude>
+      <LocationLongitude>7.27824</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4HF626F04N3WYX46</SimilarJobsURL>
+      <JobTitle>Technicien Frigoriste GMS H/F offre d'emploi sur Nice - 06 - FDCR5426MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J1XT6Q564K1B3449V</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un Dessinateur Industriel H/F, dans le cadre d'une mission de 6 mois renouvelables. Poste basé...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1XT6Q564K1B3449V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1XT6Q564K1B3449V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitrolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitrolles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.44994</LocationLatitude>
+      <LocationLongitude>5.253</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:19 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1XT6Q564K1B3449V</SimilarJobsURL>
+      <JobTitle>Dessinateur Industriel H/F offre d'emploi sur Vitrolles - 13 -ANCR5355MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+        <Skill>AutoCAD</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7HN61B6KTK77XMC0</DID>
+      <OnetCode>43-6011.00</OnetCode>
+      <ONetFriendlyTitle>Administrative Assistants</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Assistant bureau d’études et logistique CVC dans le cadre d’une mission de 6 mois (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7HN61B6KTK77XMC0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7HN61B6KTK77XMC0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeneuve</Location>
+      <DisplayCity>Villeneuve</DisplayCity>
+      <City>Villeneuve-Saint-Georges</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.72878</LocationLatitude>
+      <LocationLongitude>2.44766</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:19 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7HN61B6KTK77XMC0</SimilarJobsURL>
+      <JobTitle>Assistant bureau d’études et logistique CVC H/F offre d'emploi sur Villeneuve 04 - FDCR5434MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8G070LP24B008MR9</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS Agence de recrutement, recrute pour son client, un Chef de Projet Navision H/F dans le cadre d’une embauche CDI. Poste basé à La Ciotat....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G8G070LP24B008MR9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8G070LP24B008MR9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Ciotat</Location>
+      <DisplayCity></DisplayCity>
+      <City>La Ciotat</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.17418</LocationLatitude>
+      <LocationLongitude>5.61036</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:19 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8G070LP24B008MR9</SimilarJobsURL>
+      <JobTitle>Chef de Projet Navision H/F offre d'emploi sur La Ciotat - ANCR5412MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sql</Skill>
+        <Skill>microsoft dynamics nav</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8FW6XKKVYZ9MVDJ2</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Administrateur PDMS dans le cadre d'une mission de 6 mois renouvelables. Poste basé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8FW6XKKVYZ9MVDJ2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8FW6XKKVYZ9MVDJ2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aix en Provence</Location>
+      <DisplayCity>Aix en Provence</DisplayCity>
+      <City>Aix En Provence Armees</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.683</LocationLatitude>
+      <LocationLongitude>4.867</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:19 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8FW6XKKVYZ9MVDJ2</SimilarJobsURL>
+      <JobTitle>Administrateur PDMS H/F offre d'emploi sur Aix en Provence - 13 - ANCR5180MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>autocad</Skill>
+        <Skill>ibm aix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G5D86T4RJWHJC3MSG</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Chef d’équipe production agroalimentaire H/F dans le cadre d’un CDI. Poste basé à Lyon...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G5D86T4RJWHJC3MSG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5D86T4RJWHJC3MSG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5D86T4RJWHJC3MSG</SimilarJobsURL>
+      <JobTitle>Chef d'Equipe production agroalimentaire H/F offre d'emploi à Lyon - 69 SCSC1504LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G68B6QPPXTHYTRB8N</DID>
+      <OnetCode>11-9041.00</OnetCode>
+      <ONetFriendlyTitle>Engineering Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour le compte de son client un(e) Chef de Projet Télécom, dans le cadre d'une mission de 6 mois renouvelable....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G68B6QPPXTHYTRB8N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G68B6QPPXTHYTRB8N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G68B6QPPXTHYTRB8N</SimilarJobsURL>
+      <JobTitle>Chef de projet Telecom H/F Offre d'emploi sur Marseille - 13 FDLB5457MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>gsm</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7DD6S6TY449X8J77</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un(e) Ingénieur d’affaires Avant-projet Mécanique dans le cadre d’une mission de 6 mois (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7DD6S6TY449X8J77</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7DD6S6TY449X8J77&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint Paul lez Durance – 13</Location>
+      <DisplayCity>Saint Paul lez Durance – 13</DisplayCity>
+      <City>Saint-Paul-lès-Durance</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.68563</LocationLatitude>
+      <LocationLongitude>5.70941</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7DD6S6TY449X8J77</SimilarJobsURL>
+      <JobTitle>Ingénieur d’affaires Avant-projet Mécanique H/F offre d'emploi sur Saint Paul lez Durance – 13 - ANCR5377MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+        <Skill>SolidWorks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G05C62YN30CGVCBHN</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, Agence de recrutement, recherche pour son client, un Technicien Frigoriste cuisiniste Expérimenté H/F dans le cadre d’une embauche en CDI....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G05C62YN30CGVCBHN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G05C62YN30CGVCBHN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Manosque</Location>
+      <DisplayCity></DisplayCity>
+      <City>Manosque</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.83144</LocationLatitude>
+      <LocationLongitude>5.78426</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G05C62YN30CGVCBHN</SimilarJobsURL>
+      <JobTitle>Technicien Frigoriste cuisiniste Expérimenté H/F offre d'emploi sur Manosque 04 - FDCR5427MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4H16DJDJHQL3DDK9</DID>
+      <OnetCode>49-9021.02</OnetCode>
+      <ONetFriendlyTitle>Refrigeration Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client un(e) Technicien Frigoriste GMS dans le cadre d’un CDI. Poste basé à Vitrolles – 13. Au sein...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4H16DJDJHQL3DDK9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4H16DJDJHQL3DDK9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vitrolles</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vitrolles</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.44994</LocationLatitude>
+      <LocationLongitude>5.253</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4H16DJDJHQL3DDK9</SimilarJobsURL>
+      <JobTitle>Technicien Frigoriste GMS H/F offre d'emploi sur Vitrolles - 13- FDCR5392MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J48868ZJ33255755Y</DID>
+      <OnetCode>47-2181.00</OnetCode>
+      <ONetFriendlyTitle>Roofers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, agence de recrutement, recherche pour son client, un étancheur H/F dans le cadre d'une mission de 3 mois renouvelable. Poste basé à dans l’Est...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J48868ZJ33255755Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J48868ZJ33255755Y&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J48868ZJ33255755Y</SimilarJobsURL>
+      <JobTitle>Étancheur H/F - Offre d'emploi à Lyon (69) - LULU1421LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G8985Z4PYVLSRGM02</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>ACASS, Agence de recrutement, recherche pour son client deux Techniciens de maintenance en chauffage et froid / climatisation H/F dans le cadre d’un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G8985Z4PYVLSRGM02</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8985Z4PYVLSRGM02&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vénissieux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vénissieux</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.69657</LocationLatitude>
+      <LocationLongitude>4.8851</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:52:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8985Z4PYVLSRGM02</SimilarJobsURL>
+      <JobTitle>Techniciens de maintenance en chauffage et froid / climatisation H/F Offres d'emplois à Vénissieux SCNB1491LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>AU DELA DU VIRTUEL</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM7HZ6RXJQDD0TXNMR</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Offre de Développeur Web / Graphiste en CDI Début : Dés que possible Descriptif de l’entreprise : www.audeladuvirtuel.com AU DELA DU VIRTUEL (CA 2 M...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM7HZ6RXJQDD0TXNMR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM7HZ6RXJQDD0TXNMR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Fontenay-sous-Bois-94120</Location>
+      <DisplayCity></DisplayCity>
+      <City>Fontenay-sous-Bois</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8547</LocationLatitude>
+      <LocationLongitude>2.48057</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:38:21 AM</PostedTime>
+      <Pay>24 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM7HZ6RXJQDD0TXNMR</SimilarJobsURL>
+      <JobTitle>Offre de Développeur Web / Graphiste en CDI</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>jquery</Skill>
+        <Skill>calais (reuters product)</Skill>
+        <Skill>sketchup</Skill>
+        <Skill>adobe creative suite</Skill>
+        <Skill>adobe photoshop</Skill>
+        <Skill>ajax</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>MONTREAL ASSOCIATES</Company>
+      <CompanyDID>chq1456s9vgyrk9wh67</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq1456s9vgyrk9wh67/montreal-associates/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7WV66ZVMMSN080D2</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein d’une entreprise en pleine croissance, un poste en CDI de Chef de Projet SHAREPOINT est à pourvoir sur Paris Profil: BAC + 5 Vous possédez au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7WV66ZVMMSN080D2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7WV66ZVMMSN080D2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:36:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7WV66ZVMMSN080D2</SimilarJobsURL>
+      <JobTitle>CDI – CHEF DE PROJET SHAREPOINT – PARIS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/ms/m0w8hw6zngmpl3ygdms.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CGI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J53N5VL91VNBBN7TB</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>DIRECTEUR DE PROJETS H/F MISSIONS Véritable patron de projets de grande ampleur, vous êtes le garant de leur succès, du lancement à la mise en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J53N5VL91VNBBN7TB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J53N5VL91VNBBN7TB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montpellier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montpellier</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.61085</LocationLatitude>
+      <LocationLongitude>3.87609</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:31:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J53N5VL91VNBBN7TB</SimilarJobsURL>
+      <JobTitle>DIRECTEUR DE PROJETS H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D1/M0T8BD6H7V4R8YF1HD1.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>CGI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0C772YQ0HKKCFP81</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>DEVELOPPEUR EXPERIMENTE JAVA/J2EE H/F Pour soutenir le développement de notre activité, nous recrutons des développeurs experts Java/J2EE. Missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0C772YQ0HKKCFP81</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0C772YQ0HKKCFP81&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montpellier</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montpellier</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.61085</LocationLatitude>
+      <LocationLongitude>3.87609</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:31:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0C772YQ0HKKCFP81</SimilarJobsURL>
+      <JobTitle>DEVELOPPEUR EXPERIMENTE JAVA/J2EE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/D1/M0T8BD6H7V4R8YF1HD1.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>html5</Skill>
+        <Skill>web service</Skill>
+        <Skill>svn</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>jsf</Skill>
+        <Skill>xml</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>jquery</Skill>
+        <Skill>oracle weblogic server</Skill>
+        <Skill>apache ant</Skill>
+        <Skill>junit</Skill>
+        <Skill>eclipse</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>web design</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>jsp</Skill>
+        <Skill>apache maven</Skill>
+        <Skill>ajax</Skill>
+        <Skill>java servlet</Skill>
+        <Skill>ios</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DELSOL Avocats</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM7DY6610H5S79P14Y</DID>
+      <OnetCode>23-1011.00</OnetCode>
+      <ONetFriendlyTitle>Lawyers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet DELSOL Avocats, cabinet de droit des affaires pluridisciplinaire implanté à Paris et Lyon comportant 90 avocats recherche pour son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM7DY6610H5S79P14Y</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM7DY6610H5S79P14Y&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris-75000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:17:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM7DY6610H5S79P14Y</SimilarJobsURL>
+      <JobTitle>AVOCAT COLLABORATEUR EN DROIT SOCIAL (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/86/MKH6LH6HL1S2DDSR086.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ABASE</Company>
+      <CompanyDID>c8f3zw6wvdcq11p2fwq</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/c8f3zw6wvdcq11p2fwq/abase/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7S56KD76HXK8X4G0</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Présent dans le Grand Ouest, le Sud-Ouest, l'Est, le Nord et Paris, Abase est une SSII bénéficiant de plus de 20 ans d'expérience. Le groupe Abase...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7S56KD76HXK8X4G0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7S56KD76HXK8X4G0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brest</Location>
+      <DisplayCity>Brest</DisplayCity>
+      <City>Brest</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.3883</LocationLatitude>
+      <LocationLongitude>-4.48471</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:10:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7S56KD76HXK8X4G0</SimilarJobsURL>
+      <JobTitle>Leader Technique JAVA J2EE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/g4/mwl4gc6z7pqb90j0fg4.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>java (programming language)</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupement de l'Interim Francais</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3RX75CP3KNLWY465</DID>
+      <OnetCode>17-3013.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Drafters</ONetFriendlyTitle>
+      <DescriptionTeaser>Un PROJETEUR en MECANIQUE GENERALE AUTOCAD INVENTOR Entreprise spécialisée dans la conception de lignes de production et des usines clés en main. Nous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3RX75CP3KNLWY465</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3RX75CP3KNLWY465&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne</Location>
+      <DisplayCity>Val-de-Marne</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.77734</LocationLatitude>
+      <LocationLongitude>2.45519</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 9:05:07 AM</PostedTime>
+      <Pay>36 000 € - 37 200 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3RX75CP3KNLWY465</SimilarJobsURL>
+      <JobTitle>PROJETEUR MECANIQUE INVENTOR</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/7Z/MXE41M68PSPTQHD4C7Z.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Edelway</Company>
+      <CompanyDID>cht1sy64q66khl89gvs</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht1sy64q66khl89gvs/edelway/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H5435YNWLBNR2N56B</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>With a technical background in IT you have worked your way up through different roles such as Business Analyst, Business Architect, Project Manager...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5435YNWLBNR2N56B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5435YNWLBNR2N56B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location> Zürich</Location>
+      <DisplayCity>CH - Zürich</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:43:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5435YNWLBNR2N56B</SimilarJobsURL>
+      <JobTitle>Senior Project Manager / Analyst- Insurance - Change</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/64/m0x3756ddpw0jsc6k64.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>change management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Isagri</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL0096NV5VD36XL6MY</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Envie d’intégrer un Groupe international en forte croissance (+ 10% par an) et familial ? Envie de travailler sur des technologies Microsoft et un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL0096NV5VD36XL6MY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL0096NV5VD36XL6MY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beauvais</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beauvais</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.42955</LocationLatitude>
+      <LocationLongitude>2.08322</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:16:19 AM</PostedTime>
+      <Pay>20 000 € - 21 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL0096NV5VD36XL6MY</SimilarJobsURL>
+      <JobTitle>Technicien Qualité Logiciels H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/HN/MVN2ZX65CW1NSLD8WHN.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J43G6J9224BVLQ5QL</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons, pour un de nos clients, un(e) Gestionnaire Assurance. Rattaché(e) au Responsable de Service, vous avez pour principales missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J43G6J9224BVLQ5QL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J43G6J9224BVLQ5QL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>83</Location>
+      <DisplayCity>83</DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.1271</LocationLatitude>
+      <LocationLongitude>5.93174</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:04:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J43G6J9224BVLQ5QL</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE ASSURANCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G09M79B1TB1NLXLBZ</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, société spécialisée dans la réalisation d'ouvrages de génie civil, recherche un(e) Chef de Chantier Génie Civil. Sous la responsabilité...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G09M79B1TB1NLXLBZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G09M79B1TB1NLXLBZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bordeaux (CUB)</Location>
+      <DisplayCity>Bordeaux (CUB)</DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.8382</LocationLatitude>
+      <LocationLongitude>-0.57303</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:04:15 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G09M79B1TB1NLXLBZ</SimilarJobsURL>
+      <JobTitle>CHEF DE CHANTIER GENIE CIVIL</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G3166M95YQ435BRR5</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recrutons, pour notre client, Groupe international, un(e) Responsable Comptable et Fiscal. Vos missions seront : . Etablir les situations...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3166M95YQ435BRR5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3166M95YQ435BRR5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valence</Location>
+      <DisplayCity>Valence</DisplayCity>
+      <City>Ajoux</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>44.752</LocationLatitude>
+      <LocationLongitude>4.48221</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3166M95YQ435BRR5</SimilarJobsURL>
+      <JobTitle>RESPONSABLE COMPTABLE ET FISCAL</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G1FH6W0JDSB65Y312</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recrute pour son client, société spécialisée en distribution et maintenance d'équipements de conversion de puissance, un(e) Technicien(...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1FH6W0JDSB65Y312</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1FH6W0JDSB65Y312&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>94 + déplacements</Location>
+      <DisplayCity>94 + déplacements</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7853</LocationLatitude>
+      <LocationLongitude>2.46332</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:54 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1FH6W0JDSB65Y312</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) ONDULEURS ITINÉRANCE IDF</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2576BS1Q9XD5X21S</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est une structure récente et très innovante, cotée en bourse, spécialisée dans la conception et la vente de produits gastronomiques d'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2576BS1Q9XD5X21S</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2576BS1Q9XD5X21S&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rhône-Alpes</Location>
+      <DisplayCity>Rhône-Alpes</DisplayCity>
+      <City>Lyon I</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7711</LocationLatitude>
+      <LocationLongitude>4.82935</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:47 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2576BS1Q9XD5X21S</SimilarJobsURL>
+      <JobTitle>COMMERCIAL(E) CHR LUXE ET RÉSEAUX SÉLECTIFS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F24364GRDX3XXQK5T</DID>
+      <OnetCode>11-3042.00</OnetCode>
+      <ONetFriendlyTitle>Training and Development Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, filiale d'un grand Groupe, recrute un(e) Responsable Formation. Rattaché(e) au DRH, vos missions principales seront les suivantes : Vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F24364GRDX3XXQK5T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F24364GRDX3XXQK5T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location> proche N118</Location>
+      <DisplayCity>91 - proche N118</DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.6289</LocationLatitude>
+      <LocationLongitude>2.44567</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F24364GRDX3XXQK5T</SimilarJobsURL>
+      <JobTitle>RESPONSABLE FORMATION</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Budget</Skill>
+        <Skill>Mathematical optimization</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3QN6WCWYLZDKBGD7</DID>
+      <OnetCode>11-3031.01</OnetCode>
+      <ONetFriendlyTitle>Treasurers and Controllers</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recherche, pour l'un de ses clients, un(e) Contrôleur(se) de gestion. Selon les directives générales et particulières qui vous seront...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3QN6WCWYLZDKBGD7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3QN6WCWYLZDKBGD7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne</Location>
+      <DisplayCity>Val-de-Marne</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7853</LocationLatitude>
+      <LocationLongitude>2.46332</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3QN6WCWYLZDKBGD7</SimilarJobsURL>
+      <JobTitle>CONTROLEUR(SE) DE GESTION</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4676W774FRSB7LSC</DID>
+      <OnetCode>17-3023.01</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, acteur spécialisé dans la fabrication et la distribution d'accessoires de luxe, recherche, dans le cadre de l'accroissement de son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4676W774FRSB7LSC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4676W774FRSB7LSC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>78</Location>
+      <DisplayCity>78</DisplayCity>
+      <City>Versailles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7978</LocationLatitude>
+      <LocationLongitude>2.11471</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4676W774FRSB7LSC</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) COLORIMÉTRIE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5P572LY4RHSC3NC8</DID>
+      <OnetCode>13-1199.03</OnetCode>
+      <ONetFriendlyTitle>Customs Brokers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, leader sur son marché, recherche un(e) Déclarant(e) en Douane. Rattaché(e) au Responsable Douane, vos principales missions seront : - La...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G5P572LY4RHSC3NC8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5P572LY4RHSC3NC8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>95</Location>
+      <DisplayCity>95</DisplayCity>
+      <City>Cergy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.044</LocationLatitude>
+      <LocationLongitude>2.05478</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5P572LY4RHSC3NC8</SimilarJobsURL>
+      <JobTitle>DÉCLARANT(E) EN DOUANE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4BG65FNPSJDZG2VZ</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, acteur majeur de son secteur, recherche un(e) Gestionnaire de Paie. Rattaché(e) à la DAF, vos principales missions sont les suivantes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4BG65FNPSJDZG2VZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4BG65FNPSJDZG2VZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Boulogne-Billancourt</Location>
+      <DisplayCity>Boulogne-Billancourt</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4BG65FNPSJDZG2VZ</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE DE PAIE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0GL6ZXB4H7J9MPSW</DID>
+      <OnetCode>13-2041.00</OnetCode>
+      <ONetFriendlyTitle>Credit Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est un Groupe bancaire de renom. Vous intégrez une équipe d'une dizaine de collaborateurs au sein du Département Crédit Immobilier,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0GL6ZXB4H7J9MPSW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0GL6ZXB4H7J9MPSW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>94</Location>
+      <DisplayCity>94</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7853</LocationLatitude>
+      <LocationLongitude>2.46332</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0GL6ZXB4H7J9MPSW</SimilarJobsURL>
+      <JobTitle>ANALYSTE CRÉDITS IMMOBILIERS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G50Y6QMSH42JPJ6HQ</DID>
+      <OnetCode>13-1031.01</OnetCode>
+      <ONetFriendlyTitle>Claims Examiners, Property and Casualty Insurance</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons, pour un de nos clients, grande compagnie de courtage, un(e) Gestionnaire Sinistres RC Dommages Entreprises. Au sein du Service...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G50Y6QMSH42JPJ6HQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G50Y6QMSH42JPJ6HQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity>Marseille</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G50Y6QMSH42JPJ6HQ</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE SINISTRES RC ENTREPRISES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4206PH1N382S60J6</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est un Groupe international, leader sur son secteur. Au sein du Service Client et rattaché(e) au Responsable, vous assurez la meilleure...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4206PH1N382S60J6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4206PH1N382S60J6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marne-la-Vallée - 93</Location>
+      <DisplayCity>Marne-la-Vallée - 93</DisplayCity>
+      <City>Bobigny</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9123</LocationLatitude>
+      <LocationLongitude>2.44343</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:03:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4206PH1N382S60J6</SimilarJobsURL>
+      <JobTitle>RESPONSABLE SERVICES CLIENTS UK ET BENELUX</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J7PW65KXQ3R067DMB</DID>
+      <OnetCode>43-3031.00</OnetCode>
+      <ONetFriendlyTitle>Bookkeeping, Accounting, and Auditing Clerks</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, cabinet d'expertise comptable, recherche un(e) Assistant(e) Comptable. Au sein d'un cabinet de 15 collaborateurs, et rattaché(e) à un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7PW65KXQ3R067DMB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7PW65KXQ3R067DMB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Annecy</Location>
+      <DisplayCity>Annecy</DisplayCity>
+      <City>Lyon I</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7711</LocationLatitude>
+      <LocationLongitude>4.82935</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7PW65KXQ3R067DMB</SimilarJobsURL>
+      <JobTitle>ASSISTANT(E) COMPTABLE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2276Q07X0ZVRRFHR</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, entreprise indépendante implantée au niveau national, spécialisée dans le génie civil, la voirie, l'enveloppe du bâtiment et l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2276Q07X0ZVRRFHR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2276Q07X0ZVRRFHR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Loire</Location>
+      <DisplayCity>Loire</DisplayCity>
+      <City>St etienne</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.723</LocationLatitude>
+      <LocationLongitude>4.2</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:48 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2276Q07X0ZVRRFHR</SimilarJobsURL>
+      <JobTitle>CONDUCTEUR(TRICE) TRAVAUX ÉTANCHÉITÉ</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2GS6SHRS161NSBJ6</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recrute, pour son client, industriel/constructeur reconnu dans son domaine, un(e) Technicien(ne) de maintenance. Rattaché(e) au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2GS6SHRS161NSBJ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2GS6SHRS161NSBJ6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grenoble</Location>
+      <DisplayCity>Grenoble</DisplayCity>
+      <City>Grenoble</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.1833</LocationLatitude>
+      <LocationLongitude>5.72347</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2GS6SHRS161NSBJ6</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) DE MAINTENANCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7L26902Y1V5YM7D5</DID>
+      <OnetCode>11-3041.00</OnetCode>
+      <ONetFriendlyTitle>Compensation and Benefits Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons un(e) Gestionnaire Paie et Administration du Personnel en CDI. Rattaché(e) au Responsable Paie, vous intégrez une équipe de 5...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7L26902Y1V5YM7D5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7L26902Y1V5YM7D5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche la Défense</Location>
+      <DisplayCity>Proche la Défense</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7L26902Y1V5YM7D5</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE PAIE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/57/MSG50D70NJSSWZT9F57.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7HF66WSCJQM08NBX</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, acteur majeur de son secteur, recherche un(e) Comptable Clients. Rattaché(e) au Chef Comptable, vous prenez en charge, de façon autonome...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7HF66WSCJQM08NBX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7HF66WSCJQM08NBX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Essonne proche Evry</Location>
+      <DisplayCity>Essonne proche Evry</DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.6289</LocationLatitude>
+      <LocationLongitude>2.44567</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:22 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7HF66WSCJQM08NBX</SimilarJobsURL>
+      <JobTitle>COMPTABLE CLIENTS</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3GF6Z3PM371PW65T</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, spécialisé dans l'agroalimentaire, recrute, dans le cadre de sa croissance, un(e) Adjoint(e) Responsable de Production à potentiel...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3GF6Z3PM371PW65T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3GF6Z3PM371PW65T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche Bourges (18)</Location>
+      <DisplayCity>Proche Bourges (18)</DisplayCity>
+      <City>Bourges</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.0783</LocationLatitude>
+      <LocationLongitude>2.39782</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3GF6Z3PM371PW65T</SimilarJobsURL>
+      <JobTitle>ADJOINT(E) RESPONSABLE DE PRODUCTION</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G51P6WN4XB08PDPX7</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recrute, pour l'un de ses clients, un(e) Collaborateur(trice) Comptable. Directement rattaché(e) à un Chef de mission, vous intervenez...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G51P6WN4XB08PDPX7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G51P6WN4XB08PDPX7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Seine-Saint-Denis(93) proche Pantin</Location>
+      <DisplayCity>Seine-Saint-Denis(93) proche Pantin</DisplayCity>
+      <City>Bobigny</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9123</LocationLatitude>
+      <LocationLongitude>2.44343</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:02:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G51P6WN4XB08PDPX7</SimilarJobsURL>
+      <JobTitle>COLLABORATEUR(TRICE) COMPTABLE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G8355XFZC80Z32WZF</DID>
+      <OnetCode>17-2111.02</OnetCode>
+      <ONetFriendlyTitle>Fire-Prevention and Protection Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recrute, pour l'un de ses clients, Groupe intervenant dans les métiers du génie électrique, du génie climatique et de l'exploitation-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G8355XFZC80Z32WZF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G8355XFZC80Z32WZF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bouches-du-Rhône (13)</Location>
+      <DisplayCity>Bouches-du-Rhône (13)</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/6/2015</PostedDate>
+      <PostedTime>1/6/2015 8:01:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G8355XFZC80Z32WZF</SimilarJobsURL>
+      <JobTitle>DESSINATEUR(TRICE)/PROJETEUR PROTECTION INCENDIE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>AutoCAD</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

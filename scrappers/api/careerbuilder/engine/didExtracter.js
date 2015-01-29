@@ -7,10 +7,11 @@ var fs = require('fs');
 
 var totalJobsForProvider = -1;
 var currPageNumber = 1;  //Needs to be updated in each execution, the API has limits :(
+var stopPageNumber = 500;
 
 var jobCount = 0; //configs.resultsPerPage * currPageNumber;  WHY THERE IS NO VOLATILE VARs IN HERE ?
 
-var hostSite = "US";
+var hostSite = "WR";
 
 function sendRequest(pageIndex, cb){
   var requestParams = { DeveloperKey:configs.apiKey, HostSite:hostSite, PageNumber:  pageIndex, PerPage: configs.resultsPerPage };
@@ -46,7 +47,7 @@ function sendRequest(pageIndex, cb){
 
     jobCount = configs.resultsPerPage * pageIndex;
 
-    if (jobCount<totalJobsForProvider){
+    if (jobCount<totalJobsForProvider & currPageNumber < stopPageNumber){
       cb(null, pageIndex) ;
     }
   });
@@ -61,6 +62,10 @@ requestFinishedCallback = function(err, pageId)
     console.log("Progress: %d/%d.", jobCount, totalJobsForProvider);
     sendRequest(++currPageNumber, requestFinishedCallback);
   }
+}
+
+if (!fs.existsSync("./raw/" + hostSite)){
+    fs.mkdirSync("./raw/" + hostSite);
 }
 
 sendRequest(currPageNumber, requestFinishedCallback);

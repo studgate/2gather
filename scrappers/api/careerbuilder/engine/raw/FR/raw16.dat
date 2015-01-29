@@ -1,0 +1,3458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:47:29 AM</TimeResponseSent>
+  <TimeElapsed>0.312002</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13258</TotalCount>
+  <FirstItemIndex>1501</FirstItemIndex>
+  <LastItemIndex>1600</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6X96DWKYJ4W3G38C</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Mon client, un client final utilisateur de MS Dynamics AX, est aujourd'hui même à la recherche de son nouveau Chef de projet MS Dynamics AX. Vos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6X96DWKYJ4W3G38C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6X96DWKYJ4W3G38C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vannes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vannes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>47.65834</LocationLatitude>
+      <LocationLongitude>-2.75985</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:34:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6X96DWKYJ4W3G38C</SimilarJobsURL>
+      <JobTitle>MS DYNAMICS AX CHEF DE PROJET</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft dynamics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6R86N2BK49D6V6M3</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, un équipementier industriel international s'implante en France dans le Nord-Pas-de-Calais. La production commencera en 2015 et le groupe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6R86N2BK49D6V6M3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6R86N2BK49D6V6M3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:34:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6R86N2BK49D6V6M3</SimilarJobsURL>
+      <JobTitle>Ingénieur systèmes et réseaux Bilingue Anglais (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>SAP</Skill>
+        <Skill>calais (reuters product)</Skill>
+        <Skill>local area network</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2SW758BFWWLN98LS</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Responsable des applications/ DSI interne/ IDF/ dimension Européenne Poste et missions : Rattaché(e) à la direction, vos tâches au quotidien seront...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2SW758BFWWLN98LS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2SW758BFWWLN98LS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Isle of France</Location>
+      <DisplayCity>Isle of France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 2:33:12 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2SW758BFWWLN98LS</SimilarJobsURL>
+      <JobTitle>Responsable des applications/client final/IDF/ dimension Europe</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0ZR6WCLFV1W9CQPJ</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower MONTCEAU LES MINES recherche pour son client, un Superviseur téléservices H/F Dans le cadre de sa politique diversité, Manpower étudie, à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0ZR6WCLFV1W9CQPJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0ZR6WCLFV1W9CQPJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montceau-les-Mines</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montceau-les-Mines</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>46.67816</LocationLatitude>
+      <LocationLongitude>4.36673</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0ZR6WCLFV1W9CQPJ</SimilarJobsURL>
+      <JobTitle>Superviseur téléservices (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1QW75L8602LN76QG</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Vichy recherche pour l'un de ses clients, cabinet d'expertise comptable, un Collaborateur Comptable H/F en CDD de 6 mois renouvelable. Sous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1QW75L8602LN76QG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1QW75L8602LN76QG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montmarault</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montmarault</City>
+      <State>AUVERGNE</State>
+      <LocationLatitude>46.31807</LocationLatitude>
+      <LocationLongitude>2.95296</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1QW75L8602LN76QG</SimilarJobsURL>
+      <JobTitle>Comptable en cabinet (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1GZ6WLKC781K8P33</DID>
+      <OnetCode>17-2071.00</OnetCode>
+      <ONetFriendlyTitle>Electrical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>L'agence Manpower Toulouse représente un des leaders de la distribution professionnelle de matériel électrique en France. Afin de poursuivre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1GZ6WLKC781K8P33</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1GZ6WLKC781K8P33&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1GZ6WLKC781K8P33</SimilarJobsURL>
+      <JobTitle>Technico-commercial itinérant (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2806ZPXN982WX1TD</DID>
+      <OnetCode>27-1021.00</OnetCode>
+      <ONetFriendlyTitle>Commercial and Industrial Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BLOIS INDUSTRIE TERTIAIRE recherche pour son client, un Commercial sédentaire H/F Notre client, acteur majeur européen de la robinetterie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2806ZPXN982WX1TD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2806ZPXN982WX1TD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blois</Location>
+      <DisplayCity></DisplayCity>
+      <City>Blois</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.58684</LocationLatitude>
+      <LocationLongitude>1.33143</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2806ZPXN982WX1TD</SimilarJobsURL>
+      <JobTitle>Commercial sédentaire (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J06J5VWFG303511RR</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower COMPIEGNE TERTIAIRE recherche pour son client, 3 Téléconseiller H/F dans le cadre d'une mission de longue durée. Au sein du service Relation...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J06J5VWFG303511RR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J06J5VWFG303511RR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Compiègne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Compiègne</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.41762</LocationLatitude>
+      <LocationLongitude>2.82513</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J06J5VWFG303511RR</SimilarJobsURL>
+      <JobTitle>Téléconseiller (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H66766C7J2NNMLTZ3</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AVRANCHES recherche pour son client, entreprise du Sud Manche spécialisée dans l'aménagement d'intérieurs, commercialisés auprès d'une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H66766C7J2NNMLTZ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H66766C7J2NNMLTZ3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Avranches</Location>
+      <DisplayCity></DisplayCity>
+      <City>Avranches</City>
+      <State>BASSE-NORMANDIE</State>
+      <LocationLatitude>48.68637</LocationLatitude>
+      <LocationLongitude>-1.36192</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H66766C7J2NNMLTZ3</SimilarJobsURL>
+      <JobTitle>Technico-commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0DW6T3FWMJTD7T2T</DID>
+      <OnetCode>41-9011.00</OnetCode>
+      <ONetFriendlyTitle>Demonstrators and Product Promoters</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PARIS CHIMIE &amp; SCIENTIFIQUES recherche pour son client, un Promoteur des ventes H/F Pour une grand enseigne nous recherchons 1 promoteur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0DW6T3FWMJTD7T2T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0DW6T3FWMJTD7T2T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Boulogne-Billancourt</Location>
+      <DisplayCity></DisplayCity>
+      <City>Boulogne-Billancourt</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.83515</LocationLatitude>
+      <LocationLongitude>2.24097</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:46:00 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0DW6T3FWMJTD7T2T</SimilarJobsURL>
+      <JobTitle>Promoteur des ventes Région IDF Sud et Centre (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H4Q96LYP3VQYVB960</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower France et son réseau d'agences spécialisées ' Compétences&amp;Experts IT ', interviennent dans le conseil en Ressources Humaines depuis plus de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4Q96LYP3VQYVB960</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4Q96LYP3VQYVB960&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cambrai</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cambrai</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.17502</LocationLatitude>
+      <LocationLongitude>3.23419</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4Q96LYP3VQYVB960</SimilarJobsURL>
+      <JobTitle>Technicien support informatique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>firewall (computing)</Skill>
+        <Skill>jquery</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>vmware</Skill>
+        <Skill>wi-fi</Skill>
+        <Skill>windows server 2008</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>virtual private network</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3Q86RFWV7QM29CJR</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower France et son réseau d'agences spécialisées 'Compétences&amp;experts IT', interviennent dans le conseil en Ressources Humaines depuis plus de 50...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3Q86RFWV7QM29CJR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3Q86RFWV7QM29CJR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon III</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon III</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7562</LocationLatitude>
+      <LocationLongitude>4.86169</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3Q86RFWV7QM29CJR</SimilarJobsURL>
+      <JobTitle>Technicien support informatique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>autocad</Skill>
+        <Skill>solidworks</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J84G6H7S45Y6515BJ</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PAU recherche pour son client, acteur majeur dans le domaine de la protection sociale, un(e) Commercial(e) H/F. Vous serez en charge du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J84G6H7S45Y6515BJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J84G6H7S45Y6515BJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Auch</Location>
+      <DisplayCity></DisplayCity>
+      <City>Auch</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.64732</LocationLatitude>
+      <LocationLongitude>0.5846</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J84G6H7S45Y6515BJ</SimilarJobsURL>
+      <JobTitle>Commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F1QK6PPB90FVLP2H9</DID>
+      <OnetCode>41-3031.02</OnetCode>
+      <ONetFriendlyTitle>Sales Agents, Financial Services</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AMIENS TERTIAIRE recherche pour son client, un Téléconseiller H/F Rattaché(e) au Responsable de Plateau, vous aurez en charge les missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F1QK6PPB90FVLP2H9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F1QK6PPB90FVLP2H9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amiens</Location>
+      <DisplayCity></DisplayCity>
+      <City>Amiens</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.89473</LocationLatitude>
+      <LocationLongitude>2.29316</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:59 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F1QK6PPB90FVLP2H9</SimilarJobsURL>
+      <JobTitle>Téléconseiller (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F0QX77Z4157RXDS5K</DID>
+      <OnetCode>25-1194.00</OnetCode>
+      <ONetFriendlyTitle>Vocational Education Teachers, Postsecondary</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NANTES TERTIAIRE recherche pour son client, deux Attachés commerciaux H/F. Au sein du service clients, vous gérez en appels entrants les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0QX77Z4157RXDS5K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0QX77Z4157RXDS5K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0QX77Z4157RXDS5K</SimilarJobsURL>
+      <JobTitle>Attaché commercial ETUDIANT (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2V26MJJPBDZNLR7N</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Nantes Informatique a choisi de s'associer au projet : ' Agissons pour l'Emploi '. Ainsi pour répondre aux besoins en compétences des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2V26MJJPBDZNLR7N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2V26MJJPBDZNLR7N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:58 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2V26MJJPBDZNLR7N</SimilarJobsURL>
+      <JobTitle>Technicien support informatique (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8F66MCF3DN8SS1FN</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower COMPIEGNE TERTIAIRE ET CADRES recherche pour son client, un Commercial H/F chargé de cibler et prospecter une clientèle de professionnels (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8F66MCF3DN8SS1FN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8F66MCF3DN8SS1FN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Laon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Laon</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.56448</LocationLatitude>
+      <LocationLongitude>3.61994</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8F66MCF3DN8SS1FN</SimilarJobsURL>
+      <JobTitle>Commercial Dept 02-60 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H2DR6LKT8S8T92R62</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Conseil Recrutement recherche pour son client, cabinet d expertise comptable spécialisé dans la gestion de dossiers d investissement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2DR6LKT8S8T92R62</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2DR6LKT8S8T92R62&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2DR6LKT8S8T92R62</SimilarJobsURL>
+      <JobTitle>Collaborateur d'expert-comptable (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3B360WS2WZ7LXD1F</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Caen Tertiaire et Cadres recherche pour son client, spécialiste de la fabrication de regards en béton étanches pour réseaux d'assainissement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3B360WS2WZ7LXD1F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3B360WS2WZ7LXD1F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Orléans</Location>
+      <DisplayCity></DisplayCity>
+      <City>Orléans</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.90143</LocationLatitude>
+      <LocationLongitude>1.90496</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3B360WS2WZ7LXD1F</SimilarJobsURL>
+      <JobTitle>Commercial itinérant Centre Poitou Charentes (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K48L699WC0SRKBQW9</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NEVERS recherche pour son client, un Technico-commercial H/F près une période de formation à nos produits, et en étroite collaboration avec...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K48L699WC0SRKBQW9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K48L699WC0SRKBQW9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Strasbourg</Location>
+      <DisplayCity></DisplayCity>
+      <City>Strasbourg</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.58508</LocationLatitude>
+      <LocationLongitude>7.73643</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K48L699WC0SRKBQW9</SimilarJobsURL>
+      <JobTitle>Technico-commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H0T86C8R9DQ5VYXNY</DID>
+      <OnetCode>53-1031.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Transportation, Machine and Vehicle Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower REIMS TERTIAIRE CADRES recherche pour son client, un Commercial transport H/F Notre client, entreprise du transport et de la logistique...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0T86C8R9DQ5VYXNY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0T86C8R9DQ5VYXNY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reims</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reims</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>49.2536</LocationLatitude>
+      <LocationLongitude>4.04266</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:56 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0T86C8R9DQ5VYXNY</SimilarJobsURL>
+      <JobTitle>Commercial transport (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6SC6RRGW4PWD8VJL</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LE MANS TERTIAIRE recherche pour son client, un Collaborateur d'expert-comptable H/F. Au sein de l'entreprise , vous allez trouver un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6SC6RRGW4PWD8VJL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6SC6RRGW4PWD8VJL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Le Mans</Location>
+      <DisplayCity></DisplayCity>
+      <City>Le Mans</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>48.00809</LocationLatitude>
+      <LocationLongitude>0.19781</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6SC6RRGW4PWD8VJL</SimilarJobsURL>
+      <JobTitle>Collaborateur d'expert-comptable (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G29P758VKBSQTMNNM</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower RENNES TERTIAIRE recherche pour son client, acteur majeur dans le domaine de la Presse et de l'Edition, un Chargé de clientèle téléservices H...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G29P758VKBSQTMNNM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G29P758VKBSQTMNNM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rennes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.10751</LocationLatitude>
+      <LocationLongitude>-1.68447</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G29P758VKBSQTMNNM</SimilarJobsURL>
+      <JobTitle>Chargé de clientèle téléservices (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L6DX6GCLS5CXKLK2Q</DID>
+      <OnetCode>11-3031.01</OnetCode>
+      <ONetFriendlyTitle>Treasurers and Controllers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower GD PARIS AERONAUTIQUE-BE recherche pour son client, un Contrôleur de gestion H/F Mission : - Assister le contrôleur financier du site dans sa...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L6DX6GCLS5CXKLK2Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L6DX6GCLS5CXKLK2Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:55 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L6DX6GCLS5CXKLK2Q</SimilarJobsURL>
+      <JobTitle>Contrôleur de gestion (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H07F7377J3HSQMLYH</DID>
+      <OnetCode>11-3031.02</OnetCode>
+      <ONetFriendlyTitle>Financial Managers, Branch or Department</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AIX TERTIAIRE CADRES recherche pour son client, un Comptable H/F. Vous serez amené(e) à intervenir sur : -Fermeture /ouverture mensuelle des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H07F7377J3HSQMLYH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H07F7377J3HSQMLYH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Provence</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aix-en-Provence</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.52638</LocationLatitude>
+      <LocationLongitude>5.44614</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:54 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H07F7377J3HSQMLYH</SimilarJobsURL>
+      <JobTitle>Comptable Clients (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F77D6T3NVS4NZ7399</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet de recrutement CDI Manpower recherche pour un de ses clients un Chargé H/F de Comptes Web itinérant. Notre client est un concepteur et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F77D6T3NVS4NZ7399</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F77D6T3NVS4NZ7399&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:54 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F77D6T3NVS4NZ7399</SimilarJobsURL>
+      <JobTitle>Responsable Commercial Comptes Web (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Electronic commerce</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G54671SCHVJGHYRG5</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Cabinet de Recrutement Manpower Conseil Recrutement de SOPHIA ANTIPOLIS recherche pour son client, un Responsable service généraux / Facilities...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G54671SCHVJGHYRG5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G54671SCHVJGHYRG5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valbonne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valbonne</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.6424</LocationLatitude>
+      <LocationLongitude>7.00956</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G54671SCHVJGHYRG5</SimilarJobsURL>
+      <JobTitle>Responsable SG / Facilities bilingue anglais (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F72V71MZVFJ5FQN9X</DID>
+      <OnetCode>49-9021.01</OnetCode>
+      <ONetFriendlyTitle>Heating and Air Conditioning Mechanics and Installers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower CAEN TERTIAIRE ET CADRES recherche pour son client, un Responsable H/F de contrat CVC Chauffage Ventilation Climatisation vos principales...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F72V71MZVFJ5FQN9X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F72V71MZVFJ5FQN9X&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Caen</Location>
+      <DisplayCity></DisplayCity>
+      <City>Caen</City>
+      <State>BASSE-NORMANDIE</State>
+      <LocationLatitude>49.18435</LocationLatitude>
+      <LocationLongitude>-0.36108</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F72V71MZVFJ5FQN9X</SimilarJobsURL>
+      <JobTitle>Responsable  de contrat CVC  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H1L662Y0CZ4S9DKN3</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower GD PARIS ASSURANCES recherche pour son client des commerciaux itinérants H/F sur les secteurs de Paris (75), Seine et Maine (77), Les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H1L662Y0CZ4S9DKN3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H1L662Y0CZ4S9DKN3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Puteaux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Puteaux</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.88276</LocationLatitude>
+      <LocationLongitude>2.23982</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H1L662Y0CZ4S9DKN3</SimilarJobsURL>
+      <JobTitle>Commercial itinérant (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J57N5X5WFFM65933D</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet de recrutement MANPOWER recherche pour son client spécialisé en pneumatique, hydraulique, instrumentation, automatisme au sud de Lyon, un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J57N5X5WFFM65933D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J57N5X5WFFM65933D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J57N5X5WFFM65933D</SimilarJobsURL>
+      <JobTitle>Technico-commercial sédentaire (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J87X65VRYN9DPTG9Z</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AIX TERTIAIRE CADRES recherche pour son client intervenant majeur dans l'univers des produits de décoration et des accessoires cadeaux, son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J87X65VRYN9DPTG9Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J87X65VRYN9DPTG9Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valence</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valence</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>44.9293</LocationLatitude>
+      <LocationLongitude>4.90217</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J87X65VRYN9DPTG9Z</SimilarJobsURL>
+      <JobTitle>Commercial Terrain (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3KQ6LHDZ2PVLMPNV</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Le cabinet de recrutement Manpower MONACO recherche pour son client, un Ingénieur Production Exploitation IT Junior H/F. Sur les phases de production...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3KQ6LHDZ2PVLMPNV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3KQ6LHDZ2PVLMPNV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Monaco</Location>
+      <DisplayCity></DisplayCity>
+      <City>Monaco</City>
+      <State>MONACO</State>
+      <LocationLatitude>43.7343</LocationLatitude>
+      <LocationLongitude>7.41639</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3KQ6LHDZ2PVLMPNV</SimilarJobsURL>
+      <JobTitle>Ingénieur de production informatique Junior (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6XM6NSPCRCN5XPF8</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower TOULOUSE TERTIAIRE recherche pour son client, un Téléconseiller appels entrants BtoB H/F. Domaine d'activité: optique Vos principales...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6XM6NSPCRCN5XPF8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6XM6NSPCRCN5XPF8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:52 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6XM6NSPCRCN5XPF8</SimilarJobsURL>
+      <JobTitle>Téléconseiller appels entrants (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G29C61P56PB0GW1GY</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PAU recherche pour son client, acteur majeur dans le domaine de la protection sociale, un(e) Commercial(e) H/F. Vous serez en charge du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G29C61P56PB0GW1GY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G29C61P56PB0GW1GY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Gaudens</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Gaudens</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.10902</LocationLatitude>
+      <LocationLongitude>0.72796</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:51 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G29C61P56PB0GW1GY</SimilarJobsURL>
+      <JobTitle>Commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3NH68YH8DNJS9WSN</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower GRAND PARIS INGENIERIE BTP recherche pour son client, 1 Chargé d'affaires électricité / réseaux junior H/F. Le chargé d'affaires réseaux a...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3NH68YH8DNJS9WSN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3NH68YH8DNJS9WSN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Noisy-le-Grand</Location>
+      <DisplayCity></DisplayCity>
+      <City>Noisy-le-Grand</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.84889</LocationLatitude>
+      <LocationLongitude>2.55366</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:51 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3NH68YH8DNJS9WSN</SimilarJobsURL>
+      <JobTitle>Chargé d'affaires électricité (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G6PP790JWBSWDKVQ6</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PONTAULT COMBAULT recherche pour son client, un Attaché commercial H/F. Société spécialisée dans la conception de semi-produits Aluminium....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G6PP790JWBSWDKVQ6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G6PP790JWBSWDKVQ6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ozoir-la-Ferrière</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ozoir-la-Ferrière</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.76243</LocationLatitude>
+      <LocationLongitude>2.66856</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G6PP790JWBSWDKVQ6</SimilarJobsURL>
+      <JobTitle>Attaché commercial Itinérant (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3TL6VBF2WXRP9R1B</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower SOPHIA INFORMATIQUE recherche pour son client, un Technicien Helpdesk H/F. Vos principales mission sont: Prise d'appels et prise en compte...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K3TL6VBF2WXRP9R1B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3TL6VBF2WXRP9R1B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille XIII</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille XIII</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.35171</LocationLatitude>
+      <LocationLongitude>5.43086</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3TL6VBF2WXRP9R1B</SimilarJobsURL>
+      <JobTitle>Technicien Helpdesk (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>lotus notes</Skill>
+        <Skill>flux (software)</Skill>
+        <Skill>microsoft office</Skill>
+        <Skill>windows xp</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J7WJ737S0XWT2731Q</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower RENNES TERTIAIRE recherche pour son client, un Comptable Fournisseurs H/F Au sein du service comptabilité vous aurez en charge la partie...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7WJ737S0XWT2731Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7WJ737S0XWT2731Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rennes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.10751</LocationLatitude>
+      <LocationLongitude>-1.68447</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7WJ737S0XWT2731Q</SimilarJobsURL>
+      <JobTitle>Comptable fournisseurs (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H8HD689D9GXMVCGXR</DID>
+      <OnetCode>13-2072.00</OnetCode>
+      <ONetFriendlyTitle>Loan Officers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NANTES TERTIAIRE recherche pour son client, un Attaché commercial en centre de relation clientèle (H/F), pour un CDD de 6 mois. Vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H8HD689D9GXMVCGXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H8HD689D9GXMVCGXR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H8HD689D9GXMVCGXR</SimilarJobsURL>
+      <JobTitle>Attaché commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F2C96QYPSJN9SPK09</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AIX TERTIAIRE CADRES recherche pour son client intervenant majeur dans l'univers des produits de décoration et des accessoires cadeaux, un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2C96QYPSJN9SPK09</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2C96QYPSJN9SPK09&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon I</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon I</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:49 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2C96QYPSJN9SPK09</SimilarJobsURL>
+      <JobTitle>Commercial terrain (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7CK6MH11L4TQCR6D</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower ST ETIENNE TERTIAIRE recherche pour son client, un Superviseur en call-center H/F Au sein d'un service réputé : vous aurez en charge -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F7CK6MH11L4TQCR6D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7CK6MH11L4TQCR6D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Étienne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Étienne</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.4344</LocationLatitude>
+      <LocationLongitude>4.38848</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:49 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7CK6MH11L4TQCR6D</SimilarJobsURL>
+      <JobTitle>Superviseur en call-center (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0KQ6VD12NBRFHNQ5</DID>
+      <OnetCode>41-2022.00</OnetCode>
+      <ONetFriendlyTitle>Parts Salespersons</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Cabinet Conseil Recrutement Manpower recherche pour son client un Commercial Itinérant Pièces de rechange H/F pour les secteurs nord 49 et 72 en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0KQ6VD12NBRFHNQ5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0KQ6VD12NBRFHNQ5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Le Mans</Location>
+      <DisplayCity></DisplayCity>
+      <City>Le Mans</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>48.00809</LocationLatitude>
+      <LocationLongitude>0.19781</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:49 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0KQ6VD12NBRFHNQ5</SimilarJobsURL>
+      <JobTitle>Technico-commercial Pièces de Rechange (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3H6769N65Q1XDF4H</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NANTES INFORMATIQUE recherche pour son client, un Technicien support informatique PAIE H/F En tant que Technicien Support paie, vous serez...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3H6769N65Q1XDF4H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3H6769N65Q1XDF4H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>La Chapelle-sur-Erdre</Location>
+      <DisplayCity></DisplayCity>
+      <City>La Chapelle-sur-Erdre</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.2995</LocationLatitude>
+      <LocationLongitude>-1.55009</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:49 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3H6769N65Q1XDF4H</SimilarJobsURL>
+      <JobTitle>Technicien support informatique Paie (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2F16W6GTG6QMB4VG</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LYON TERTIAIRE recherche pour son client, un Collaborateur d'expert-comptable H/F Cabinet d'Expertise Comptable à taille humaine situé à...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2F16W6GTG6QMB4VG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2F16W6GTG6QMB4VG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Villeurbanne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Villeurbanne</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7696</LocationLatitude>
+      <LocationLongitude>4.87904</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:47 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2F16W6GTG6QMB4VG</SimilarJobsURL>
+      <JobTitle>Collaborateur d'expert-comptable confirmé (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2WC6G7R914HJ51Z4</DID>
+      <OnetCode>17-2051.00</OnetCode>
+      <ONetFriendlyTitle>Civil Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Cabinet de Conseil en Recrutement MANPOWER LILLE recherche pour son client, un Chargé d'affaires ingénierie H/F. L'objectif du poste est la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L2WC6G7R914HJ51Z4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2WC6G7R914HJ51Z4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Wambrechies</Location>
+      <DisplayCity></DisplayCity>
+      <City>Wambrechies</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.68711</LocationLatitude>
+      <LocationLongitude>3.05256</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:47 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2WC6G7R914HJ51Z4</SimilarJobsURL>
+      <JobTitle>Chargé d'affaires INGENIERIE (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F60P6H7R59HLGSQMY</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LA DEFENSE INFORMATIQUE recherche pour son client, un Technicien support informatique H/F. Nous recrutons pour notre client, leader dans la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F60P6H7R59HLGSQMY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F60P6H7R59HLGSQMY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris IV</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris IV</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.856</LocationLatitude>
+      <LocationLongitude>2.35954</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:47 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F60P6H7R59HLGSQMY</SimilarJobsURL>
+      <JobTitle>Technicien support informatique Helpdesk  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3PS6MSQ9MMGHBLS1</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est le leader mondial des gaz pour l'industrie, la santé et l'environnement. Grâce à des solutions innovantes qui s'appuient sur des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3PS6MSQ9MMGHBLS1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3PS6MSQ9MMGHBLS1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Priest</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Priest</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>44.7102</LocationLatitude>
+      <LocationLongitude>4.5394</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3PS6MSQ9MMGHBLS1</SimilarJobsURL>
+      <JobTitle>Chargé de clientèle téléservices (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0F66RW649JTLK8NV</DID>
+      <OnetCode>17-1022.00</OnetCode>
+      <ONetFriendlyTitle>Surveyors</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower GD PARIS SERV. ENTREPRISE recherche pour son client, un Téléenquêteur H/F : Vos missions : Au sein d'une équipe, vous serez rattaché(e) au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0F66RW649JTLK8NV</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0F66RW649JTLK8NV&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montreuil</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montreuil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8661</LocationLatitude>
+      <LocationLongitude>2.45088</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0F66RW649JTLK8NV</SimilarJobsURL>
+      <JobTitle>Téléenquêteur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K09X6V3KS9CDP69YC</DID>
+      <OnetCode>13-2072.00</OnetCode>
+      <ONetFriendlyTitle>Loan Officers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower DIJON TERTIAIRE ET CADRES recherche pour son client (domaine informatique, photocopieur, consommables) leader sur le marché, un Attaché...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K09X6V3KS9CDP69YC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K09X6V3KS9CDP69YC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dijon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dijon</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.3268</LocationLatitude>
+      <LocationLongitude>5.04618</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K09X6V3KS9CDP69YC</SimilarJobsURL>
+      <JobTitle>Attaché commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J17W6748YWN46HSGD</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower MONTPELLIER TERTIAIRE recherche pour son client spécialisé dans la gestion de patrimoine, un Téléprospecteur H/F. Vos missions seront les...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J17W6748YWN46HSGD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J17W6748YWN46HSGD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Castelnau-le-Lez</Location>
+      <DisplayCity></DisplayCity>
+      <City>Castelnau-le-Lez</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.63373</LocationLatitude>
+      <LocationLongitude>3.89542</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J17W6748YWN46HSGD</SimilarJobsURL>
+      <JobTitle>Téléprospecteur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Risk management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G2JH5Y8LLY1DKLB7N</DID>
+      <OnetCode>11-9141.00</OnetCode>
+      <ONetFriendlyTitle>Property, Real Estate, and Community Association Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower RENNES TERTIAIRE recherche pour son client, un Comptable copropriété H/F Le poste Au sein du service comptable gestion locative, vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G2JH5Y8LLY1DKLB7N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G2JH5Y8LLY1DKLB7N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rennes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.10751</LocationLatitude>
+      <LocationLongitude>-1.68447</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G2JH5Y8LLY1DKLB7N</SimilarJobsURL>
+      <JobTitle>Comptable copropriété gestion locative (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H79Q6QF994FK204QD</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Caen Tertiaire et Cadres recherche pour son client, spécialiste de la fabrication de regards en béton étanches pour réseaux d'assainissement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H79Q6QF994FK204QD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H79Q6QF994FK204QD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Orléans</Location>
+      <DisplayCity></DisplayCity>
+      <City>Orléans</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.90143</LocationLatitude>
+      <LocationLongitude>1.90496</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H79Q6QF994FK204QD</SimilarJobsURL>
+      <JobTitle>Commercial itinérant Centre Poitou Charentes (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G10R726JTVZ6QBMQ3</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>MANPOWER tertiaire recherche pour son client, téléconseiller H/F pour une mission de Travail Temporaire de 3 mois. Missions : 1) Au sein de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G10R726JTVZ6QBMQ3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G10R726JTVZ6QBMQ3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Besançon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Besançon</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>47.24231</LocationLatitude>
+      <LocationLongitude>6.02568</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G10R726JTVZ6QBMQ3</SimilarJobsURL>
+      <JobTitle>Téléconseiller appels entrants (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2JP6R8FV53NGMCBK</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BLOIS INDUSTRIE TERTIAIRE recherche pour son client, un Gestionnaire de base de données (H/F) Vos missions: - Gestion et mise en forme de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2JP6R8FV53NGMCBK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2JP6R8FV53NGMCBK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Laurent-Nouan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Laurent-Nouan</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.71853</LocationLatitude>
+      <LocationLongitude>1.61654</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2JP6R8FV53NGMCBK</SimilarJobsURL>
+      <JobTitle>Gestionnaire d'application informatique Gestionnaire base de données (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L65T78CMZ01K5453Q</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NANTES TERTIAIRE recherche pour son client , un Comptable H/F pour un CDD de 6 mois. Notre client est spécialisé dans la conception, le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L65T78CMZ01K5453Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L65T78CMZ01K5453Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Herblain</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Herblain</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21175</LocationLatitude>
+      <LocationLongitude>-1.65405</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L65T78CMZ01K5453Q</SimilarJobsURL>
+      <JobTitle>Comptable (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J2BV6TR6DB65LBW27</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Caen Tertiaire et Cadres recherche pour son client, spécialiste de la fabrication de regards en béton étanches pour réseaux d'assainissement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J2BV6TR6DB65LBW27</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J2BV6TR6DB65LBW27&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Poitiers</Location>
+      <DisplayCity></DisplayCity>
+      <City>Poitiers</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.58057</LocationLatitude>
+      <LocationLongitude>0.34169</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J2BV6TR6DB65LBW27</SimilarJobsURL>
+      <JobTitle>Commercial itinérant Centre Poitou Charentes (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F85P5YG82F732YJ5K</DID>
+      <OnetCode>49-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Mechanics, Installers, and Repairers</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower BRIVE recherche pour son client, un Technico-commercial sédentaire H/F, spécialisé dans la vente de matériel électrique. Rattaché(e) au Chef...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F85P5YG82F732YJ5K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F85P5YG82F732YJ5K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brive-la-Gaillarde</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brive-la-Gaillarde</City>
+      <State>LIMOUSIN</State>
+      <LocationLatitude>45.15694</LocationLatitude>
+      <LocationLongitude>1.536</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F85P5YG82F732YJ5K</SimilarJobsURL>
+      <JobTitle>Technico-commercial sédentaire (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5TS6BCJ5JWBBPZTW</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower CHATEAUBRIANT recherche pour son client, société grossiste en assurance, un Téléprospecteur H/F en appels sortants. Rattaché au service...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5TS6BCJ5JWBBPZTW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5TS6BCJ5JWBBPZTW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Châteaubriant</Location>
+      <DisplayCity></DisplayCity>
+      <City>Châteaubriant</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.71809</LocationLatitude>
+      <LocationLongitude>-1.37823</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5TS6BCJ5JWBBPZTW</SimilarJobsURL>
+      <JobTitle>Télévendeur assurances (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H7ZW6RR0CWWGYL49C</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Pôle Recrutement recrute en CDI pour son client, acteur majeur de l'assurance en France et aux valeurs fortes d'humanisme, de solidarité et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7ZW6RR0CWWGYL49C</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7ZW6RR0CWWGYL49C&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Grenoble</Location>
+      <DisplayCity></DisplayCity>
+      <City>Grenoble</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.194</LocationLatitude>
+      <LocationLongitude>5.73201</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:43 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7ZW6RR0CWWGYL49C</SimilarJobsURL>
+      <JobTitle>Télévendeur assurances (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J29J6DDQ1T2V6KH0D</DID>
+      <OnetCode>41-3021.00</OnetCode>
+      <ONetFriendlyTitle>Insurance Sales Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>La Cellule Recrutement de Manpower group recherche pour son client un Conseiller Commercial Mutualiste Entreprises H/F. Rattaché au Responsable...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J29J6DDQ1T2V6KH0D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J29J6DDQ1T2V6KH0D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Beauvais</Location>
+      <DisplayCity></DisplayCity>
+      <City>Beauvais</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.42955</LocationLatitude>
+      <LocationLongitude>2.08322</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J29J6DDQ1T2V6KH0D</SimilarJobsURL>
+      <JobTitle>Commercial Mutualiste Entreprises  (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L2T6710T2Q8RMG4CL</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower NANTES TERTIAIRE recherche pour son client, un Comptable H/F. Dans le cadre d'un changement d'ERP, notre client a besoin d'un renfort sur son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L2T6710T2Q8RMG4CL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L2T6710T2Q8RMG4CL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L2T6710T2Q8RMG4CL</SimilarJobsURL>
+      <JobTitle>Comptable Fournisseurs (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3N46X4FC4CXDVHX9</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower RECRUTEMENT recherche pour son client, un Collaborateur d'expert-comptable H/F en CDI à Carpentras. Vos missions: Au sein d'un cabinet d'une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K3N46X4FC4CXDVHX9</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3N46X4FC4CXDVHX9&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Carpentras</Location>
+      <DisplayCity></DisplayCity>
+      <City>Carpentras</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>44.05577</LocationLatitude>
+      <LocationLongitude>5.05271</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3N46X4FC4CXDVHX9</SimilarJobsURL>
+      <JobTitle>Collaborateur d'expert-comptable (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J6VT78SJZGNQ17NZ1</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower SCD RECRUTEMENT A VOLUME recherche pour son client acteur majeur de l'assurance en France, orienté vers ses clients, et dont l'action est...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6VT78SJZGNQ17NZ1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6VT78SJZGNQ17NZ1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Reims</Location>
+      <DisplayCity></DisplayCity>
+      <City>Reims</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>49.2536</LocationLatitude>
+      <LocationLongitude>4.04266</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6VT78SJZGNQ17NZ1</SimilarJobsURL>
+      <JobTitle>Télévendeur assurances (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5X967V5CLW25HKDF</DID>
+      <OnetCode>43-6012.00</OnetCode>
+      <ONetFriendlyTitle>Legal Secretaries</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AUTUN recherche pour son client, un Secrétaire commercial H/F pour les missions suivantes : - prise de commandes - negocation des prix -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K5X967V5CLW25HKDF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5X967V5CLW25HKDF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Étang-sur-Arroux</Location>
+      <DisplayCity></DisplayCity>
+      <City>Étang-sur-Arroux</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>46.86638</LocationLatitude>
+      <LocationLongitude>4.18869</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5X967V5CLW25HKDF</SimilarJobsURL>
+      <JobTitle>Secrétaire commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4L474H39K4YZPWLJ</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower MARSEILLE TERTIAIRE EUROMED recherche pour son client, spécialisé dans le transport maritime, un Comptable H/F. Votre mission: Vous êtes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4L474H39K4YZPWLJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4L474H39K4YZPWLJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4L474H39K4YZPWLJ</SimilarJobsURL>
+      <JobTitle>Comptable (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G1ML79NM8D384CHJM</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower AMBERT recherche pour son client, un Commercial Export bilingue anglais H/F pour intégrer le service Technico-commercial d'une entreprise...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G1ML79NM8D384CHJM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G1ML79NM8D384CHJM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ambert</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ambert</City>
+      <State>AUVERGNE</State>
+      <LocationLatitude>45.54887</LocationLatitude>
+      <LocationLongitude>3.74311</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G1ML79NM8D384CHJM</SimilarJobsURL>
+      <JobTitle>Commercial export junior (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F8GX66NHJFJ59RG8V</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower DOMONT recherche pour son client, un Hotliner téléservices H/F. Au sein du service SAV, vous serez en charge : - Prise en charge des appels...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F8GX66NHJFJ59RG8V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F8GX66NHJFJ59RG8V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Persan</Location>
+      <DisplayCity></DisplayCity>
+      <City>Persan</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.151</LocationLatitude>
+      <LocationLongitude>2.27635</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F8GX66NHJFJ59RG8V</SimilarJobsURL>
+      <JobTitle>Hotliner téléservices (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4B1632Q55ZV3ML01</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LE MANS TERTIAIRE recherche pour son client, un Comptable unique H/F. Rattaché(e) au Directeur de la Maison de Retraite, vous gérez en...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4B1632Q55ZV3ML01</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4B1632Q55ZV3ML01&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Le Mans</Location>
+      <DisplayCity></DisplayCity>
+      <City>Le Mans</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>48.00809</LocationLatitude>
+      <LocationLongitude>0.19781</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4B1632Q55ZV3ML01</SimilarJobsURL>
+      <JobTitle>Comptable unique Paie (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K0C66FTHZJN287P1G</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower OULLINS recherche pour son client, un Comptable auxiliaire H/F 1 Comptable auxiliaire (clients/fournisseurs) H/F - contrats Intérim (6...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K0C66FTHZJN287P1G</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K0C66FTHZJN287P1G&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Brignais</Location>
+      <DisplayCity></DisplayCity>
+      <City>Brignais</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.67404</LocationLatitude>
+      <LocationLongitude>4.75395</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K0C66FTHZJN287P1G</SimilarJobsURL>
+      <JobTitle>Comptable auxiliaire (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3VW6WZHJP4WY75T2</DID>
+      <OnetCode>41-9041.00</OnetCode>
+      <ONetFriendlyTitle>Telemarketers</ONetFriendlyTitle>
+      <DescriptionTeaser>L'agence Manpower LORIENT TERTIAIRE recherche pour l'un de ses clients un télévendeur H/F. Au sein d'une plateforme téléphonique, vous devez contacter...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3VW6WZHJP4WY75T2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3VW6WZHJP4WY75T2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lorient</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lorient</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>47.7502</LocationLatitude>
+      <LocationLongitude>-3.36685</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3VW6WZHJP4WY75T2</SimilarJobsURL>
+      <JobTitle>Télévendeur (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G7RP6HG36PRPZ3MSM</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower VALENCIENNES TERTIAIRE recherche pour son client, un Comptable général H/F Dans le cadre d'un accroissement d'activité, notre client...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7RP6HG36PRPZ3MSM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7RP6HG36PRPZ3MSM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rouvignies</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rouvignies</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.32676</LocationLatitude>
+      <LocationLongitude>3.44064</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7RP6HG36PRPZ3MSM</SimilarJobsURL>
+      <JobTitle>Comptable général (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>International Financial Reporting Standards</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L52T5ZF1BD2N98KMX</DID>
+      <OnetCode>41-4011.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Technical and Scientific Products)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Carhaix recherche pour son client basé à Carhaix, un technico-commercial H/F en CDI. Votre mission : - Vous intervenez auprès d'une clientèle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L52T5ZF1BD2N98KMX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L52T5ZF1BD2N98KMX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Carhaix-Plouguer</Location>
+      <DisplayCity></DisplayCity>
+      <City>Carhaix-Plouguer</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.27629</LocationLatitude>
+      <LocationLongitude>-3.57391</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L52T5ZF1BD2N98KMX</SimilarJobsURL>
+      <JobTitle>Technico-commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H3N66KR1RPBWJB0QS</DID>
+      <OnetCode>41-3099.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Services)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower PAU INDUSTRIE TERTIAIRE recherche pour son client, spécialisé dans la vente et la location de matériels, un(e) Technico-Commercial Sédentaire...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3N66KR1RPBWJB0QS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3N66KR1RPBWJB0QS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mugron</Location>
+      <DisplayCity></DisplayCity>
+      <City>Mugron</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>43.75014</LocationLatitude>
+      <LocationLongitude>-0.75486</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3N66KR1RPBWJB0QS</SimilarJobsURL>
+      <JobTitle>Technico-commercial Sédentaire (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F57J72Z1WKHDMSXY5</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LYON TERTIAIRE recherche pour son client, spécialiste des assurances professionnelles, un Conseiller clientèle assurances H/F en CDD de 11...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F57J72Z1WKHDMSXY5</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F57J72Z1WKHDMSXY5&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon VIII</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon VIII</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7336</LocationLatitude>
+      <LocationLongitude>4.87162</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F57J72Z1WKHDMSXY5</SimilarJobsURL>
+      <JobTitle>Conseiller clientèle assurances à distance (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L55K6M9RH9SF4QCGZ</DID>
+      <OnetCode>43-4051.00</OnetCode>
+      <ONetFriendlyTitle>Customer Service Representatives</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Conseil Recrutement recherche pour son client, un Chargé de clientèle commerciale H/F Au sein d'une entreprise spécialisée en location de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L55K6M9RH9SF4QCGZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L55K6M9RH9SF4QCGZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Blanquefort</Location>
+      <DisplayCity></DisplayCity>
+      <City>Blanquefort</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.9116</LocationLatitude>
+      <LocationLongitude>-0.63589</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L55K6M9RH9SF4QCGZ</SimilarJobsURL>
+      <JobTitle>Chargé de clientèle commerciale service location B to B (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K3WR6B2H5LKX9SGTZ</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower GD PARIS BANQUE recherche pour son client, un Comptable général H/F. L'objet de cette mission est de permettre de rattraper les retards de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K3WR6B2H5LKX9SGTZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K3WR6B2H5LKX9SGTZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris XII</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris XII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8337</LocationLatitude>
+      <LocationLongitude>2.4268</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K3WR6B2H5LKX9SGTZ</SimilarJobsURL>
+      <JobTitle>Comptable général avec maitrise de Sage (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J53M61G7NZN979VG4</DID>
+      <OnetCode>43-2011.00</OnetCode>
+      <ONetFriendlyTitle>Switchboard Operators, Including Answering Service</ONetFriendlyTitle>
+      <DescriptionTeaser>Dans le cadre d'un accroissement d'activité, Manpower Référence Intérim La Flèche, recherche pour son client, leader français de la logistique e-...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J53M61G7NZN979VG4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J53M61G7NZN979VG4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Seiches-sur-le-Loir</Location>
+      <DisplayCity></DisplayCity>
+      <City>Seiches-sur-le-Loir</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.5743</LocationLatitude>
+      <LocationLongitude>-0.35881</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J53M61G7NZN979VG4</SimilarJobsURL>
+      <JobTitle>Téléopérateur trilingue (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L7PN6XDYWGBP3BKRH</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower VESOUL recherche pour son client, un Comptable assurances H/F confirmé ou ayant une premièreexpérience réussie MISSIONS DU COMPTABLE : - La...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L7PN6XDYWGBP3BKRH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L7PN6XDYWGBP3BKRH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vesoul</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vesoul</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>47.6199</LocationLatitude>
+      <LocationLongitude>6.15479</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L7PN6XDYWGBP3BKRH</SimilarJobsURL>
+      <JobTitle>Comptable assurances (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Remuneration</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J3LN6HQBK5M1CYK9M</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower Caen Tertiaire et Cadres recherche pour son client, spécialiste de la fabrication de regards en béton étanches pour réseaux d'assainissement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3LN6HQBK5M1CYK9M</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3LN6HQBK5M1CYK9M&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Poitiers</Location>
+      <DisplayCity></DisplayCity>
+      <City>Poitiers</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.58057</LocationLatitude>
+      <LocationLongitude>0.34169</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3LN6HQBK5M1CYK9M</SimilarJobsURL>
+      <JobTitle>Commercial itinérant Centre Poitou Charentes (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3L3K26T2KVJ4QJJ65N</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower SOPHIA ANTIPOLIS recherche pour son client, un Comptable fournisseurs H/F pour une mission de 6 mois sur Sophia Antipolis, à temps partiel....</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3L3K26T2KVJ4QJJ65N</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3L3K26T2KVJ4QJJ65N&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Valbonne</Location>
+      <DisplayCity></DisplayCity>
+      <City>Valbonne</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.6424</LocationLatitude>
+      <LocationLongitude>7.00956</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3L3K26T2KVJ4QJJ65N</SimilarJobsURL>
+      <JobTitle>Comptable fournisseurs SAP - mi temps (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Manpower</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3K5J271G6V6VLCSX12</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Manpower LYON INFORMATIQUE, agence spécialisée ' Compétences &amp; experts IT ', intervient dans le conseil en Ressources Humaines (CDI, CDD, Recrutement...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3K5J271G6V6VLCSX12</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3K5J271G6V6VLCSX12&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Chambéry</Location>
+      <DisplayCity></DisplayCity>
+      <City>Chambéry</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.56664</LocationLatitude>
+      <LocationLongitude>5.92092</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:45:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3K5J271G6V6VLCSX12</SimilarJobsURL>
+      <JobTitle>Formateur Informatique logiciels itinérant (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XH/MJB25K73JJNHXC3WSXH.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Thévenin</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5046ZT9687052C2W</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Commercial h/f Description du poste: Rattaché à notre agence du MANS , vous prenez en charge la commercialisation de nos produits en vente directe...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5046ZT9687052C2W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5046ZT9687052C2W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>LE MANS (dépt. 72)</Location>
+      <DisplayCity>LE MANS (dépt. 72)</DisplayCity>
+      <City>Le Mans</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>48.00809</LocationLatitude>
+      <LocationLongitude>0.19781</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:34:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5046ZT9687052C2W</SimilarJobsURL>
+      <JobTitle>1 Commercial (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/M5/MSL12N6PMSM8YNVZMM5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Florian Mantione Institut</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H65F60XG3FG03MPLM</DID>
+      <OnetCode>13-1071.02</OnetCode>
+      <ONetFriendlyTitle>Personnel Recruiters</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client - L'Employeur Le Florian Mantione Institut a été créé en 1976 à Montpellier par Florian Mantione. Dirigé par Augustin VALERO et Loïc...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H65F60XG3FG03MPLM</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H65F60XG3FG03MPLM&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pau</Location>
+      <DisplayCity></DisplayCity>
+      <City>Pau</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>43.29655</LocationLatitude>
+      <LocationLongitude>-0.37429</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:34:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H65F60XG3FG03MPLM</SimilarJobsURL>
+      <JobTitle>CONSULTANT EN RECRUTEMENT INDEPENDANT (64)  (F/H)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ML/M0W58S6CYN5JLVXFVML.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Florian Mantione Institut</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4HJ78QK2G8MPCBNL</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client - L'Employeur Le groupe BONA Le groupe BONA a été fondé en 1919 en Suède. Il est aujourd’hui présent dans plus de 50 pays avec 18...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4HJ78QK2G8MPCBNL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4HJ78QK2G8MPCBNL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>ILE DE FRANCE</Location>
+      <DisplayCity>ILE DE FRANCE</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:34:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4HJ78QK2G8MPCBNL</SimilarJobsURL>
+      <JobTitle>RESPONSABLE COMPTE CLES  (F/H)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ML/M0W58S6CYN5JLVXFVML.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+        <Skill>Marketing Communications</Skill>
+        <Skill>Innovation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Florian Mantione Institut</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H5Z177NC7TSMCD4MF</DID>
+      <OnetCode>13-1071.00</OnetCode>
+      <ONetFriendlyTitle>Employment, Recruitment, and Placement Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client - L'Employeur Le Florian Mantione Institut a été créé en 1976 à Montpellier par Florian Mantione. Dirigé par Augustin VALERO et Loïc...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H5Z177NC7TSMCD4MF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H5Z177NC7TSMCD4MF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Évry</Location>
+      <DisplayCity></DisplayCity>
+      <City>Évry</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.62468</LocationLatitude>
+      <LocationLongitude>2.42932</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:34:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H5Z177NC7TSMCD4MF</SimilarJobsURL>
+      <JobTitle>CONSULTANT EN RECRUTEMENT INDEPENDANT - (91) (F/H)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ML/M0W58S6CYN5JLVXFVML.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Florian Mantione Institut</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J35060RJ3M8FYVD41</DID>
+      <OnetCode>13-1071.00</OnetCode>
+      <ONetFriendlyTitle>Employment, Recruitment, and Placement Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client - L'Employeur Le Florian Mantione Institut a été créé en 1976 à Montpellier par Florian Mantione. Dirigé par Augustin VALERO et Loïc...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J35060RJ3M8FYVD41</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J35060RJ3M8FYVD41&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Tours</Location>
+      <DisplayCity></DisplayCity>
+      <City>Tours</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.39038</LocationLatitude>
+      <LocationLongitude>0.68971</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:34:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J35060RJ3M8FYVD41</SimilarJobsURL>
+      <JobTitle>CONSULTANT EN RECRUTEMENT INDEPENDANT (37)  (F/H)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ML/M0W58S6CYN5JLVXFVML.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Audit</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Emploi Pro</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J62J6PBCJ16CFJX35</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Partenaire privilégié des plus grands constructeurs et équipementiers automobiles dans ses domaines de compétences, notre groupe familial emploie à ce...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J62J6PBCJ16CFJX35</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J62J6PBCJ16CFJX35&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Champagne-Ardenne</Location>
+      <DisplayCity>Champagne-Ardenne</DisplayCity>
+      <City>Châlons-en-Champagne</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>48.95583</LocationLatitude>
+      <LocationLongitude>4.35537</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:22:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J62J6PBCJ16CFJX35</SimilarJobsURL>
+      <JobTitle>Chargé de Qualité Client h/f</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>PDCA</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3KL6YBH2TNSS4YYP</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>Spécialiste des services aux entreprises, FIDUCIAL, avec près de 17.000 collaborateurs dans le monde et une présence dans 78 pays est l'un des leaders...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3KL6YBH2TNSS4YYP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3KL6YBH2TNSS4YYP&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:19:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3KL6YBH2TNSS4YYP</SimilarJobsURL>
+      <JobTitle>Commercial B2B - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Business To Business</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4P664W5GP0L9ZTCS</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>FIDUCIAL est le leader des services pluridisciplinaires aux petites entreprises, artisans, commerçants, professions libérales et agriculteurs. La...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4P664W5GP0L9ZTCS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4P664W5GP0L9ZTCS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:19:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4P664W5GP0L9ZTCS</SimilarJobsURL>
+      <JobTitle>Responsable Informatique Métiers Règlementés - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Fiducial</Company>
+      <CompanyDID>chq11v5xp9lt18lph2h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq11v5xp9lt18lph2h/fiducial/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J7WS78BYD3NP4XWYY</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>FIDUCIAL est le leader des services pluridisciplinaires aux petites entreprises, positionné sur les métiers de l'expertise comptable, du droit, de l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J7WS78BYD3NP4XWYY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J7WS78BYD3NP4XWYY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:19:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J7WS78BYD3NP4XWYY</SimilarJobsURL>
+      <JobTitle>Développeur PHP / SQL - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/4N/M0V4M677SXS3S28VD4N.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>javascript</Skill>
+        <Skill>postgresql</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>GROUPE HN</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM46R6SV3C36HLK92R</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Le Groupe HN est une Société de Conseil et de Service en Ingénierie Informatique d'envergure internationale créée en 1983 qui compte aujourd'hui 600...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM46R6SV3C36HLK92R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM46R6SV3C36HLK92R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Quentin-En-Yvelines</Location>
+      <DisplayCity>Saint-Quentin-En-Yvelines</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:02:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM46R6SV3C36HLK92R</SimilarJobsURL>
+      <JobTitle>Ingénieur d'études et développement JAVA J2EE H/F - St Quentin (78)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/MC/MRK5JW6XGDQFLGFZRMC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>spring framework</Skill>
+        <Skill>hypertext transfer protocol</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>mvc</Skill>
+        <Skill>hibernate (java)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>FSYSTEM</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR0V96Z2LQ4HCZ1W0T</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Créée en 1998, FSystem est devenu en moins de seize années une SSII majeure de l'hexagone. Reconnue par ses pairs, plébiscitée par ses clients et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR0V96Z2LQ4HCZ1W0T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR0V96Z2LQ4HCZ1W0T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris X-75010</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris X</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8789</LocationLatitude>
+      <LocationLongitude>2.36156</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:02:17 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR0V96Z2LQ4HCZ1W0T</SimilarJobsURL>
+      <JobTitle>Administrteur Systèmes Linux Vmware</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/15/MYF6066VHTZXXS6DJ15.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>x window system</Skill>
+        <Skill>vmware esx</Skill>
+        <Skill>Linux</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>vmware</Skill>
+        <Skill>ESX</Skill>
+        <Skill>red hat</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nexton Consulting - Distribution Luxe</Company>
+      <CompanyDID>chm45j6h38530p16yrs</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chm45j6h38530p16yrs/nexton-consulting-distribution-luxe/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHT5SR6VXY3CJ87H8FC</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nexton Consulting, cabinet de conseil en systèmes d’information, recrute ! De par sa philosophie et son positionnement inédit, Nexton Consulting, sait...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT5SR6VXY3CJ87H8FC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5SR6VXY3CJ87H8FC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris II-75002</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris II</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8693</LocationLatitude>
+      <LocationLongitude>2.34296</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5SR6VXY3CJ87H8FC</SimilarJobsURL>
+      <JobTitle>Développeur Web Javascript Junior appli mobile H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5V/Mw743P62MSN9N9G7L5V.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html5</Skill>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>jquery</Skill>
+        <Skill>sass (stylesheet language)</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>User Experience</Skill>
+        <Skill>search engine optimization</Skill>
+        <Skill>php</Skill>
+        <Skill>cascading style sheets</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Open</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV0QM6DRD0DD78H301</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec plus de 3000 collaborateurs répartis en France et à l’internat ional, OPEN figure parmi les premières ESN françaises (CA 20 13 : 251 M€). OPEN...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV0QM6DRD0DD78H301</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV0QM6DRD0DD78H301&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity>Lille</DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:11 AM</PostedTime>
+      <Pay>33 000 € - 36 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV0QM6DRD0DD78H301</SimilarJobsURL>
+      <JobTitle>Ingénieur Concepteur Décisionnel (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/RV/MSL4DL6BP7QLPNQY5RV.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>ETL</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>flux (software)</Skill>
+        <Skill>Business Intelligence</Skill>
+        <Skill>SAS</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Open</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT5QN5ZNWT9JF7K3MB</DID>
+      <OnetCode>15-1099.01</OnetCode>
+      <ONetFriendlyTitle>Software Quality Assurance Engineers and Testers</ONetFriendlyTitle>
+      <DescriptionTeaser>Pour notre Direction Application Services, dans le cadre de projets à forte valeur ajoutée sur notre entité du Nord, nous recherchons un(e) Ingénieur...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT5QN5ZNWT9JF7K3MB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5QN5ZNWT9JF7K3MB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity>Lille</DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5QN5ZNWT9JF7K3MB</SimilarJobsURL>
+      <JobTitle>Ingénieur de Test (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/RV/MSL4DL6BP7QLPNQY5RV.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>hp quality center</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Areva</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS80D6CKV8YVYRY6C3</DID>
+      <OnetCode>15-1099.02</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Engineers/Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>AREVA est l'un des leaders mondiaux du nucléaire. Le groupe propose aux électriciens une offre qui couvre toutes les étapes du cycle du combustible,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS80D6CKV8YVYRY6C3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS80D6CKV8YVYRY6C3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Colombes-92700</Location>
+      <DisplayCity></DisplayCity>
+      <City>Colombes</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9227</LocationLatitude>
+      <LocationLongitude>2.2488</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS80D6CKV8YVYRY6C3</SimilarJobsURL>
+      <JobTitle>Responsable Téléphonie et Mobilité H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/TP/MSG01T6R0R3FL613MTP.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Open</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM49N6RD2LQYYLTT8W</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre agence du Nord Pas de Calais se positionne sur l’ensemble du cycle de vie des projets en systèmes d’informations depuis les phases amont (AMOA)...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM49N6RD2LQYYLTT8W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM49N6RD2LQYYLTT8W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity>Lille</DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:09 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM49N6RD2LQYYLTT8W</SimilarJobsURL>
+      <JobTitle>Ingénieur d'Etudes .Net (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/RV/MSL4DL6BP7QLPNQY5RV.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>oracle database</Skill>
+        <Skill>Unified Modeling Language</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sql server</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Open</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP3DN6M9NM40W7F11D</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Pour notre Direction Application Services, dans le cadre du développement de nos activités sur notre entité du Nord, nous recherchons un(e) Chef de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP3DN6M9NM40W7F11D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP3DN6M9NM40W7F11D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille</Location>
+      <DisplayCity>Lille</DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.63718</LocationLatitude>
+      <LocationLongitude>3.06281</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:09 AM</PostedTime>
+      <Pay>42 000 € - 46 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP3DN6M9NM40W7F11D</SimilarJobsURL>
+      <JobTitle>Chef de Projet (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/RV/MSL4DL6BP7QLPNQY5RV.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>POST (HTTP)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Hays France</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G0ZB790ZV9BP46R33</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, la société Ortems est un éditeur, distributeur et intégrateur de logiciel Supply Chain Planning, APS (Advanced Planning System), numéro...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G0ZB790ZV9BP46R33</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G0ZB790ZV9BP46R33&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:08 AM</PostedTime>
+      <Pay>35 000 € - 70 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G0ZB790ZV9BP46R33</SimilarJobsURL>
+      <JobTitle>Consultant avant-vente H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/GY/Mwy6BM6ZN644SF54PGY.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nexton Consulting - Banque Finance</Company>
+      <CompanyDID>chl0tm64pmw1hnpz496</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl0tm64pmw1hnpz496/nexton-consulting-banque-finance/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>JHL8H96B4GV299YF4YJ</DID>
+      <OnetCode>15-1061.00</OnetCode>
+      <ONetFriendlyTitle>Database Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Nexton Consulting, cabinet de conseil en systèmes d’information se développant à l'international, recrute ! De par sa philosophie et son...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL8H96B4GV299YF4YJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL8H96B4GV299YF4YJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/26/2015</PostedDate>
+      <PostedTime>1/26/2015 1:01:08 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL8H96B4GV299YF4YJ</SimilarJobsURL>
+      <JobTitle>DBA SQL Server</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5V/Mw743P62MSN9N9G7L5V.png</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>

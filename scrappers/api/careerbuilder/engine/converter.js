@@ -4,7 +4,7 @@ var xmldoc = require('xmldoc');
 var rootPath = "./raw";
 
 
-var FIELD_SEPARATOR = '\u0001';
+var FIELD_SEPARATOR = '\t';/*'\u0001'*/;
 
 var walk = function(dir, done) {
 	var results = [];
@@ -113,7 +113,7 @@ function extractValues(node)
 
 function dumpToCSV()
 {
-	console.log(FIELD_SEPARATOR);
+	//console.log(FIELD_SEPARATOR);
 	var keys = Object.keys(jobsData);
 	var size = jobsData[keys[0]].length;
 	var stream = fs.createWriteStream("dump.csv");
@@ -144,4 +144,9 @@ function dumpToCSV()
 	  	}
 	  stream.end();
 	});
+}
+
+function dumpToSQL()
+{
+
 }

@@ -1,0 +1,3501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJobSearch>
+  <Errors />
+  <TimeResponseSent>1/29/2015 6:48:39 AM</TimeResponseSent>
+  <TimeElapsed>0.312</TimeElapsed>
+  <TotalPages>40</TotalPages>
+  <TotalCount>13242</TotalCount>
+  <FirstItemIndex>8001</FirstItemIndex>
+  <LastItemIndex>8100</LastItemIndex>
+  <Results>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4WY662R15XYZDGW6</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement recherche pour son client un Ingénieur Conception Mécanique dans le cadre d'une embauche en CDI. Poste basé à proximité...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4WY662R15XYZDGW6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4WY662R15XYZDGW6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulon</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulon</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.12534</LocationLatitude>
+      <LocationLongitude>5.93029</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 9:47:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4WY662R15XYZDGW6</SimilarJobsURL>
+      <JobTitle>Ingénieur conception Mécanique H/F Offre d'emploi sur Toulon - 83 ANLB5465MA</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J0FL710Y8L9D7GCXR</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Acass, agence de recrutement, recherche pour son client, un(e) Chef d’équipe Télécom H/F dans le cadre d’une mission de 12 mois. Poste basé à Bron (69...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0FL710Y8L9D7GCXR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0FL710Y8L9D7GCXR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 9:47:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0FL710Y8L9D7GCXR</SimilarJobsURL>
+      <JobTitle>Chef d’équipe Télécom H/F Offre d'emploi à Bron - 69 SCNB1455LY</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/S5/M0W6MN6DD6VMFXD1JS5.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>SPIE Communications</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN1Z86BHKZZQSDJ2WH</DID>
+      <OnetCode>15-1081.00</OnetCode>
+      <ONetFriendlyTitle>Network Systems and Data Communications Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>SPIE Communications est une entreprise de services numériques, spécialisée dans les infrastructures ICT, depuis l’environnement utilisateurs jusqu’au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN1Z86BHKZZQSDJ2WH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN1Z86BHKZZQSDJ2WH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2937</LocationLatitude>
+      <LocationLongitude>5.37247</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 9:06:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN1Z86BHKZZQSDJ2WH</SimilarJobsURL>
+      <JobTitle>Architecte Réseaux et Télécoms H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/2R/MVL5HY6G2LGXZ3KM42R.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP34C79BJPDGWDMD16</DID>
+      <OnetCode>17-2141.00</OnetCode>
+      <ONetFriendlyTitle>Mechanical Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>L’entreprise : Pour notre client spécialisé dans l’AUTOMOBILE, nous recherchons plusieurs : INGENIEURS METIER COMPOSANT (H/F) Le Poste : Vous serez...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP34C79BJPDGWDMD16</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP34C79BJPDGWDMD16&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vélizy-Villacoublay-78140</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vélizy-Villacoublay</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7848</LocationLatitude>
+      <LocationLongitude>2.19316</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:48:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP34C79BJPDGWDMD16</SimilarJobsURL>
+      <JobTitle>INGENIEURS METIER COMPOSANT (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Sea TPI</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS2HL65V94YFR9VBJ4</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Avec 18 ans d’existence, 180 Collaborateurs, SEA TPI est un Centre de Services IT 24/7/365 multi-technologies, basé à La Ciotat. Spécialisé sur 4...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS2HL65V94YFR9VBJ4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS2HL65V94YFR9VBJ4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Croix</Location>
+      <DisplayCity>Croix</DisplayCity>
+      <City>Croix</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.67973</LocationLatitude>
+      <LocationLongitude>3.15672</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:41:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS2HL65V94YFR9VBJ4</SimilarJobsURL>
+      <JobTitle>Ingénieur Système (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XM/MWY1RK76HLV1GX3H1XM.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>apache http server</Skill>
+        <Skill>mysql</Skill>
+        <Skill>Linux</Skill>
+        <Skill>ibm aix</Skill>
+        <Skill>vmware</Skill>
+        <Skill>electronic commerce</Skill>
+        <Skill>red hat</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76Z86G0K06Q5163K0</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76Z86G0K06Q5163K0</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76Z86G0K06Q5163K0&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon I-69001</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lyon I</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7711</LocationLatitude>
+      <LocationLongitude>4.82935</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:35 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76Z86G0K06Q5163K0</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB71YD64R6SLHRW2WTP</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB71YD64R6SLHRW2WTP</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71YD64R6SLHRW2WTP&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille I-13001</Location>
+      <DisplayCity></DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71YD64R6SLHRW2WTP</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76ND6PFBD4L6JYMXD</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76ND6PFBD4L6JYMXD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76ND6PFBD4L6JYMXD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Poitiers-86000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Poitiers</City>
+      <State>POITOU-CHARENTES</State>
+      <LocationLatitude>46.5836</LocationLatitude>
+      <LocationLongitude>0.34309</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76ND6PFBD4L6JYMXD</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB725J7696BLH1NH4QC</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB725J7696BLH1NH4QC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB725J7696BLH1NH4QC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Amiens-80000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Amiens</City>
+      <State>PICARDIE</State>
+      <LocationLatitude>49.8955</LocationLatitude>
+      <LocationLongitude>2.29967</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:34 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB725J7696BLH1NH4QC</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76KN5X6YFN4J9795F</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76KN5X6YFN4J9795F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76KN5X6YFN4J9795F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rouen-76000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rouen</City>
+      <State>HAUTE-NORMANDIE</State>
+      <LocationLatitude>49.4441</LocationLatitude>
+      <LocationLongitude>1.11127</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76KN5X6YFN4J9795F</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB787G79M64DRD0N12Z</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB787G79M64DRD0N12Z</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB787G79M64DRD0N12Z&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes-44000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.2307</LocationLatitude>
+      <LocationLongitude>-1.56115</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB787G79M64DRD0N12Z</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB715968WNFB6NFYNJG</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB715968WNFB6NFYNJG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB715968WNFB6NFYNJG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lille-59000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Lille</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.624</LocationLatitude>
+      <LocationLongitude>3.05651</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB715968WNFB6NFYNJG</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB714064V9LZ9NJ4MSJ</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB714064V9LZ9NJ4MSJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB714064V9LZ9NJ4MSJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Caen-14000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Caen</City>
+      <State>BASSE-NORMANDIE</State>
+      <LocationLatitude>49.1853</LocationLatitude>
+      <LocationLongitude>-0.36697</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:32 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB714064V9LZ9NJ4MSJ</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77RV6QH0LVW0DSM55</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB77RV6QH0LVW0DSM55</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77RV6QH0LVW0DSM55&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Metz-57000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Metz</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>49.1568</LocationLatitude>
+      <LocationLongitude>6.22381</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77RV6QH0LVW0DSM55</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB71ZZ63HZM5MLJL2GN</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB71ZZ63HZM5MLJL2GN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71ZZ63HZM5MLJL2GN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse-31000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.6034</LocationLatitude>
+      <LocationLongitude>1.44352</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:31 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71ZZ63HZM5MLJL2GN</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB74FT6W0R9Y9TDK56F</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB74FT6W0R9Y9TDK56F</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74FT6W0R9Y9TDK56F&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Limoges-87000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Limoges</City>
+      <State>LIMOUSIN</State>
+      <LocationLatitude>45.8305</LocationLatitude>
+      <LocationLongitude>1.25929</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74FT6W0R9Y9TDK56F</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77HQ6N30WZHYFWFXY</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB77HQ6N30WZHYFWFXY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77HQ6N30WZHYFWFXY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montpellier-34000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Montpellier</City>
+      <State>LANGUEDOC-ROUSSILLON</State>
+      <LocationLatitude>43.6113</LocationLatitude>
+      <LocationLongitude>3.87663</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:30 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77HQ6N30WZHYFWFXY</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB74WL6KJ5RZRLWWR32</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB74WL6KJ5RZRLWWR32</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB74WL6KJ5RZRLWWR32&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Besançon-25000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Besançon</City>
+      <State>FRANCHE-COMTÉ</State>
+      <LocationLatitude>47.2377</LocationLatitude>
+      <LocationLongitude>6.0249</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB74WL6KJ5RZRLWWR32</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB71MQ6ZMDXFBJV2CSN</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB71MQ6ZMDXFBJV2CSN</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB71MQ6ZMDXFBJV2CSN&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Ajaccio-20000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Ajaccio</City>
+      <State>CORSE</State>
+      <LocationLatitude>41.9277</LocationLatitude>
+      <LocationLongitude>8.70685</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB71MQ6ZMDXFBJV2CSN</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB70ZQ74CZW2GMMFTG6</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB70ZQ74CZW2GMMFTG6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB70ZQ74CZW2GMMFTG6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rennes-35700</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rennes</City>
+      <State>BRETAGNE</State>
+      <LocationLatitude>48.118</LocationLatitude>
+      <LocationLongitude>-1.667</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB70ZQ74CZW2GMMFTG6</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB77Q66Z6RGB83G7WMH</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB77Q66Z6RGB83G7WMH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB77Q66Z6RGB83G7WMH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Châlons-en-Champagne-51000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Châlons-en-Champagne</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>48.9663</LocationLatitude>
+      <LocationLongitude>4.37931</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB77Q66Z6RGB83G7WMH</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB72LW6STZHCY0L7VV7</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72LW6STZHCY0L7VV7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72LW6STZHCY0L7VV7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Orléans-45000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Orléans</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.9006</LocationLatitude>
+      <LocationLongitude>1.90595</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72LW6STZHCY0L7VV7</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB726N6XYK3Q8HBZ2KG</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB726N6XYK3Q8HBZ2KG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB726N6XYK3Q8HBZ2KG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Dijon-21000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Dijon</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>47.3122</LocationLatitude>
+      <LocationLongitude>5.03927</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB726N6XYK3Q8HBZ2KG</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB72ZH6NLDCRHZK4TFQ</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB72ZH6NLDCRHZK4TFQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB72ZH6NLDCRHZK4TFQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Clermont-Ferrand-63000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Clermont-Ferrand</City>
+      <State>AUVERGNE</State>
+      <LocationLatitude>45.7776</LocationLatitude>
+      <LocationLongitude>3.08381</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:27 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB72ZH6NLDCRHZK4TFQ</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76CK733R04KXD180T</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76CK733R04KXD180T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76CK733R04KXD180T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Strasbourg-67000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Strasbourg</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.5823</LocationLatitude>
+      <LocationLongitude>7.74335</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76CK733R04KXD180T</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JB76LX6YHFLR0B50K2L</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JB76LX6YHFLR0B50K2L</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JB76LX6YHFLR0B50K2L&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bordeaux-33000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bordeaux</City>
+      <State>AQUITAINE</State>
+      <LocationLatitude>44.8382</LocationLatitude>
+      <LocationLongitude>-0.57303</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:26 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JB76LX6YHFLR0B50K2L</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>ArborSys</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS7CP6HC54N9J2G90R</DID>
+      <OnetCode>17-2112.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous cherchons pour un de nos clients un Responsable/Rédacteur Sénior des Documents Qualité . Il/elle sera responsable du développement de documents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS7CP6HC54N9J2G90R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS7CP6HC54N9J2G90R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris I-75001</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:30:21 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS7CP6HC54N9J2G90R</SimilarJobsURL>
+      <JobTitle>Responsable des documents qualité Senior (H/F)</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company></Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN1N662P202Y9Q2PSL</DID>
+      <OnetCode>17-1012.00</OnetCode>
+      <ONetFriendlyTitle>Landscape Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>L'entreprise : Pour notre client spécialisé dans l’ AUTOMOBILE et dans le cadre de projets en conception , nous recherchons un(e) : PROJETEUR...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN1N662P202Y9Q2PSL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN1N662P202Y9Q2PSL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Vélizy-Villacoublay-78140</Location>
+      <DisplayCity></DisplayCity>
+      <City>Vélizy-Villacoublay</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7848</LocationLatitude>
+      <LocationLongitude>2.19316</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:27:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN1N662P202Y9Q2PSL</SimilarJobsURL>
+      <JobTitle>PROJETEUR ARCHITECTURE AUTOMOBILE  CATIA V5 (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/66/M0V1L378QL29TGWXQ66.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>CATIA</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Groupe Casino</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F5L75WYTD2ZDJ60RZ</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Casino, Groupe de distribution, occupe en France une position de leader grâce à la diversité de ses enseignes : Géant Casino, Monoprix, Supermarchés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5L75WYTD2ZDJ60RZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5L75WYTD2ZDJ60RZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Croissy-Beaubourg</Location>
+      <DisplayCity>Croissy-Beaubourg</DisplayCity>
+      <City>Croissy-Beaubourg</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.816</LocationLatitude>
+      <LocationLongitude>2.65678</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:11:47 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5L75WYTD2ZDJ60RZ</SimilarJobsURL>
+      <JobTitle>Concepteur Développeur web H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/XC/M0X09772PL04P5BCQXC.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>vbscript</Skill>
+        <Skill>SAP</Skill>
+        <Skill>IIS</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Covea Finance</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN1FL617YYMWJMJR7Q</DID>
+      <OnetCode>15-1041.00</OnetCode>
+      <ONetFriendlyTitle>Computer Support Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Covéa Finance , société de gestion de portefeuille de la SGAM Covéa (qui regroupe les assurances mutualistes GMF, MAAF et MMA) est un acteur majeur de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN1FL617YYMWJMJR7Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN1FL617YYMWJMJR7Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:10:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN1FL617YYMWJMJR7Q</SimilarJobsURL>
+      <JobTitle>Chargé de MOE Maintenance et support (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/8S/M0V7QX6PHZJTQG04Q8S.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>microsoft powerpoint</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J37Y73ZV00MR0RC54</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client recherche un(e) Asssistant(e) d'Agence. Rattaché(e) au Responsable d'Agence, vous serez en charge de l'ensemble de la gestion...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J37Y73ZV00MR0RC54</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J37Y73ZV00MR0RC54&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Goussainville (95)</Location>
+      <DisplayCity>Goussainville (95)</DisplayCity>
+      <City>Cergy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.044</LocationLatitude>
+      <LocationLongitude>2.05478</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:04:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J37Y73ZV00MR0RC54</SimilarJobsURL>
+      <JobTitle>ASSISTANT(E) D'AGENCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6VN6P8YN8KWJ5GF2</DID>
+      <OnetCode>11-3071.01</OnetCode>
+      <ONetFriendlyTitle>Transportation Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons, pour notre client, Groupe en pleine croissance, un(e) Gestionnaire Parc Automobile. Au sein du Service Parc Automobile, vos missions...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6VN6P8YN8KWJ5GF2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6VN6P8YN8KWJ5GF2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>78</Location>
+      <DisplayCity>78</DisplayCity>
+      <City>Versailles</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7978</LocationLatitude>
+      <LocationLongitude>2.11471</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:04:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6VN6P8YN8KWJ5GF2</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE PARC AUTOMOBILE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3DQ76ZSQ27L7ZJ0T</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Page Personnel recrute, pour l'un de ses clients, un(e) Comptable Unique. Rattaché(e) au Directeur Général dans une structure à taille humaine, vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3DQ76ZSQ27L7ZJ0T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3DQ76ZSQ27L7ZJ0T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris.</Location>
+      <DisplayCity>Paris.</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:04:29 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3DQ76ZSQ27L7ZJ0T</SimilarJobsURL>
+      <JobTitle>COMPTABLE UNIQUE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H83L6P2GR521NB6XR</DID>
+      <OnetCode>19-2031.00</OnetCode>
+      <ONetFriendlyTitle>Chemists</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, société industrielle du secteur cosmétique, recrute dans le cadre de son développement deux Formulateur(trice)s en Cosmétique. Rattaché(...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H83L6P2GR521NB6XR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H83L6P2GR521NB6XR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche d'Orléans (45)</Location>
+      <DisplayCity>Proche d'Orléans (45)</DisplayCity>
+      <City>Orléans</City>
+      <State>CENTRE</State>
+      <LocationLatitude>47.9006</LocationLatitude>
+      <LocationLongitude>1.90595</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:04:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H83L6P2GR521NB6XR</SimilarJobsURL>
+      <JobTitle>FORMULATEUR(TRICE) COSMÉTIQUE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G36H60FGLBY3YYYLH</DID>
+      <OnetCode>17-3024.00</OnetCode>
+      <ONetFriendlyTitle>Electro-Mechanical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, leader dans la fabrication d'emballages en carton, recherche un(e) Technicien(ne) Electromécanique. Rattaché(e) au Responsable...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G36H60FGLBY3YYYLH</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G36H60FGLBY3YYYLH&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>71 (Chaloin)</Location>
+      <DisplayCity>71 (Chaloin)</DisplayCity>
+      <City>Mâcon</City>
+      <State>BOURGOGNE</State>
+      <LocationLatitude>46.3058</LocationLatitude>
+      <LocationLongitude>4.83204</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:04:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G36H60FGLBY3YYYLH</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) ÉLECTROMÉCANIQUE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F5136QMP17SNFLN34</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Nous recherchons pour notre client, sous-traitant aéronautique, un(e) Gestionnaire de Configuration. A l'interface des Services Industrialisation de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F5136QMP17SNFLN34</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F5136QMP17SNFLN34&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Nazaire (44)</Location>
+      <DisplayCity>Saint-Nazaire (44)</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.2307</LocationLatitude>
+      <LocationLongitude>-1.56115</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:03:51 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F5136QMP17SNFLN34</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE DE CONFIGURATION</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>SAP</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F4GJ6GXT19XSM12SS</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, société industrielle, recrute, dans le cadre de son développement, un(e) Technicien(ne) Maintenance. Rattaché(e) au Responsable...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F4GJ6GXT19XSM12SS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F4GJ6GXT19XSM12SS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Proche de Dreux.</Location>
+      <DisplayCity>Proche de Dreux.</DisplayCity>
+      <City>Chartres</City>
+      <State>CENTRE</State>
+      <LocationLatitude>48.4487</LocationLatitude>
+      <LocationLongitude>1.49069</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:03:18 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F4GJ6GXT19XSM12SS</SimilarJobsURL>
+      <JobTitle>TECHNICIEN(NE) MAINTENANCE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F7XN65NWCZK8WP8B4</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client recherche un(e) Développeur(se) Informatique. Rattaché(e) au Responsable d'agence, vous serez en charge des missions suivantes : -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F7XN65NWCZK8WP8B4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7XN65NWCZK8WP8B4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Provence</Location>
+      <DisplayCity>Aix-en-Provence</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:03:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7XN65NWCZK8WP8B4</SimilarJobsURL>
+      <JobTitle>DÉVELOPPEUR(SE) INFORMATIQUE</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>mysql</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>sql</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Page Personnel</Company>
+      <CompanyDID>chn8j364zm2bclcwblx</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chn8j364zm2bclcwblx/page-personnel/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H0DS6NV5HQBTGG8WX</DID>
+      <OnetCode>13-1199.00</OnetCode>
+      <ONetFriendlyTitle>Business Operations Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Dans le cadre de son développement, notre client, acteur majeur dans la conception et la fabrication de robinets et de vannes destinés aux industries...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H0DS6NV5HQBTGG8WX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H0DS6NV5HQBTGG8WX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Marseille</Location>
+      <DisplayCity>Marseille</DisplayCity>
+      <City>Marseille I</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.2934</LocationLatitude>
+      <LocationLongitude>5.3704</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 8:02:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H0DS6NV5HQBTGG8WX</SimilarJobsURL>
+      <JobTitle>CHARGÉ(E) D'AFFAIRES JUNIOR</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/nb/m0w85r75ygdc8jswwnb.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>DBee</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN7FD6WFZWJHF8G6WG</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>DBee Fiche de poste Ingénieur webcast (janvier2015) DBee, filiale du Groupe Image,premier groupe français indépendant de post-production audiovisuelle...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN7FD6WFZWJHF8G6WG</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN7FD6WFZWJHF8G6WG&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Boulogne-Billancourt-92100</Location>
+      <DisplayCity></DisplayCity>
+      <City>Boulogne-Billancourt</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8342</LocationLatitude>
+      <LocationLongitude>2.24377</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 7:49:00 AM</PostedTime>
+      <Pay>€33k - €43k/year</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN7FD6WFZWJHF8G6WG</SimilarJobsURL>
+      <JobTitle>INGENIEUR WEBCAST</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+        <Skill>POST (HTTP)</Skill>
+        <Skill>h.323</Skill>
+        <Skill>voice over ip</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page Interim Management</Company>
+      <CompanyDID>chs481768x5p3043b51</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs481768x5p3043b51/michael-page-interim-management/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H4NH5YPBZ16G2SGC7</DID>
+      <OnetCode>11-3040.00</OnetCode>
+      <ONetFriendlyTitle>Human Resources Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, acteur majeur de son secteur, recherche un(e) Responsable Ressources Humaines, pour une mission de 4 mois. Rattaché(e) à la Direction...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4NH5YPBZ16G2SGC7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4NH5YPBZ16G2SGC7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France (94)</Location>
+      <DisplayCity>Ile-de-France (94)</DisplayCity>
+      <City>Créteil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.7853</LocationLatitude>
+      <LocationLongitude>2.46332</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 7:47:53 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4NH5YPBZ16G2SGC7</SimilarJobsURL>
+      <JobTitle>RESPONSABLE RESSOURCES HUMAINES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/KN/MSG4VT6GK1Q815FGRKN.gif</CompanyImageURL>
+      <JobBrandingIcons>PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Pay-as-you-earn tax</Skill>
+        <Skill>Budget</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J4W369LXNDM3491PY</DID>
+      <OnetCode>11-2022.00</OnetCode>
+      <ONetFriendlyTitle>Sales Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, filiale d'un Groupe allemand, fabrique et commercialise des solutions d''outillage et d''équipement à destination des professionnels du...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4W369LXNDM3491PY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4W369LXNDM3491PY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France ou Champagne</Location>
+      <DisplayCity>Ile-de-France ou Champagne</DisplayCity>
+      <City>Châlons-en-Champagne</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>48.9663</LocationLatitude>
+      <LocationLongitude>4.37931</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 7:47:45 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4W369LXNDM3491PY</SimilarJobsURL>
+      <JobTitle>RESPONSABLE DE ZONE EXPORT</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Communication</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H4NZ66L2P5L32WGP8</DID>
+      <OnetCode>11-9199.00</OnetCode>
+      <ONetFriendlyTitle>Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est un acteur majeur dans la construction clé en main d'unités de valorisation énergétique des déchets. Il recherche un(e) Chef de Projet...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H4NZ66L2P5L32WGP8</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H4NZ66L2P5L32WGP8&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hauts-de-Seine (92)</Location>
+      <DisplayCity>Hauts-de-Seine (92)</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 7:47:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H4NZ66L2P5L32WGP8</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET OFFRES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>IL (network protocol)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3NF66JD1T4K33R5B</DID>
+      <OnetCode>51-8021.00</OnetCode>
+      <ONetFriendlyTitle>Stationary Engineers and Boiler Operators</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client est un acteur majeur dans la construction clé en main d'unités de valorisation énergétique des déchets ménagers. Il recherche un(e) Chef...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3NF66JD1T4K33R5B</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3NF66JD1T4K33R5B&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Hauts-de-Seine (92)</Location>
+      <DisplayCity>Hauts-de-Seine (92)</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8902</LocationLatitude>
+      <LocationLongitude>2.20032</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 7:47:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3NF66JD1T4K33R5B</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET ÉTUDES THERMIQUES</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Michael Page</Company>
+      <CompanyDID>chl7rg6j62ns0cnnx8z</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chl7rg6j62ns0cnnx8z/michael-page/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H7B264HKCSVN24F3R</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Groupe international du secteur tertiaire. Au sein de la Direction des Systèmes d'Information Europe, rattaché(e) au Responsable Infrastructures, vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Indépendant / Freelance</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H7B264HKCSVN24F3R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H7B264HKCSVN24F3R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Courbevoie</Location>
+      <DisplayCity>Courbevoie</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 7:47:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H7B264HKCSVN24F3R</SimilarJobsURL>
+      <JobTitle>CHEF DE PROJET INFRASTRUCTURE RÉSEAU ET TOIP</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/23/m0w42p63m83j5cqhk23.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>cisco systems</Skill>
+        <Skill>local area network</Skill>
+        <Skill>Text over IP</Skill>
+        <Skill>border gateway protocol</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Team Inside</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS0S96JY83WBMJPNHD</DID>
+      <OnetCode>17-2112.01</OnetCode>
+      <ONetFriendlyTitle>Human Factors Engineers and Ergonomists</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous avez au minimum 5 ans d'expérience en UX Design. Vous maîtrisez Axure ou un logiciel équivalent. Vous avez travaillé sur des sujets de parcours...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS0S96JY83WBMJPNHD</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS0S96JY83WBMJPNHD&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 6:25:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS0S96JY83WBMJPNHD</SimilarJobsURL>
+      <JobTitle>UX Designer H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Adobe Photoshop</Skill>
+        <Skill>Electronic commerce</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LMS - La Maison du Sol</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT2C36KVPC1KWDG7LQ</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Saisissez l’opportunitéqui est à vos pieds ! LA MAISON DU SOL (LMS), leader français de la distribution de revêtements de sols et murs, 180 salariés,...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT2C36KVPC1KWDG7LQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT2C36KVPC1KWDG7LQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Gennevilliers</Location>
+      <DisplayCity>Gennevilliers</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 6:20:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT2C36KVPC1KWDG7LQ</SimilarJobsURL>
+      <JobTitle>Technicien Support Informatique Bureautique et Internet H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Y3/M0V8795XH26RHMLKPY3.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>gsm</Skill>
+        <Skill>voice over ip</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>fax</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>virtual private network</Skill>
+        <Skill>asymmetric digital subscriber line</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Infodis</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT5TC6G5DH6B5PV5DR</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Offre actualisée le 07/01/2015 Société Créée en 1985, Groupe Infodis (www.infodis.com) est classée au « Top 100 » des PME les + performantes (CA 27 M...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT5TC6G5DH6B5PV5DR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT5TC6G5DH6B5PV5DR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nanterre</Location>
+      <DisplayCity>Nanterre</DisplayCity>
+      <City>Nanterre</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.88811</LocationLatitude>
+      <LocationLongitude>2.19491</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 6:08:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT5TC6G5DH6B5PV5DR</SimilarJobsURL>
+      <JobTitle>Un(e) Gestionnaire de Parc &amp; Habilitations</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/K6/MRD60X65G29MWB2L5K6.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>active directory</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft visual studio</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Team Inside</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHN56T64Y0QS92VMR06</DID>
+      <OnetCode>27-1024.00</OnetCode>
+      <ONetFriendlyTitle>Graphic Designers</ONetFriendlyTitle>
+      <DescriptionTeaser>Gen Y ou Digital addicted welcome ! Vous avez entre 3 et 5 ans d'expérience. Vous avez l'amour du travail bien fait et êtes très attaché à la qualité...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHN56T64Y0QS92VMR06</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHN56T64Y0QS92VMR06&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 6:07:20 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHN56T64Y0QS92VMR06</SimilarJobsURL>
+      <JobTitle>Webdesigner Social Media H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LMS - La Maison du Sol</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM5VC67B14H385YC45</DID>
+      <OnetCode>11-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chief Executives</ONetFriendlyTitle>
+      <DescriptionTeaser>Saisissez l’opportunité qui est à vos pieds ! LA MAISON DU SOL (LMS), leader français de la distribution de revêtements de sols et murs, 180 salariés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM5VC67B14H385YC45</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM5VC67B14H385YC45&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Départements : 68 et 90</Location>
+      <DisplayCity>Départements : 68 et 90</DisplayCity>
+      <City>Colmar</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.08018</LocationLatitude>
+      <LocationLongitude>7.36469</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:57:10 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM5VC67B14H385YC45</SimilarJobsURL>
+      <JobTitle>Délégué Commercial H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Y3/M0V8795XH26RHMLKPY3.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Team Inside</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR4L371ZXRW805W1VK</DID>
+      <OnetCode>15-1051.00</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Mission : Intégré aux équipes de notre client vous êtes l'intermédiaire entre les infographistes et les développeurs. Vous êtes force de proposition...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR4L371ZXRW805W1VK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR4L371ZXRW805W1VK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris XVII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.887</LocationLatitude>
+      <LocationLongitude>2.30875</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:54:19 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR4L371ZXRW805W1VK</SimilarJobsURL>
+      <JobTitle>Intégrateur senior H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>html</Skill>
+        <Skill>javascript</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>I-Tracing</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHM76S6QTW0G5RRXN00</DID>
+      <OnetCode>15-1071.01</OnetCode>
+      <ONetFriendlyTitle>Computer Security Specialists</ONetFriendlyTitle>
+      <DescriptionTeaser>Vous savez garder un secret ? Alors rejoignez-nous ! Chez I-TRACING, nous pensons que la confiance de nos clients passe par l'excellence de nos...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHM76S6QTW0G5RRXN00</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHM76S6QTW0G5RRXN00&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Puteaux-92800</Location>
+      <DisplayCity></DisplayCity>
+      <City>Puteaux</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8842</LocationLatitude>
+      <LocationLongitude>2.23787</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:52:13 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHM76S6QTW0G5RRXN00</SimilarJobsURL>
+      <JobTitle>Consultant Sécurité Senior (H/F)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/DJ/MYL65S6YXBJ54XLLDDJ.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Team Inside</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHQ60171SQKKJS1FLSF</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Contexte : Vous interviendrez pour nos clients sur des projets à forts enjeux dans des environnements grands comptes. Missions : - Pilotage de projets...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHQ60171SQKKJS1FLSF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHQ60171SQKKJS1FLSF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:43:46 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHQ60171SQKKJS1FLSF</SimilarJobsURL>
+      <JobTitle>Chef de Projet Digital 5 - 8 ans d'expérience</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>axure rp</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EXTIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G3886BKPH8CMNYT7T</DID>
+      <OnetCode>15-1099.02</OnetCode>
+      <ONetFriendlyTitle>Computer Systems Engineers/Architects</ONetFriendlyTitle>
+      <DescriptionTeaser>Fondée en 2007, Extia est une société de Conseil en Ingénierie présente en France et au Benelux auprès de clients grands comptes du CAC 40. Notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3886BKPH8CMNYT7T</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3886BKPH8CMNYT7T&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sevres</Location>
+      <DisplayCity>Sevres</DisplayCity>
+      <City>Sèvres</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8229</LocationLatitude>
+      <LocationLongitude>2.21296</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:41:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3886BKPH8CMNYT7T</SimilarJobsURL>
+      <JobTitle>Ingénieur système Windows et Virtualisation</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3G/MVR2BH6FC244JM8C73G.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>citrix systems</Skill>
+        <Skill>hyper-v</Skill>
+        <Skill>vmware</Skill>
+        <Skill>microsoft windows</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EXTIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F3TQ77XQ61ZVBDBFK</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Fondée en 2007, Extia est une société de Conseil en Ingénierie présente en France et au Benelux auprès de clients grands comptes du CAC 40. Notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3TQ77XQ61ZVBDBFK</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3TQ77XQ61ZVBDBFK&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>IDF</Location>
+      <DisplayCity>IDF</DisplayCity>
+      <City>Paris I</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8641</LocationLatitude>
+      <LocationLongitude>2.33634</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:41:07 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3TQ77XQ61ZVBDBFK</SimilarJobsURL>
+      <JobTitle>Développeur JavaJ2ee</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3G/MVR2BH6FC244JM8C73G.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>junit</Skill>
+        <Skill>nosql</Skill>
+        <Skill>jboss application server</Skill>
+        <Skill>apache tomcat</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>apache struts</Skill>
+        <Skill>hibernate (java)</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EXTIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F40L5XLM16346TMND</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Fondée en 2007, Extia est une société de Conseil en Ingénierie présente en France et au Benelux auprès de clients grands comptes du CAC 40. Notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F40L5XLM16346TMND</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F40L5XLM16346TMND&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sevres</Location>
+      <DisplayCity>Sevres</DisplayCity>
+      <City>Sèvres</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8229</LocationLatitude>
+      <LocationLongitude>2.21296</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:41:03 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F40L5XLM16346TMND</SimilarJobsURL>
+      <JobTitle>Développeur .Net Client léger</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3G/MVR2BH6FC244JM8C73G.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>mvc</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EXTIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H71F63LM62K612R1Q</DID>
+      <OnetCode>17-2072.00</OnetCode>
+      <ONetFriendlyTitle>Electronics Engineers, Except Computer</ONetFriendlyTitle>
+      <DescriptionTeaser>Fondée en 2007, Extia est une société de Conseil en Ingénierie présente en France et au Benelux auprès de clients grands comptes du CAC 40. Notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H71F63LM62K612R1Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H71F63LM62K612R1Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>IDF</Location>
+      <DisplayCity>IDF</DisplayCity>
+      <City>Sèvres</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8229</LocationLatitude>
+      <LocationLongitude>2.21296</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:40:50 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H71F63LM62K612R1Q</SimilarJobsURL>
+      <JobTitle>Ingénieur Radio</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3G/MVR2BH6FC244JM8C73G.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EXTIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4B85WV7MC80ZY80D</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Fondée en 2007, Extia est une société de Conseil en Ingénierie présente en France et au Benelux auprès de clients grands comptes du CAC 40. Notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4B85WV7MC80ZY80D</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4B85WV7MC80ZY80D&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>IDF</Location>
+      <DisplayCity>IDF</DisplayCity>
+      <City>Sèvres</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8229</LocationLatitude>
+      <LocationLongitude>2.21296</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:40:44 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4B85WV7MC80ZY80D</SimilarJobsURL>
+      <JobTitle>Développeur Android</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3G/MVR2BH6FC244JM8C73G.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Android</Skill>
+        <Skill>java (programming language)</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EXTIA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J14V6ZFNVM1JHT55W</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Fondée en 2007, Extia est une société de Conseil en Ingénierie présente en France et au Benelux auprès de clients grands comptes du CAC 40. Notre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J14V6ZFNVM1JHT55W</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J14V6ZFNVM1JHT55W&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Sevres</Location>
+      <DisplayCity>Sevres</DisplayCity>
+      <City>Sèvres</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8229</LocationLatitude>
+      <LocationLongitude>2.21296</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:40:39 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J14V6ZFNVM1JHT55W</SimilarJobsURL>
+      <JobTitle>Développeur Front-End</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3G/MVR2BH6FC244JM8C73G.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>github</Skill>
+        <Skill>scrum (development)</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>VILLE DE SAINT-GENIS-LAVAL</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV1Q36QGJCVXT2G0R2</DID>
+      <OnetCode>15-1071.00</OnetCode>
+      <ONetFriendlyTitle>Network and Computer Systems Administrators</ONetFriendlyTitle>
+      <DescriptionTeaser>Cadre d'emploi des techniciens supérieurs Rattaché directement au responsable du service informatique, vous assurez l’administration du réseau (...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV1Q36QGJCVXT2G0R2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV1Q36QGJCVXT2G0R2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Bron-69500</Location>
+      <DisplayCity></DisplayCity>
+      <City>Bron</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.7353</LocationLatitude>
+      <LocationLongitude>4.91329</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:40:18 AM</PostedTime>
+      <Pay>25 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV1Q36QGJCVXT2G0R2</SimilarJobsURL>
+      <JobTitle>ADMINISTRATEUR RESEAU / SYSTEME H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>windows server 2003</Skill>
+        <Skill>debian</Skill>
+        <Skill>windows 7</Skill>
+        <Skill>Linux</Skill>
+        <Skill>vmware</Skill>
+        <Skill>microsoft windows</Skill>
+        <Skill>internet protocol suite</Skill>
+        <Skill>microsoft visio</Skill>
+        <Skill>red hat</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Logiway</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHS43676FG03T7TNQ2H</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>LOGIWAY, entreprise à taille humaine, éditeur de logiciels et société de services en informatique, recrute un Ingénieur de conception et de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHS43676FG03T7TNQ2H</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHS43676FG03T7TNQ2H&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:37:22 AM</PostedTime>
+      <Pay>45 000 € - 55 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHS43676FG03T7TNQ2H</SimilarJobsURL>
+      <JobTitle>Ingénieur de conception et de développement C SQL UNIX</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/5L/MA42VJ6G9CNVLGT1Y5L.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>oracle database</Skill>
+        <Skill>sql</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>awk</Skill>
+        <Skill>unix</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>EPITECH LYON</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHT6Q06JY377KRM4HFT</DID>
+      <OnetCode>13-2011.01</OnetCode>
+      <ONetFriendlyTitle>Accountants</ONetFriendlyTitle>
+      <DescriptionTeaser>Epitech, expert en recrutement, recherche pour l’un de sesclients, groupe international, un(e) COMPTABLE UNIQUE h/f. Rattaché(e) au Directeur, vous...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHT6Q06JY377KRM4HFT</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHT6Q06JY377KRM4HFT&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Priest-69800</Location>
+      <DisplayCity></DisplayCity>
+      <City>Saint-Priest</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.6961</LocationLatitude>
+      <LocationLongitude>4.9428</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:34:07 AM</PostedTime>
+      <Pay>30 000 € - 35 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHT6Q06JY377KRM4HFT</SimilarJobsURL>
+      <JobTitle>COMPTABLE UNIQUE h/f</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Team Inside</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR5995ZMKRLVT6P7P2</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Contexte : Vous interviendrez pour nos clients sur des projets à forts enjeux dans des environnements grands comptes. Vos missions : - Elaboration des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR5995ZMKRLVT6P7P2</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR5995ZMKRLVT6P7P2&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity>Paris</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8564</LocationLatitude>
+      <LocationLongitude>2.34756</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:30:48 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR5995ZMKRLVT6P7P2</SimilarJobsURL>
+      <JobTitle>Chef de Projet Digital Fonctionnel et Technique H/F</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>LMS - La Maison du Sol</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHV21R6HCVK633F42JC</DID>
+      <OnetCode>11-1011.00</OnetCode>
+      <ONetFriendlyTitle>Chief Executives</ONetFriendlyTitle>
+      <DescriptionTeaser>Saisissez l’opportunité qui est à vos pieds ! LA MAISON DU SOL (LMS), leader français de la distribution de revêtements de sols et murs, 180 salariés...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHV21R6HCVK633F42JC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHV21R6HCVK633F42JC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Poste basé sur le secteur 38 exclu nord Isère</Location>
+      <DisplayCity>Poste basé sur le secteur 38 exclu nord Isère</DisplayCity>
+      <City>Grenoble</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.194</LocationLatitude>
+      <LocationLongitude>5.73201</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 5:16:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHV21R6HCVK633F42JC</SimilarJobsURL>
+      <JobTitle>Délégué Commercial H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/Y3/M0V8795XH26RHMLKPY3.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Alten SA</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR6SB73939DD1R31L4</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Partenaire technologique de référence des plus grandes entreprises françaises et internationales, Alten est devenu en 25 ans leader européen de l'...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR6SB73939DD1R31L4</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR6SB73939DD1R31L4&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Strasbourg-67000</Location>
+      <DisplayCity></DisplayCity>
+      <City>Strasbourg</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.5823</LocationLatitude>
+      <LocationLongitude>7.74335</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:42:46 AM</PostedTime>
+      <Pay>30 000 € - 45 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR6SB73939DD1R31L4</SimilarJobsURL>
+      <JobTitle>Ingénieur en Développement Java/J2EE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/ZW/Mwp2KN63RZSMTBQX7ZW.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>java platform, enterprise edition</Skill>
+        <Skill>mongodb</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>E-Quadra Paris</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHP1KF6B7NMPKGVT9FB</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Poste : Vous recherchez l’épanouissement professionnel ? Vous portez un intérêt particulier au développement ? Ne vous tâtez pas à poursuivre cette...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHP1KF6B7NMPKGVT9FB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHP1KF6B7NMPKGVT9FB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity></DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.74915</LocationLatitude>
+      <LocationLongitude>2.35138</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:19:45 AM</PostedTime>
+      <Pay>35 000 € - 42 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHP1KF6B7NMPKGVT9FB</SimilarJobsURL>
+      <JobTitle>Développeur Symfony 2</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>representational state transfer</Skill>
+        <Skill>web service</Skill>
+        <Skill>sql</Skill>
+        <Skill>application programming interface</Skill>
+        <Skill>oauth</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>TeamRH</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHL73B6GWHV8XG0W2HQ</DID>
+      <OnetCode>43-6014.00</OnetCode>
+      <ONetFriendlyTitle>Secretaries (not Legal or Medical)</ONetFriendlyTitle>
+      <DescriptionTeaser>TeamRH , conseil en recrutement, recherche pour l’un de ses clients : Assistante Administrative Marques Au sein du service Dépôt de Marques, Dessins...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Associate Degree</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHL73B6GWHV8XG0W2HQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHL73B6GWHV8XG0W2HQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris VIII-75008</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris VIII</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.8711</LocationLatitude>
+      <LocationLongitude>2.31092</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:15:01 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHL73B6GWHV8XG0W2HQ</SimilarJobsURL>
+      <JobTitle>Assistante Administrative Marques</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/VF/M3Q5VD6R0VYJ38LBGVF.jpg</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Konica Minolta</Company>
+      <CompanyDID>chq6mk6hvkqqq00bfrj</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chq6mk6hvkqqq00bfrj/konica-minolta/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G59R6JTSD37330MYF</DID>
+      <OnetCode>11-3021.00</OnetCode>
+      <ONetFriendlyTitle>Computer and Information Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Groupe international (41 500 personnes à travers le monde), représenté en France par 1 500 collaborateurs, Konica Minolta a concentré ses forces de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G59R6JTSD37330MYF</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G59R6JTSD37330MYF&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Carrières sur seine</Location>
+      <DisplayCity>Carrières sur seine</DisplayCity>
+      <City>Carrières-sur-Seine</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9094</LocationLatitude>
+      <LocationLongitude>2.1777</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:11:57 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G59R6JTSD37330MYF</SimilarJobsURL>
+      <JobTitle>DATA MANAGER - 78 - CDI - H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/3D/M0V4GP604L5K6F8923D.gif</CompanyImageURL>
+      <JobBrandingIcons>VIcon,PIcon</JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft excel</Skill>
+        <Skill>flux (software)</Skill>
+        <Skill>SAP</Skill>
+        <Skill>sql</Skill>
+      </Skills>
+      <JobLevel>4</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7JP5XR5G5W9TYG1R</DID>
+      <OnetCode>41-9031.00</OnetCode>
+      <ONetFriendlyTitle>Sales Engineers</ONetFriendlyTitle>
+      <DescriptionTeaser>Au sein de cette SSII entièrement spécialisée Microsoft, vos missions seront les suivantes: Partie Avant - vente : - Compréhension du métier et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F7JP5XR5G5W9TYG1R</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7JP5XR5G5W9TYG1R&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Isle of France</Location>
+      <DisplayCity>Isle of France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:11:41 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7JP5XR5G5W9TYG1R</SimilarJobsURL>
+      <JobTitle>Consultant Avant-Vente Microsoft Dynamics CRM</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Dynamics</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F7HD79NP24N8VGLHL</DID>
+      <OnetCode>43-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Office and Administrative Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Mon client, un client final utilisateur de MS Dynamics AX, est aujourd'hui même à la recherche de son nouveau Chargé de projet / Consultant MS...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F7HD79NP24N8VGLHL</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F7HD79NP24N8VGLHL&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Troyes</Location>
+      <DisplayCity></DisplayCity>
+      <City>Troyes</City>
+      <State>CHAMPAGNE-ARDENNE</State>
+      <LocationLatitude>48.29787</LocationLatitude>
+      <LocationLongitude>4.07434</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:11:40 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F7HD79NP24N8VGLHL</SimilarJobsURL>
+      <JobTitle>Consultant fonctionnel MS Dynamics AX / Client Final / Troyes</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Enterprise resource planning</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J4T56DMS7W5B8SSJZ</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Une superbe opportunité de rejoindre une SSII à taille humaine actuellement en pleine croissance. Mon client, est aujourd'hui à la recherche d'un...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J4T56DMS7W5B8SSJZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J4T56DMS7W5B8SSJZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity></DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:11:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J4T56DMS7W5B8SSJZ</SimilarJobsURL>
+      <JobTitle>Développeur SharePoint/ CDI/ SSII/ 30K-40K/ Toulouse</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>asp.net</Skill>
+        <Skill>microsoft sharepoint designer</Skill>
+        <Skill>workflow</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft infopath</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3H03V6P7VD2GBL67JQ</DID>
+      <OnetCode>15-1021.00</OnetCode>
+      <ONetFriendlyTitle>Computer Programmers</ONetFriendlyTitle>
+      <DescriptionTeaser>Analyste Programmeur / Développeur - Île de France 35-45K€ Excellente opportunité pour un Analyste Programmeur/Développeur de rejoindre un Client...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H03V6P7VD2GBL67JQ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H03V6P7VD2GBL67JQ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Paris</Location>
+      <DisplayCity></DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:11:25 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H03V6P7VD2GBL67JQ</SimilarJobsURL>
+      <JobTitle>Analyste Programmeur / Développeur - Île de France 35-45KEUR</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft word</Skill>
+        <Skill>crystal reports</Skill>
+        <Skill>java (programming language)</Skill>
+        <Skill>sql</Skill>
+        <Skill>c (programming language)</Skill>
+        <Skill>c++</Skill>
+      </Skills>
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F6R66QVBM111LVD24</DID>
+      <OnetCode>15-1031.00</OnetCode>
+      <ONetFriendlyTitle>Computer Software Engineers, Applications</ONetFriendlyTitle>
+      <DescriptionTeaser>Superbe opportunité de rejoindre un partenaire Microsoft spécialisé sur les solutions collaboratives qui est en phase de développement de son offre...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F6R66QVBM111LVD24</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F6R66QVBM111LVD24&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Provence</Location>
+      <DisplayCity></DisplayCity>
+      <City>Aix-en-Provence</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.52638</LocationLatitude>
+      <LocationLongitude>5.44614</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:11:02 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F6R66QVBM111LVD24</SimilarJobsURL>
+      <JobTitle>Développeur SharePoint / Aix / CDI / 32- 42kEUR</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>c-sharp</Skill>
+        <Skill>microsoft sharepoint</Skill>
+        <Skill>ibm microprocessors</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>ibm aix</Skill>
+        <Skill>sql</Skill>
+        <Skill>microsoft dynamics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>E-Quadra Paris</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>JHR7016F5GY0LQ01C3K</DID>
+      <OnetCode>15-1099.04</OnetCode>
+      <ONetFriendlyTitle>Web Developers</ONetFriendlyTitle>
+      <DescriptionTeaser>Poste Vos connaissances en développement font de vous un développeur hors pair. En quête d’une nouvelle aventure « eZ Publish », la suite ne pourra...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=JHR7016F5GY0LQ01C3K</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=JHR7016F5GY0LQ01C3K&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Rungis</Location>
+      <DisplayCity>Rungis</DisplayCity>
+      <City>Rungis</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.74915</LocationLatitude>
+      <LocationLongitude>2.35138</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:10:48 AM</PostedTime>
+      <Pay>35 000 € - 42 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=JHR7016F5GY0LQ01C3K</SimilarJobsURL>
+      <JobTitle>Développeur eZ Publish</JobTitle>
+      <CompanyImageURL></CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>javascript</Skill>
+        <Skill>LAMP</Skill>
+        <Skill>ibm software</Skill>
+        <Skill>jquery</Skill>
+        <Skill>ajax</Skill>
+        <Skill>php</Skill>
+      </Skills>
+      <JobLevel>-1</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3G4ZF6NMCWFFSDZ8Q6</DID>
+      <OnetCode>15-1099.11</OnetCode>
+      <ONetFriendlyTitle>Information Technology Project Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Partnaire spécialisé sur CRM en IDF recherche un(e) Chef de projet Technico-Fonctionnel MS Dynamics CRM expérimenté sur la version 2013. Poste et...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4ZF6NMCWFFSDZ8Q6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4ZF6NMCWFFSDZ8Q6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Isle of France</Location>
+      <DisplayCity>Isle of France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:10:14 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4ZF6NMCWFFSDZ8Q6</SimilarJobsURL>
+      <JobTitle>Chef de projet Dynamics CRM/ IDF/SSII spécialiste en CRM</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>microsoft dynamics crm</Skill>
+        <Skill>microsoft word</Skill>
+        <Skill>Customer relationship management</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3J5LZ6M6NG31QTYYY7</DID>
+      <OnetCode>41-1012.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Sales Staff (Non-Retail)</ONetFriendlyTitle>
+      <DescriptionTeaser>Mon client, un client final utilisateur de MS Dynamics AX 2012, est aujourd'hui même à la recherche de son nouveau Responsable de Domaine MS Dynamics...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J5LZ6M6NG31QTYYY7</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J5LZ6M6NG31QTYYY7&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Cergy</Location>
+      <DisplayCity></DisplayCity>
+      <City>Cergy</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>49.0352</LocationLatitude>
+      <LocationLongitude>2.07982</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:09:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J5LZ6M6NG31QTYYY7</SimilarJobsURL>
+      <JobTitle>Responsable de domaine MS Dynamics AX 2012 - Ventes (Sales)</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Dynamics</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Nigel Frank</Company>
+      <CompanyDID></CompanyDID>
+      <CompanyDetailsURL />
+      <DID>J3F58M6MPG3PYB1FL13</DID>
+      <OnetCode>13-1111.00</OnetCode>
+      <ONetFriendlyTitle>Management Analysts</ONetFriendlyTitle>
+      <DescriptionTeaser>Dans le cadre de leur fort développement sur le marché Français, mon Client, un MS Gold Partner NAV faisant parti des TOP 3 en Europe souhaite...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F58M6MPG3PYB1FL13</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F58M6MPG3PYB1FL13&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 4:09:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F58M6MPG3PYB1FL13</SimilarJobsURL>
+      <JobTitle>Consultant Fonctionnel Microsoft Dynamics Nav</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/50/M0W39R6NZRBT3ZVH850.png</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Microsoft Dynamics</Skill>
+        <Skill>Microsoft Dynamics NAV</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>NonStop Recruitment Ltd</Company>
+      <CompanyDID>chs47m788gf8b1l4sy8</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs47m788gf8b1l4sy8/nonstop-recruitment-ltd/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F77668DL912Z88KVC</DID>
+      <OnetCode>19-1042.00</OnetCode>
+      <ONetFriendlyTitle>Medical Scientists, Except Epidemiologists</ONetFriendlyTitle>
+      <DescriptionTeaser>Role : Under the supervision of the Chief Scientific Officer and in direct interaction with a Project Manager, you will be responsible for the process...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F77668DL912Z88KVC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F77668DL912Z88KVC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>France</Location>
+      <DisplayCity>France</DisplayCity>
+      <City>Paris</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.85693</LocationLatitude>
+      <LocationLongitude>2.3412</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:19:11 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F77668DL912Z88KVC</SimilarJobsURL>
+      <JobTitle>cellular immunotherapy scientist - Growing Biotech</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/mediamanagement/zg/mfg51b6j0syzjwswyzg.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>CanBulkApply</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2JS611QSMQ25KDRR</DID>
+      <OnetCode>51-2099.00</OnetCode>
+      <ONetFriendlyTitle>Assemblers and Fabricators</ONetFriendlyTitle>
+      <DescriptionTeaser>ENTREPRISE EN INDUSTRIE /n Synergie Damigny recherche, pour le compte d'un de ses clients, des agents de production sur le secteur de Mortagne au...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2JS611QSMQ25KDRR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2JS611QSMQ25KDRR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mortagne-au-Perche</Location>
+      <DisplayCity>Mortagne-au-Perche</DisplayCity>
+      <City>Mortagne-au-Perche</City>
+      <State>BASSE-NORMANDIE</State>
+      <LocationLatitude>48.52074</LocationLatitude>
+      <LocationLongitude>0.54517</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:56 AM</PostedTime>
+      <Pay>0 € - 20 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2JS611QSMQ25KDRR</SimilarJobsURL>
+      <JobTitle>AGENT DE PRODUCTION H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J0RP63TMKBBPKCVF6</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client conçoit, produit et commercialise des filtres, des séparateurs et des systèmes de distribution des fluides et de traitement des eaux. /n...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J0RP63TMKBBPKCVF6</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J0RP63TMKBBPKCVF6&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Argenteuil</Location>
+      <DisplayCity>Argenteuil</DisplayCity>
+      <City>Argenteuil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9421</LocationLatitude>
+      <LocationLongitude>2.24508</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:56 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J0RP63TMKBBPKCVF6</SimilarJobsURL>
+      <JobTitle>TECHNICIEN INDUSTRIALISATION H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills>
+        <Skill>Industrialisation</Skill>
+      </Skills>
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G7036SXY9H3H8ZP9Q</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>PME spécialisée dans les biens d'équipements industriels pour le secteur de l'aéraunotique. /n MISSION -Réaliser les modèles et les moules à partir...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G7036SXY9H3H8ZP9Q</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G7036SXY9H3H8ZP9Q&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Loriol-sur-Drôme</Location>
+      <DisplayCity>Loriol-sur-Drôme</DisplayCity>
+      <City>Loriol-sur-Drôme</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>44.75231</LocationLatitude>
+      <LocationLongitude>4.82055</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:52 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G7036SXY9H3H8ZP9Q</SimilarJobsURL>
+      <JobTitle>TECHNICIEN MODELEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chp764776tn2rftyby5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chp764776tn2rftyby5/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H2GG6QR909TB2C2RJ</DID>
+      <OnetCode>53-3032.00</OnetCode>
+      <ONetFriendlyTitle>Truck Drivers, Heavy and Tractor-Trailer</ONetFriendlyTitle>
+      <DescriptionTeaser>SOCIETE FRANCAISE LEADER DANS L OFFRE DE SOLUTIONS DE GESTION ET DE VALORISATION DES DECHETS. /n SOUS LA RESPONSABILITE DU RESPONSABLE D EXPLOITATION...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H2GG6QR909TB2C2RJ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H2GG6QR909TB2C2RJ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Montierchaume</Location>
+      <DisplayCity>Montierchaume</DisplayCity>
+      <City>Montierchaume</City>
+      <State>CENTRE</State>
+      <LocationLatitude>46.86393</LocationLatitude>
+      <LocationLongitude>1.77271</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:51 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H2GG6QR909TB2C2RJ</SimilarJobsURL>
+      <JobTitle>CHAUFFEUR SPL  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J32D78P524B17BDTS</DID>
+      <OnetCode>53-3031.00</OnetCode>
+      <ONetFriendlyTitle>Driver/Sales Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>basée à Nantes /n RESPONSABLE D'EQUIPE CARISTES H/F Rattaché au responsable exploitation et basé sur le site du client (industriel leader sur le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J32D78P524B17BDTS</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J32D78P524B17BDTS&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Nantes</Location>
+      <DisplayCity>Nantes</DisplayCity>
+      <City>Nantes</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.21811</LocationLatitude>
+      <LocationLongitude>-1.55306</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:51 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J32D78P524B17BDTS</SimilarJobsURL>
+      <JobTitle>RESPONSABLE EQUIPE CARISTES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chp764776tn2rftyby5</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chp764776tn2rftyby5/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J3XG67WBKLWHP7W66</DID>
+      <OnetCode>35-2021.00</OnetCode>
+      <ONetFriendlyTitle>Food Preparation Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisé dans le transport logistique de produits frais, /n DES PREPARATEURS DE COMMANDES H/F. /n Vous aurez en charge la préparation de commandes...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J3XG67WBKLWHP7W66</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J3XG67WBKLWHP7W66&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Thionville</Location>
+      <DisplayCity>Thionville</DisplayCity>
+      <City>Thionville</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>49.3576</LocationLatitude>
+      <LocationLongitude>6.16909</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:51 AM</PostedTime>
+      <Pay>0 € - 20 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J3XG67WBKLWHP7W66</SimilarJobsURL>
+      <JobTitle>PREPARATEUR DE COMMANDES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J6NR6ZJ1Y57ZS0554</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Secteur Navale /n Recherche soudeur 136 H/F pour travailler sur le site STX de st-nazaire. Travaux de soudures sur coques métallique au procédé 136...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J6NR6ZJ1Y57ZS0554</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J6NR6ZJ1Y57ZS0554&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Saint-Nazaire</Location>
+      <DisplayCity>Saint-Nazaire</DisplayCity>
+      <City>Saint-Nazaire</City>
+      <State>PAYS DE LA LOIRE</State>
+      <LocationLatitude>47.27867</LocationLatitude>
+      <LocationLongitude>-2.2124</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:48 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J6NR6ZJ1Y57ZS0554</SimilarJobsURL>
+      <JobTitle>SOUDEUR 136 H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chr1sd69krdkhvf699h</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chr1sd69krdkhvf699h/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G3896D7T98MXBQ1GX</DID>
+      <OnetCode>17-3026.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Engineering Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>Ce poste est a pourvoir dans l' une des filiales de notre client spécialisée dans l'étude, la réalisation et la maintenance des installations...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G3896D7T98MXBQ1GX</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G3896D7T98MXBQ1GX&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Toulouse</Location>
+      <DisplayCity>Toulouse</DisplayCity>
+      <City>Toulouse</City>
+      <State>MIDI PYRÉNÉES</State>
+      <LocationLatitude>43.60574</LocationLatitude>
+      <LocationLongitude>1.44869</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:47 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G3896D7T98MXBQ1GX</SimilarJobsURL>
+      <JobTitle>TECHNICIEN D'ETUDES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>chs17p65ym0xzs8r47v</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/chs17p65ym0xzs8r47v/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G24D609XP3X4BJMV3</DID>
+      <OnetCode>13-1031.01</OnetCode>
+      <ONetFriendlyTitle>Claims Examiners, Property and Casualty Insurance</ONetFriendlyTitle>
+      <DescriptionTeaser>Entreprise certifiée et exigeante en terme de qualité et d'innovation, dans le domaine de l’assurance. Entrant aujourd’hui dans une nouvelle phase de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDD</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G24D609XP3X4BJMV3</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G24D609XP3X4BJMV3&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Aix en provence</Location>
+      <DisplayCity>Aix en provence</DisplayCity>
+      <City>Aix-en-Provence</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>43.52638</LocationLatitude>
+      <LocationLongitude>5.44614</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:42 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G24D609XP3X4BJMV3</SimilarJobsURL>
+      <JobTitle>gestionnaire assurance  H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F3TJ6VWT02YXL2VYC</DID>
+      <OnetCode>53-3031.00</OnetCode>
+      <ONetFriendlyTitle>Driver/Sales Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>. /n Synergie recherche en URGENCE pour l'un de ses clients : Un Vendeur - Livreur - Prospecteur Votre mission : Prospecter, vendre et livrer des...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F3TJ6VWT02YXL2VYC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F3TJ6VWT02YXL2VYC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Pont de l isere</Location>
+      <DisplayCity>Pont de l isere</DisplayCity>
+      <City>Beaumont-Monteux</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.01775</LocationLatitude>
+      <LocationLongitude>4.92272</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:38 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F3TJ6VWT02YXL2VYC</SimilarJobsURL>
+      <JobTitle>VENDEUR LIVREUR PROSPECTEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F78L69YPRNZ8DPM1X</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, PME de 30 personnes spécialisée dans le grenaillage, le laquage et le thermolaquage de pièces métalliques recherche un Grenailleur /...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F78L69YPRNZ8DPM1X</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F78L69YPRNZ8DPM1X&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Autre</Location>
+      <DisplayCity>Autre</DisplayCity>
+      <City>Anthelupt</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>48.60944</LocationLatitude>
+      <LocationLongitude>6.41361</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:37 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F78L69YPRNZ8DPM1X</SimilarJobsURL>
+      <JobTitle>SABLEUR / GRENAILLEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3H3M375RPGRZJW0YYZ</DID>
+      <OnetCode>13-2082.00</OnetCode>
+      <ONetFriendlyTitle>Tax Preparers</ONetFriendlyTitle>
+      <DescriptionTeaser>Société spécialisée dans l'aéronautique /n A ce poste vos principales missions seront : - Analyser les dossiers de finition (plans CAO) - Préparer le...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3H3M375RPGRZJW0YYZ</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3H3M375RPGRZJW0YYZ&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mantes la ville</Location>
+      <DisplayCity>Mantes la ville</DisplayCity>
+      <City>Mantes-la-Ville</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.97777</LocationLatitude>
+      <LocationLongitude>1.71416</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:36 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3H3M375RPGRZJW0YYZ</SimilarJobsURL>
+      <JobTitle>PREPARATEUR METHODES H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J78S67GMY1BLH3JLW</DID>
+      <OnetCode>11-3051.01</OnetCode>
+      <ONetFriendlyTitle>Quality Control Systems Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Société agroalimentaire /n un(e)Responsable QHSE (H/F), dans le cadre de son développement. Rattaché(e) à la direction, vous êtes responsable de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J78S67GMY1BLH3JLW</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J78S67GMY1BLH3JLW&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Orange</Location>
+      <DisplayCity>Orange</DisplayCity>
+      <City>Orange</City>
+      <State>PROVENCE-ALPES-CÔTE D'AZUR</State>
+      <LocationLatitude>44.13617</LocationLatitude>
+      <LocationLongitude>4.80867</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:35 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J78S67GMY1BLH3JLW</SimilarJobsURL>
+      <JobTitle>RESPONSABLE QHSE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G20G707GX1HCSM0P1</DID>
+      <OnetCode>19-4031.00</OnetCode>
+      <ONetFriendlyTitle>Chemical Technicians</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisé dans la forge et la métallurgie, /n un assistant au Technicien Qualité H/F. Poste de jour. Tâches : Contrôle de pièces dans les différents...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G20G707GX1HCSM0P1</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G20G707GX1HCSM0P1&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Autre</Location>
+      <DisplayCity>Autre</DisplayCity>
+      <City>Lens</City>
+      <State>NORD-PAS-DE-CALAIS</State>
+      <LocationLatitude>50.42934</LocationLatitude>
+      <LocationLongitude>2.83296</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:33 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G20G707GX1HCSM0P1</SimilarJobsURL>
+      <JobTitle>ASSISTANT TECHNICIEN QUALITE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G4PP6BHB8KCWW0C6V</DID>
+      <OnetCode>33-3021.03</OnetCode>
+      <ONetFriendlyTitle>Criminal Investigators and Special Agents</ONetFriendlyTitle>
+      <DescriptionTeaser>Leader dans son domaine d'activité, des ENQUETEURS (H/F). /n INFORMATIONS SUPPLEMENTAIRES: - Plusieurs enquêtes possibles - Missions à temps partiel -...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G4PP6BHB8KCWW0C6V</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G4PP6BHB8KCWW0C6V&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Lyon</Location>
+      <DisplayCity>Lyon</DisplayCity>
+      <City>Lyon</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.75939</LocationLatitude>
+      <LocationLongitude>4.82898</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:28 AM</PostedTime>
+      <Pay>0 € - 20 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G4PP6BHB8KCWW0C6V</SimilarJobsURL>
+      <JobTitle>ENQUETEUR H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F17079HHTCZ0FLH84</DID>
+      <OnetCode>47-2111.00</OnetCode>
+      <ONetFriendlyTitle>Electricians</ONetFriendlyTitle>
+      <DescriptionTeaser>spécialisé dans la CAO électricité, un technico-commercial junior en électricité (h/f). /n Leader mondial de la CAO Electricité, 400 personnes avec...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F17079HHTCZ0FLH84</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F17079HHTCZ0FLH84&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Seyssins</Location>
+      <DisplayCity>Seyssins</DisplayCity>
+      <City>Seyssins</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.16292</LocationLatitude>
+      <LocationLongitude>5.68458</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:28 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F17079HHTCZ0FLH84</SimilarJobsURL>
+      <JobTitle>TECHNICO COMMERCIAL JUNIOR EN ELECTRICITE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>2</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3G5LL6TS9T9PYWKGPB</DID>
+      <OnetCode>51-1011.00</OnetCode>
+      <ONetFriendlyTitle>Supervisors of Production and Operating Staff</ONetFriendlyTitle>
+      <DescriptionTeaser>IMPORTANTE SOCIETE DE METALLURGIESITUEE AUX ALLENTOURS DE CHATEAUROUX. /n MISSIONS PRINCIPALES : - ORGANISE SON EQUIPE POUR SATISFAIRE LES BESOINS DU...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3G5LL6TS9T9PYWKGPB</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3G5LL6TS9T9PYWKGPB&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Diors</Location>
+      <DisplayCity>Diors</DisplayCity>
+      <City>Diors</City>
+      <State>CENTRE</State>
+      <LocationLatitude>46.82715</LocationLatitude>
+      <LocationLongitude>1.82841</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:22 AM</PostedTime>
+      <Pay>30 000 € - 40 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3G5LL6TS9T9PYWKGPB</SimilarJobsURL>
+      <JobTitle>CHEF D EQUIPE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J1PD79KBHTXDRN9SC</DID>
+      <OnetCode>41-4012.00</OnetCode>
+      <ONetFriendlyTitle>Sales Reps (Wholesale and Manufacturing)</ONetFriendlyTitle>
+      <DescriptionTeaser>société de négoce basée près de Sallanches /n UN TECHNICO COMMERCIAL SEDENTAIRE H/F De formation Bac+3 Commercial, vous justifiez d’une expérience de...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J1PD79KBHTXDRN9SC</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J1PD79KBHTXDRN9SC&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Passy</Location>
+      <DisplayCity>Passy</DisplayCity>
+      <City>Passy</City>
+      <State>RHÔNE-ALPES</State>
+      <LocationLatitude>45.92349</LocationLatitude>
+      <LocationLongitude>6.68585</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:16 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J1PD79KBHTXDRN9SC</SimilarJobsURL>
+      <JobTitle>TECHNICO COMMERCIAL SEDENTAIRE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2ZQ6RSK2K2GQ3FQR</DID>
+      <OnetCode>49-9042.00</OnetCode>
+      <ONetFriendlyTitle>Maintenance and Repair Workers</ONetFriendlyTitle>
+      <DescriptionTeaser>leader dans la distribution d'eau et d'électricité en moselle, un techicien de maintenance H/F. /n Titulaire d'un BAC + 2 dans le domaine de la...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2ZQ6RSK2K2GQ3FQR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2ZQ6RSK2K2GQ3FQR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Metz</Location>
+      <DisplayCity>Metz</DisplayCity>
+      <City>Metz</City>
+      <State>LORRAINE</State>
+      <LocationLatitude>49.11566</LocationLatitude>
+      <LocationLongitude>6.1732</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:15 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2ZQ6RSK2K2GQ3FQR</SimilarJobsURL>
+      <JobTitle>TECHNICIEN DE MAINTENANCE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F0SW731YK1MNBS776</DID>
+      <OnetCode>51-4121.06</OnetCode>
+      <ONetFriendlyTitle>Welders, Cutters, and Welder Fitters</ONetFriendlyTitle>
+      <DescriptionTeaser>Notre client, conçoit, produit et commercialise des filtres, des séparateurs et des systèmes de distribution des fluides et de traitement des eaux. /n...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F0SW731YK1MNBS776</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F0SW731YK1MNBS776&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Argenteuil</Location>
+      <DisplayCity>Argenteuil</DisplayCity>
+      <City>Argenteuil</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.9421</LocationLatitude>
+      <LocationLongitude>2.24508</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:15 AM</PostedTime>
+      <Pay>20 000 € - 30 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F0SW731YK1MNBS776</SimilarJobsURL>
+      <JobTitle>TUYAUTEUR SOUDEUR H/F M/F H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht78b69q4l75g7q10q</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht78b69q4l75g7q10q/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3F2MH72W1RTQDF67MY</DID>
+      <OnetCode>13-2052.00</OnetCode>
+      <ONetFriendlyTitle>Personal Financial Advisors</ONetFriendlyTitle>
+      <DescriptionTeaser>Filiale d'un Groupe Bancaire /n Pour un Centre d'Appels basé sur Strasbourg, nous recherchons des Conseillers Clients. Justifiant idéalement d'une...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>CDI</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3F2MH72W1RTQDF67MY</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3F2MH72W1RTQDF67MY&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Strasbourg</Location>
+      <DisplayCity>Strasbourg</DisplayCity>
+      <City>Strasbourg</City>
+      <State>ALSACE</State>
+      <LocationLatitude>48.58508</LocationLatitude>
+      <LocationLongitude>7.73643</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:07 AM</PostedTime>
+      <Pay>0 € - 20 000 €/Année</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3F2MH72W1RTQDF67MY</SimilarJobsURL>
+      <JobTitle>CONSEILLERS CLIENTS H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+    <JobSearchResult>
+      <Company>Synergie</Company>
+      <CompanyDID>cht0376z5tv86kytl57</CompanyDID>
+      <CompanyDetailsURL>http://www.careerbuilder.fr/emploi/société/cht0376z5tv86kytl57/synergie/?sc_cmp1=13_JobRes_ComDet</CompanyDetailsURL>
+      <DID>J3J74V600891S4DCWLR</DID>
+      <OnetCode>11-3051.00</OnetCode>
+      <ONetFriendlyTitle>Industrial Production Managers</ONetFriendlyTitle>
+      <DescriptionTeaser>Société spécialisée dans l'aéronautique /n A ce poste vos principales missions seront : - Suivre les OF - Analyser et suivre les manquants critiques...</DescriptionTeaser>
+      <Distance />
+      <EmploymentType>Intérim</EmploymentType>
+      <EducationRequired>Not Specified</EducationRequired>
+      <ExperienceRequired>Not Specified</ExperienceRequired>
+      <JobDetailsURL>http://api.careerbuilder.com/v1/joblink?TrackingID=UNTRKD&amp;HostSite=FR&amp;DID=J3J74V600891S4DCWLR</JobDetailsURL>
+      <JobServiceURL>https://api.careerbuilder.com/v1/job?DID=J3J74V600891S4DCWLR&amp;HostSite=FR&amp;DeveloperKey=WDHP7QR6WLLWK64FD08H</JobServiceURL>
+      <Location>Mantes la ville</Location>
+      <DisplayCity>Mantes la ville</DisplayCity>
+      <City>Mantes-la-Ville</City>
+      <State>ÎLE DE FRANCE</State>
+      <LocationLatitude>48.97777</LocationLatitude>
+      <LocationLongitude>1.71416</LocationLongitude>
+      <PostedDate>1/7/2015</PostedDate>
+      <PostedTime>1/7/2015 3:00:05 AM</PostedTime>
+      <Pay>N/A</Pay>
+      <SimilarJobsURL>http://www.careerbuilder.fr/jobseeker/jobs/recommendedjobs.aspx?ipath=JELO&amp;job_did=J3J74V600891S4DCWLR</SimilarJobsURL>
+      <JobTitle>GESTIONNAIRE DE PRODUCTION MONTAGE H/F</JobTitle>
+      <CompanyImageURL>http://emj.icbdr.com/MediaManagement/9P/MBP3CD6GHLC3LV2LZ9P.gif</CompanyImageURL>
+      <JobBrandingIcons></JobBrandingIcons>
+      <ApplyRequirements>
+        <ApplyRequirement>IsExternal</ApplyRequirement>
+      </ApplyRequirements>
+      <Skills />
+      <JobLevel>3</JobLevel>
+    </JobSearchResult>
+  </Results>
+  <SearchMetaData>
+    <ResultsAlteredByUsersSearchPreferences>false</ResultsAlteredByUsersSearchPreferences>
+    <SearchLocations>
+      <SearchLocation>
+        <City></City>
+        <StateCode></StateCode>
+        <CountryCode>FR</CountryCode>
+        <PostalCode></PostalCode>
+        <Valid>True</Valid>
+      </SearchLocation>
+    </SearchLocations>
+  </SearchMetaData>
+</ResponseJobSearch>
