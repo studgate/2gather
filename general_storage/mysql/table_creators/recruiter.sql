@@ -1,0 +1,8 @@
+use enroll;
+
+CREATE TABLE IF NOT EXISTS recruiter(	
+	name VARCHAR(20) NOT NULL PRIMARY KEY,
+	did VARCHAR(20),
+	details_url VARCHAR(200),
+	logo_url VARCHAR(200)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8

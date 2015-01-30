@@ -1,59 +1,27 @@
+/**
+ * Exports all the recruites info into 'csv'
+ * Not finished after updates. CSV is quite irrelevant now.
+ */
+
+var xmlloader = require("../helpers/XMLLoader.js");
+
 fs = require('fs')
 var xmldoc = require('xmldoc');
 
-var rootPath = "./raw";
+var rootPath = "../raw";
 
 
 var FIELD_SEPARATOR = '\t';/*'\u0001'*/;
 
-var walk = function(dir, done) {
-	var results = [];
-  	fs.readdir(dir, function(err, list) {
-    if (err) return done(err);
-    var i = 0;
-    (function next() {
-      var file = list[i++];
-      if (!file) return done(null, results);
-      file = dir + '/' + file;
-      fs.stat(file, function(err, stat) {
-        if (stat && stat.isDirectory()) {
-          walk(file, function(err, res) {
-            results = results.concat(res);
-            next();
-          });
-        } else {
-          results.push(file);
-          next();
-        }
-      });
-    })();
-  });
-};
+xmlloader.getEach("../raw", function(err, doc){
+	if (!err)
+	{						
+		parseXML(doc);
+	}
+});
 
 var jobsData = {};
 var tags = [];
-
-walk(rootPath, function(err, results) {
-  if (err) throw err;
-  
-  for (var i=0;i<results.length;i++)
-	{
-	  	var str = fs.readFileSync(results[i]).toString();
-	  	try
-	  	{  		
-	  		var xml = new xmldoc.XmlDocument(str);
-	  		console.log("File %s read. Parsing XML.", results[i]);
-	  		parseXML(xml);	  		
-	  	}
-	  	catch(err)
-	  	{
-	  		console.log("No valid XML to parse. Skipping." + err);
-	  	}  	  		
-	}
-
-	console.log("Finished parse all XML files. Dumping to file.");
-	dumpToCSV();
-});
 
 
 function parseXML(doc)
@@ -73,6 +41,7 @@ function parseXML(doc)
 			{
 				extractValues(node);
 			});
+			console.log('\n');
 	});	
 }
 
@@ -82,20 +51,22 @@ function extractValues(node)
 	//is a childNode
 	if (node.children.length == 0)
 	{
-		name = node.name;
-		value = node.val;		
+		//name = node.name;
+		value = node.val;
+		console.log(value + FIELD_SEPARATOR);
 	}
 	else
 	{		
-		name = node.firstChild.name;
+		//name = node.firstChild.name;
 		node.eachChild(function(node, index, data)
 		{
 
 			value += " " + node.val;
 		});
+		console.log(value + FIELD_SEPARATOR);
 
 	}
-
+	/
 	if (tags.indexOf(name)==-1)
 	{
 		console.log("New tag found: %s", name);
@@ -109,6 +80,7 @@ function extractValues(node)
 	{						
 		jobsData[name].push(value);				
 	}
+	*/
 }
 
 function dumpToCSV()
@@ -144,9 +116,4 @@ function dumpToCSV()
 	  	}
 	  stream.end();
 	});
-}
-
-function dumpToSQL()
-{
-
 }
