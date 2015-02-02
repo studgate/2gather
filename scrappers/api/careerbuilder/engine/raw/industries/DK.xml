@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseIndustryCodes>
+  <Errors />
+  <CountryCode>DK</CountryCode>
+  <TimeResponseSent>2/2/2015 12:11:41 PM</TimeResponseSent>
+  <IndustryCodes>
+    <IndustryCode>
+      <Code>IND067</Code>
+      <Name language="dk">Bogholderi - Økonomi</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND001</Code>
+      <Name language="dk">Reklamebranchen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND046</Code>
+      <Name language="dk">Landbrug</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND002</Code>
+      <Name language="dk">Flyselskaber - Luftfart</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND103</Code>
+      <Name language="dk">Appliance &amp; Electronics</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND004</Code>
+      <Name language="dk">Arkitektur - Konstruktion</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND005</Code>
+      <Name language="dk">Kunst - Fotografi - Journalistik</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND006</Code>
+      <Name language="dk">Motorindustri - Køretøjer - Reservedele</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND007</Code>
+      <Name language="dk">Bank – Finanssektor</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND074</Code>
+      <Name language="dk">Beauty / Wellness / Grooming</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND008</Code>
+      <Name language="dk">Bioteknologi</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND018</Code>
+      <Name language="dk">Udsendelser - Radio - TV</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND009</Code>
+      <Name language="dk">Byggematerialer</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND075</Code>
+      <Name language="dk">Call Center / SSO / BPO</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND068</Code>
+      <Name language="dk">Kemikalier</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND116</Code>
+      <Name language="dk">Coffee Shop</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND012</Code>
+      <Name language="dk">Computer Hardware</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND013</Code>
+      <Name language="dk">Computer Software</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND010</Code>
+      <Name language="dk">Konstruktion</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND014</Code>
+      <Name language="dk">Konsulentvirksomhed</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND053</Code>
+      <Name language="dk">Forbrugsgoder</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND118</Code>
+      <Name language="dk">Cosmetics &amp; Beauty</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND059</Code>
+      <Name language="dk">Kredit - Lån - Inkasso</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND064</Code>
+      <Name language="dk">Forsvar - Luftværn</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND111</Code>
+      <Name language="dk">Department Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND015</Code>
+      <Name language="dk">Uddannelse - Undervisning - Administration</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND047</Code>
+      <Name language="dk">Elektronik</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND016</Code>
+      <Name language="dk">Beskæftigelse - Rekruttering - Bemanding</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND017</Code>
+      <Name language="dk">Energi - Forsyning - Gas - Elektricitet</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND076</Code>
+      <Name language="dk">Engineering - Machinery</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND077</Code>
+      <Name language="dk">Engineering - Precision</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND078</Code>
+      <Name language="dk">Engineering - Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND054</Code>
+      <Name language="dk">Underholding</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND048</Code>
+      <Name language="dk">Miljø</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND069</Code>
+      <Name language="dk">Motion - Konditræning</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND079</Code>
+      <Name language="dk">Exhibitions / Event Management / MICE</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND107</Code>
+      <Name language="dk">Eye Care</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND003</Code>
+      <Name language="dk">Mode - Tøj - Tekstil</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND019</Code>
+      <Name language="dk">Mad</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND114</Code>
+      <Name language="dk">Full Service Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND066</Code>
+      <Name language="dk">Begravelsesvæsen - Kirkegårde</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND102</Code>
+      <Name language="dk">Furniture</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND106</Code>
+      <Name language="dk">Gas / Convenience Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND020</Code>
+      <Name language="dk">Regering - Statsforvaltning</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND105</Code>
+      <Name language="dk">Grocery &amp; Pharmacy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND104</Code>
+      <Name language="dk">Hardware / Home Improvement</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND021</Code>
+      <Name language="dk">Sundhedspleje - Sundhedsvæsen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND119</Code>
+      <Name language="dk">Home Décor and Kitchen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND071</Code>
+      <Name language="dk">Boligbygning</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND022</Code>
+      <Name language="dk">Beværtning</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND050</Code>
+      <Name language="dk">Hotel - Resort</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND023</Code>
+      <Name language="dk">HVAC</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND052</Code>
+      <Name language="dk">Import - Eksport</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND024</Code>
+      <Name language="dk">Industriel</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND025</Code>
+      <Name language="dk">Forsikring</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND026</Code>
+      <Name language="dk">Internet - ECommerce</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND109</Code>
+      <Name language="dk">Jewelry</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND062</Code>
+      <Name language="dk">Gartneri</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND027</Code>
+      <Name language="dk">Retshåndhævelse</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND028</Code>
+      <Name language="dk">Juridisk</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND058</Code>
+      <Name language="dk">Biblioteksvidenskab</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND065</Code>
+      <Name language="dk">Administreret pleje</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND029</Code>
+      <Name language="dk">Fabriksfremsstilling</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND080</Code>
+      <Name language="dk">Marine / Maritime</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND090</Code>
+      <Name language="dk">Maritime - Offshore &amp; Marine Engineering</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND089</Code>
+      <Name language="dk">Maritime - Port</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND088</Code>
+      <Name language="dk">Maritime - Shipping</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND113</Code>
+      <Name language="dk">Mass Merchandiser</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND073</Code>
+      <Name language="dk">Medicinsk udstyr</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND030</Code>
+      <Name language="dk">Merchandising</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND070</Code>
+      <Name language="dk">Militær</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND081</Code>
+      <Name language="dk">Mining / Drilling / Resources</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND031</Code>
+      <Name language="dk">Prioritetslån</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND072</Code>
+      <Name language="dk">Avis</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND011</Code>
+      <Name language="dk">Non-Profit - Velgørenhed</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND032</Code>
+      <Name language="dk">Kontorartikler - Udstyr</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND033</Code>
+      <Name language="dk">Olieraffinering - Petroleum - Borearbejde</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND000</Code>
+      <Name language="dk">Other</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND034</Code>
+      <Name language="dk">Andre tunge industrier</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND045</Code>
+      <Name language="dk">Emballage</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND112</Code>
+      <Name language="dk">Pet Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND035</Code>
+      <Name language="dk">Farmaceut</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND082</Code>
+      <Name language="dk">Polymer / Plastic / Rubber</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND036</Code>
+      <Name language="dk">Print - Forlagsbranchen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND037</Code>
+      <Name language="dk">PR</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND115</Code>
+      <Name language="dk">Quick Service or Fast Food Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND038</Code>
+      <Name language="dk">Ejendom - Ejendomsadministration</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND040</Code>
+      <Name language="dk">Fritid</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND083</Code>
+      <Name language="dk">Repair / Maintenance Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND084</Code>
+      <Name language="dk">Research &amp; Development</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND049</Code>
+      <Name language="dk">Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND039</Code>
+      <Name language="dk">Detail</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND117</Code>
+      <Name language="dk">Retail Bank</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND061</Code>
+      <Name language="dk">Salg - Marketing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND085</Code>
+      <Name language="dk">Science &amp; Technology</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND057</Code>
+      <Name language="dk">Værdipapirer</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND060</Code>
+      <Name language="dk">Sikkerhed</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND041</Code>
+      <Name language="dk">Halvledere</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND086</Code>
+      <Name language="dk">Services - Corporate B2B</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND056</Code>
+      <Name language="dk">Socialforvaltning</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND110</Code>
+      <Name language="dk">Sporting Goods</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND042</Code>
+      <Name language="dk">Telekommunikation</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND043</Code>
+      <Name language="dk">Træning</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND044</Code>
+      <Name language="dk">Transport</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND051</Code>
+      <Name language="dk">Rejse</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND055</Code>
+      <Name language="dk">Trådløs</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND087</Code>
+      <Name language="dk">Wood / Fibre / Paper</Name>
+    </IndustryCode>
+  </IndustryCodes>
+</ResponseIndustryCodes>

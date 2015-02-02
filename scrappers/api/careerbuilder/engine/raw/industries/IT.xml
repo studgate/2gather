@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseIndustryCodes>
+  <Errors />
+  <CountryCode>IT</CountryCode>
+  <TimeResponseSent>2/2/2015 12:11:44 PM</TimeResponseSent>
+  <IndustryCodes>
+    <IndustryCode>
+      <Code>IND067</Code>
+      <Name language="it">Accounting - Finance</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND001</Code>
+      <Name language="it">Advertising</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND046</Code>
+      <Name language="it">Agriculture</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND002</Code>
+      <Name language="it">Airline - Aviation</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND103</Code>
+      <Name language="it">Appliance &amp; Electronics</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND004</Code>
+      <Name language="it">Architecture - Building</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND005</Code>
+      <Name language="it">Art - Photography - Journalism</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND006</Code>
+      <Name language="it">Automotive - Motor Vehicles - Parts</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND007</Code>
+      <Name language="it">Banking - Financial Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND074</Code>
+      <Name language="it">Beauty / Wellness / Grooming</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND008</Code>
+      <Name language="it">Biotechnology</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND018</Code>
+      <Name language="it">Broadcasting - Radio - TV</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND009</Code>
+      <Name language="it">Building Materials</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND075</Code>
+      <Name language="it">Call Center / SSO / BPO</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND068</Code>
+      <Name language="it">Chemical</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND116</Code>
+      <Name language="it">Coffee Shop</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND012</Code>
+      <Name language="it">Computer Hardware</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND013</Code>
+      <Name language="it">Computer Software</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND010</Code>
+      <Name language="it">Construction</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND014</Code>
+      <Name language="it">Consulting</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND053</Code>
+      <Name language="it">Consumer Products</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND118</Code>
+      <Name language="it">Cosmetics &amp; Beauty</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND059</Code>
+      <Name language="it">Credit - Loan - Collections</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND064</Code>
+      <Name language="it">Defense - Aerospace</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND111</Code>
+      <Name language="it">Department Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND015</Code>
+      <Name language="it">Education - Teaching - Administration</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND047</Code>
+      <Name language="it">Electronics</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND016</Code>
+      <Name language="it">Employment - Recruiting - Staffing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND017</Code>
+      <Name language="it">Energy - Utilities - Gas - Electric</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND076</Code>
+      <Name language="it">Engineering - Machinery</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND077</Code>
+      <Name language="it">Engineering - Precision</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND078</Code>
+      <Name language="it">Engineering - Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND054</Code>
+      <Name language="it">Entertainment</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND048</Code>
+      <Name language="it">Environmental</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND069</Code>
+      <Name language="it">Exercise - Fitness</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND079</Code>
+      <Name language="it">Exhibitions / Event Management / MICE</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND107</Code>
+      <Name language="it">Eye Care</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND003</Code>
+      <Name language="it">Fashion - Apparel - Textile</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND019</Code>
+      <Name language="it">Food</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND114</Code>
+      <Name language="it">Full Service Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND066</Code>
+      <Name language="it">Funeral - Cemetery</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND102</Code>
+      <Name language="it">Furniture</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND106</Code>
+      <Name language="it">Gas / Convenience Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND020</Code>
+      <Name language="it">Government - Civil Service</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND105</Code>
+      <Name language="it">Grocery &amp; Pharmacy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND104</Code>
+      <Name language="it">Hardware / Home Improvement</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND021</Code>
+      <Name language="it">Healthcare - Health Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND119</Code>
+      <Name language="it">Home Décor and Kitchen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND071</Code>
+      <Name language="it">Homebuilding</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND022</Code>
+      <Name language="it">Hospitality</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND050</Code>
+      <Name language="it">Hotel - Resort</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND023</Code>
+      <Name language="it">HVAC</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND052</Code>
+      <Name language="it">Import - Export</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND024</Code>
+      <Name language="it">Industrial</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND025</Code>
+      <Name language="it">Insurance</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND026</Code>
+      <Name language="it">Internet - ECommerce</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND109</Code>
+      <Name language="it">Jewelry</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND062</Code>
+      <Name language="it">Landscaping</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND027</Code>
+      <Name language="it">Law Enforcement</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND028</Code>
+      <Name language="it">Legal</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND058</Code>
+      <Name language="it">Library Science</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND065</Code>
+      <Name language="it">Managed Care</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND029</Code>
+      <Name language="it">Manufacturing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND080</Code>
+      <Name language="it">Marine / Maritime</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND090</Code>
+      <Name language="it">Maritime - Offshore &amp; Marine Engineering</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND089</Code>
+      <Name language="it">Maritime - Port</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND088</Code>
+      <Name language="it">Maritime - Shipping</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND113</Code>
+      <Name language="it">Mass Merchandiser</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND073</Code>
+      <Name language="it">Medical Equipment</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND030</Code>
+      <Name language="it">Merchandising</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND070</Code>
+      <Name language="it">Military</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND081</Code>
+      <Name language="it">Mining / Drilling / Resources</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND031</Code>
+      <Name language="it">Mortgage</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND072</Code>
+      <Name language="it">Newspaper</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND011</Code>
+      <Name language="it">Not for Profit - Charitable</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND032</Code>
+      <Name language="it">Office Supplies - Equipment</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND033</Code>
+      <Name language="it">Oil Refining - Petroleum - Drilling</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND000</Code>
+      <Name language="it">Other</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND034</Code>
+      <Name language="it">Other Great Industries</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND045</Code>
+      <Name language="it">Packaging</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND112</Code>
+      <Name language="it">Pet Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND035</Code>
+      <Name language="it">Pharmaceutical</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND082</Code>
+      <Name language="it">Polymer / Plastic / Rubber</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND036</Code>
+      <Name language="it">Printing - Publishing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND037</Code>
+      <Name language="it">Public Relations</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND115</Code>
+      <Name language="it">Quick Service or Fast Food Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND038</Code>
+      <Name language="it">Real Estate - Property Mgt</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND040</Code>
+      <Name language="it">Recreation</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND083</Code>
+      <Name language="it">Repair / Maintenance Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND084</Code>
+      <Name language="it">Research &amp; Development</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND049</Code>
+      <Name language="it">Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND039</Code>
+      <Name language="it">Retail</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND117</Code>
+      <Name language="it">Retail Bank</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND061</Code>
+      <Name language="it">Sales - Marketing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND085</Code>
+      <Name language="it">Science &amp; Technology</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND057</Code>
+      <Name language="it">Securities</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND060</Code>
+      <Name language="it">Security</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND041</Code>
+      <Name language="it">Semiconductor</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND086</Code>
+      <Name language="it">Services - Corporate B2B</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND056</Code>
+      <Name language="it">Social Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND110</Code>
+      <Name language="it">Sporting Goods</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND042</Code>
+      <Name language="it">Telecommunications</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND043</Code>
+      <Name language="it">Training</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND044</Code>
+      <Name language="it">Transportation</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND051</Code>
+      <Name language="it">Travel</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND055</Code>
+      <Name language="it">Wireless</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND087</Code>
+      <Name language="it">Wood / Fibre / Paper</Name>
+    </IndustryCode>
+  </IndustryCodes>
+</ResponseIndustryCodes>

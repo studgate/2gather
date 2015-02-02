@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseIndustryCodes>
+  <Errors />
+  <CountryCode>JS</CountryCode>
+  <TimeResponseSent>2/2/2015 12:11:45 PM</TimeResponseSent>
+  <IndustryCodes>
+    <IndustryCode>
+      <Code>IND000</Code>
+      <Name language="de">Other</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND001</Code>
+      <Name language="de">Werbung und Mediadienstleistung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND002</Code>
+      <Name language="de">Luftfahrt</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND003</Code>
+      <Name language="de">Bekleidung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND004</Code>
+      <Name language="de">keine Einschränkung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND005</Code>
+      <Name language="de">Kunst, Kultur, Film, TV, Rundfunk</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND006</Code>
+      <Name language="de">Automobilbau und Automobilzulieferer</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND007</Code>
+      <Name language="de">Banken</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND008</Code>
+      <Name language="de">Biotechnologie</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND009</Code>
+      <Name language="de">Bauwirtschaft und Bauhandwerk</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND010</Code>
+      <Name language="de">Architektur- und Ingenieurbüroleistungen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND011</Code>
+      <Name language="de">Verbände und Organisationen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND012</Code>
+      <Name language="de">Hardware und Büromaschinen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND013</Code>
+      <Name language="de">IT/ Internet/ Software</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND014</Code>
+      <Name language="de">Personal- und Unternehmensberatung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND015</Code>
+      <Name language="de">Bildung und Erziehung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND017</Code>
+      <Name language="de">Kohle, Erdöl und Erdgas</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND018</Code>
+      <Name language="de">Telekommunikation/ Nachrichtentechnik</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND019</Code>
+      <Name language="de">Nahrungs- und Genussmittel</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND020</Code>
+      <Name language="de">Öffentliche Verwaltung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND021</Code>
+      <Name language="de">Gesundheitswesen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND022</Code>
+      <Name language="de">Tourismus/ Hotellerie/ Gastronomie</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND024</Code>
+      <Name language="de">Maschinen- und Anlagenbau</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND025</Code>
+      <Name language="de">Versicherungen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND027</Code>
+      <Name language="de">Sicherheitsunternehmen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND028</Code>
+      <Name language="de">Recht/ Steuern/ Wirtschaftsberatung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND034</Code>
+      <Name language="de">Other Great Industries</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND038</Code>
+      <Name language="de">Gebäudemanagement</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND039</Code>
+      <Name language="de">Einzelhandel und Versandhandel</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND044</Code>
+      <Name language="de">Logistik, Transport und Verkehr</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND045</Code>
+      <Name language="de">Papier und Pappe</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND046</Code>
+      <Name language="de">Land- und Forstwirtschaft</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND047</Code>
+      <Name language="de">Elektrotechnik und Elektronik</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND048</Code>
+      <Name language="de">Energie/ Wasser- und Umwelttechnik</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND052</Code>
+      <Name language="de">Großhandel</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND053</Code>
+      <Name language="de">Konsumgüterherstellung</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND056</Code>
+      <Name language="de">Sozialwesen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND064</Code>
+      <Name language="de">Fahrzeug-, Luft- und Raumfahrtechnik</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND067</Code>
+      <Name language="de">Finanzdienstleistungen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND068</Code>
+      <Name language="de">Pharma und Chemie</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND069</Code>
+      <Name language="de">Sport, Wellness und Fitness</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND072</Code>
+      <Name language="de">Verlagswesen und Druckerzeugnisse</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND073</Code>
+      <Name language="de">Optik, Medizin- und Steuerungstechnik</Name>
+    </IndustryCode>
+  </IndustryCodes>
+</ResponseIndustryCodes>

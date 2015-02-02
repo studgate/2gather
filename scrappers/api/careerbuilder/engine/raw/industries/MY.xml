@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseIndustryCodes>
+  <Errors />
+  <CountryCode>MY</CountryCode>
+  <TimeResponseSent>2/2/2015 12:11:46 PM</TimeResponseSent>
+  <IndustryCodes>
+    <IndustryCode>
+      <Code>IND001</Code>
+      <Name language="en-GB">Advertising / PR / Communications</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND002</Code>
+      <Name language="en-GB">Aerospace &amp; Aviation</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND003</Code>
+      <Name language="en-GB">Textiles / Garment</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND005</Code>
+      <Name language="en-GB">Architecture / Interior design</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND006</Code>
+      <Name language="en-GB">Automotive / Automobile / Vehicle</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND007</Code>
+      <Name language="en-GB">Banking / Finance / Investment</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND008</Code>
+      <Name language="en-GB">BioTechnology / Pharmaceutical</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND010</Code>
+      <Name language="en-GB">Building / Construction</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND012</Code>
+      <Name language="en-GB">Computer / Information Technology (Hardware)</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND013</Code>
+      <Name language="en-GB">Computer / Information Technology (Software)</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND014</Code>
+      <Name language="en-GB">Consulting</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND015</Code>
+      <Name language="en-GB">Education</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND016</Code>
+      <Name language="en-GB">Human Resources Management / Consulting</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND017</Code>
+      <Name language="en-GB">Utilities/ Waste Management</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND018</Code>
+      <Name language="en-GB">Media / Broadcasting / Publishing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND020</Code>
+      <Name language="en-GB">Government / Civil Service</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND021</Code>
+      <Name language="en-GB">Healthcare / Medical</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND024</Code>
+      <Name language="en-GB">Heavy Industrial / Machinery / Equipment</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND025</Code>
+      <Name language="en-GB">Insurance</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND028</Code>
+      <Name language="en-GB">Law / Legal</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND029</Code>
+      <Name language="en-GB">Manufacturing / Production</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND033</Code>
+      <Name language="en-GB">Oil &amp; Gas / Energy / Petroleum</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND036</Code>
+      <Name language="en-GB">Journalism / Publishing / Printing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND038</Code>
+      <Name language="en-GB">Property Development / Real Estate</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND039</Code>
+      <Name language="en-GB">FMCG / Retail</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND041</Code>
+      <Name language="en-GB">Semiconductor / Wafer Fabrication</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND042</Code>
+      <Name language="en-GB">Telecommunications</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND044</Code>
+      <Name language="en-GB">Transportation / Logistics</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND046</Code>
+      <Name language="en-GB">Agriculture / Aquaculture</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND047</Code>
+      <Name language="en-GB">Engineering - Electrical &amp; Electronics</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND048</Code>
+      <Name language="en-GB">Environment / Health / Safety</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND049</Code>
+      <Name language="en-GB">Food &amp; Beverage / Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND050</Code>
+      <Name language="en-GB">Hospitality / Hotel &amp; Resorts</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND051</Code>
+      <Name language="en-GB">Travel / Tourism</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND052</Code>
+      <Name language="en-GB">Trading / Wholesale</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND056</Code>
+      <Name language="en-GB">Voluntary / Non-profit / Welfare</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND057</Code>
+      <Name language="en-GB">Stockbroking / Securities</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND060</Code>
+      <Name language="en-GB">Security</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND067</Code>
+      <Name language="en-GB">Accounting / Professional services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND068</Code>
+      <Name language="en-GB">Chemical / Biochemical</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND069</Code>
+      <Name language="en-GB">Sports</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND074</Code>
+      <Name language="en-GB">Beauty / Health &amp; Fitness</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND075</Code>
+      <Name language="en-GB">BPO / SSO / Call center</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND076</Code>
+      <Name language="en-GB">Engineering - Machinery</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND077</Code>
+      <Name language="en-GB">Engineering - Precision</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND078</Code>
+      <Name language="en-GB">Engineering - Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND079</Code>
+      <Name language="en-GB">MICE / Events</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND080</Code>
+      <Name language="en-GB">Marine</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND081</Code>
+      <Name language="en-GB">Mining</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND082</Code>
+      <Name language="en-GB">Polymer / Plastic / Rubber</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND084</Code>
+      <Name language="en-GB">Research &amp; Development</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND085</Code>
+      <Name language="en-GB">Sciences / Life sciences</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND087</Code>
+      <Name language="en-GB">Wood &amp; Fibre</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND034</Code>
+      <Name language="en-GB">Other</Name>
+    </IndustryCode>
+  </IndustryCodes>
+</ResponseIndustryCodes>

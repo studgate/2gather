@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseIndustryCodes>
+  <Errors />
+  <CountryCode>PL</CountryCode>
+  <TimeResponseSent>2/2/2015 12:11:48 PM</TimeResponseSent>
+  <IndustryCodes>
+    <IndustryCode>
+      <Code>IND067</Code>
+      <Name language="pl">Księgowość - Finanse</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND001</Code>
+      <Name language="pl">Reklama</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND046</Code>
+      <Name language="pl">Rolnictwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND002</Code>
+      <Name language="pl">Linie lotnicze - Lotnictwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND103</Code>
+      <Name language="pl">Appliance &amp; Electronics</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND004</Code>
+      <Name language="pl">Architektura - Budownictwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND005</Code>
+      <Name language="pl">Sztuka - Fotografia - Dziennikarstwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND006</Code>
+      <Name language="pl">Branża motoryzacyjna - Pojazdy mechaniczne – Części samochodowe</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND007</Code>
+      <Name language="pl">Sektor bankowy – Usługi finansowe</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND074</Code>
+      <Name language="pl">Beauty / Wellness / Grooming</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND008</Code>
+      <Name language="pl">Biotechnologia</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND018</Code>
+      <Name language="pl">Radiofonia - Telewizja</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND009</Code>
+      <Name language="pl">Materiały budowlane</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND075</Code>
+      <Name language="pl">Call Center / SSO / BPO</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND068</Code>
+      <Name language="pl">Przemysł chemiczny</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND116</Code>
+      <Name language="pl">Coffee Shop</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND012</Code>
+      <Name language="pl">Sprzęt komputerowy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND013</Code>
+      <Name language="pl">Oprogramowanie komputerowe</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND010</Code>
+      <Name language="pl">Budownictwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND014</Code>
+      <Name language="pl">Konsulting - Doradztwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND053</Code>
+      <Name language="pl">Produkty konsumpcyjne</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND118</Code>
+      <Name language="pl">Cosmetics &amp; Beauty</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND059</Code>
+      <Name language="pl">Kredyty - Pożyczki – Windykacja długów</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND064</Code>
+      <Name language="pl">Obrona – Przemysł lotniczy i kosmiczny </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND111</Code>
+      <Name language="pl">Department Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND015</Code>
+      <Name language="pl">Edukacja - Nauczanie - Administracja</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND047</Code>
+      <Name language="pl">Przemysł elektroniczny</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND016</Code>
+      <Name language="pl">Zatrudnianie - Rekrutacja - Personel</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND017</Code>
+      <Name language="pl">Energia - Przedsiębiorstwa użyteczności publicznej - Gazownictwo - Energetyka</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND076</Code>
+      <Name language="pl">Engineering - Machinery</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND077</Code>
+      <Name language="pl">Engineering - Precision</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND078</Code>
+      <Name language="pl">Engineering - Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND054</Code>
+      <Name language="pl">Przemysł rozrywkowy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND048</Code>
+      <Name language="pl">Ochrona środowiska</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND069</Code>
+      <Name language="pl">Sport </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND079</Code>
+      <Name language="pl">Exhibitions / Event Management / MICE</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND107</Code>
+      <Name language="pl">Eye Care</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND003</Code>
+      <Name language="pl">Moda – Przemysł odzieżowy - Tekstylia</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND019</Code>
+      <Name language="pl">Przemysł spożywczy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND114</Code>
+      <Name language="pl">Full Service Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND066</Code>
+      <Name language="pl">Usługi pogrzebowe i cmentarne</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND102</Code>
+      <Name language="pl">Furniture</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND106</Code>
+      <Name language="pl">Gas / Convenience Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND020</Code>
+      <Name language="pl">Administracja rządowa – Służba cywilna</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND105</Code>
+      <Name language="pl">Grocery &amp; Pharmacy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND104</Code>
+      <Name language="pl">Hardware / Home Improvement</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND021</Code>
+      <Name language="pl">Ochrona zdrowia – Usługi w zakresie ochrony zdrowia</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND119</Code>
+      <Name language="pl">Home Décor and Kitchen</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND071</Code>
+      <Name language="pl">Budownictwo mieszkaniowe</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND022</Code>
+      <Name language="pl">Usługi hotelarskie</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND050</Code>
+      <Name language="pl">Hotele - Kurorty </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND023</Code>
+      <Name language="pl">HVAC - Inżynieria sanitarna </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND052</Code>
+      <Name language="pl">Import - Eksport</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND024</Code>
+      <Name language="pl">Branża przemysłowa</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND025</Code>
+      <Name language="pl">Ubezpieczenia</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND026</Code>
+      <Name language="pl">Internet - e-commerce - Handel elektroniczny </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND109</Code>
+      <Name language="pl">Jewelry</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND062</Code>
+      <Name language="pl">Architektura krajobrazu</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND027</Code>
+      <Name language="pl">Policja - Egzekwowanie prawa</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND028</Code>
+      <Name language="pl">Zawody prawnicze</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND058</Code>
+      <Name language="pl">Bibliotekarstwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND065</Code>
+      <Name language="pl">Zarządzanie ochroną zdrowia</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND029</Code>
+      <Name language="pl">Przemysł wytwórczy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND080</Code>
+      <Name language="pl">Marine / Maritime</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND090</Code>
+      <Name language="pl">Maritime - Offshore &amp; Marine Engineering</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND089</Code>
+      <Name language="pl">Maritime - Port</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND088</Code>
+      <Name language="pl">Maritime - Shipping</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND113</Code>
+      <Name language="pl">Mass Merchandiser</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND073</Code>
+      <Name language="pl">Sprzęt medyczny</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND030</Code>
+      <Name language="pl">Merchandising</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND070</Code>
+      <Name language="pl">Wojskowość - Przemysł zbrojeniowy </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND081</Code>
+      <Name language="pl">Mining / Drilling / Resources</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND031</Code>
+      <Name language="pl">Kredyty hipoteczne</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND072</Code>
+      <Name language="pl">Prasa</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND011</Code>
+      <Name language="pl">Organizacje non-profit - działalność charytatywna </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND032</Code>
+      <Name language="pl">Materiały biurowe - Sprzęt biurowy</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND033</Code>
+      <Name language="pl">Przemysł rafineryjny i petrochemiczny – Wiertnictwo </Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND000</Code>
+      <Name language="pl">Other</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND034</Code>
+      <Name language="pl">Inne gałęzie przemysłu ciężkiego</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND045</Code>
+      <Name language="pl">Pakowanie - Opakowania</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND112</Code>
+      <Name language="pl">Pet Store</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND035</Code>
+      <Name language="pl">Przemysł farmaceutyczny</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND082</Code>
+      <Name language="pl">Polymer / Plastic / Rubber</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND036</Code>
+      <Name language="pl">Przemysł wydawniczy i drukarski</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND037</Code>
+      <Name language="pl">Public Relations</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND115</Code>
+      <Name language="pl">Quick Service or Fast Food Restaurant</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND038</Code>
+      <Name language="pl">Handel nieruchomościami – Zarządzanie własnością</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND040</Code>
+      <Name language="pl">Rekreacja</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND083</Code>
+      <Name language="pl">Repair / Maintenance Services</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND084</Code>
+      <Name language="pl">Research &amp; Development</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND049</Code>
+      <Name language="pl">Restauracje</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND039</Code>
+      <Name language="pl">Handel detaliczny</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND117</Code>
+      <Name language="pl">Retail Bank</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND061</Code>
+      <Name language="pl">Sprzedaż - Marketing</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND085</Code>
+      <Name language="pl">Science &amp; Technology</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND057</Code>
+      <Name language="pl">Inwestycje giełdowe – Papiery wartościowe</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND060</Code>
+      <Name language="pl">Bezpieczeństwo</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND041</Code>
+      <Name language="pl">Produkcja półprzewodników</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND086</Code>
+      <Name language="pl">Services - Corporate B2B</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND056</Code>
+      <Name language="pl">Opieka społeczna – Służby socjalne</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND110</Code>
+      <Name language="pl">Sporting Goods</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND042</Code>
+      <Name language="pl">Telekomunikacja</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND043</Code>
+      <Name language="pl">Szkolenia</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND044</Code>
+      <Name language="pl">Transport</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND051</Code>
+      <Name language="pl">Podróż</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND055</Code>
+      <Name language="pl">Komunikacja bezprzewodowa</Name>
+    </IndustryCode>
+    <IndustryCode>
+      <Code>IND087</Code>
+      <Name language="pl">Wood / Fibre / Paper</Name>
+    </IndustryCode>
+  </IndustryCodes>
+</ResponseIndustryCodes>

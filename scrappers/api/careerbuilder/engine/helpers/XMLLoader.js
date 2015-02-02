@@ -60,30 +60,35 @@ function getAllFilesAsXml(rootPath, cb)
 
 function getFilesAtOnce(rootPath, cb)
 {  
-    //console.log("Walk through %s started.", rootPath);
+    console.log("Walk through %s started.", rootPath);
 
     walk(rootPath, function(err, results) {
       
-      //console.log("Found %d files in %s.", results.length, rootPath);
+      console.log("Found %d files in %s.", results.length, rootPath);
 
       if (err)
       {
-        cb(err, null)
+        cb(err, null, true)
       }
-            
+      var progressControl = Math.floor(results.length/30);      
       for (var i=0;i<results.length;i++)
       {        
+
+        if (i%progressControl==0)
+          console.log("Progress: %d/%d", i,results.length);
+
         var str = fs.readFileSync(results[i]).toString();
         try
         {     
           var xml = new xmldoc.XmlDocument(str);
-          cb(null, xml);
+          cb(null, xml, false);
         }
         catch(err)
         {
-          console.log("No valid XML to parse. Skipping." + err);
-        }         
-    }    
+          console.log("Error in file (%s) doesnt seem a valid XML.", results[i]);
+        }
+      }    
+      cb(null, null, true);
   });
 }
 
