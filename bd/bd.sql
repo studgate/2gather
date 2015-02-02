@@ -16,56 +16,26 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `tbl_company`
+-- Table structure for table `tbl_industry`
 --
 
-DROP TABLE IF EXISTS `tbl_company`;
+DROP TABLE IF EXISTS `tbl_industry`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `tbl_company` (
-  `ID` int(11) NOT NULL,
-  `Name` varchar(70) DEFAULT NULL,
-  `Url` varchar(150) DEFAULT NULL,
-  `Logo` varchar(45) DEFAULT NULL,
-  PRIMARY KEY (`ID`)
+CREATE TABLE `tbl_industry` (
+  `ID_industry` int(11) NOT NULL,
+  `name` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`ID_industry`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `tbl_company`
+-- Dumping data for table `tbl_industry`
 --
 
-LOCK TABLES `tbl_company` WRITE;
-/*!40000 ALTER TABLE `tbl_company` DISABLE KEYS */;
-/*!40000 ALTER TABLE `tbl_company` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
--- Table structure for table `tbl_company_location`
---
-
-DROP TABLE IF EXISTS `tbl_company_location`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `tbl_company_location` (
-  `ID_company` int(11) NOT NULL,
-  `ID_location` int(11) NOT NULL,
-  `Latitude` float DEFAULT NULL,
-  `Longitude` float DEFAULT NULL,
-  PRIMARY KEY (`ID_company`,`ID_location`),
-  KEY `fk_tbl_company_location_2_idx` (`ID_location`),
-  CONSTRAINT `fk_tbl_company_location_1` FOREIGN KEY (`ID_company`) REFERENCES `tbl_company` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
-  CONSTRAINT `fk_tbl_company_location_2` FOREIGN KEY (`ID_location`) REFERENCES `tbl_locations` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `tbl_company_location`
---
-
-LOCK TABLES `tbl_company_location` WRITE;
-/*!40000 ALTER TABLE `tbl_company_location` DISABLE KEYS */;
-/*!40000 ALTER TABLE `tbl_company_location` ENABLE KEYS */;
+LOCK TABLES `tbl_industry` WRITE;
+/*!40000 ALTER TABLE `tbl_industry` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_industry` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -80,11 +50,13 @@ CREATE TABLE `tbl_job` (
   `Title` varchar(50) DEFAULT NULL,
   `Description` varchar(150) DEFAULT NULL,
   `Type` enum('Permanent','Part-Time','Full-Time') DEFAULT NULL,
-  `ID_Company` int(11) DEFAULT NULL,
+  `Experience` varchar(45) DEFAULT NULL,
+  `BeginDate` date DEFAULT NULL,
+  `EndDate` date DEFAULT NULL,
+  `TravelRequired` enum('TRUE','FALSE') DEFAULT NULL,
+  `RelocationCovered` enum('TRUE','FALSE') DEFAULT NULL,
   `Posted_date` date DEFAULT NULL,
-  PRIMARY KEY (`ID`),
-  KEY `fk_tbl_job_1_idx` (`ID_Company`),
-  CONSTRAINT `fk_tbl_job_1` FOREIGN KEY (`ID_Company`) REFERENCES `tbl_company` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+  PRIMARY KEY (`ID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -95,6 +67,62 @@ CREATE TABLE `tbl_job` (
 LOCK TABLES `tbl_job` WRITE;
 /*!40000 ALTER TABLE `tbl_job` DISABLE KEYS */;
 /*!40000 ALTER TABLE `tbl_job` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tbl_job_industry`
+--
+
+DROP TABLE IF EXISTS `tbl_job_industry`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_job_industry` (
+  `ID_job` int(11) NOT NULL,
+  `ID_industry` int(11) NOT NULL,
+  PRIMARY KEY (`ID_job`,`ID_industry`),
+  KEY `fk_tbl_job_industry_2_idx` (`ID_industry`),
+  CONSTRAINT `fk_tbl_job_industry_1` FOREIGN KEY (`ID_job`) REFERENCES `tbl_job` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_tbl_job_industry_2` FOREIGN KEY (`ID_industry`) REFERENCES `tbl_industry` (`ID_industry`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_job_industry`
+--
+
+LOCK TABLES `tbl_job_industry` WRITE;
+/*!40000 ALTER TABLE `tbl_job_industry` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_job_industry` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tbl_job_location`
+--
+
+DROP TABLE IF EXISTS `tbl_job_location`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_job_location` (
+  `ID_job` int(11) NOT NULL,
+  `ID_location` int(11) NOT NULL,
+  `Street` varchar(60) DEFAULT NULL,
+  `PostalCode` varchar(20) DEFAULT NULL,
+  `Latitude` float DEFAULT NULL,
+  `Longitude` float DEFAULT NULL,
+  PRIMARY KEY (`ID_job`,`ID_location`),
+  KEY `fk_tbl_job_location_2` (`ID_location`),
+  CONSTRAINT `fk_tbl_job_location_1` FOREIGN KEY (`ID_job`) REFERENCES `tbl_job` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_tbl_job_location_2` FOREIGN KEY (`ID_location`) REFERENCES `tbl_locations` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_job_location`
+--
+
+LOCK TABLES `tbl_job_location` WRITE;
+/*!40000 ALTER TABLE `tbl_job_location` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_job_location` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -121,6 +149,58 @@ CREATE TABLE `tbl_job_payment` (
 LOCK TABLES `tbl_job_payment` WRITE;
 /*!40000 ALTER TABLE `tbl_job_payment` DISABLE KEYS */;
 /*!40000 ALTER TABLE `tbl_job_payment` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tbl_job_recruiter`
+--
+
+DROP TABLE IF EXISTS `tbl_job_recruiter`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_job_recruiter` (
+  `ID_job` int(11) NOT NULL,
+  `ID_recruiter` int(11) NOT NULL,
+  PRIMARY KEY (`ID_job`,`ID_recruiter`),
+  KEY `fk_tbl_job_recruiter_2_idx` (`ID_recruiter`),
+  CONSTRAINT `fk_tbl_job_recruiter_1` FOREIGN KEY (`ID_job`) REFERENCES `tbl_job` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_tbl_job_recruiter_2` FOREIGN KEY (`ID_recruiter`) REFERENCES `tbl_recruiter` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_job_recruiter`
+--
+
+LOCK TABLES `tbl_job_recruiter` WRITE;
+/*!40000 ALTER TABLE `tbl_job_recruiter` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_job_recruiter` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tbl_job_req`
+--
+
+DROP TABLE IF EXISTS `tbl_job_req`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_job_req` (
+  `ID_job` int(11) NOT NULL,
+  `ID_req` int(11) NOT NULL,
+  PRIMARY KEY (`ID_job`,`ID_req`),
+  KEY `fk_tbl_job_req_2_idx` (`ID_req`),
+  CONSTRAINT `fk_tbl_job_req_1` FOREIGN KEY (`ID_job`) REFERENCES `tbl_job` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `fk_tbl_job_req_2` FOREIGN KEY (`ID_req`) REFERENCES `tbl_requirements` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_job_req`
+--
+
+LOCK TABLES `tbl_job_req` WRITE;
+/*!40000 ALTER TABLE `tbl_job_req` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_job_req` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -185,7 +265,7 @@ CREATE TABLE `tbl_payment` (
   `ID` int(11) NOT NULL,
   `Min_Amount` int(11) DEFAULT NULL,
   `Max_Amount` int(11) DEFAULT NULL,
-  `Type` enum('Hour','Day','Month','Year') DEFAULT NULL,
+  `Type` enum('Hour','Day','Week','Month','Year') DEFAULT NULL,
   `Exchange` varchar(5) DEFAULT NULL,
   PRIMARY KEY (`ID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -198,6 +278,54 @@ CREATE TABLE `tbl_payment` (
 LOCK TABLES `tbl_payment` WRITE;
 /*!40000 ALTER TABLE `tbl_payment` DISABLE KEYS */;
 /*!40000 ALTER TABLE `tbl_payment` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tbl_recruiter`
+--
+
+DROP TABLE IF EXISTS `tbl_recruiter`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_recruiter` (
+  `ID` int(11) NOT NULL,
+  `Name` varchar(70) DEFAULT NULL,
+  `PageUrl` varchar(150) DEFAULT NULL,
+  `LogoUrl` varchar(150) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_recruiter`
+--
+
+LOCK TABLES `tbl_recruiter` WRITE;
+/*!40000 ALTER TABLE `tbl_recruiter` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_recruiter` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `tbl_requirements`
+--
+
+DROP TABLE IF EXISTS `tbl_requirements`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_requirements` (
+  `ID` int(11) NOT NULL,
+  `Description` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_requirements`
+--
+
+LOCK TABLES `tbl_requirements` WRITE;
+/*!40000 ALTER TABLE `tbl_requirements` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_requirements` ENABLE KEYS */;
 UNLOCK TABLES;
 
 --
@@ -232,4 +360,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2015-02-01 22:11:34
+-- Dump completed on 2015-02-02 22:41:16
