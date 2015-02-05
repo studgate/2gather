@@ -1,8 +1,10 @@
--- MySQL dump 10.13  Distrib 5.6.19, for linux-glibc2.5 (x86_64)
+CREATE DATABASE  IF NOT EXISTS `carrers` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `carrers`;
+-- MySQL dump 10.13  Distrib 5.5.37, for debian-linux-gnu (x86_64)
 --
 -- Host: localhost    Database: carrers
 -- ------------------------------------------------------
--- Server version	5.5.41-0ubuntu0.14.04.1
+-- Server version	5.5.37-0ubuntu0.13.10.1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -14,29 +16,6 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
---
--- Table structure for table `tbl_industry`
---
-
-DROP TABLE IF EXISTS `tbl_industry`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `tbl_industry` (
-  `ID_industry` int(11) NOT NULL,
-  `name` varchar(45) DEFAULT NULL,
-  PRIMARY KEY (`ID_industry`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `tbl_industry`
---
-
-LOCK TABLES `tbl_industry` WRITE;
-/*!40000 ALTER TABLE `tbl_industry` DISABLE KEYS */;
-/*!40000 ALTER TABLE `tbl_industry` ENABLE KEYS */;
-UNLOCK TABLES;
 
 --
 -- Table structure for table `tbl_job`
@@ -70,32 +49,6 @@ LOCK TABLES `tbl_job` WRITE;
 UNLOCK TABLES;
 
 --
--- Table structure for table `tbl_job_industry`
---
-
-DROP TABLE IF EXISTS `tbl_job_industry`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `tbl_job_industry` (
-  `ID_job` int(11) NOT NULL,
-  `ID_industry` int(11) NOT NULL,
-  PRIMARY KEY (`ID_job`,`ID_industry`),
-  KEY `fk_tbl_job_industry_2_idx` (`ID_industry`),
-  CONSTRAINT `fk_tbl_job_industry_1` FOREIGN KEY (`ID_job`) REFERENCES `tbl_job` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
-  CONSTRAINT `fk_tbl_job_industry_2` FOREIGN KEY (`ID_industry`) REFERENCES `tbl_industry` (`ID_industry`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
---
--- Dumping data for table `tbl_job_industry`
---
-
-LOCK TABLES `tbl_job_industry` WRITE;
-/*!40000 ALTER TABLE `tbl_job_industry` DISABLE KEYS */;
-/*!40000 ALTER TABLE `tbl_job_industry` ENABLE KEYS */;
-UNLOCK TABLES;
-
---
 -- Table structure for table `tbl_job_location`
 --
 
@@ -110,7 +63,7 @@ CREATE TABLE `tbl_job_location` (
   `Latitude` float DEFAULT NULL,
   `Longitude` float DEFAULT NULL,
   PRIMARY KEY (`ID_job`,`ID_location`),
-  KEY `fk_tbl_job_location_2` (`ID_location`),
+  KEY `fk_tbl_job_location_2_idx` (`ID_location`),
   CONSTRAINT `fk_tbl_job_location_1` FOREIGN KEY (`ID_job`) REFERENCES `tbl_job` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `fk_tbl_job_location_2` FOREIGN KEY (`ID_location`) REFERENCES `tbl_locations` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -360,4 +313,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2015-02-02 22:41:16
+-- Dump completed on 2015-02-05  9:55:51
