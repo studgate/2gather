@@ -18,6 +18,29 @@ USE `carrers`;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Table structure for table `tbl_industries`
+--
+
+DROP TABLE IF EXISTS `tbl_industries`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `tbl_industries` (
+  `ID` bigint(20) NOT NULL,
+  `Name` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `tbl_industries`
+--
+
+LOCK TABLES `tbl_industries` WRITE;
+/*!40000 ALTER TABLE `tbl_industries` DISABLE KEYS */;
+/*!40000 ALTER TABLE `tbl_industries` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `tbl_job`
 --
 
@@ -36,8 +59,11 @@ CREATE TABLE `tbl_job` (
   `RelocationCovered` enum('TRUE','FALSE') DEFAULT NULL,
   `Posted_date` date DEFAULT NULL,
   `ID_recruiter` bigint(20) NOT NULL,
+  `ID_industry` bigint(20) NOT NULL,
   PRIMARY KEY (`ID`),
   KEY `fk_tbl_job_1_idx` (`ID_recruiter`),
+  KEY `fk_tbl_job_2_idx` (`ID_industry`),
+  CONSTRAINT `fk_tbl_job_2` FOREIGN KEY (`ID_industry`) REFERENCES `tbl_industries` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `fk_tbl_job_1` FOREIGN KEY (`ID_recruiter`) REFERENCES `tbl_recruiter` (`ID`) ON DELETE NO ACTION ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -290,4 +316,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2015-02-05 11:09:34
+-- Dump completed on 2015-02-05 16:14:57
