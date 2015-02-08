@@ -1,0 +1,17 @@
+{
+    "BeginDate": {
+        "tbl": "tbl_job",
+        "name" : "BeginDate"
+    },
+    "Categories":{},
+    "CategoriesCodes" : {},
+    "Company" : {},
+    "CompanyDID" : {},
+    "CompanyImageURL" : {},
+    "DID" : {},
+    "EmploymentType" : {},
+    "EndDate" : {},
+    "ExperienceRequired" : {},
+    "JobDescription" : {},
+    
+}
