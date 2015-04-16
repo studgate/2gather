@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResponseJob>
+    <Errors />
+    <TimeResponseSent>2/1/2015 3:38:31 PM</TimeResponseSent>
+    <TimeElapsed>0.0312014</TimeElapsed>
+    <Job>
+        <ApplyURL>http://api.careerbuilder.com/v1/application/applylink?JobDID=J3G2M764M08P0CGHJY1&amp;TrackingID=2H5QWG6F&amp;HostSite=US</ApplyURL>
+        <BeginDate>2/1/2015</BeginDate>
+        <CustomApplyType>CANONE</CustomApplyType>
+        <Categories>Design,  Information Technology</Categories>
+        <CategoriesCodes>JN021,JN008</CategoriesCodes>
+        <IndustryCodes>IND034</IndustryCodes>
+        <Company>Smith &amp; Keller</Company>
+        <CompanyDetailsURL>http://www.careerbuilder.com/jobs/company/chm71v6plkqrr62l1x6/smith-keller</CompanyDetailsURL>
+        <CompanyDID>CHM71V6PLKQRR62L1X6</CompanyDID>
+        <CompanyJobSearchURL>http://www.careerbuilder.com/jobs/company/chm71v6plkqrr62l1x6/smith-keller-jobs</CompanyJobSearchURL>
+        <CompanyImageURL />
+        <ContactInfoEmailURL>http://www.careerbuilder.com/jobseeker/applyonline/applystart.aspx?Job_DID=J3G2M764M08P0CGHJY1</ContactInfoEmailURL>
+        <ContactInfoFax></ContactInfoFax>
+        <ContactInfoName></ContactInfoName>
+        <ContactInfoPhone></ContactInfoPhone>
+        <DegreeRequired>4 Year Degree</DegreeRequired>
+        <DegreeRequiredCode>DR32</DegreeRequiredCode>
+        <DID>J3G2M764M08P0CGHJY1</DID>
+        <DisplayJobID>11906</DisplayJobID>
+        <Division></Division>
+        <EmploymentType>Full-Time</EmploymentType>
+        <EmploymentTypeCode>JTFT</EmploymentTypeCode>
+        <EndDate>2/28/2015</EndDate>
+        <ExperienceRequired>At least 2 year(s)</ExperienceRequired>
+        <ExperienceRequiredCode></ExperienceRequiredCode>
+        <JobDescription>&amp;lt;p&amp;gt;The right Python Developer will thrive in a fast-paced, collaborative work environment where he or she is involved from a project’s conception to its release. The position will require elements of both front and back-end development, as well as database design. Experience with Django and complex back-end data and content management systems is a plus. Candidate should have examples of solutions/applications they have developed in the past.&amp;#160;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Primary Responsibilities for Python Developer&amp;#160;Include:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Assist in planning and developing feature-rich web applications including e-commerce and web-services applications&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Build advanced user-interfaces using JavaScript (jQuery)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Write code in Python / HTML / CSS / Ajax&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Implement new features and optimize existing features from the controller level to UI level&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Design database structures and draft MySQL queries?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Communicate and interface with clients, prospects and partners?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Work closely with, and incorporate feedback from resident graphic designers and web producers on a daily basis?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Rapidly implement features, fix bugs and solve production problems&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Requirements for Python Developer:&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;2+ years minimum experience with Python&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Deep experience with Django framework&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Experience in an agile development environment&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Strong English written and verbal skills&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ability to work in a fast-paced and changing environment&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;5+ years of experience creating dynamic, database driven websites&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Adept at everything from JS to CSS to interactive back-ends that store information in relational databases&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Experience implementing and consuming various APIs&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Bachelor’s Degree in Computer Science or related field preferred&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(Optional) HTML5/CSS3&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(Optional) Git&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(Optional) XML&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(Optional) Responsive Web Design&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(Optional) CAKE &amp;amp; Bootstrap&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(Optional) SASS&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;</JobDescription>
+        <JobRequirements>&amp;amp;nbsp;</JobRequirements>
+        <JobTitle>Python Developer (work on the dark web)</JobTitle>
+        <LocationStreet1></LocationStreet1>
+        <LocationStreet2></LocationStreet2>
+        <LocationCity>Washington</LocationCity>
+        <LocationCountry>US</LocationCountry>
+        <LocationFormatted>US-DC-Washington</LocationFormatted>
+        <LocationLatitude>38.8904</LocationLatitude>
+        <LocationLongitude>-77.0320</LocationLongitude>
+        <LocationMetroCity></LocationMetroCity>
+        <LocationPostalCode></LocationPostalCode>
+        <LocationState>DC</LocationState>
+        <ManagesOthers>False</ManagesOthers>
+        <ManagesOthersCode>MG003</ManagesOthersCode>
+        <ModifiedDate>2/1/2015</ModifiedDate>
+        <ONetCode />
+        <PayHigh>
+            <Money>
+                <Amount>140000.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$140,000.00</FormattedAmount>
+            </Money>
+        </PayHigh>
+        <PayLow>
+            <Money>
+                <Amount>70000.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$70,000.00</FormattedAmount>
+            </Money>
+        </PayLow>
+        <PayPer>Year</PayPer>
+        <PayHighLowFormatted>$70,000.00 - $140,000.00 /Year</PayHighLowFormatted>
+        <PayCommission>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$0.00</FormattedAmount>
+            </Money>
+        </PayCommission>
+        <PayBonus>
+            <Money>
+                <Amount>0.00</Amount>
+                <CurrencyCode>USD</CurrencyCode>
+                <FormattedAmount>$0.00</FormattedAmount>
+            </Money>
+        </PayBonus>
+        <PayOther></PayOther>
+        <PrinterFriendlyURL>http://api.careerbuilder.com/v1/joblink?TrackingID=2H5QWG6F&amp;HostSite=US&amp;pf=true&amp;DID=J3G2M764M08P0CGHJY1</PrinterFriendlyURL>
+        <RelocationCovered>False</RelocationCovered>
+        <TravelRequired>Not Specified</TravelRequired>
+        <TravelRequiredCode>RTNS</TravelRequiredCode>
+        <HasQuestionnaire>False</HasQuestionnaire>
+    </Job>
+</ResponseJob>
